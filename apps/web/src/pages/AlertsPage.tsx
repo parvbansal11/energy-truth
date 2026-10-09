@@ -26,15 +26,15 @@ export function AlertsPage() {
   return (
     <PageShell title="Alerts Inbox" kicker="|z| > 2 · band breach · low coverage · grid spike"
       actions={<Button variant="outline" onClick={run} disabled={busy}><RefreshCw size={14} className={busy ? "animate-spin" : ""} /> Re-evaluate now</Button>}>
-      {info && <div className="rounded-[3px] bg-surface-2 px-3 py-2 text-[12.5px] text-ink-2">{info}</div>}
-      {!rows ? <div className="skeleton h-40 rounded-[3px]" /> : rows.length === 0 ? <Empty>No alerts.</Empty> : (
+      {info && <div className="rounded-xl bg-surface-2 px-3 py-2 text-[12.5px] text-ink-2">{info}</div>}
+      {!rows ? <div className="skeleton h-40 rounded-xl" /> : rows.length === 0 ? <Empty>No alerts.</Empty> : (
         <div className="space-y-2">
           {rows.sort((a, b) => (a.severity === "high" ? -1 : 1) - (b.severity === "high" ? -1 : 1)).map((a) => (
-            <article key={a.alert_id} className="flex flex-wrap items-start gap-3 rounded-[3px] border border-line bg-surface p-4">
-              <span className={cx("grid h-9 w-9 place-items-center rounded-[3px] ring-1", SEV[a.severity])}><BellRing size={16} /></span>
+            <article key={a.alert_id} className="flex flex-wrap items-start gap-3 rounded-xl border border-line bg-surface p-4">
+              <span className={cx("grid h-9 w-9 place-items-center rounded-xl ring-1", SEV[a.severity])}><BellRing size={16} /></span>
               <div className="min-w-0 flex-1">
                 <div className="flex flex-wrap items-center gap-2">
-                  <span className={cx("rounded-[2px] px-1.5 py-0.5 text-[10.5px] font-semibold uppercase ring-1", SEV[a.severity])}>{a.severity}</span>
+                  <span className={cx("rounded-lg px-1.5 py-0.5 text-[10.5px] font-semibold ring-1", SEV[a.severity])}>{a.severity}</span>
                   <span className="text-[11px] font-medium text-muted">{TYPE[a.type] || a.type}</span>
                 </div>
                 <h3 className="mt-1 text-[14px] font-semibold">{a.title}</h3>

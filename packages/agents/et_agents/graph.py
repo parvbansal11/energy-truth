@@ -93,8 +93,8 @@ def resolver(state: AuditState) -> dict:
         else:
             _emit("hitl", n, items=queue, threshold=settings.hitl_threshold, label=f"{len(queue)} entity match(es) below {settings.hitl_threshold}")
             decision = interrupt({"type": "entity_review", "items": queue, "threshold": settings.hitl_threshold})
-    _emit("node", n, status="end", summary=f"{c['short']}: {len([a for a in assets if a['ct']])} CT-linked assets, {c['coverage']['gem_assets']} GEM units"
-          + (f"; HITL {decision['decision']} {len(queue)} match(es)" if queue else ""))
+    _emit("node", n, status="end", summary=f"{c['short']}: {len([a for a in assets if a['ct']])} plants in public data, {c['coverage']['gem_assets']} units in ownership records"
+          + (f"; you chose to {'include' if decision.get('decision') == 'accept' else 'leave out'} {len(queue)} uncertain match(es)" if queue else ""))
     return {"company_id": c["symbol"], "company": c, "scorecard": sc, "assets": assets, "evidence": ev, "hitl_queue": queue,
             "hitl_decision": decision or {}, "messages": [f"Resolved {c['name']}"]}
 
@@ -122,7 +122,7 @@ def disclosure_extractor(state: AuditState) -> dict:
     rep = sc["scopes"]["S1"].get("reported")
     if rep:
         _emit("tool", n, tool="unit_normaliser", input={"raw": f"{rep['raw']} {rep['raw_unit']}"}, output=f"{rep['value_t']:,.0f} tCO2e (p.{rep['page']}, {rep['boundary']})")
-    _emit("node", n, status="end", summary=f"{len(docs)} filing(s); Scope 1 {sc['fy']} = {rep['value_t'] / 1e6:,.1f} Mt (p.{rep['page']})" if rep else f"{len(docs)} filing(s)")
+    _emit("node", n, status="end", summary=f"Read {len(docs)} filing(s). Reported Scope 1 for {sc['fy']}: {rep['value_t'] / 1e6:,.1f} Mt (page {rep['page']})" if rep else f"Read {len(docs)} filing(s)")
     return {"disclosures": docs, "evidence": _evidence(ids), "messages": ["BRSR read"]}
 
 
@@ -153,7 +153,7 @@ def asset_estimator(state: AuditState) -> dict:
     evids = sorted({e for a in cas for e in a["evidence_ids"]})
     _emit("tool", n, tool="coverage_rho", output=f"ρ = {c['coverage']['ct_linked_assets']}/{c['coverage']['gem_assets']} = {c['coverage']['rho']:.2f}; ρ_eff = {c['coverage']['rho_effective']:.2f}")
     _emit("map", n, action="highlight", asset_ids=top, fit=True)
-    _emit("node", n, status="end", summary=f"S1 independent {sc['fy']}: {ind['value_t'] / 1e6:,.1f} ± {ind['sigma_t'] / 1e6:,.1f} Mt" + (" · LOW COVERAGE" if "LOW_COVERAGE" in ind["flags"] else ""))
+    _emit("node", n, status="end", summary=f"Rebuilt Scope 1: {ind['value_t'] / 1e6:,.1f} ± {ind['sigma_t'] / 1e6:,.1f} Mt" + (" (some owned plants missing)" if "LOW_COVERAGE" in ind["flags"] else ""))
     return {"estimates": {"S1": {"independent": {**ind, "evidence_ids": evids, "n_assets": len(rows)}, "flags": ind["flags"]}}, "evidence": _evidence(evids), "messages": ["S1 rebuilt"]}
 
 
@@ -172,7 +172,7 @@ def grid_scope2(state: AuditState) -> dict:
         return {"estimates": {"S2": {"independent": None, "reported": None}}, "messages": ["S2 skipped"]}
     _pace()
     _emit("tool", n, tool="cea_grid_factor", input={"version": ind["ef_version"]}, output=f"{ind['mwh']:,.0f} MWh × {ind['ef']} = {ind['value_t']:,.0f} tCO2")
-    _emit("node", n, status="end", summary=f"S2 independent {ind['value_t'] / 1e6:,.3f} Mt ({', '.join(s2.get('flags', [])) or 'no flags'})")
+    _emit("node", n, status="end", summary=f"Rebuilt Scope 2: {ind['value_t'] / 1e6:,.3f} Mt from the company's electricity use")
     return {"estimates": {"S2": {"independent": ind, "reported": s2.get("reported"), "flags": s2.get("flags", [])}}, "evidence": _evidence(ind["evidence_ids"]), "messages": ["S2 rebuilt"]}
 
 
@@ -199,7 +199,7 @@ def satellite_verifier(state: AuditState) -> dict:
         else:
             ev = {}
             _emit("tool", n, tool="sentinel2_stac", output=f"no low-cloud scene in 90 days ({ctx.get('sentinel2_error', 'none found')})")
-    _emit("node", n, status="end", summary=f"{len(ids)} GIBS layers + {len(out)} Sentinel-2 scene(s) · context only, not CO₂ measurements")
+    _emit("node", n, status="end", summary=f"{len(ids)} satellite layers and {len(out)} recent Sentinel-2 image(s), for context")
     return {"satellite": out, "evidence": {**_evidence(ids), **(ev if top else {})}, "messages": ["satellite context"]}
 
 
@@ -221,7 +221,7 @@ def chronos_forecaster(state: AuditState) -> dict:
         ids.append(band["reported_evidence_id"])
         if band["breach"]:
             _emit("map", n, action="highlight", asset_ids=[x["asset_id"] for x in band["contributors"]], tone="alert")
-    _emit("node", n, status="end", summary=(f"FORECAST_BAND_BREACH ({band['fy']})" if band and band["breach"] else "forecast band computed"))
+    _emit("node", n, status="end", summary=(f"The {band['fy']} filing falls outside the forecast range" if band and band["breach"] else "Forecast range ready"))
     return {"forecast": f, "evidence": _evidence(ids), "messages": ["forecast"]}
 
 
@@ -252,7 +252,7 @@ def fusion_uncertainty(state: AuditState) -> dict:
         z2 = discrepancy_z(i2["value_t"], i2["sigma_t"], r2["value_t"], r2["sigma_t"])
         out["S2"] = {**s2, "fused": {"value_t": m2, "sigma_t": sd2}, "z": z2, "gap_pct": (i2["value_t"] - r2["value_t"]) / r2["value_t"] * 100, "verdict": verdict(z2, False)}
         _emit("tool", n, tool="inverse_variance", input={"scope": "S2"}, output=f"z = {z2:+.2f}")
-    _emit("node", n, status="end", summary=f"S1 verdict: {out['S1']['verdict']['label']}" + (f" (z = {out['S1']['z']:+.2f})" if out["S1"].get("z") is not None else ""))
+    _emit("node", n, status="end", summary=f"Verdict: {out['S1']['verdict']['label']}" + (f" (z {out['S1']['z']:+.2f})" if out["S1"].get("z") is not None else ""))
     return {"estimates": out, "messages": ["fused"]}
 
 
@@ -263,7 +263,7 @@ def auditor_explainer(state: AuditState) -> dict:
     _emit("tool", n, tool="narrator", input={"engine": r["engine"], "allowed_evidence": len(state.get("evidence", {}))},
           output=f"{len(r['claims'])} cited claims · {len(r['dropped_sentences'])} sentence(s) dropped by citation lock")
     _emit("narrative", n, text=r["narrative"], engine=r["engine"], claims=r["claims"])
-    _emit("node", n, status="end", summary="Narrative cites only evidence collected in this run")
+    _emit("node", n, status="end", summary="Note written; every sentence links to a source")
     return {"narrative": r, "messages": ["narrative"]}
 
 
@@ -273,7 +273,7 @@ def report_generator(state: AuditState) -> dict:
     path = report.build(state)
     url = f"/reports/{path.name}"
     _emit("tool", n, tool="pdf_render", output=f"{path.name} ({path.stat().st_size / 1024:.0f} KB)" + (" → S3" if settings.s3_reports_bucket else ""))
-    _emit("node", n, status="end", summary="Audit PDF ready", url=url)
+    _emit("node", n, status="end", summary="PDF ready to download", url=url)
     return {"report_url": url}
 
 

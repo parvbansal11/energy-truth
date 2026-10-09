@@ -40,9 +40,9 @@ def facts_from_state(state: dict) -> list[dict]:
     if s1.get("z") is not None:
         f.append({"key": "s1_z", "text": f"gap {s1['gap_pct']:+.1f}%, z = {s1['z']:.2f}: {s1['verdict']['label']}", "cite": rep1["evidence_ids"][0] if rep1 else None})
     if cov:
-        f.append({"key": "coverage", "text": f"coverage {cov['operating_emitting_matched']} of {cov['operating_emitting_locations']} in-boundary emitters (rho_eff {cov['rho_effective']:.2f})", "cite": (cov.get("evidence_ids") or [None])[0]})
+        f.append({"key": "coverage", "text": f"we can see {cov['operating_emitting_matched']} of its {cov['operating_emitting_locations']} emitting plants", "cite": (cov.get("evidence_ids") or [None])[0]})
         if cov.get("unmatched_emitting"):
-            f.append({"key": "missing", "text": "missing: " + ", ".join(cov["unmatched_emitting"][:3]), "cite": (cov.get("evidence_ids") or [None])[0]})
+            f.append({"key": "missing", "text": "not in the public data: " + ", ".join(cov["unmatched_emitting"][:3]), "cite": (cov.get("evidence_ids") or [None])[0]})
     if s2.get("independent") and s2.get("reported"):
         f.append({"key": "s2", "text": f"Scope 2 rebuilt {qty(s2['independent']['value_t'])} vs {qty(s2['reported']['value_t'])} reported", "cite": s2["independent"]["evidence_ids"][1]})
     band = (state.get("forecast") or {}).get("band")

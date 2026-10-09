@@ -40,3 +40,10 @@
 - Landing hero = the Singrauli coalfield (NTPC Vindhyachal, Singrauli, Rihand), with the real CT 2024 figures pinned on the plants.
 - Sign-in: Cognito SRP when `VITE_COGNITO_*` is set; the SDK is lazy-loaded. Otherwise an explicitly labelled demo session (sessionStorage). The email/password form is disabled with a note when no pool is configured.
 - Copy: em dashes removed from every UI and API string (verdict label is now "Inconclusive: low coverage"); auditor note shortened to seven cited lines; long explanations moved into tooltips and disclosures.
+
+## Friendly redesign (2026-10-10, second user request)
+- The dark "analyst console" read as military. Replaced with a warm, editorial light theme inspired by (not copied from) harvey.ai: paper background, Newsreader serif for headings, Geist for UI, sentence-case labels instead of mono uppercase, soft rounded cards, pill buttons, toggle switches instead of tile grids, natural-colour imagery instead of sepia.
+- Landing: serif hero, the live 3D terrain shown inside a rounded "product window" with real data cards floating on it, sources strip, three-step explainer, sign-in as a modal (Cognito when configured, else labelled demo access).
+- Guided tour (`components/Tour.tsx`): 13 steps with a smooth spotlight that glides between elements and a card with progress, Back/Next and Esc/arrow keys. Opens automatically on first visit or after "Start the guided demo"; replay from the Tour button. Steps act for the user where useful (select NTPC, fly into Vindhyachal, return).
+- Agent copy rewritten in plain language ("Quick check needed… Should we count it?", step summaries without internal codes); auditor note uses "we can see 39 of its 40 emitting plants" instead of rho_eff.
+- Fix: deck.gl's MapboxOverlay throws every frame under MapLibre 6 terrain; the overlay is detached in 3D focus and re-attached after terrain is switched off (order matters, otherwise React crashes).

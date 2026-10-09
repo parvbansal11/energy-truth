@@ -26,7 +26,7 @@ export function WhatIf({ company }: { company?: string }) {
             className={cx("rounded-full px-3 py-1 text-[12.5px] font-medium disabled:opacity-35", sym === c.symbol ? "bg-ink text-bg" : "border border-line-2 text-ink-2")}>{c.short}</button>
         ))}
       </div>
-      {r && !r.available ? <Empty>{r.reason}</Empty> : !r ? <div className="skeleton h-60 rounded-[3px]" /> : (
+      {r && !r.available ? <Empty>{r.reason}</Empty> : !r ? <div className="skeleton h-60 rounded-xl" /> : (
         <>
           <div className="grid gap-4 lg:grid-cols-[340px_1fr]">
             <Panel title="Levers">
@@ -43,7 +43,7 @@ export function WhatIf({ company }: { company?: string }) {
               <div className="mt-4 text-[13px]">
                 <div className="mb-1">Grid region</div>
                 <div className="flex flex-wrap gap-1">{[null, "India", "NR", "WR", "SR", "ER"].map((k) => (
-                  <button key={String(k)} onClick={() => setRegion(k)} className={cx("rounded-md px-2 py-1 text-[12px]", region === k ? "bg-accent text-accent-ink" : "bg-surface-2 text-ink-2")}>{k ?? `auto (${r.region})`}</button>))}
+                  <button key={String(k)} onClick={() => setRegion(k)} className={cx("rounded-lg px-2 py-1 text-[12px]", region === k ? "bg-accent text-accent-ink" : "bg-surface-2 text-ink-2")}>{k ?? `auto (${r.region})`}</button>))}
                 </div>
               </div>
             </Panel>

@@ -22,7 +22,7 @@ export function GridDesk() {
     const s = g.series[region] || [];
     return g.months.map((m, i) => ({ month: m, value: s[i] as number })).filter((d) => d.value != null).slice(-span);
   }, [g, region, span]);
-  if (!g) return <PageShell title="Grid Intensity Desk" kicker="Scope 2 engine"><div className="skeleton h-72 rounded-[3px]" /></PageShell>;
+  if (!g) return <PageShell title="Grid Intensity Desk" kicker="Scope 2 engine"><div className="skeleton h-72 rounded-xl" /></PageShell>;
   const f = g.forecasts[region];
   const latest = hist[hist.length - 1];
   const yearAgo = hist[hist.length - 13];
@@ -39,13 +39,13 @@ export function GridDesk() {
       </div>
       <Panel title="Implied grid carbon intensity" action={
         <div className="flex flex-wrap gap-1">
-          {REGIONS.map(([k, l]) => <button key={k} onClick={() => setRegion(k)} className={cx("rounded-md px-2 py-1 text-[12px] font-medium", region === k ? "bg-accent text-accent-ink" : "text-muted hover:bg-surface-2")}>{l}</button>)}
+          {REGIONS.map(([k, l]) => <button key={k} onClick={() => setRegion(k)} className={cx("rounded-lg px-2 py-1 text-[12px] font-medium", region === k ? "bg-accent text-accent-ink" : "text-muted hover:bg-surface-2")}>{l}</button>)}
         </div>}>
         <Ribbon label={`${region} implied grid intensity with Chronos-2 forecast`} data={{ history: hist, forecast: f, observed: new Set(f?.observed_covariate_months) }} unit="tCO₂/MWh" digits={3} height={230} color="var(--s2)" />
         <p className="eyebrow mt-2 !normal-case !tracking-normal">CEA V20 factor × monthly fossil share, calibrated to FY2023-24. An index, not an official monthly factor.</p>
       </Panel>
       <Panel title="All-India generation mix (MU/day, monthly mean)" action={
-        <div className="flex gap-1">{([24, 48, 999] as const).map((s) => <button key={s} onClick={() => setSpan(s)} className={cx("rounded-md px-2 py-1 text-[12px]", span === s ? "bg-surface-2 text-ink" : "text-muted")}>{s === 999 ? "All" : `${s / 12}y`}</button>)}</div>}>
+        <div className="flex gap-1">{([24, 48, 999] as const).map((s) => <button key={s} onClick={() => setSpan(s)} className={cx("rounded-lg px-2 py-1 text-[12px]", span === s ? "bg-surface-2 text-ink" : "text-muted")}>{s === 999 ? "All" : `${s / 12}y`}</button>)}</div>}>
         <StackedArea unit="MU/d" months={mixMonths} series={FUELS.map(([k, l, c]) => ({ key: k, label: l, color: c, values: g.fuel_mix_mu_per_day[k].slice(n0) }))} />
         <p className="eyebrow mt-2 !normal-case !tracking-normal">Grid-India daily reports via Robbie M. Andrew (CC BY 4.0)</p>
       </Panel>

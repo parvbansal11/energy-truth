@@ -40,11 +40,11 @@ export function ReportStudio() {
       <Panel title={<span className="inline-flex items-center gap-1.5"><Bot size={14} /> Judge agent · Strands Agents SDK</span>}>
         <p className="mb-2 text-[12px] text-muted">Same tools as the audit graph. Answers cite evidence ids.</p>
         <div className="flex flex-col gap-2 sm:flex-row">
-          <input value={q} onChange={(e) => setQ(e.target.value)} className="h-9 flex-1 rounded-[3px] border border-line-2 bg-surface-2 px-3 text-[13px] outline-none focus:border-accent" aria-label="Question for the judge agent" />
+          <input value={q} onChange={(e) => setQ(e.target.value)} className="h-9 flex-1 rounded-xl border border-line-2 bg-surface-2 px-3 text-[13px] outline-none focus:border-accent" aria-label="Question for the judge agent" />
           <Button variant="primary" disabled={asking} onClick={async () => { setAsking(true); try { setAns(await api.judge(q)); } finally { setAsking(false); } }}><MessageSquareText size={14} /> {asking ? "Thinking…" : "Ask"}</Button>
         </div>
         {ans && (
-          <div className="mt-3 rounded-[3px] bg-surface-2 p-3 text-[13px]">
+          <div className="mt-3 rounded-xl bg-surface-2 p-3 text-[13px]">
             {ans.available ? <><div className="whitespace-pre-wrap">{ans.answer}</div><div className="mt-1 font-mono text-[10px] text-muted">{ans.model}</div></> : <span className="text-warn">{ans.reason}</span>}
           </div>
         )}

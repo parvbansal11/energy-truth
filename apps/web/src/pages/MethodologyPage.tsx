@@ -24,12 +24,12 @@ export function MethodologyPage() {
     <PageShell title="Methodology & provenance" kicker="How every number is built: and what it cannot prove">
       <Panel title="The check is two sums">
         <div className="grid gap-4 md:grid-cols-2">
-          <div className="rounded-[3px] bg-surface-2 p-3">
+          <div className="rounded-xl bg-surface-2 p-3">
             <div className="text-[12px] font-semibold text-accent">Scope 1 (fuel burned in owned assets)</div>
             <div className="mt-1 font-mono text-[13px]">E<sub>ind</sub> = Σ<sub>a</sub> w<sub>a</sub> · E<sub>a</sub><sup>CT</sup></div>
             <p className="mt-1 text-[12px] text-ink-2">w<sub>a</sub> follows the disclosure boundary: <b>standalone</b> = GEM direct share; <b>consolidated</b> = operational-control proxy (≥ 50% → 100%, JVs excluded as Scope 3 cat. 15); equity share shown as an alternative.</p>
           </div>
-          <div className="rounded-[3px] bg-surface-2 p-3">
+          <div className="rounded-xl bg-surface-2 p-3">
             <div className="text-[12px] font-semibold text-accent">Scope 2 (electricity bought)</div>
             <div className="mt-1 font-mono text-[13px]">E<sub>ind</sub> = MWh<sup>BRSR</sup> × EF<sup>CEA V20</sup></div>
             <p className="mt-1 text-[12px] text-ink-2">Only the factor is independent: the electricity quantity is the company's own. Flags mark factor-year and geography mismatches.</p>

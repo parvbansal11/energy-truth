@@ -13,7 +13,7 @@ export function ChronosEval() {
   const [b, setB] = useState<Backtest>();
   const [o, setO] = useState(23);
   useEffect(() => { api.backtest().then((r) => setB(r.backtest)).catch(() => {}); }, []);
-  if (!b) return <PageShell title="Chronos-2 backtest" kicker="Evaluation"><div className="skeleton h-72 rounded-[3px]" /></PageShell>;
+  if (!b) return <PageShell title="Chronos-2 backtest" kicker="Evaluation"><div className="skeleton h-72 rounded-xl" /></PageShell>;
   const R = b.results as Record<string, Res | number>;
   const best = Math.max(...MODELS.map(([k]) => (R[k] as Res).wql));
   return (
@@ -33,7 +33,7 @@ export function ChronosEval() {
               );
             })}
           </div>
-          <div className="mt-4 rounded-[3px] bg-accent/10 p-3 text-[13px] ring-1 ring-accent/30">
+          <div className="mt-4 rounded-xl bg-accent/10 p-3 text-[13px] ring-1 ring-accent/30">
             Energy covariates cut WQL by <b>{(R.improvement_vs_seasonal_naive_pct as number).toFixed(0)}%</b> vs seasonal naive and <b>{(R.improvement_vs_univariate_pct as number).toFixed(0)}%</b> vs univariate Chronos-2, with near-nominal interval coverage: calibrated quantiles that can feed the fusion σ.
           </div>
           <p className="mt-3 text-[11.5px] text-muted">Target: {b.data.target}, {b.data.n_months} months ({b.data.first_month} → {b.data.last_month}). Past-only covariates: {b.protocol.past_only_covariates.join(", ")}; known-future: {b.protocol.known_future_covariates.join(", ")}. Model {b.model_id}, local CPU, {b.inference_seconds}s for all origins. Run {b.run_at.slice(0, 16)} UTC.</p>

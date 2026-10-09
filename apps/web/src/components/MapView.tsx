@@ -18,8 +18,8 @@ type RGBA = [number, number, number, number];
 const hex = (h: string): RGB => [parseInt(h.slice(1, 3), 16), parseInt(h.slice(3, 5), 16), parseInt(h.slice(5, 7), 16)];
 const mix = (a: RGB, b: RGB, t: number): RGB => [0, 1, 2].map((i) => Math.round(a[i] + (b[i] - a[i]) * t)) as RGB;
 const rgba = (c: RGB, a: number): RGBA => [c[0], c[1], c[2], a];
-const PAL = { neg: hex("#3987e5"), mid: hex("#8f8f88"), pos: hex("#e66767"), coal: hex("#3987e5"), gas: hex("#d95926"), steel: hex("#199e70"), other: hex("#c98500"), ring: hex("#eceeea"), accent: hex("#e3a43a"), alert: hex("#fab219") };
-const INTENSITY_RAMP = ["#2a1c0e", "#553414", "#8a5119", "#c47a28", "#eeb25f"];
+const PAL = { neg: hex("#2a78d6"), mid: hex("#a3a29b"), pos: hex("#e34948"), coal: hex("#2a78d6"), gas: hex("#eb6834"), steel: hex("#1baf7a"), other: hex("#eda100"), ring: hex("#ffffff"), ink: hex("#1c1b18"), accent: hex("#2f6b55"), alert: hex("#b7791f") };
+const INTENSITY_RAMP = ["#fdf1df", "#f8d4a5", "#efa967", "#d77a35", "#a2521c"];
 const REGION_LABEL: Record<string, { name: string; at: [number, number] }> = {
   NR: { name: "Northern grid", at: [76.3, 29.8] }, WR: { name: "Western grid", at: [74.2, 21.4] }, SR: { name: "Southern grid", at: [77.6, 12.6] },
   ER: { name: "Eastern grid", at: [86.6, 23.9] }, NER: { name: "North-eastern grid", at: [93.2, 25.9] },
@@ -69,7 +69,17 @@ export function MapView() {
     m.setLayoutProperty("imagery", "visibility", layers.imagery ? "visible" : "none");
     m.setLayoutProperty("hillshade", "visibility", layers.shade ? "visible" : "none");
     m.setLayoutProperty("ref", "visibility", layers.imagery ? "none" : "visible");
-    m.setTerrain(focus && layers.terrain ? { source: "dem", exaggeration: 1.6 } : null);
+    // deck.gl's overlay cannot follow MapLibre 6 terrain (it throws on every frame), so it is detached in 3D focus
+    const ov = overlay.current as unknown as maplibregl.IControl | null;
+    const terrain = focus && layers.terrain;
+    // order matters: detach before terrain turns on, re-attach only after terrain is off
+    if (terrain) {
+      if (ov && m.hasControl(ov)) m.removeControl(ov);
+      m.setTerrain({ source: "dem", exaggeration: 1.6 });
+    } else {
+      m.setTerrain(null);
+      try { if (ov && !m.hasControl(ov)) m.addControl(ov); } catch { /* overlay re-attaches on the next render */ }
+    }
   }, [ready, layers.imagery, layers.shade, layers.terrain, focus]);
 
   // ---------------------------------------------------------------- GIBS + grid choropleth + selected-company footprint
@@ -93,8 +103,8 @@ export function MapView() {
       const expr = ["match", ["get", "region"], ...Object.keys(REGION_LABEL).flatMap((r) => [r, color(r)]), INTENSITY_RAMP[0]];
       if (!m.getSource("regions")) {
         m.addSource("regions", { type: "geojson", data: regions });
-        m.addLayer({ id: "regions-fill", type: "fill", source: "regions", paint: { "fill-color": expr as never, "fill-opacity": 0.55 } }, "ref");
-        m.addLayer({ id: "regions-line", type: "line", source: "regions", paint: { "line-color": "#000", "line-width": 0.5, "line-opacity": 0.6 } }, "ref");
+        m.addLayer({ id: "regions-fill", type: "fill", source: "regions", paint: { "fill-color": expr as never, "fill-opacity": 0.6 } }, "ref");
+        m.addLayer({ id: "regions-line", type: "line", source: "regions", paint: { "line-color": "#ffffff", "line-width": 0.8, "line-opacity": 0.9 } }, "ref");
       }
       for (const id of ["regions-fill", "regions-line"]) m.setLayoutProperty(id, "visibility", layers.grid ? "visible" : "none");
     }
@@ -111,7 +121,7 @@ export function MapView() {
     if (src) src.setData(fc);
     else {
       m.addSource("footprint", { type: "geojson", data: fc });
-      m.addLayer({ id: "footprint", type: "line", source: "footprint", paint: { "line-color": "#e3a43a", "line-width": 1, "line-opacity": 0.75, "line-dasharray": [3, 3] } });
+      m.addLayer({ id: "footprint", type: "line", source: "footprint", paint: { "line-color": "#2f6b55", "line-width": 1.5, "line-opacity": 0.6, "line-dasharray": [2, 3] } });
     }
     m.setLayoutProperty("footprint", "visibility", focus ? "none" : "visible");
   }, [ready, layers.no2, layers.dnb, layers.grid, meta, regions, grid, selected, app.assetsBy, focus]);
@@ -126,8 +136,8 @@ export function MapView() {
         const s = grid.series[r] || [];
         const v = [...s].reverse().find((x) => x != null) as number | undefined;
         const node = document.createElement("div");
-        node.className = "map-chip pointer-events-none select-none text-[9.5px] tracking-[0.16em] uppercase text-white/45";
-        node.innerHTML = `${name}${v != null ? ` <span class="text-white/70">${v.toFixed(2)} t/MWh</span>` : ""}`;
+        node.className = "pointer-events-none select-none rounded-full bg-white/85 px-2.5 py-1 text-[11px] text-[#4a4740] shadow-sm backdrop-blur";
+        node.innerHTML = `${name}${v != null ? ` <b class="font-medium text-[#1c1b18]">${v.toFixed(2)}</b> t/MWh` : ""}`;
         markers.push(new maplibregl.Marker({ element: node }).setLngLat(at).addTo(m));
       }
     }
@@ -142,8 +152,9 @@ export function MapView() {
       const tone = sc.scopes.S1.verdict.tone;
       const active = sym === selected;
       const node = document.createElement("button");
-      node.className = `map-chip flex items-stretch overflow-hidden rounded-[3px] border text-[10px] tracking-[0.1em] uppercase backdrop-blur transition ${active ? "border-[var(--accent)] bg-black/80" : "border-white/15 bg-black/60 hover:border-white/40"}`;
-      node.innerHTML = `<span class="px-1.5 py-1 ${active ? "text-white" : "text-white/80"}">${sc.short}</span>${z != null ? `<span class="px-1.5 py-1 font-medium text-black ${tone === "red" ? "bg-[var(--crit)]" : tone === "amber" ? "bg-[var(--accent)]" : "bg-[var(--ok)]"}">z ${signed(z, 1)}</span>` : `<span class="px-1.5 py-1 text-white/40">no BRSR</span>`}`;
+      node.className = `flex items-center gap-1.5 rounded-full py-1 pr-2.5 pl-1 text-[12px] shadow-[0_6px_18px_-6px_rgba(0,0,0,0.35)] transition hover:-translate-y-0.5 ${active ? "bg-[#1c1b18] text-white" : "bg-white text-[#1c1b18]"}`;
+      const dot = tone === "red" ? "#b4413a" : tone === "amber" ? "#b7791f" : tone === "green" ? "#2f7d4f" : "#a6a196";
+      node.innerHTML = `<span class="grid h-5 w-5 place-items-center rounded-full text-[9px] font-semibold ${active ? "bg-white/15" : "bg-[#f0eee8]"}">${sc.short.slice(0, 2).toUpperCase()}</span>${sc.short}<span class="ml-0.5 inline-flex items-center gap-1 ${active ? "text-white/70" : "text-[#77736a]"}"><span class="h-1.5 w-1.5 rounded-full" style="background:${dot}"></span>${z != null ? signed(z, 1) : "no filing"}</span>`;
       node.onclick = (e) => { e.stopPropagation(); select(sym); };
       markers.push(new maplibregl.Marker({ element: node, anchor: "bottom", offset: [0, -14] }).setLngLat([lon, lat]).addTo(m));
     }
@@ -159,9 +170,8 @@ export function MapView() {
       const me = a.asset_id === focusAsset.asset_id;
       const node = document.createElement("button");
       node.className = "flex flex-col items-center";
-      node.innerHTML = `<span class="map-chip mb-1 whitespace-nowrap rounded-[3px] border px-1.5 py-0.5 text-[10px] tracking-[0.08em] uppercase backdrop-blur ${me ? "border-[var(--accent)] bg-black/80 text-white" : "border-white/20 bg-black/60 text-white/80"}">${short(a.name)}${a.ct ? ` <span style="color:var(--accent)">${mt(a.ct.emissions_t["2024"])} Mt</span>` : ` <span class="text-white/40">no estimate</span>`}</span>
-        <span class="grid h-6 w-6 place-items-center rounded-[3px] border ${me ? "border-[var(--accent)] bg-black/60" : "border-white/40 bg-black/50"}"><span class="h-1.5 w-1.5 ${a.ct ? "bg-[var(--accent)]" : "bg-white/40"}"></span></span>
-        <span class="h-5 w-px ${me ? "bg-[var(--accent)]" : "bg-white/40"}"></span>`;
+      node.innerHTML = `<span class="mb-1.5 whitespace-nowrap rounded-full px-3 py-1.5 text-[12px] shadow-[0_8px_22px_-8px_rgba(0,0,0,0.45)] transition hover:-translate-y-0.5 ${me ? "bg-[#1c1b18] text-white" : "bg-white text-[#1c1b18]"}">${short(a.name)}${a.ct ? ` <b class="font-medium ${me ? "text-[#a8d5c2]" : "text-[#2f6b55]"}">${mt(a.ct.emissions_t["2024"])} Mt</b>` : ` <span class="text-[#a6a196]">no estimate</span>`}</span>
+        <span class="h-6 w-px ${me ? "bg-white" : "bg-white/80"}"></span><span class="relative block h-2.5 w-2.5 rounded-full border-2 border-white ${me ? "bg-[#2f6b55] text-[#2f6b55] ping" : "bg-[#1c1b18]"}"></span>`;
       node.onclick = (e) => { e.stopPropagation(); openPlant(a.asset_id); };
       return new maplibregl.Marker({ element: node, anchor: "bottom" }).setLngLat([a.lon, a.lat]).addTo(m);
     });
@@ -191,7 +201,7 @@ export function MapView() {
     const t = Math.max(-1, Math.min(1, z / 3));
     return t >= 0 ? mix(PAL.mid, PAL.pos, t) : mix(PAL.mid, PAL.neg, -t);
   };
-  const alpha = (a: Asset) => (a.company === selected ? 230 : 55);
+  const alpha = (a: Asset) => (a.company === selected ? 225 : 70);
 
   useEffect(() => {
     const ov = overlay.current;
@@ -202,12 +212,12 @@ export function MapView() {
     const L = [
       layers.gemOnly && new ScatterplotLayer<Asset>({
         id: "gem-only", data: gemOnly, getPosition: (a) => [a.lon, a.lat], getRadius: 4.5, radiusUnits: "pixels", filled: false, stroked: true,
-        getLineColor: (a) => rgba(PAL.ring, a.company === selected ? 150 : 35), lineWidthUnits: "pixels", getLineWidth: 1, pickable: true, updateTriggers: { getLineColor: [selected] },
+        getLineColor: (a) => rgba(PAL.ink, a.company === selected ? 170 : 45), lineWidthUnits: "pixels", getLineWidth: 1.2, pickable: true, updateTriggers: { getLineColor: [selected] },
       }),
       layers.plants && !layers.columns && new ScatterplotLayer<Asset>({
         id: "plants", data: ct, getPosition: (a) => [a.lon, a.lat], radiusUnits: "pixels", getRadius: (a) => 3 + r(a) * 17,
         getFillColor: (a) => rgba(fill(a), alpha(a)), stroked: true, lineWidthUnits: "pixels", getLineWidth: (a) => 0.5 + 2 * (zBy[a.company]?.rho ?? 0),
-        getLineColor: (a) => rgba(PAL.ring, a.company === selected ? 190 : 30), pickable: true, autoHighlight: true, highlightColor: rgba(PAL.accent, 255),
+        getLineColor: (a) => rgba(PAL.ring, a.company === selected ? 255 : 120), pickable: true, autoHighlight: true, highlightColor: rgba(PAL.accent, 255),
         transitions: { getRadius: 600, getFillColor: 500 }, updateTriggers: { getFillColor: [layers.colorBy, selected, zBy], getLineColor: [selected], getLineWidth: [zBy] },
       }),
       layers.plants && layers.columns && new ColumnLayer<Asset>({
@@ -236,7 +246,7 @@ export function MapView() {
   // ---------------------------------------------------------------- camera
   const pad = () => {
     const wide = innerWidth >= 1024;
-    return { top: 110, bottom: wide ? 140 : 320, left: wide ? 310 : 30, right: wide ? 410 : 30 };
+    return { top: 130, bottom: wide ? 60 : 320, left: wide ? 310 : 30, right: wide ? 420 : 30 };
   };
   const fitTo = (rows: Asset[], maxZoom = 6.2) => {
     const m = map.current;
@@ -275,13 +285,13 @@ export function MapView() {
     <div className="absolute inset-0">
       <div ref={el} style={{ width: "100%", height: "100%" }} aria-label="Map of company-owned energy assets" role="region" />
       {hover && (
-        <div className="panel pointer-events-none absolute z-20 max-w-64 px-3 py-2 text-[11.5px]" style={{ left: hover.x + 14, top: hover.y + 14 }}>
+        <div className="pointer-events-none absolute z-20 max-w-64 rounded-xl border border-line bg-surface px-3.5 py-2.5 text-[12px] shadow-[var(--shadow)]" style={{ left: hover.x + 14, top: hover.y + 14 }}>
           <div className="font-medium text-ink">{hover.a.name}</div>
-          <div className="eyebrow !text-[9px]">{scorecards[hover.a.company]?.short} · {hover.a.state || hover.a.country}</div>
+          <div className="text-[11.5px] text-muted">{scorecards[hover.a.company]?.short} · {hover.a.state || hover.a.country}</div>
           {hover.a.ct ? (
             <div className="tnum mt-1 text-ink-2">{mt(hover.a.ct.emissions_t["2024"], 2)} Mt CO₂e · w {hover.a.ownership_weight.toFixed(2)} · {FUEL_LABEL[FUEL_GROUP(hover.a.fuel, hover.a.sector)]}</div>
           ) : (
-            <div className="mt-1 text-accent">No Climate TRACE estimate</div>
+            <div className="mt-1 text-sun">Owned, but no independent estimate yet</div>
           )}
         </div>
       )}

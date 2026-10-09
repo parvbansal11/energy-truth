@@ -9,12 +9,13 @@ import { consoleStyle } from "../lib/mapstyle";
 maplibregl.setWorkerUrl(workerUrl);
 
 // Singrauli coalfield (MP/UP): NTPC Vindhyachal, Singrauli and Rihand beside the Rihand reservoir.
-const CENTER: [number, number] = [82.74, 24.13];
+const CENTER: [number, number] = [82.72, 24.13];
 const BBOX = { w: 82.2, e: 83.2, s: 23.8, n: 24.5 };
 
-/** Cinematic, non-interactive 3D terrain with the real plants of the view pinned. */
+/** Gently orbiting 3D terrain (natural colour) with the real plants of the view pinned. */
 export function TerrainHero({ onReady }: { onReady?: () => void }) {
   const el = useRef<HTMLDivElement>(null);
+  const map = useRef<maplibregl.Map | null>(null);
   const [plants, setPlants] = useState<Asset[]>([]);
   useEffect(() => {
     api.assets("NTPC").then((a) => setPlants(a.filter((x) => x.ct && x.lon > BBOX.w && x.lon < BBOX.e && x.lat > BBOX.s && x.lat < BBOX.n))).catch(() => {});
@@ -22,36 +23,36 @@ export function TerrainHero({ onReady }: { onReady?: () => void }) {
   useEffect(() => {
     if (!el.current) return;
     const m = new maplibregl.Map({
-      container: el.current, style: consoleStyle({ tone: "sand" }), center: CENTER, zoom: 11.2, pitch: 66, bearing: -28,
+      container: el.current, style: consoleStyle({ tone: "hero" }), center: CENTER, zoom: 11, pitch: 62, bearing: -30,
       interactive: false, attributionControl: false, maxPitch: 85, fadeDuration: 0,
     });
-    // attribution lives in the landing footer; keep the focal point right of the headline
-    m.setPadding({ left: Math.round(innerWidth * 0.38), top: 0, right: 0, bottom: 0 });
+    map.current = m;
     let raf = 0;
     let t0 = 0;
     const fallback = setTimeout(() => onReady?.(), 2500);
     m.on("load", () => {
-      m.setTerrain({ source: "dem", exaggeration: 4 });
+      m.setTerrain({ source: "dem", exaggeration: 3 });
       onReady?.();
       const spin = (t: number) => {
         if (!t0) t0 = t;
-        m.setBearing(-28 + ((t - t0) / 1000) * 1.4);
+        m.setBearing(-30 + ((t - t0) / 1000) * 1.1);
         raf = requestAnimationFrame(spin);
       };
       if (!matchMedia("(prefers-reduced-motion: reduce)").matches) raf = requestAnimationFrame(spin);
     });
-    (el.current as HTMLDivElement & { __map?: maplibregl.Map }).__map = m;
-    return () => { clearTimeout(fallback); cancelAnimationFrame(raf); m.remove(); };
+    const ro = new ResizeObserver(() => m.resize());
+    ro.observe(el.current);
+    return () => { clearTimeout(fallback); cancelAnimationFrame(raf); ro.disconnect(); m.remove(); map.current = null; };
   }, []);
   useEffect(() => {
-    const m = (el.current as (HTMLDivElement & { __map?: maplibregl.Map }) | null)?.__map;
+    const m = map.current;
     if (!m || !plants.length) return;
     const markers = plants.map((p) => {
       const node = document.createElement("div");
-      node.className = "pointer-events-none flex items-center gap-2";
-      node.innerHTML = `<span class="relative block h-2.5 w-2.5 rounded-full bg-[var(--accent)] text-[var(--accent)] ping"></span>
-        <span class="map-chip whitespace-nowrap rounded-[3px] border border-white/15 bg-black/55 px-1.5 py-0.5 text-[10px] tracking-wider text-white/90 backdrop-blur">${p.name.replace(/ power station/i, "").toUpperCase()} <span style="color:var(--accent)">${mt(p.ct!.emissions_t["2024"])} MT</span></span>`;
-      return new maplibregl.Marker({ element: node, anchor: "left" }).setLngLat([p.lon, p.lat]).addTo(m);
+      node.className = "pointer-events-none flex flex-col items-center";
+      node.innerHTML = `<span class="whitespace-nowrap rounded-full bg-white/95 px-2.5 py-1 text-[11px] font-medium text-[#1c1b18] shadow-[0_4px_14px_-4px_rgba(0,0,0,0.35)]">${p.name.replace(/ (super thermal )?power station/i, "")} <span style="color:#2f6b55">${mt(p.ct!.emissions_t["2024"])} Mt</span></span>
+        <span class="h-4 w-px bg-white/90"></span><span class="relative block h-2 w-2 rounded-full bg-white text-white ping"></span>`;
+      return new maplibregl.Marker({ element: node, anchor: "bottom" }).setLngLat([p.lon, p.lat]).addTo(m);
     });
     return () => markers.forEach((k) => k.remove());
   }, [plants]);
