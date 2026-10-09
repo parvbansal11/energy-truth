@@ -1,0 +1,270 @@
+[
+ {
+  "symbol": "NTPC",
+  "name": "NTPC Ltd",
+  "short": "NTPC",
+  "sector": "Power generation",
+  "entity_id": "E100000001926",
+  "ct_owner_id": "E100000001926",
+  "gem_entity_id": "E100000001926",
+  "cin": "L40101DL1975GOI007966",
+  "lei": "335800Q4TRGJXNLVMB81",
+  "home_page": "https://ntpc.co.in/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 41,
+   "gem_assets": 308,
+   "gem_locations": 86,
+   "rho": 0.1331,
+   "operating_emitting_locations": 40,
+   "operating_emitting_matched": 39,
+   "rho_effective": 0.975,
+   "unmatched_emitting": [
+    "Dadri Combined Cycle power plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_e95c288e6f",
+    "ev_api_payload_4f1cdf05dd",
+    "ev_api_payload_c5408d58c4",
+    "ev_api_payload_d815f23008",
+    "ev_api_payload_b6d600ef40"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:25450307",
+    "name": "Barauni power station",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_37776cb8c5"
+  ]
+ },
+ {
+  "symbol": "TATASTEEL",
+  "name": "Tata Steel Ltd",
+  "short": "Tata Steel",
+  "sector": "Iron & steel",
+  "entity_id": "E100001010018",
+  "ct_owner_id": "E100001010018",
+  "gem_entity_id": "E100001010018",
+  "cin": "L27100MH1907PLC000260",
+  "lei": "335800E6C75YGSGD5T66",
+  "home_page": "https://www.tatasteel.com/",
+  "boundary": "consolidated",
+  "coverage": {
+   "ct_linked_assets": 20,
+   "gem_assets": 109,
+   "gem_locations": 30,
+   "rho": 0.1835,
+   "operating_emitting_locations": 22,
+   "operating_emitting_matched": 16,
+   "rho_effective": 0.7273,
+   "unmatched_emitting": [
+    "Tata Steel Chonburi steel plant",
+    "Tata Steel Gamharia steel plant",
+    "Tata Steel IJmuiden steel plant",
+    "Tata Steel Katamati Mine",
+    "Tata Steel Rayong steel plant",
+    "Tata Steel Vijay-II Mine"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "consolidated",
+   "evidence_ids": [
+    "ev_api_payload_19784ee957",
+    "ev_api_payload_743841adcf",
+    "ev_api_payload_19cb46118f",
+    "ev_api_payload_8de063aefe",
+    "ev_api_payload_91f1cff15c"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43158246",
+    "name": "Khandbandh Mine",
+    "reason": "needs_review",
+    "score": 0.586,
+    "candidate_location": "P100000128899"
+   },
+   {
+    "asset_id": "ct:43158363",
+    "name": "Tiringpahar Mine",
+    "reason": "needs_review",
+    "score": 0.675,
+    "candidate_location": "P100000128478"
+   },
+   {
+    "asset_id": "ct:43158264",
+    "name": "Malda Mine",
+    "reason": "needs_review",
+    "score": 0.155,
+    "candidate_location": "P100000128899"
+   },
+   {
+    "asset_id": "ct:43158189",
+    "name": "Gorumahisani Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_bb3a89776c"
+  ]
+ },
+ {
+  "symbol": "ULTRACEMCO",
+  "name": "UltraTech Cement Ltd",
+  "short": "UltraTech",
+  "sector": "Cement",
+  "entity_id": "E100000000531",
+  "ct_owner_id": "E100000000531",
+  "gem_entity_id": "E100000000531",
+  "cin": "L26940MH2000PLC128420",
+  "lei": "335800PC9O9B4BQHG814",
+  "home_page": "https://www.ultratechcement.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 28,
+   "gem_assets": 81,
+   "gem_locations": 79,
+   "rho": 0.3457,
+   "operating_emitting_locations": 55,
+   "operating_emitting_matched": 27,
+   "rho_effective": 0.4909,
+   "unmatched_emitting": [
+    "UltraTech Cement Ambedkar Nagar Cement Plant",
+    "UltraTech Cement Arakkonam Cement Plant",
+    "UltraTech Cement Bagheri Cement Plant",
+    "UltraTech Cement Bara Cement Plant",
+    "UltraTech Cement Bathinda Cement Plant",
+    "UltraTech Cement Cuttack Cement Plant",
+    "UltraTech Cement Dhalo Cement Plant",
+    "UltraTech Cement Dhule Cement Plant",
+    "UltraTech Cement Dhutra Cement Plant",
+    "UltraTech Cement Durgapur Cement Plant",
+    "UltraTech Cement Hipale Cement Plant",
+    "UltraTech Cement Hooghly Cement Plant",
+    "UltraTech Cement Jhajjar Cement Plant",
+    "UltraTech Cement Kasimpur Cement Plant",
+    "UltraTech Cement Katni Cement Plant",
+    "UltraTech Cement Koppal Cement Plant",
+    "UltraTech Cement Magdalla Cement Plant",
+    "UltraTech Cement Nagpur Cement Plant",
+    "UltraTech Cement Neem Ka Thana Cement Plant",
+    "UltraTech Cement Panipat Cement Plant",
+    "UltraTech Cement Patliputra Cement Plant",
+    "UltraTech Cement Patratu Cement Plant",
+    "UltraTech Cement Ratnagiri Cement Plant",
+    "UltraTech Cement Roorkee Cement Plant",
+    "UltraTech Cement Salarpur Khadar Cement Plant",
+    "UltraTech Cement Sikandrabad Cement Plant",
+    "UltraTech Cement Velliyanai Cement Plant",
+    "UltraTech Cement Wanakbori Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_31c5d6aafd",
+    "ev_api_payload_42d0039031",
+    "ev_api_payload_dc6fb1fd52",
+    "ev_api_payload_512066826f",
+    "ev_api_payload_8adcb8629b"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_87888d23a5"
+  ]
+ },
+ {
+  "symbol": "JSWSTEEL",
+  "name": "JSW Steel Ltd",
+  "short": "JSW Steel",
+  "sector": "Iron & steel",
+  "entity_id": "E100001000516",
+  "ct_owner_id": "E100001000516",
+  "gem_entity_id": "E100001000516",
+  "cin": "L27102MH1994PLC152925",
+  "lei": "335800EK6HZSC4CVAJ09",
+  "home_page": "https://www.jsw.in/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 17,
+   "gem_assets": 136,
+   "gem_locations": 50,
+   "rho": 0.125,
+   "operating_emitting_locations": 21,
+   "operating_emitting_matched": 17,
+   "rho_effective": 0.8095,
+   "unmatched_emitting": [
+    "JSW Sesa Kodli Mine",
+    "JSW Steel Dharmapura Mine",
+    "JSW Steel Tunga Mine",
+    "JSW Steel Ubbalagundi Mine"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_3b3dd67e9c",
+    "ev_api_payload_549379f3a5",
+    "ev_api_payload_19f7430431",
+    "ev_api_payload_c846a95bfe",
+    "ev_api_payload_5ffd670dce"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43158367",
+    "name": "Tunga-Bhadra Mine",
+    "reason": "needs_review",
+    "score": 0.695,
+    "candidate_location": "P100000128518"
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_44084c40bf"
+  ]
+ },
+ {
+  "symbol": "ADANIPOWER",
+  "name": "Adani Power Ltd",
+  "short": "Adani Power",
+  "sector": "Power generation",
+  "entity_id": "E100001000558",
+  "ct_owner_id": "E100001000558",
+  "gem_entity_id": "E100001000558",
+  "cin": "L40100GJ1996PLC030533",
+  "lei": "33580074T4XKFXBDG813",
+  "home_page": "https://www.adanipower.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 8,
+   "gem_assets": 87,
+   "gem_locations": 20,
+   "rho": 0.092,
+   "operating_emitting_locations": 8,
+   "operating_emitting_matched": 8,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_dd152fb43b",
+    "ev_api_payload_608d936180",
+    "ev_api_payload_88aa7852c9",
+    "ev_api_payload_9632519f91",
+    "ev_api_payload_f607a71e84"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_efb7f8113b"
+  ]
+ }
+]

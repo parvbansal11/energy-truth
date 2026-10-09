@@ -1,0 +1,610 @@
+[
+ {
+  "company": "NTPC",
+  "symbol": "NTPC",
+  "fy": "FY2024-25",
+  "engine": "rules",
+  "document_url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf",
+  "pages_scanned": 25,
+  "assurance": {
+   "assured": true,
+   "level": "reasonable",
+   "provider": "BUREAU VERITAS",
+   "scope": "as tabled",
+   "page": 17,
+   "quote": "Yes, reasonable assurance is being carried out by M/S BUREAU VERITAS If yes, name of the external agency.",
+   "evidence_id": "ev_pdf_page_73a7f36562"
+  },
+  "warnings": [],
+  "fields": {
+   "electricity_renewable_mwh.standalone.FY2024-25": {
+    "value": 7258.333333333333,
+    "unit": "MWh",
+    "raw": "26.13",
+    "raw_unit": "TJ",
+    "page": 16,
+    "quote": "Total Electricity Consumption (A) 26.13 0.00 Water withdrawal by source (in kilolitres)",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_8b39f96286"
+   },
+   "electricity_renewable_mwh.standalone.FY2023-24": {
+    "value": 0.0,
+    "unit": "MWh",
+    "raw": "0.00",
+    "raw_unit": "TJ",
+    "page": 16,
+    "quote": "Total Electricity Consumption (A) 26.13 0.00 Water withdrawal by source (in kilolitres)",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_0b57a55c4a"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2024-25": {
+    "value": 89380.55555555555,
+    "unit": "MWh",
+    "raw": "321.77",
+    "raw_unit": "TJ",
+    "page": 16,
+    "quote": "Total Electricity Consumption (D) 321.77 309.90 (i + ii + iii + iv + v)",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_c43392945d"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2023-24": {
+    "value": 86083.33333333333,
+    "unit": "MWh",
+    "raw": "309.90",
+    "raw_unit": "TJ",
+    "page": 16,
+    "quote": "Total Electricity Consumption (D) 321.77 309.90 (i + ii + iii + iv + v)",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_6c401752ef"
+   },
+   "scope1.standalone.FY2024-25": {
+    "value": 326959946.44,
+    "unit": "tCO2e",
+    "raw": "32,69,59,946.44",
+    "raw_unit": "Tonnes",
+    "page": 17,
+    "quote": "Water Discharge by Destination and Level of Treatment (In Kiloliters) Total Scope 1 emissions (Break-up of the GHG Tonnes of CO2 32,69,59,946.44 31,38,49,119.37",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_6fd543288a"
+   },
+   "scope1.standalone.FY2023-24": {
+    "value": 313849119.37,
+    "unit": "tCO2e",
+    "raw": "31,38,49,119.37",
+    "raw_unit": "Tonnes",
+    "page": 17,
+    "quote": "Water Discharge by Destination and Level of Treatment (In Kiloliters) Total Scope 1 emissions (Break-up of the GHG Tonnes of CO2 32,69,59,946.44 31,38,49,119.37",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_bcc24dc49b"
+   },
+   "scope2.standalone.FY2024-25": {
+    "value": 64979.66,
+    "unit": "tCO2e",
+    "raw": "64,979.66",
+    "raw_unit": "Tonnes",
+    "page": 17,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG Tonnes of CO2 64,979.66 62,582.58",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_78de26ce9d"
+   },
+   "scope2.standalone.FY2023-24": {
+    "value": 62582.58,
+    "unit": "tCO2e",
+    "raw": "62,582.58",
+    "raw_unit": "Tonnes",
+    "page": 17,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG Tonnes of CO2 64,979.66 62,582.58",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_12987be96b"
+   }
+  }
+ },
+ {
+  "company": "NTPC",
+  "symbol": "NTPC",
+  "fy": "FY2025-26",
+  "engine": "rules",
+  "document_url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf",
+  "pages_scanned": 32,
+  "assurance": {
+   "assured": true,
+   "level": "unspecified",
+   "provider": "TUV India Private Limited",
+   "scope": "as tabled",
+   "page": 21,
+   "quote": "yes, name of the external agency: Yes, assurance done by TUV India Private Limited the external agency.",
+   "evidence_id": "ev_pdf_page_d3187bcf66"
+  },
+  "warnings": [],
+  "fields": {
+   "electricity_nonrenewable_mwh.standalone.FY2025-26": {
+    "value": 101916.66666666666,
+    "unit": "MWh",
+    "raw": "366.90",
+    "raw_unit": "TJ",
+    "page": 20,
+    "quote": "Management System (CLIMS) to strengthen labor management requirements, thereby improving transparency and strengthening Total Electricity Consumption (D) 366.90 321.77",
+    "boundary": "standalone",
+    "fy": "FY2025-26",
+    "evidence_id": "ev_pdf_page_f55f3694b7"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2024-25": {
+    "value": 89380.55555555555,
+    "unit": "MWh",
+    "raw": "321.77",
+    "raw_unit": "TJ",
+    "page": 20,
+    "quote": "Management System (CLIMS) to strengthen labor management requirements, thereby improving transparency and strengthening Total Electricity Consumption (D) 366.90 321.77",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_56f5bb0306"
+   },
+   "electricity_renewable_mwh.standalone.FY2025-26": {
+    "value": 6191.666666666666,
+    "unit": "MWh",
+    "raw": "22.29",
+    "raw_unit": "TJ",
+    "page": 20,
+    "quote": "Total Electricity Consumption (A) 22.29 26.13 (ii) Groundwater* 1,71,110.00 4,47,613.00",
+    "boundary": "standalone",
+    "fy": "FY2025-26",
+    "evidence_id": "ev_pdf_page_83ad2c51ca"
+   },
+   "electricity_renewable_mwh.standalone.FY2024-25": {
+    "value": 7258.333333333333,
+    "unit": "MWh",
+    "raw": "26.13",
+    "raw_unit": "TJ",
+    "page": 20,
+    "quote": "Total Electricity Consumption (A) 22.29 26.13 (ii) Groundwater* 1,71,110.00 4,47,613.00",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_a39c6f6fc4"
+   },
+   "scope1.standalone.FY2025-26": {
+    "value": 309007966.99,
+    "unit": "tCO2e",
+    "raw": "30,90,07,966.99",
+    "raw_unit": "Tonnes",
+    "page": 21,
+    "quote": "- No Treatment* 4,98,42,94,000 5,07,22,06,690 Total Scope 1 emissions (Break-up of the GHG into CO, Tonnes of CO 30,90,07,966.99 32,69,59,946.44",
+    "boundary": "standalone",
+    "fy": "FY2025-26",
+    "evidence_id": "ev_pdf_page_c0be953c44"
+   },
+   "scope1.standalone.FY2024-25": {
+    "value": 326959946.44,
+    "unit": "tCO2e",
+    "raw": "32,69,59,946.44",
+    "raw_unit": "Tonnes",
+    "page": 21,
+    "quote": "- No Treatment* 4,98,42,94,000 5,07,22,06,690 Total Scope 1 emissions (Break-up of the GHG into CO, Tonnes of CO 30,90,07,966.99 32,69,59,946.44",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_471f10438d"
+   },
+   "scope2.standalone.FY2025-26": {
+    "value": 72361.35,
+    "unit": "tCO2e",
+    "raw": "72,361.35",
+    "raw_unit": "Tonnes",
+    "page": 21,
+    "quote": "(ii) To Groundwater - - Total Scope 2 emissions (Break-up of the GHG into CO, Tonnes of CO 72,361.35 64,979.66",
+    "boundary": "standalone",
+    "fy": "FY2025-26",
+    "evidence_id": "ev_pdf_page_fe78377708"
+   },
+   "scope2.standalone.FY2024-25": {
+    "value": 64979.66,
+    "unit": "tCO2e",
+    "raw": "64,979.66",
+    "raw_unit": "Tonnes",
+    "page": 21,
+    "quote": "(ii) To Groundwater - - Total Scope 2 emissions (Break-up of the GHG into CO, Tonnes of CO 72,361.35 64,979.66",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_539cfdaf96"
+   }
+  }
+ },
+ {
+  "company": "TATASTEEL",
+  "symbol": "TATASTEEL",
+  "fy": "FY2024-25",
+  "engine": "rules",
+  "document_url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf",
+  "pages_scanned": 62,
+  "assurance": {
+   "assured": true,
+   "level": "reasonable",
+   "provider": "Price Waterhouse & Co Chartered Accountants LLP",
+   "scope": "standalone only",
+   "page": 47,
+   "quote": "yes, name of the external agency - Yes, Reasonable Assurance has been undertaken by Price Waterhouse & Co Chartered Accountants LLP, on the indicators in the table above (other than) Total Scope 1 and Scope 2 emission intensity per rupee of turnover) for Standalone figures for FY2024-25 (highlighted",
+   "evidence_id": "ev_pdf_page_7990dd633a"
+  },
+  "warnings": [],
+  "fields": {
+   "electricity_renewable_mwh.standalone.FY2024-25": {
+    "value": 105555.55555555555,
+    "unit": "MWh",
+    "raw": "0.38",
+    "raw_unit": "PJ",
+    "page": 45,
+    "quote": "Total electricity consumption (A) PJ 0.38 0.38 0.12 0.12 0.65 0.65 0.20 0.20",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_29205f273b"
+   },
+   "electricity_renewable_mwh.standalone.FY2023-24": {
+    "value": 33333.33333333333,
+    "unit": "MWh",
+    "raw": "0.12",
+    "raw_unit": "PJ",
+    "page": 45,
+    "quote": "Total electricity consumption (A) PJ 0.38 0.38 0.12 0.12 0.65 0.65 0.20 0.20",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_98ee7e3033"
+   },
+   "electricity_renewable_mwh.consolidated.FY2024-25": {
+    "value": 180555.55555555553,
+    "unit": "MWh",
+    "raw": "0.65",
+    "raw_unit": "PJ",
+    "page": 45,
+    "quote": "Total electricity consumption (A) PJ 0.38 0.38 0.12 0.12 0.65 0.65 0.20 0.20",
+    "boundary": "consolidated",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_d43263ed1b"
+   },
+   "electricity_renewable_mwh.consolidated.FY2023-24": {
+    "value": 55555.555555555555,
+    "unit": "MWh",
+    "raw": "0.20",
+    "raw_unit": "PJ",
+    "page": 45,
+    "quote": "Total electricity consumption (A) PJ 0.38 0.38 0.12 0.12 0.65 0.65 0.20 0.20",
+    "boundary": "consolidated",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_ba0b26dbf3"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2024-25": {
+    "value": 6349999.999999999,
+    "unit": "MWh",
+    "raw": "22.86",
+    "raw_unit": "PJ",
+    "page": 45,
+    "quote": "Total electricity consumption (D) PJ 22.86 70.86 19.42 60.21 26.25 81.39 24.96 77.37",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_daa9796a9c"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2023-24": {
+    "value": 5394444.444444444,
+    "unit": "MWh",
+    "raw": "19.42",
+    "raw_unit": "PJ",
+    "page": 45,
+    "quote": "Total electricity consumption (D) PJ 22.86 70.86 19.42 60.21 26.25 81.39 24.96 77.37",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_ac97593f72"
+   },
+   "electricity_nonrenewable_mwh.consolidated.FY2024-25": {
+    "value": 7291666.666666666,
+    "unit": "MWh",
+    "raw": "26.25",
+    "raw_unit": "PJ",
+    "page": 45,
+    "quote": "Total electricity consumption (D) PJ 22.86 70.86 19.42 60.21 26.25 81.39 24.96 77.37",
+    "boundary": "consolidated",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_c8a757c480"
+   },
+   "electricity_nonrenewable_mwh.consolidated.FY2023-24": {
+    "value": 6933333.333333333,
+    "unit": "MWh",
+    "raw": "24.96",
+    "raw_unit": "PJ",
+    "page": 45,
+    "quote": "Total electricity consumption (D) PJ 22.86 70.86 19.42 60.21 26.25 81.39 24.96 77.37",
+    "boundary": "consolidated",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_1872ee9686"
+   },
+   "scope1.standalone.FY2024-25": {
+    "value": 61000000.0,
+    "unit": "tCO2e",
+    "raw": "61",
+    "raw_unit": "Million tonnes",
+    "page": 47,
+    "quote": "Total Scope 1 emissions Million tonnes COe 61 59 78 77",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_3fe7c89b11"
+   },
+   "scope1.standalone.FY2023-24": {
+    "value": 59000000.0,
+    "unit": "tCO2e",
+    "raw": "59",
+    "raw_unit": "Million tonnes",
+    "page": 47,
+    "quote": "Total Scope 1 emissions Million tonnes COe 61 59 78 77",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_df4a698ac8"
+   },
+   "scope1.consolidated.FY2024-25": {
+    "value": 78000000.0,
+    "unit": "tCO2e",
+    "raw": "78",
+    "raw_unit": "Million tonnes",
+    "page": 47,
+    "quote": "Total Scope 1 emissions Million tonnes COe 61 59 78 77",
+    "boundary": "consolidated",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_94e084e889"
+   },
+   "scope1.consolidated.FY2023-24": {
+    "value": 77000000.0,
+    "unit": "tCO2e",
+    "raw": "77",
+    "raw_unit": "Million tonnes",
+    "page": 47,
+    "quote": "Total Scope 1 emissions Million tonnes COe 61 59 78 77",
+    "boundary": "consolidated",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_336387dbf8"
+   },
+   "scope2.standalone.FY2024-25": {
+    "value": 5000000.0,
+    "unit": "tCO2e",
+    "raw": "5",
+    "raw_unit": "Million tonnes",
+    "page": 47,
+    "quote": "Total Scope 2 emissions Million tonnes COe 5 5 6 5",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_fcbb7f7f1f"
+   },
+   "scope2.standalone.FY2023-24": {
+    "value": 5000000.0,
+    "unit": "tCO2e",
+    "raw": "5",
+    "raw_unit": "Million tonnes",
+    "page": 47,
+    "quote": "Total Scope 2 emissions Million tonnes COe 5 5 6 5",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_621d1deea2"
+   },
+   "scope2.consolidated.FY2024-25": {
+    "value": 6000000.0,
+    "unit": "tCO2e",
+    "raw": "6",
+    "raw_unit": "Million tonnes",
+    "page": 47,
+    "quote": "Total Scope 2 emissions Million tonnes COe 5 5 6 5",
+    "boundary": "consolidated",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_9770537537"
+   },
+   "scope2.consolidated.FY2023-24": {
+    "value": 5000000.0,
+    "unit": "tCO2e",
+    "raw": "5",
+    "raw_unit": "Million tonnes",
+    "page": 47,
+    "quote": "Total Scope 2 emissions Million tonnes COe 5 5 6 5",
+    "boundary": "consolidated",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_1bcfccfd76"
+   }
+  }
+ },
+ {
+  "company": "TATASTEEL",
+  "symbol": "TATASTEEL",
+  "fy": "FY2023-24",
+  "engine": "rules",
+  "document_url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf",
+  "pages_scanned": 80,
+  "assurance": {
+   "assured": true,
+   "level": "reasonable",
+   "provider": "Price Waterhouse & Co Chartered Accountants LLP",
+   "scope": "standalone only",
+   "page": 64,
+   "quote": "Yes, Reasonable Assurance has been undertaken by Price Waterhouse & Co Chartered Accountants LLP, on the indicators in the table above, other than Total Scope 1 and Scope 2 emission intensity per rupee of turnover, for Standalone figures for FY2023-24.",
+   "evidence_id": "ev_pdf_page_165d396c6c"
+  },
+  "warnings": [],
+  "fields": {
+   "electricity_renewable_mwh.standalone.FY2023-24": {
+    "value": 33333.33333333333,
+    "unit": "MWh",
+    "raw": "0.12",
+    "raw_unit": "PJ",
+    "page": 61,
+    "quote": "Total electricity consumption (A) PJ 0.12 0.12 0.02 0.02 0.20 0.20 1.09 1.09",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_3919ce5a39"
+   },
+   "electricity_renewable_mwh.standalone.FY2022-23": {
+    "value": 5555.555555555555,
+    "unit": "MWh",
+    "raw": "0.02",
+    "raw_unit": "PJ",
+    "page": 61,
+    "quote": "Total electricity consumption (A) PJ 0.12 0.12 0.02 0.02 0.20 0.20 1.09 1.09",
+    "boundary": "standalone",
+    "fy": "FY2022-23",
+    "evidence_id": "ev_pdf_page_c2dac6fde4"
+   },
+   "electricity_renewable_mwh.consolidated.FY2023-24": {
+    "value": 55555.555555555555,
+    "unit": "MWh",
+    "raw": "0.20",
+    "raw_unit": "PJ",
+    "page": 61,
+    "quote": "Total electricity consumption (A) PJ 0.12 0.12 0.02 0.02 0.20 0.20 1.09 1.09",
+    "boundary": "consolidated",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_8ec8e21f73"
+   },
+   "electricity_renewable_mwh.consolidated.FY2022-23": {
+    "value": 302777.77777777775,
+    "unit": "MWh",
+    "raw": "1.09",
+    "raw_unit": "PJ",
+    "page": 61,
+    "quote": "Total electricity consumption (A) PJ 0.12 0.12 0.02 0.02 0.20 0.20 1.09 1.09",
+    "boundary": "consolidated",
+    "fy": "FY2022-23",
+    "evidence_id": "ev_pdf_page_535f89d9bb"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2023-24": {
+    "value": 7861111.111111111,
+    "unit": "MWh",
+    "raw": "28.30",
+    "raw_unit": "PJ",
+    "page": 61,
+    "quote": "Total electricity consumption (D) PJ 28.30 87.74 27.70 85.87 24.96 77.37 30.62 94.93",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_4764a0d5fe"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2022-23": {
+    "value": 7694444.444444443,
+    "unit": "MWh",
+    "raw": "27.70",
+    "raw_unit": "PJ",
+    "page": 61,
+    "quote": "Total electricity consumption (D) PJ 28.30 87.74 27.70 85.87 24.96 77.37 30.62 94.93",
+    "boundary": "standalone",
+    "fy": "FY2022-23",
+    "evidence_id": "ev_pdf_page_254e5008c0"
+   },
+   "electricity_nonrenewable_mwh.consolidated.FY2023-24": {
+    "value": 6933333.333333333,
+    "unit": "MWh",
+    "raw": "24.96",
+    "raw_unit": "PJ",
+    "page": 61,
+    "quote": "Total electricity consumption (D) PJ 28.30 87.74 27.70 85.87 24.96 77.37 30.62 94.93",
+    "boundary": "consolidated",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_51d5d5c1a8"
+   },
+   "electricity_nonrenewable_mwh.consolidated.FY2022-23": {
+    "value": 8505555.555555556,
+    "unit": "MWh",
+    "raw": "30.62",
+    "raw_unit": "PJ",
+    "page": 61,
+    "quote": "Total electricity consumption (D) PJ 28.30 87.74 27.70 85.87 24.96 77.37 30.62 94.93",
+    "boundary": "consolidated",
+    "fy": "FY2022-23",
+    "evidence_id": "ev_pdf_page_e932627fab"
+   },
+   "scope1.standalone.FY2023-24": {
+    "value": 56000000.0,
+    "unit": "tCO2e",
+    "raw": "56",
+    "raw_unit": "Million tonnes",
+    "page": 64,
+    "quote": "Total Scope 1 emissions Million tonnes COe 56 55 77 76",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_292275ac92"
+   },
+   "scope1.standalone.FY2022-23": {
+    "value": 55000000.0,
+    "unit": "tCO2e",
+    "raw": "55",
+    "raw_unit": "Million tonnes",
+    "page": 64,
+    "quote": "Total Scope 1 emissions Million tonnes COe 56 55 77 76",
+    "boundary": "standalone",
+    "fy": "FY2022-23",
+    "evidence_id": "ev_pdf_page_5ecae681b9"
+   },
+   "scope1.consolidated.FY2023-24": {
+    "value": 77000000.0,
+    "unit": "tCO2e",
+    "raw": "77",
+    "raw_unit": "Million tonnes",
+    "page": 64,
+    "quote": "Total Scope 1 emissions Million tonnes COe 56 55 77 76",
+    "boundary": "consolidated",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_98b6a415f0"
+   },
+   "scope1.consolidated.FY2022-23": {
+    "value": 76000000.0,
+    "unit": "tCO2e",
+    "raw": "76",
+    "raw_unit": "Million tonnes",
+    "page": 64,
+    "quote": "Total Scope 1 emissions Million tonnes COe 56 55 77 76",
+    "boundary": "consolidated",
+    "fy": "FY2022-23",
+    "evidence_id": "ev_pdf_page_bc3cffa56e"
+   },
+   "scope2.standalone.FY2023-24": {
+    "value": 7000000.0,
+    "unit": "tCO2e",
+    "raw": "7",
+    "raw_unit": "Million tonnes",
+    "page": 64,
+    "quote": "Total Scope 2 emissions Million tonnes COe 7 6 5 6",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_a19e1fbe00"
+   },
+   "scope2.standalone.FY2022-23": {
+    "value": 6000000.0,
+    "unit": "tCO2e",
+    "raw": "6",
+    "raw_unit": "Million tonnes",
+    "page": 64,
+    "quote": "Total Scope 2 emissions Million tonnes COe 7 6 5 6",
+    "boundary": "standalone",
+    "fy": "FY2022-23",
+    "evidence_id": "ev_pdf_page_abc53e2606"
+   },
+   "scope2.consolidated.FY2023-24": {
+    "value": 5000000.0,
+    "unit": "tCO2e",
+    "raw": "5",
+    "raw_unit": "Million tonnes",
+    "page": 64,
+    "quote": "Total Scope 2 emissions Million tonnes COe 7 6 5 6",
+    "boundary": "consolidated",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_5d4dc06b5b"
+   },
+   "scope2.consolidated.FY2022-23": {
+    "value": 6000000.0,
+    "unit": "tCO2e",
+    "raw": "6",
+    "raw_unit": "Million tonnes",
+    "page": 64,
+    "quote": "Total Scope 2 emissions Million tonnes COe 7 6 5 6",
+    "boundary": "consolidated",
+    "fy": "FY2022-23",
+    "evidence_id": "ev_pdf_page_4dec40a8bb"
+   }
+  }
+ }
+]

@@ -1,0 +1,1028 @@
+[
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25451489",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:448682",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25453799",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25451481",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.98,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25452937",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25451483",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.982,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25451479",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25451486",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25453947",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25451477",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25454007",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25452938",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25453594",
+  "weight": 0.49,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.962,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25452724",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:451683",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:448679",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25454678",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25452423",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25454369",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25451488",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.983,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25454553",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25454186",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25454554",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25452489",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:3900",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25453636",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25450307",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25450309",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:16676",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:16677",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:16715",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:708871",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:448673",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:448675",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:448677",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:448672",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:449922",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:715033",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.812,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:25451487",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:41629035",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NTPC",
+  "asset_id": "ct:32266250",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:1566853",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:32440770",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:1566854",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.976,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:25453916",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:3163805",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:449457",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:25454183",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.985,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:25450323",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:3163572",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158221",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158287",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:1567049",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158246",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.586,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158286",
+  "weight": 0.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158194",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158139",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158363",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.675,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158222",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158264",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.155,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "TATASTEEL",
+  "asset_id": "ct:43158189",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1896920",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.982,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897064",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.978,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897060",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897067",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897066",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897061",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.986,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897070",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.986,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897074",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897059",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:32438620",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897062",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1896919",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.985,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897055",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897065",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:32438616",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.986,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897056",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897058",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:42547391",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897073",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:25455120",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.973,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897069",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897063",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897057",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897071",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:708694",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:452311",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:451940",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ULTRACEMCO",
+  "asset_id": "ct:1897135",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:32440775",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.979,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:32440777",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.977,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:32440769",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.972,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:1566846",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:448606",
+  "weight": 0.1989,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:452316",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:451202",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158210",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158314",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158188",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158289",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158281",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158170",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158149",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158280",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158367",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.695,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "JSWSTEEL",
+  "asset_id": "ct:43158277",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ADANIPOWER",
+  "asset_id": "ct:25454050",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ADANIPOWER",
+  "asset_id": "ct:25453453",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ADANIPOWER",
+  "asset_id": "ct:25454271",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.972,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ADANIPOWER",
+  "asset_id": "ct:25454267",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ADANIPOWER",
+  "asset_id": "ct:46885434",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ADANIPOWER",
+  "asset_id": "ct:25451354",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ADANIPOWER",
+  "asset_id": "ct:718368",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.971,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ADANIPOWER",
+  "asset_id": "ct:717596",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ }
+]

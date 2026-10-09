@@ -1,0 +1,26 @@
+{
+  "entity_id": "E100001000516",
+  "name": "JSW Steel",
+  "full_name": "JSW Steel Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Mahārāshtra",
+  "registration_country": "India",
+  "home_page": "https://www.jsw.in/",
+  "external_ids": {
+    "lei": "335800EK6HZSC4CVAJ09",
+    "permid": "4295872888",
+    "india_cin": "L27102MH1994PLC152925"
+  },
+  "url": "/entities/E100001000516",
+  "owners_url": "/entities/E100001000516/owners",
+  "owned_url": "/entities/E100001000516/owned",
+  "trace_up_url": "/entities/E100001000516/trace/up",
+  "trace_down_url": "/entities/E100001000516/trace/down",
+  "graph_up_url": "/entities/E100001000516/graph/up",
+  "graph_down_url": "/entities/E100001000516/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100001000516&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100001000516"
+}

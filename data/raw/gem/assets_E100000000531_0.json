@@ -1,0 +1,2197 @@
+{
+  "total": 81,
+  "total_asset_count": 81,
+  "total_location_count": 79,
+  "limit": 200,
+  "offset": 0,
+  "count": 81,
+  "results": [
+    {
+      "asset_id": "M3850",
+      "location_id": "M3850",
+      "asset_name": "Arjuni (Eastern) Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 1.2,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.343434,
+      "longitude": 81.259475,
+      "wiki_url": "https://www.gem.wiki/Arjuni_(Eastern)_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M3850",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Arjuni (Eastern) Coal Mine"
+    },
+    {
+      "asset_id": "L100000102032_G100000100460",
+      "location_id": "L100000102032",
+      "asset_name": "Balaji Cement power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 35.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 16.87048839,
+      "longitude": 80.02201662,
+      "wiki_url": "https://www.gem.wiki/Balaji_Cement_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102032_G100000100460",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Balaji Cement power station"
+    },
+    {
+      "asset_id": "M4468",
+      "location_id": "M4468",
+      "asset_name": "Bicharpur Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 0.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.265914,
+      "longitude": 81.343859,
+      "wiki_url": "https://www.gem.wiki/Bicharpur_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M4468",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bicharpur Coal Mine"
+    },
+    {
+      "asset_id": "L100001019039_G100001021428",
+      "location_id": "L100001019039",
+      "asset_name": "Coromandel Sugar power station --",
+      "asset_type": "Bioenergy Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": null,
+      "latitude": 12.703697238894,
+      "longitude": 76.4216078530924,
+      "wiki_url": "https://www.gem.wiki/Coromandel_Sugar_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100001019039_G100001021428",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100002000950",
+          "name": "Coromandel Sugars Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Coromandel Sugar power station"
+    },
+    {
+      "asset_id": "L100000408396_G100000411778",
+      "location_id": "L100000408396",
+      "asset_name": "Gujarat Cement Works Combined Cycle power station 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 20.910433,
+      "longitude": 71.458493,
+      "wiki_url": "https://www.gem.wiki/Gujarat_Cement_Works_Combined_Cycle_power_station",
+      "unit_name": "1.0",
+      "url": "/assets/L100000408396_G100000411778",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000003148",
+          "name": "Gujarat Cement Works",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gujarat Cement Works Combined Cycle power station"
+    },
+    {
+      "asset_id": "P100000123945",
+      "location_id": "P100000123945",
+      "asset_name": "India Cements Alathiyur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.71,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.357619,
+      "longitude": 79.223045,
+      "wiki_url": "https://www.gem.wiki/India_Cements_Alathiyur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123945",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002002166",
+          "name": "India Cements Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "India Cements Alathiyur Cement Plant"
+    },
+    {
+      "asset_id": "P100000123953",
+      "location_id": "P100000123953",
+      "asset_name": "India Cements Athipatttu Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.1,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 13.241161,
+      "longitude": 80.291687,
+      "wiki_url": "https://www.gem.wiki/India_Cements_Athipatttu_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123953",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002002166",
+          "name": "India Cements Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "India Cements Athipatttu Cement Plant"
+    },
+    {
+      "asset_id": "P100000123946",
+      "location_id": "P100000123946",
+      "asset_name": "India Cements Chilamakuru Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.665693,
+      "longitude": 78.457835,
+      "wiki_url": "https://www.gem.wiki/India_Cements_Chilamakuru_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123946",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002002166",
+          "name": "India Cements Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "India Cements Chilamakuru Cement Plant"
+    },
+    {
+      "asset_id": "P100000123947",
+      "location_id": "P100000123947",
+      "asset_name": "India Cements Malkapur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.4,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Telangana",
+      "latitude": 17.331722,
+      "longitude": 77.487459,
+      "wiki_url": "https://www.gem.wiki/India_Cements_Malkapur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123947",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002002166",
+          "name": "India Cements Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "India Cements Malkapur Cement Plant"
+    },
+    {
+      "asset_id": "P100000123954",
+      "location_id": "P100000123954",
+      "asset_name": "India Cements Parli Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.1,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.861883,
+      "longitude": 76.542925,
+      "wiki_url": "https://www.gem.wiki/India_Cements_Parli_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123954",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002002166",
+          "name": "India Cements Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "India Cements Parli Cement Plant"
+    },
+    {
+      "asset_id": "P100000123948",
+      "location_id": "P100000123948",
+      "asset_name": "India Cements Sankari West Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.7,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.454468,
+      "longitude": 77.828686,
+      "wiki_url": "https://www.gem.wiki/India_Cements_Sankari_West_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123948",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002002166",
+          "name": "India Cements Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "India Cements Sankari West Cement Plant"
+    },
+    {
+      "asset_id": "P100000123949",
+      "location_id": "P100000123949",
+      "asset_name": "India Cements Sankarnagar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.05,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.78885,
+      "longitude": 77.730918,
+      "wiki_url": "https://www.gem.wiki/India_Cements_Sankarnagar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123949",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002002166",
+          "name": "India Cements Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "India Cements Sankarnagar Cement Plant"
+    },
+    {
+      "asset_id": "P100000123950",
+      "location_id": "P100000123950",
+      "asset_name": "India Cements Wadapally Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Telangana",
+      "latitude": 16.696363,
+      "longitude": 79.648627,
+      "wiki_url": "https://www.gem.wiki/India_Cements_Wadapally_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123950",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002002166",
+          "name": "India Cements Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "India Cements Wadapally Cement Plant"
+    },
+    {
+      "asset_id": "P100000123951",
+      "location_id": "P100000123951",
+      "asset_name": "India Cements YSR District Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.897,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.642947,
+      "longitude": 78.528902,
+      "wiki_url": "https://www.gem.wiki/India_Cements_YSR_District_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123951",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002002166",
+          "name": "India Cements Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "India Cements YSR District Cement Plant"
+    },
+    {
+      "asset_id": "L100001047295_G100001053784",
+      "location_id": "L100001047295",
+      "asset_name": "Makavalli Sugar power station --",
+      "asset_type": "Bioenergy Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": null,
+      "latitude": 12.70079,
+      "longitude": 76.42107,
+      "wiki_url": "https://www.gem.wiki/Makavalli_Sugar_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100001047295_G100001053784",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100002000950",
+          "name": "Coromandel Sugars Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Makavalli Sugar power station"
+    },
+    {
+      "asset_id": "P100000126945",
+      "location_id": "P100000126945",
+      "asset_name": "Ras Al Khaimah for White Cement & Construction Materials Khor Khwair Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.9,
+      "capacity_unit": "Mtpa",
+      "country": "United Arab Emirates",
+      "state_province": "Ras Al Khaimah",
+      "latitude": 25.96367,
+      "longitude": 56.070173,
+      "wiki_url": "https://www.gem.wiki/Ras_Al_Khaimah_for_White_Cement_&_Construction_Materials_Khor_Khwair_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000126945",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002006968",
+          "name": "Ras Al Khaimah Co for White Cement & Construction Materials PSC",
+          "ownership_share": 100.0,
+          "hq_country": "United Arab Emirates"
+        }
+      ],
+      "project_name": "Ras Al Khaimah for White Cement & Construction Materials Khor Khwair Cement Plant"
+    },
+    {
+      "asset_id": "L100000102178_G100000108490",
+      "location_id": "L100000102178",
+      "asset_name": "Rawan Cement power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 24.764914,
+      "longitude": 74.609613,
+      "wiki_url": "https://www.gem.wiki/Rawan_Cement_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102178_G100000108490",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rawan Cement power station"
+    },
+    {
+      "asset_id": "L100000102367_G100000109345",
+      "location_id": "L100000102367",
+      "asset_name": "Sidhi Cement Plant power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 35.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.326294,
+      "longitude": 81.332817,
+      "wiki_url": "https://www.gem.wiki/Sidhi_Cement_Plant_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102367_G100000109345",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sidhi Cement Plant power station"
+    },
+    {
+      "asset_id": "L100000102367_G100000114794",
+      "location_id": "L100000102367",
+      "asset_name": "Sidhi Cement Plant power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.326294,
+      "longitude": 81.332817,
+      "wiki_url": "https://www.gem.wiki/Sidhi_Cement_Plant_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102367_G100000114794",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sidhi Cement Plant power station"
+    },
+    {
+      "asset_id": "L100000102367_G100000114795",
+      "location_id": "L100000102367",
+      "asset_name": "Sidhi Cement Plant power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.326294,
+      "longitude": 81.332817,
+      "wiki_url": "https://www.gem.wiki/Sidhi_Cement_Plant_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102367_G100000114795",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sidhi Cement Plant power station"
+    },
+    {
+      "asset_id": "P100000126952",
+      "location_id": "P100000126952",
+      "asset_name": "Star Cement Abu Dhabi Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.2,
+      "capacity_unit": "Mtpa",
+      "country": "United Arab Emirates",
+      "state_province": "Abu Dhabi",
+      "latitude": 24.327392,
+      "longitude": 54.500454,
+      "wiki_url": "https://www.gem.wiki/Star_Cement_Abu_Dhabi_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000126952",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002006288",
+          "name": "Star Cement Co LLC",
+          "ownership_share": 100.0,
+          "hq_country": "United Arab Emirates"
+        }
+      ],
+      "project_name": "Star Cement Abu Dhabi Cement Plant"
+    },
+    {
+      "asset_id": "P100000125912",
+      "location_id": "P100000125912",
+      "asset_name": "Star Cement Aden Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.5,
+      "capacity_unit": "Mtpa",
+      "country": "Yemen",
+      "state_province": "Aden",
+      "latitude": 12.816402,
+      "longitude": 44.900589,
+      "wiki_url": "https://www.gem.wiki/Star_Cement_Aden_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000125912",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002006288",
+          "name": "Star Cement Co LLC",
+          "ownership_share": 100.0,
+          "hq_country": "United Arab Emirates"
+        }
+      ],
+      "project_name": "Star Cement Aden Cement Plant"
+    },
+    {
+      "asset_id": "P100000126951",
+      "location_id": "P100000126951",
+      "asset_name": "Star Cement Ajman Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.9,
+      "capacity_unit": "Mtpa",
+      "country": "United Arab Emirates",
+      "state_province": "Ajman",
+      "latitude": 25.434061,
+      "longitude": 55.552846,
+      "wiki_url": "https://www.gem.wiki/Star_Cement_Ajman_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000126951",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002006288",
+          "name": "Star Cement Co LLC",
+          "ownership_share": 100.0,
+          "hq_country": "United Arab Emirates"
+        }
+      ],
+      "project_name": "Star Cement Ajman Cement Plant"
+    },
+    {
+      "asset_id": "P100000124130",
+      "location_id": "P100000124130",
+      "asset_name": "Star Cement East Jaintia Hills Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.8,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Meghalaya",
+      "latitude": 25.177887,
+      "longitude": 92.390338,
+      "wiki_url": "https://www.gem.wiki/Star_Cement_East_Jaintia_Hills_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124130",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002002606",
+          "name": "Star Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Star Cement East Jaintia Hills Cement Plant"
+    },
+    {
+      "asset_id": "P100000124626",
+      "location_id": "P100000124626",
+      "asset_name": "Star Cement Guwahati Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 26.132494,
+      "longitude": 92.003628,
+      "wiki_url": "https://www.gem.wiki/Star_Cement_Guwahati_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124626",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002002606",
+          "name": "Star Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Star Cement Guwahati Cement Plant"
+    },
+    {
+      "asset_id": "P100000126950",
+      "location_id": "P100000126950",
+      "asset_name": "Star Cement Jebel Ali Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.365,
+      "capacity_unit": "Mtpa",
+      "country": "United Arab Emirates",
+      "state_province": "Dubai",
+      "latitude": 25.002418,
+      "longitude": 55.133807,
+      "wiki_url": "https://www.gem.wiki/Star_Cement_Jebel_Ali_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000126950",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002006288",
+          "name": "Star Cement Co LLC",
+          "ownership_share": 100.0,
+          "hq_country": "United Arab Emirates"
+        }
+      ],
+      "project_name": "Star Cement Jebel Ali Cement Plant"
+    },
+    {
+      "asset_id": "P100000126949",
+      "location_id": "P100000126949",
+      "asset_name": "Star Cement Ras Al Banah Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "country": "United Arab Emirates",
+      "state_province": "Fujairah",
+      "latitude": 25.556223,
+      "longitude": 55.977795,
+      "wiki_url": "https://www.gem.wiki/Star_Cement_Ras_Al_Banah_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000126949",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002006288",
+          "name": "Star Cement Co LLC",
+          "ownership_share": 100.0,
+          "hq_country": "United Arab Emirates"
+        }
+      ],
+      "project_name": "Star Cement Ras Al Banah Cement Plant"
+    },
+    {
+      "asset_id": "P100000124627",
+      "location_id": "P100000124627",
+      "asset_name": "Star Cement Siliguri Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 26.527049,
+      "longitude": 88.675118,
+      "wiki_url": "https://www.gem.wiki/Star_Cement_Siliguri_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124627",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002002606",
+          "name": "Star Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Star Cement Siliguri Cement Plant"
+    },
+    {
+      "asset_id": "P100000124061",
+      "location_id": "P100000124061",
+      "asset_name": "UltraTech Cement Adityapuram Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 8.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.765642,
+      "longitude": 74.609918,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Adityapuram_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124061",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Adityapuram Cement Plant"
+    },
+    {
+      "asset_id": "P100000124075",
+      "location_id": "P100000124075",
+      "asset_name": "UltraTech Cement Ambedkar Nagar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.2,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.576623,
+      "longitude": 82.584652,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Ambedkar_Nagar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124075",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Ambedkar Nagar Cement Plant"
+    },
+    {
+      "asset_id": "P100000124067",
+      "location_id": "P100000124067",
+      "asset_name": "UltraTech Cement Amreli Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 8.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 20.910015,
+      "longitude": 71.46093,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Amreli_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124067",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Amreli Cement Plant"
+    },
+    {
+      "asset_id": "P100000124079",
+      "location_id": "P100000124079",
+      "asset_name": "UltraTech Cement Arakkonam Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.2,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 13.078557,
+      "longitude": 79.613393,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Arakkonam_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124079",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Arakkonam Cement Plant"
+    },
+    {
+      "asset_id": "P100000124076",
+      "location_id": "P100000124076",
+      "asset_name": "UltraTech Cement Bagheri Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Himachal Pradesh",
+      "latitude": 31.197965,
+      "longitude": 76.629839,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Bagheri_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124076",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Bagheri Cement Plant"
+    },
+    {
+      "asset_id": "P100000127018",
+      "location_id": "P100000127018",
+      "asset_name": "UltraTech Cement Bahrain Company Al Hidd Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.0,
+      "capacity_unit": "Mtpa",
+      "country": "Bahrain",
+      "state_province": "Muharraq",
+      "latitude": 26.220002,
+      "longitude": 50.656492,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Bahrain_Company_Al_Hidd_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000127018",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002006072",
+          "name": "UltraTech Cement Bahrain Company WLL",
+          "ownership_share": 100.0,
+          "hq_country": "Bahrain"
+        }
+      ],
+      "project_name": "UltraTech Cement Bahrain Company Al Hidd Cement Plant"
+    },
+    {
+      "asset_id": "P100000124635",
+      "location_id": "P100000124635",
+      "asset_name": "UltraTech Cement Bara Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.195499,
+      "longitude": 81.64584,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Bara_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124635",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Bara Cement Plant"
+    },
+    {
+      "asset_id": "P100000124086",
+      "location_id": "P100000124086",
+      "asset_name": "UltraTech Cement Bathinda Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": 30.272417,
+      "longitude": 75.162379,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Bathinda_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124086",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Bathinda Cement Plant"
+    },
+    {
+      "asset_id": "P100000124059",
+      "location_id": "P100000124059",
+      "asset_name": "UltraTech Cement Budawada Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 16.871085,
+      "longitude": 80.021716,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Budawada_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124059",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Budawada Cement Plant"
+    },
+    {
+      "asset_id": "P100000124062",
+      "location_id": "P100000124062",
+      "asset_name": "UltraTech Cement Chandrapur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 6.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.785699,
+      "longitude": 79.148964,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Chandrapur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124062",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Chandrapur Cement Plant"
+    },
+    {
+      "asset_id": "P100000124636",
+      "location_id": "P100000124636",
+      "asset_name": "UltraTech Cement Cuttack Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.568733,
+      "longitude": 85.778679,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Cuttack_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124636",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Cuttack Cement Plant"
+    },
+    {
+      "asset_id": "P100000124057",
+      "location_id": "P100000124057",
+      "asset_name": "UltraTech Cement Dalla Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.8,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.449401,
+      "longitude": 83.039567,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Dalla_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124057",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Dalla Cement Plant"
+    },
+    {
+      "asset_id": "P100000123919",
+      "location_id": "P100000123919",
+      "asset_name": "UltraTech Cement Dhalo Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 24.388462,
+      "longitude": 88.083237,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Dhalo_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123919",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Dhalo Cement Plant"
+    },
+    {
+      "asset_id": "P100000124473",
+      "location_id": "P100000124473",
+      "asset_name": "UltraTech Cement Dhule Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.8,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.152727,
+      "longitude": 74.850639,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Dhule_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124473",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Dhule Cement Plant"
+    },
+    {
+      "asset_id": "P100000124078",
+      "location_id": "P100000124078",
+      "asset_name": "UltraTech Cement Dhutra Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.892175,
+      "longitude": 84.098455,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Dhutra_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124078",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Dhutra Cement Plant"
+    },
+    {
+      "asset_id": "P100000124088",
+      "location_id": "P100000124088",
+      "asset_name": "UltraTech Cement Durgapur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.492432,
+      "longitude": 87.362242,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Durgapur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124088",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Durgapur Cement Plant"
+    },
+    {
+      "asset_id": "P100000123917",
+      "location_id": "P100000123917",
+      "asset_name": "UltraTech Cement Gadchandur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 6.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.724394,
+      "longitude": 79.176075,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Gadchandur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123917",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Gadchandur Cement Plant"
+    },
+    {
+      "asset_id": "P100000124082",
+      "location_id": "P100000124082",
+      "asset_name": "UltraTech Cement Hipale Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 17.558229,
+      "longitude": 76.003405,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Hipale_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124082",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Hipale Cement Plant"
+    },
+    {
+      "asset_id": "P100000124065",
+      "location_id": "P100000124065",
+      "asset_name": "UltraTech Cement Hirmi Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.55,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.545403,
+      "longitude": 81.947803,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Hirmi_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124065",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Hirmi Cement Plant"
+    },
+    {
+      "asset_id": "P100000124080",
+      "location_id": "P100000124080",
+      "asset_name": "UltraTech Cement Hooghly Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.726902,
+      "longitude": 88.26913,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Hooghly_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124080",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Hooghly Cement Plant"
+    },
+    {
+      "asset_id": "P100000124063",
+      "location_id": "P100000124063",
+      "asset_name": "UltraTech Cement Jafrabad Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.45,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 20.868289,
+      "longitude": 71.397709,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Jafrabad_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124063",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Jafrabad Cement Plant"
+    },
+    {
+      "asset_id": "P100000124058",
+      "location_id": "P100000124058",
+      "asset_name": "UltraTech Cement Jaypee Puram Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.528559,
+      "longitude": 81.169019,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Jaypee_Puram_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124058",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Jaypee Puram Cement Plant"
+    },
+    {
+      "asset_id": "P100000124083",
+      "location_id": "P100000124083",
+      "asset_name": "UltraTech Cement Jhajjar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.8,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 28.505156,
+      "longitude": 76.36704,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Jhajjar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124083",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Jhajjar Cement Plant"
+    },
+    {
+      "asset_id": "P100000124073",
+      "location_id": "P100000124073",
+      "asset_name": "UltraTech Cement Kandhar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.54,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Himachal Pradesh",
+      "latitude": 31.3282,
+      "longitude": 76.894259,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Kandhar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124073",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Kandhar Cement Plant"
+    },
+    {
+      "asset_id": "P100000124085",
+      "location_id": "P100000124085",
+      "asset_name": "UltraTech Cement Kasimpur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 27.989507,
+      "longitude": 78.136713,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Kasimpur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124085",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Kasimpur Cement Plant"
+    },
+    {
+      "asset_id": "P100000124091",
+      "location_id": "P100000124091",
+      "asset_name": "UltraTech Cement Katni Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.680882,
+      "longitude": 80.650487,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Katni_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124091",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Katni Cement Plant"
+    },
+    {
+      "asset_id": "P100000124069",
+      "location_id": "P100000124069",
+      "asset_name": "UltraTech Cement Kharia Khangar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.4,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 26.606036,
+      "longitude": 73.684448,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Kharia_Khangar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124069",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Kharia Khangar Cement Plant"
+    },
+    {
+      "asset_id": "P100000124081",
+      "location_id": "P100000124081",
+      "asset_name": "UltraTech Cement Koppal Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.352161,
+      "longitude": 76.263198,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Koppal_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124081",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Koppal Cement Plant"
+    },
+    {
+      "asset_id": "P100000124068",
+      "location_id": "P100000124068",
+      "asset_name": "UltraTech Cement Kotputli Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 27.668801,
+      "longitude": 76.128894,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Kotputli_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124068",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Kotputli Cement Plant"
+    },
+    {
+      "asset_id": "P100000124087",
+      "location_id": "P100000124087",
+      "asset_name": "UltraTech Cement Magdalla Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.137147,
+      "longitude": 72.733044,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Magdalla_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124087",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Magdalla Cement Plant"
+    },
+    {
+      "asset_id": "P100000123918",
+      "location_id": "P100000123918",
+      "asset_name": "UltraTech Cement Maihar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 12.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.202644,
+      "longitude": 80.799867,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Maihar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123918",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Maihar Cement Plant"
+    },
+    {
+      "asset_id": "P100000124092",
+      "location_id": "P100000124092",
+      "asset_name": "UltraTech Cement Nagpur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.249633,
+      "longitude": 79.370573,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Nagpur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124092",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Nagpur Cement Plant"
+    },
+    {
+      "asset_id": "P100000124141",
+      "location_id": "P100000124141",
+      "asset_name": "UltraTech Cement Neem Ka Thana Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.2,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 27.693977,
+      "longitude": 75.728868,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Neem_Ka_Thana_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124141",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Neem Ka Thana Cement Plant"
+    },
+    {
+      "asset_id": "P100000124060",
+      "location_id": "P100000124060",
+      "asset_name": "UltraTech Cement Nrupathanga Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 8.7,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 17.141011,
+      "longitude": 77.176197,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Nrupathanga_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124060",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Nrupathanga Cement Plant"
+    },
+    {
+      "asset_id": "P100000124637",
+      "location_id": "P100000124637",
+      "asset_name": "UltraTech Cement Pali Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 26.258739,
+      "longitude": 74.094808,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Pali_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124637",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Pali Cement Plant"
+    },
+    {
+      "asset_id": "P100000124084",
+      "location_id": "P100000124084",
+      "asset_name": "UltraTech Cement Panipat Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.4,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 29.289373,
+      "longitude": 76.808284,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Panipat_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124084",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Panipat Cement Plant"
+    },
+    {
+      "asset_id": "P100000124093",
+      "location_id": "P100000124093",
+      "asset_name": "UltraTech Cement Patliputra Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.7,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.395551,
+      "longitude": 85.292394,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Patliputra_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124093",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Patliputra Cement Plant"
+    },
+    {
+      "asset_id": "P100000127212",
+      "location_id": "P100000127212",
+      "asset_name": "UltraTech Cement Patratu Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.54,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.620478,
+      "longitude": 85.274431,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Patratu_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000127212",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Patratu Cement Plant"
+    },
+    {
+      "asset_id": "P100000124090",
+      "location_id": "P100000124090",
+      "asset_name": "UltraTech Cement Ratnagiri Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.48,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 17.0013,
+      "longitude": 73.303187,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Ratnagiri_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124090",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Ratnagiri Cement Plant"
+    },
+    {
+      "asset_id": "P100000124070",
+      "location_id": "P100000124070",
+      "asset_name": "UltraTech Cement Rawan Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 6.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.577059,
+      "longitude": 82.021174,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Rawan_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124070",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Rawan Cement Plant"
+    },
+    {
+      "asset_id": "P100000124071",
+      "location_id": "P100000124071",
+      "asset_name": "UltraTech Cement Reddipalayam Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.60002,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.105441,
+      "longitude": 79.172074,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Reddipalayam_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124071",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Reddipalayam Cement Plant"
+    },
+    {
+      "asset_id": "P100000124094",
+      "location_id": "P100000124094",
+      "asset_name": "UltraTech Cement Roorkee Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttarakhand",
+      "latitude": 29.888977,
+      "longitude": 77.812058,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Roorkee_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124094",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Roorkee Cement Plant"
+    },
+    {
+      "asset_id": "P100000124089",
+      "location_id": "P100000124089",
+      "asset_name": "UltraTech Cement Salarpur Khadar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.578002,
+      "longitude": 77.592701,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Salarpur_Khadar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124089",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Salarpur Khadar Cement Plant"
+    },
+    {
+      "asset_id": "P100000124072",
+      "location_id": "P100000124072",
+      "asset_name": "UltraTech Cement Sewagram Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 23.42854,
+      "longitude": 68.712812,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Sewagram_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124072",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Sewagram Cement Plant"
+    },
+    {
+      "asset_id": "P100000124056",
+      "location_id": "P100000124056",
+      "asset_name": "UltraTech Cement Sidhi Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.327418,
+      "longitude": 81.329448,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Sidhi_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124056",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Sidhi Cement Plant"
+    },
+    {
+      "asset_id": "P100000124095",
+      "location_id": "P100000124095",
+      "asset_name": "UltraTech Cement Sikandrabad Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.469413,
+      "longitude": 77.666031,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Sikandrabad_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124095",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Sikandrabad Cement Plant"
+    },
+    {
+      "asset_id": "P100000124055",
+      "location_id": "P100000124055",
+      "asset_name": "UltraTech Cement Sirohi Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.85,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.82232,
+      "longitude": 73.093914,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Sirohi_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124055",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Sirohi Cement Plant"
+    },
+    {
+      "asset_id": "P100000124064",
+      "location_id": "P100000124064",
+      "asset_name": "UltraTech Cement Tadipatri Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 9.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 15.023021,
+      "longitude": 78.01432,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Tadipatri_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124064",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Tadipatri Cement Plant"
+    },
+    {
+      "asset_id": "P100000124074",
+      "location_id": "P100000124074",
+      "asset_name": "UltraTech Cement Tonki Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5.2,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.266143,
+      "longitude": 75.131695,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Tonki_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124074",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Tonki Cement Plant"
+    },
+    {
+      "asset_id": "P100000126783",
+      "location_id": "P100000126783",
+      "asset_name": "UltraTech Cement Velliyanai Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 10.805317,
+      "longitude": 78.113993,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Velliyanai_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000126783",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Velliyanai Cement Plant"
+    },
+    {
+      "asset_id": "P100000124066",
+      "location_id": "P100000124066",
+      "asset_name": "UltraTech Cement Vikram Nagar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 6.67,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.578516,
+      "longitude": 74.803992,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Vikram_Nagar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124066",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Vikram Nagar Cement Plant"
+    },
+    {
+      "asset_id": "P100000124137",
+      "location_id": "P100000124137",
+      "asset_name": "UltraTech Cement Vilemar Kundi Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.01,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.44605,
+      "longitude": 83.075826,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Vilemar_Kundi_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124137",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Vilemar Kundi Cement Plant"
+    },
+    {
+      "asset_id": "P100000124077",
+      "location_id": "P100000124077",
+      "asset_name": "UltraTech Cement Wanakbori Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.86688,
+      "longitude": 73.360916,
+      "wiki_url": "https://www.gem.wiki/UltraTech_Cement_Wanakbori_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124077",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000000531",
+          "name": "UltraTech Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "UltraTech Cement Wanakbori Cement Plant"
+    }
+  ]
+}

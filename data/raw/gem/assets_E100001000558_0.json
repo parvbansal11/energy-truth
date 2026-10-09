@@ -1,0 +1,2359 @@
+{
+  "total": 87,
+  "total_asset_count": 87,
+  "total_location_count": 20,
+  "limit": 200,
+  "offset": 0,
+  "count": 87,
+  "results": [
+    {
+      "asset_id": "L100001080946_G100001090948",
+      "location_id": "L100001080946",
+      "asset_name": "Adani Chapar power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 26.2314806,
+      "longitude": 90.3041611,
+      "wiki_url": "https://www.gem.wiki/Adani_Chapar_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100001080946_G100001090948",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Chapar power station"
+    },
+    {
+      "asset_id": "L100001080946_G100001090949",
+      "location_id": "L100001080946",
+      "asset_name": "Adani Chapar power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 26.2314806,
+      "longitude": 90.3041611,
+      "wiki_url": "https://www.gem.wiki/Adani_Chapar_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100001080946_G100001090949",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Chapar power station"
+    },
+    {
+      "asset_id": "L100001080946_G100001090950",
+      "location_id": "L100001080946",
+      "asset_name": "Adani Chapar power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 26.2314806,
+      "longitude": 90.3041611,
+      "wiki_url": "https://www.gem.wiki/Adani_Chapar_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100001080946_G100001090950",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Chapar power station"
+    },
+    {
+      "asset_id": "L100001080946_G100001090951",
+      "location_id": "L100001080946",
+      "asset_name": "Adani Chapar power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 26.2314806,
+      "longitude": 90.3041611,
+      "wiki_url": "https://www.gem.wiki/Adani_Chapar_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100001080946_G100001090951",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Chapar power station"
+    },
+    {
+      "asset_id": "L100000102243_G100000107820",
+      "location_id": "L100000102243",
+      "asset_name": "Adani Godda power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.814107,
+      "longitude": 87.135465,
+      "wiki_url": "https://www.gem.wiki/Adani_Godda_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102243_G100000107820",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Godda power station"
+    },
+    {
+      "asset_id": "L100000102243_G100000107821",
+      "location_id": "L100000102243",
+      "asset_name": "Adani Godda power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.814107,
+      "longitude": 87.135465,
+      "wiki_url": "https://www.gem.wiki/Adani_Godda_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102243_G100000107821",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Godda power station"
+    },
+    {
+      "asset_id": "L100000102121_G100000100034",
+      "location_id": "L100000102121",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.743775,
+      "longitude": 83.274093,
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102121_G100000100034",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Raigarh Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102121_G100000100035",
+      "location_id": "L100000102121",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.743775,
+      "longitude": 83.274093,
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102121_G100000100035",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Raigarh Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102121_G100000100036",
+      "location_id": "L100000102121",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.743775,
+      "longitude": 83.274093,
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102121_G100000100036",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Raigarh Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102121_G100001072694",
+      "location_id": "L100000102121",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.753318,
+      "longitude": 83.278732,
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102121_G100001072694",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Raigarh Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102121_G100001072695",
+      "location_id": "L100000102121",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.753318,
+      "longitude": 83.278732,
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102121_G100001072695",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adani Raigarh Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102127_G100000100593",
+      "location_id": "L100000102127",
+      "asset_name": "Baradarha power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.911436,
+      "longitude": 83.188863,
+      "wiki_url": "https://www.gem.wiki/Baradarha_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102127_G100000100593",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120294",
+          "name": "DB Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Baradarha power station"
+    },
+    {
+      "asset_id": "L100000102127_G100000100594",
+      "location_id": "L100000102127",
+      "asset_name": "Baradarha power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.911436,
+      "longitude": 83.188863,
+      "wiki_url": "https://www.gem.wiki/Baradarha_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102127_G100000100594",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120294",
+          "name": "DB Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Baradarha power station"
+    },
+    {
+      "asset_id": "L100000102196_G100000100781",
+      "location_id": "L100000102196",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102196_G100000100781",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000559",
+          "name": "Kutchh Power Generation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102196_G100000100782",
+      "location_id": "L100000102196",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102196_G100000100782",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000559",
+          "name": "Kutchh Power Generation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102196_G100000100783",
+      "location_id": "L100000102196",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102196_G100000100783",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000559",
+          "name": "Kutchh Power Generation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102196_G100000100784",
+      "location_id": "L100000102196",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102196_G100000100784",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000559",
+          "name": "Kutchh Power Generation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102196_G100000100785",
+      "location_id": "L100000102196",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102196_G100000100785",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000559",
+          "name": "Kutchh Power Generation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102387_G100000101135",
+      "location_id": "L100000102387",
+      "asset_name": "Butibori Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.928591,
+      "longitude": 78.933281,
+      "wiki_url": "https://www.gem.wiki/Butibori_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102387_G100000101135",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Butibori Power Project"
+    },
+    {
+      "asset_id": "L100000102387_G100000101136",
+      "location_id": "L100000102387",
+      "asset_name": "Butibori Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.928591,
+      "longitude": 78.933281,
+      "wiki_url": "https://www.gem.wiki/Butibori_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102387_G100000101136",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Butibori Power Project"
+    },
+    {
+      "asset_id": "L100000102336_G100000103101",
+      "location_id": "L100000102336",
+      "asset_name": "Gorgi power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.116667,
+      "longitude": 81.933333,
+      "wiki_url": "https://www.gem.wiki/Gorgi_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102336_G100000103101",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120294",
+          "name": "DB Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gorgi power station"
+    },
+    {
+      "asset_id": "L100000102336_G100000103102",
+      "location_id": "L100000102336",
+      "asset_name": "Gorgi power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.116667,
+      "longitude": 81.933333,
+      "wiki_url": "https://www.gem.wiki/Gorgi_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102336_G100000103102",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120294",
+          "name": "DB Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gorgi power station"
+    },
+    {
+      "asset_id": "L100000102342_G100000105616",
+      "location_id": "L100000102342",
+      "asset_name": "Katni power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.834659,
+      "longitude": 80.395517,
+      "wiki_url": "https://www.gem.wiki/Katni_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102342_G100000105616",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000561",
+          "name": "Katni Thermal Energy (MP) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Katni power station"
+    },
+    {
+      "asset_id": "L100000102342_G100000105617",
+      "location_id": "L100000102342",
+      "asset_name": "Katni power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.834659,
+      "longitude": 80.395517,
+      "wiki_url": "https://www.gem.wiki/Katni_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102342_G100000105617",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000561",
+          "name": "Katni Thermal Energy (MP) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Katni power station"
+    },
+    {
+      "asset_id": "L100000102342_G100000105618",
+      "location_id": "L100000102342",
+      "asset_name": "Katni power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.834659,
+      "longitude": 80.395517,
+      "wiki_url": "https://www.gem.wiki/Katni_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102342_G100000105618",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000561",
+          "name": "Katni Thermal Energy (MP) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Katni power station"
+    },
+    {
+      "asset_id": "L100000102528_G100000105625",
+      "location_id": "L100000102528",
+      "asset_name": "Kawai Thermal Power Project Phase II Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "unit_name": "Phase II Unit 1",
+      "url": "/assets/L100000102528_G100000105625",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kawai Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102528_G100000105626",
+      "location_id": "L100000102528",
+      "asset_name": "Kawai Thermal Power Project Phase II Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "unit_name": "Phase II Unit 2",
+      "url": "/assets/L100000102528_G100000105626",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kawai Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102528_G100000105627",
+      "location_id": "L100000102528",
+      "asset_name": "Kawai Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102528_G100000105627",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kawai Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102528_G100000105628",
+      "location_id": "L100000102528",
+      "asset_name": "Kawai Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102528_G100000105628",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kawai Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102528_G100001017728",
+      "location_id": "L100000102528",
+      "asset_name": "Kawai Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102528_G100001017728",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kawai Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102528_G100001017729",
+      "location_id": "L100000102528",
+      "asset_name": "Kawai Thermal Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102528_G100001017729",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kawai Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102528_G100001017730",
+      "location_id": "L100000102528",
+      "asset_name": "Kawai Thermal Power Project Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102528_G100001017730",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kawai Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102528_G100001017731",
+      "location_id": "L100000102528",
+      "asset_name": "Kawai Thermal Power Project Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102528_G100001017731",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kawai Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102162_G100000106145",
+      "location_id": "L100000102162",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.2454,
+      "longitude": 82.7246,
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102162_G100000106145",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001011586",
+          "name": "Korba Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Power Thermal Power Plant (Adani)"
+    },
+    {
+      "asset_id": "L100000102162_G100000106146",
+      "location_id": "L100000102162",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.2454,
+      "longitude": 82.7246,
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102162_G100000106146",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001011586",
+          "name": "Korba Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Power Thermal Power Plant (Adani)"
+    },
+    {
+      "asset_id": "L100000102162_G100000106147",
+      "location_id": "L100000102162",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.2420932,
+      "longitude": 82.7247334,
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102162_G100000106147",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001011586",
+          "name": "Korba Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Power Thermal Power Plant (Adani)"
+    },
+    {
+      "asset_id": "L100000102162_G100000106148",
+      "location_id": "L100000102162",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.2420932,
+      "longitude": 82.7247334,
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102162_G100000106148",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001011586",
+          "name": "Korba Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Power Thermal Power Plant (Adani)"
+    },
+    {
+      "asset_id": "L100000102162_G100001072663",
+      "location_id": "L100000102162",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.23437,
+      "longitude": 82.72014,
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102162_G100001072663",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001011586",
+          "name": "Korba Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Power Thermal Power Plant (Adani)"
+    },
+    {
+      "asset_id": "L100000102162_G100001072672",
+      "location_id": "L100000102162",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.23437,
+      "longitude": 82.72014,
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102162_G100001072672",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001011586",
+          "name": "Korba Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Power Thermal Power Plant (Adani)"
+    },
+    {
+      "asset_id": "L100000104761_G100000114812",
+      "location_id": "L100000104761",
+      "asset_name": "MP Adani power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 21.69,
+      "longitude": 79.24,
+      "wiki_url": "https://www.gem.wiki/MP_Adani_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000104761_G100000114812",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000563",
+          "name": "Pench Thermal Energy (MP) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "MP Adani power station"
+    },
+    {
+      "asset_id": "L100000104761_G100000114813",
+      "location_id": "L100000104761",
+      "asset_name": "MP Adani power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 21.69,
+      "longitude": 79.24,
+      "wiki_url": "https://www.gem.wiki/MP_Adani_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000104761_G100000114813",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000563",
+          "name": "Pench Thermal Energy (MP) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "MP Adani power station"
+    },
+    {
+      "asset_id": "L100000102348_G100000115182",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "USCTPP Unit 1",
+      "url": "/assets/L100000102348_G100000115182",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100000115183",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "USCTPP Unit 2",
+      "url": "/assets/L100000102348_G100000115183",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100001005078",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "USCTPP Unit 3",
+      "url": "/assets/L100000102348_G100001005078",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100001005079",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "USCTPP Unit 4",
+      "url": "/assets/L100000102348_G100001005079",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100000106572",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102348_G100000106572",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100000106573",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102348_G100000106573",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100000106574",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102348_G100000106574",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102217_G100000107102",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235596,
+      "longitude": 69.5511094,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase I Unit 1",
+      "url": "/assets/L100000102217_G100000107102",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107103",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235596,
+      "longitude": 69.5511094,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase I Unit 2",
+      "url": "/assets/L100000102217_G100000107103",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107104",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase II Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235596,
+      "longitude": 69.5511094,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase II Unit 3",
+      "url": "/assets/L100000102217_G100000107104",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107105",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase II Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235596,
+      "longitude": 69.5511094,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase II Unit 4",
+      "url": "/assets/L100000102217_G100000107105",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107106",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase III Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8234904,
+      "longitude": 69.5534831,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase III Unit 5",
+      "url": "/assets/L100000102217_G100000107106",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107107",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase III Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235448,
+      "longitude": 69.5551568,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase III Unit 6",
+      "url": "/assets/L100000102217_G100000107107",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107108",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase IV Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235448,
+      "longitude": 69.5551568,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase IV Unit 7",
+      "url": "/assets/L100000102217_G100000107108",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107109",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase IV Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase IV Unit 8",
+      "url": "/assets/L100000102217_G100000107109",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107110",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase IV Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase IV Unit 9",
+      "url": "/assets/L100000102217_G100000107110",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107111",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase V Unit 10",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase V Unit 10",
+      "url": "/assets/L100000102217_G100000107111",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107112",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase V Unit 11",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase V Unit 11",
+      "url": "/assets/L100000102217_G100000107112",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102217_G100000107113",
+      "location_id": "L100000102217",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase V Unit 12",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "unit_name": "Phase V Unit 12",
+      "url": "/assets/L100000102217_G100000107113",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mundra Thermal Power Project (Adani)"
+    },
+    {
+      "asset_id": "L100000102455_G100000101860",
+      "location_id": "L100000102455",
+      "asset_name": "Nilanchal power station Phase I",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "unit_name": "Phase I",
+      "url": "/assets/L100000102455_G100000101860",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002008799",
+          "name": "Orissa Thermal Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nilanchal power station"
+    },
+    {
+      "asset_id": "L100000102455_G100000101861",
+      "location_id": "L100000102455",
+      "asset_name": "Nilanchal power station Phase II Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "unit_name": "Phase II Unit 1",
+      "url": "/assets/L100000102455_G100000101861",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002008799",
+          "name": "Orissa Thermal Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nilanchal power station"
+    },
+    {
+      "asset_id": "L100000102455_G100000101862",
+      "location_id": "L100000102455",
+      "asset_name": "Nilanchal power station Phase II Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "unit_name": "Phase II Unit 2",
+      "url": "/assets/L100000102455_G100000101862",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002008799",
+          "name": "Orissa Thermal Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nilanchal power station"
+    },
+    {
+      "asset_id": "L100000102455_G100001051702",
+      "location_id": "L100000102455",
+      "asset_name": "Nilanchal power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102455_G100001051702",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002008799",
+          "name": "Orissa Thermal Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nilanchal power station"
+    },
+    {
+      "asset_id": "L100000102455_G100001051703",
+      "location_id": "L100000102455",
+      "asset_name": "Nilanchal power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102455_G100001051703",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002008799",
+          "name": "Orissa Thermal Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nilanchal power station"
+    },
+    {
+      "asset_id": "L100000102455_G100001051704",
+      "location_id": "L100000102455",
+      "asset_name": "Nilanchal power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102455_G100001051704",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002008799",
+          "name": "Orissa Thermal Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nilanchal power station"
+    },
+    {
+      "asset_id": "L100000102425_G100000107848",
+      "location_id": "L100000102425",
+      "asset_name": "Parsodi power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.829333,
+      "longitude": 78.884639,
+      "wiki_url": "https://www.gem.wiki/Parsodi_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102425_G100000107848",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000121521",
+          "name": "Vidarbha Industries Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Parsodi power station"
+    },
+    {
+      "asset_id": "L100000102425_G100000107849",
+      "location_id": "L100000102425",
+      "asset_name": "Parsodi power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.829333,
+      "longitude": 78.884639,
+      "wiki_url": "https://www.gem.wiki/Parsodi_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102425_G100000107849",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000121521",
+          "name": "Vidarbha Industries Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Parsodi power station"
+    },
+    {
+      "asset_id": "L100000102425_G100000107850",
+      "location_id": "L100000102425",
+      "asset_name": "Parsodi power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.829333,
+      "longitude": 78.884639,
+      "wiki_url": "https://www.gem.wiki/Parsodi_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102425_G100000107850",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000121521",
+          "name": "Vidarbha Industries Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Parsodi power station"
+    },
+    {
+      "asset_id": "L100000102357_G100000107920",
+      "location_id": "L100000102357",
+      "asset_name": "Pench Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.147958,
+      "longitude": 79.134455,
+      "wiki_url": "https://www.gem.wiki/Pench_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102357_G100000107920",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000564",
+          "name": "Adani Pench Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pench Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102357_G100000107921",
+      "location_id": "L100000102357",
+      "asset_name": "Pench Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.147958,
+      "longitude": 79.134455,
+      "wiki_url": "https://www.gem.wiki/Pench_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102357_G100000107921",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000564",
+          "name": "Adani Pench Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pench Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102117_G100000108017",
+      "location_id": "L100000102117",
+      "asset_name": "Pirpainti Thermal Power Station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.324011,
+      "longitude": 87.42764,
+      "wiki_url": "https://www.gem.wiki/Pirpainti_Thermal_Power_Station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102117_G100000108017",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pirpainti Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102117_G100000108018",
+      "location_id": "L100000102117",
+      "asset_name": "Pirpainti Thermal Power Station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.324011,
+      "longitude": 87.42764,
+      "wiki_url": "https://www.gem.wiki/Pirpainti_Thermal_Power_Station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102117_G100000108018",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pirpainti Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102117_G100001001198",
+      "location_id": "L100000102117",
+      "asset_name": "Pirpainti Thermal Power Station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.324011,
+      "longitude": 87.42764,
+      "wiki_url": "https://www.gem.wiki/Pirpainti_Thermal_Power_Station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102117_G100001001198",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pirpainti Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102173_G100000108445",
+      "location_id": "L100000102173",
+      "asset_name": "Raikheda power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 685.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.449918,
+      "longitude": 81.852474,
+      "wiki_url": "https://www.gem.wiki/Raikheda_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102173_G100000108445",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Raikheda power station"
+    },
+    {
+      "asset_id": "L100000102173_G100000108446",
+      "location_id": "L100000102173",
+      "asset_name": "Raikheda power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 685.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.449918,
+      "longitude": 81.852474,
+      "wiki_url": "https://www.gem.wiki/Raikheda_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102173_G100000108446",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Raikheda power station"
+    },
+    {
+      "asset_id": "L100000102173_G100000115970",
+      "location_id": "L100000102173",
+      "asset_name": "Raikheda power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.449918,
+      "longitude": 81.852474,
+      "wiki_url": "https://www.gem.wiki/Raikheda_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102173_G100000115970",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Raikheda power station"
+    },
+    {
+      "asset_id": "L100000102173_G100000115971",
+      "location_id": "L100000102173",
+      "asset_name": "Raikheda power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.449918,
+      "longitude": 81.852474,
+      "wiki_url": "https://www.gem.wiki/Raikheda_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102173_G100000115971",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Raikheda power station"
+    },
+    {
+      "asset_id": "L100000102432_G100000110182",
+      "location_id": "L100000102432",
+      "asset_name": "Tiroda Thermal Power Project Phase I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "unit_name": "Phase I Unit 1",
+      "url": "/assets/L100000102432_G100000110182",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tiroda Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102432_G100000110183",
+      "location_id": "L100000102432",
+      "asset_name": "Tiroda Thermal Power Project Phase I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "unit_name": "Phase I Unit 2",
+      "url": "/assets/L100000102432_G100000110183",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tiroda Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102432_G100000110184",
+      "location_id": "L100000102432",
+      "asset_name": "Tiroda Thermal Power Project Phase II Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "unit_name": "Phase II Unit 3",
+      "url": "/assets/L100000102432_G100000110184",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tiroda Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102432_G100000110185",
+      "location_id": "L100000102432",
+      "asset_name": "Tiroda Thermal Power Project Phase III Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "unit_name": "Phase III Unit 4",
+      "url": "/assets/L100000102432_G100000110185",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tiroda Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102432_G100000110186",
+      "location_id": "L100000102432",
+      "asset_name": "Tiroda Thermal Power Project Phase III Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "unit_name": "Phase III Unit 5",
+      "url": "/assets/L100000102432_G100000110186",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tiroda Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102311_G100000110429",
+      "location_id": "L100000102311",
+      "asset_name": "Udupi power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 13.1596,
+      "longitude": 74.8002,
+      "wiki_url": "https://www.gem.wiki/Udupi_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102311_G100000110429",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Udupi power station"
+    },
+    {
+      "asset_id": "L100000102311_G100000110430",
+      "location_id": "L100000102311",
+      "asset_name": "Udupi power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 13.1596,
+      "longitude": 74.8002,
+      "wiki_url": "https://www.gem.wiki/Udupi_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102311_G100000110430",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Udupi power station"
+    },
+    {
+      "asset_id": "L100000102311_G100000110431",
+      "location_id": "L100000102311",
+      "asset_name": "Udupi power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 13.1596,
+      "longitude": 74.8002,
+      "wiki_url": "https://www.gem.wiki/Udupi_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102311_G100000110431",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Udupi power station"
+    },
+    {
+      "asset_id": "L100000102311_G100000110432",
+      "location_id": "L100000102311",
+      "asset_name": "Udupi power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 13.1596,
+      "longitude": 74.8002,
+      "wiki_url": "https://www.gem.wiki/Udupi_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102311_G100000110432",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000558",
+          "name": "Adani Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Udupi power station"
+    }
+  ]
+}

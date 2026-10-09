@@ -1,0 +1,5512 @@
+{
+  "total": 308,
+  "total_asset_count": 308,
+  "total_location_count": 86,
+  "limit": 200,
+  "offset": 0,
+  "count": 200,
+  "results": [
+    {
+      "asset_id": "L100000102658_G100000100049",
+      "location_id": "L100000102658",
+      "asset_name": "Adra Purulia power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.5,
+      "longitude": 86.67,
+      "wiki_url": "https://www.gem.wiki/Adra_Purulia_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102658_G100000100049",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000120610",
+          "name": "Indian Railways",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adra Purulia power station"
+    },
+    {
+      "asset_id": "L100000102658_G100000100050",
+      "location_id": "L100000102658",
+      "asset_name": "Adra Purulia power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.5,
+      "longitude": 86.67,
+      "wiki_url": "https://www.gem.wiki/Adra_Purulia_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102658_G100000100050",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000120610",
+          "name": "Indian Railways",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Adra Purulia power station"
+    },
+    {
+      "asset_id": "L100000407594_G100000409910",
+      "location_id": "L100000407594",
+      "asset_name": "Agartala power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tripura",
+      "latitude": 23.825018,
+      "longitude": 91.287056,
+      "wiki_url": "https://www.gem.wiki/Agartala_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407594_G100000409910",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000001930",
+          "name": "North Eastern Electric Power Corp Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Agartala power plant"
+    },
+    {
+      "asset_id": "M3847",
+      "location_id": "M3847",
+      "asset_name": "Amelia Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.072448,
+      "longitude": 82.414011,
+      "wiki_url": "https://www.gem.wiki/Amelia_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M3847",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000121384",
+          "name": "THDC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Amelia Coal Mine"
+    },
+    {
+      "asset_id": "L100001000082_G100001000203",
+      "location_id": "L100001000082",
+      "asset_name": "Anpara-E power station (MUNPL) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.204564,
+      "longitude": 82.782678,
+      "wiki_url": "https://www.gem.wiki/Anpara-E_power_station_(MUNPL)",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100001000082_G100001000203",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120838",
+          "name": "Meja Urja Nigam Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Anpara-E power station (MUNPL)"
+    },
+    {
+      "asset_id": "L100001000082_G100001000204",
+      "location_id": "L100001000082",
+      "asset_name": "Anpara-E power station (MUNPL) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.204564,
+      "longitude": 82.782678,
+      "wiki_url": "https://www.gem.wiki/Anpara-E_power_station_(MUNPL)",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100001000082_G100001000204",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120838",
+          "name": "Meja Urja Nigam Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Anpara-E power station (MUNPL)"
+    },
+    {
+      "asset_id": "L100000401464_G100000401434",
+      "location_id": "L100000401464",
+      "asset_name": "Anta power plant 46026.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 419.3,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.1797,
+      "longitude": 76.3188,
+      "wiki_url": "https://www.gem.wiki/Anta_power_plant",
+      "unit_name": "46026.0",
+      "url": "/assets/L100000401464_G100000401434",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Anta power plant"
+    },
+    {
+      "asset_id": "L100000407355_G100000409391",
+      "location_id": "L100000407355",
+      "asset_name": "Assam Gas Based power station 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 97.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 27.340995,
+      "longitude": 95.406384,
+      "wiki_url": "https://www.gem.wiki/Assam_Gas_Based_power_station",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407355_G100000409391",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000001930",
+          "name": "North Eastern Electric Power Corp Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Assam Gas Based power station"
+    },
+    {
+      "asset_id": "L100000407355_G100000409390",
+      "location_id": "L100000407355",
+      "asset_name": "Assam Gas Based power station 2.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 97.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 27.340995,
+      "longitude": 95.406384,
+      "wiki_url": "https://www.gem.wiki/Assam_Gas_Based_power_station",
+      "unit_name": "2.0",
+      "url": "/assets/L100000407355_G100000409390",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000001930",
+          "name": "North Eastern Electric Power Corp Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Assam Gas Based power station"
+    },
+    {
+      "asset_id": "L100000407355_G100000409407",
+      "location_id": "L100000407355",
+      "asset_name": "Assam Gas Based power station 3.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 97.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 27.340995,
+      "longitude": 95.406384,
+      "wiki_url": "https://www.gem.wiki/Assam_Gas_Based_power_station",
+      "unit_name": "3.0",
+      "url": "/assets/L100000407355_G100000409407",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000001930",
+          "name": "North Eastern Electric Power Corp Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Assam Gas Based power station"
+    },
+    {
+      "asset_id": "L100000401466_G100000401436",
+      "location_id": "L100000401466",
+      "asset_name": "Auraiya Combined Cycle power plant 46028.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 663.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.6282,
+      "longitude": 79.5286,
+      "wiki_url": "https://www.gem.wiki/Auraiya_Combined_Cycle_power_plant",
+      "unit_name": "46028.0",
+      "url": "/assets/L100000401466_G100000401436",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Auraiya Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000102614_G100000100403",
+      "location_id": "L100000102614",
+      "asset_name": "Auraiya IGCC power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.46401,
+      "longitude": 79.506462,
+      "wiki_url": "https://www.gem.wiki/Auraiya_IGCC_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102614_G100000100403",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Auraiya IGCC power station"
+    },
+    {
+      "asset_id": "M3852",
+      "location_id": "M3852",
+      "asset_name": "Badam Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.808333,
+      "longitude": 85.286111,
+      "wiki_url": "https://www.gem.wiki/Badam_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M3852",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Badam Coal Mine"
+    },
+    {
+      "asset_id": "L100000102191_G100000100419",
+      "location_id": "L100000102191",
+      "asset_name": "Badarpur power station Phase 1 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 95.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Delhi",
+      "latitude": 28.505394,
+      "longitude": 77.307406,
+      "wiki_url": "https://www.gem.wiki/Badarpur_power_station",
+      "unit_name": "Phase 1 Unit 1",
+      "url": "/assets/L100000102191_G100000100419",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Badarpur power station"
+    },
+    {
+      "asset_id": "L100000102191_G100000100420",
+      "location_id": "L100000102191",
+      "asset_name": "Badarpur power station Phase 1 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 95.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Delhi",
+      "latitude": 28.505394,
+      "longitude": 77.307406,
+      "wiki_url": "https://www.gem.wiki/Badarpur_power_station",
+      "unit_name": "Phase 1 Unit 2",
+      "url": "/assets/L100000102191_G100000100420",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Badarpur power station"
+    },
+    {
+      "asset_id": "L100000102191_G100000100421",
+      "location_id": "L100000102191",
+      "asset_name": "Badarpur power station Phase 1 Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 95.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Delhi",
+      "latitude": 28.505394,
+      "longitude": 77.307406,
+      "wiki_url": "https://www.gem.wiki/Badarpur_power_station",
+      "unit_name": "Phase 1 Unit 3",
+      "url": "/assets/L100000102191_G100000100421",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Badarpur power station"
+    },
+    {
+      "asset_id": "L100000102191_G100000100422",
+      "location_id": "L100000102191",
+      "asset_name": "Badarpur power station Phase 2 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Delhi",
+      "latitude": 28.505394,
+      "longitude": 77.307406,
+      "wiki_url": "https://www.gem.wiki/Badarpur_power_station",
+      "unit_name": "Phase 2 Unit 1",
+      "url": "/assets/L100000102191_G100000100422",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Badarpur power station"
+    },
+    {
+      "asset_id": "L100000102191_G100000100423",
+      "location_id": "L100000102191",
+      "asset_name": "Badarpur power station Phase 2 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Delhi",
+      "latitude": 28.505394,
+      "longitude": 77.307406,
+      "wiki_url": "https://www.gem.wiki/Badarpur_power_station",
+      "unit_name": "Phase 2 Unit 2",
+      "url": "/assets/L100000102191_G100000100423",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Badarpur power station"
+    },
+    {
+      "asset_id": "M3857",
+      "location_id": "M3857",
+      "asset_name": "Banhardih Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 12.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.723081,
+      "longitude": 84.576412,
+      "wiki_url": "https://www.gem.wiki/Banhardih_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M3857",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Banhardih Coal Mine"
+    },
+    {
+      "asset_id": "L100000102321_G100000100615",
+      "location_id": "L100000102321",
+      "asset_name": "Barethi Super Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.783333,
+      "longitude": 79.9,
+      "wiki_url": "https://www.gem.wiki/Barethi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102321_G100000100615",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barethi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102321_G100000100616",
+      "location_id": "L100000102321",
+      "asset_name": "Barethi Super Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.783333,
+      "longitude": 79.9,
+      "wiki_url": "https://www.gem.wiki/Barethi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102321_G100000100616",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barethi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102321_G100000100617",
+      "location_id": "L100000102321",
+      "asset_name": "Barethi Super Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.783333,
+      "longitude": 79.9,
+      "wiki_url": "https://www.gem.wiki/Barethi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102321_G100000100617",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barethi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102321_G100000100618",
+      "location_id": "L100000102321",
+      "asset_name": "Barethi Super Thermal Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.783333,
+      "longitude": 79.9,
+      "wiki_url": "https://www.gem.wiki/Barethi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102321_G100000100618",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barethi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102092_G100000100623",
+      "location_id": "L100000102092",
+      "asset_name": "Barh I power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.4865,
+      "longitude": 85.74516,
+      "wiki_url": "https://www.gem.wiki/Barh_I_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102092_G100000100623",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barh I power station"
+    },
+    {
+      "asset_id": "L100000102092_G100000100624",
+      "location_id": "L100000102092",
+      "asset_name": "Barh I power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.4865,
+      "longitude": 85.74516,
+      "wiki_url": "https://www.gem.wiki/Barh_I_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102092_G100000100624",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barh I power station"
+    },
+    {
+      "asset_id": "L100000102092_G100000100625",
+      "location_id": "L100000102092",
+      "asset_name": "Barh I power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.4865,
+      "longitude": 85.74516,
+      "wiki_url": "https://www.gem.wiki/Barh_I_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102092_G100000100625",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barh I power station"
+    },
+    {
+      "asset_id": "L100000102093_G100000100626",
+      "location_id": "L100000102093",
+      "asset_name": "Barh II power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.4865,
+      "longitude": 85.74516,
+      "wiki_url": "https://www.gem.wiki/Barh_II_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102093_G100000100626",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barh II power station"
+    },
+    {
+      "asset_id": "L100000102093_G100000100627",
+      "location_id": "L100000102093",
+      "asset_name": "Barh II power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.4865,
+      "longitude": 85.74516,
+      "wiki_url": "https://www.gem.wiki/Barh_II_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102093_G100000100627",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barh II power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100818",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102132_G100000100818",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100819",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102132_G100000100819",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100820",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102132_G100000100820",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100821",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102132_G100000100821",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100822",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102132_G100000100822",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100823",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102132_G100000100823",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100824",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102132_G100000100824",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100825",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 9",
+      "url": "/assets/L100000102132_G100000100825",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102621_G100000100873",
+      "location_id": "L100000102621",
+      "asset_name": "Bilhaur Super Thermal Power Plant Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.763391,
+      "longitude": 80.05806,
+      "wiki_url": "https://www.gem.wiki/Bilhaur_Super_Thermal_Power_Plant",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102621_G100000100873",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bilhaur Super Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102621_G100000100874",
+      "location_id": "L100000102621",
+      "asset_name": "Bilhaur Super Thermal Power Plant Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.763391,
+      "longitude": 80.05806,
+      "wiki_url": "https://www.gem.wiki/Bilhaur_Super_Thermal_Power_Plant",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102621_G100000100874",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bilhaur Super Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102085_G100000101010",
+      "location_id": "L100000102085",
+      "asset_name": "Bongaigaon power station Stage II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 26.44437,
+      "longitude": 90.367205,
+      "wiki_url": "https://www.gem.wiki/Bongaigaon_power_station",
+      "unit_name": "Stage II",
+      "url": "/assets/L100000102085_G100000101010",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bongaigaon power station"
+    },
+    {
+      "asset_id": "L100000102085_G100000101007",
+      "location_id": "L100000102085",
+      "asset_name": "Bongaigaon power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 26.44437,
+      "longitude": 90.367205,
+      "wiki_url": "https://www.gem.wiki/Bongaigaon_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102085_G100000101007",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bongaigaon power station"
+    },
+    {
+      "asset_id": "L100000102085_G100000101008",
+      "location_id": "L100000102085",
+      "asset_name": "Bongaigaon power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 26.44437,
+      "longitude": 90.367205,
+      "wiki_url": "https://www.gem.wiki/Bongaigaon_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102085_G100000101008",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bongaigaon power station"
+    },
+    {
+      "asset_id": "L100000102085_G100000101009",
+      "location_id": "L100000102085",
+      "asset_name": "Bongaigaon power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 26.44437,
+      "longitude": 90.367205,
+      "wiki_url": "https://www.gem.wiki/Bongaigaon_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102085_G100000101009",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bongaigaon power station"
+    },
+    {
+      "asset_id": "M3863",
+      "location_id": "M3863",
+      "asset_name": "Chatti-Bariatu Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 7.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.0,
+      "longitude": 85.36,
+      "wiki_url": "https://www.gem.wiki/Chatti-Bariatu_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M3863",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chatti-Bariatu Coal Mine"
+    },
+    {
+      "asset_id": "L100000102524_G100000101448",
+      "location_id": "L100000102524",
+      "asset_name": "Chhabra Thermal Power Station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.62092,
+      "longitude": 77.035439,
+      "wiki_url": "https://www.gem.wiki/Chhabra_Thermal_Power_Station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102524_G100000101448",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 51.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 49.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhabra Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102524_G100000101449",
+      "location_id": "L100000102524",
+      "asset_name": "Chhabra Thermal Power Station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.62092,
+      "longitude": 77.035439,
+      "wiki_url": "https://www.gem.wiki/Chhabra_Thermal_Power_Station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102524_G100000101449",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 51.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 49.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhabra Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102524_G100000101450",
+      "location_id": "L100000102524",
+      "asset_name": "Chhabra Thermal Power Station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.62092,
+      "longitude": 77.035439,
+      "wiki_url": "https://www.gem.wiki/Chhabra_Thermal_Power_Station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102524_G100000101450",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 51.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 49.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhabra Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102524_G100000101451",
+      "location_id": "L100000102524",
+      "asset_name": "Chhabra Thermal Power Station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.62092,
+      "longitude": 77.035439,
+      "wiki_url": "https://www.gem.wiki/Chhabra_Thermal_Power_Station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102524_G100000101451",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 51.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 49.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhabra Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102524_G100000101452",
+      "location_id": "L100000102524",
+      "asset_name": "Chhabra Thermal Power Station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.63433,
+      "longitude": 77.0385039,
+      "wiki_url": "https://www.gem.wiki/Chhabra_Thermal_Power_Station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102524_G100000101452",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 51.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 49.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhabra Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102524_G100000101453",
+      "location_id": "L100000102524",
+      "asset_name": "Chhabra Thermal Power Station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.63433,
+      "longitude": 77.0385039,
+      "wiki_url": "https://www.gem.wiki/Chhabra_Thermal_Power_Station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102524_G100000101453",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 51.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 49.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhabra Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102524_G100000115404",
+      "location_id": "L100000102524",
+      "asset_name": "Chhabra Thermal Power Station Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.63433,
+      "longitude": 77.0385039,
+      "wiki_url": "https://www.gem.wiki/Chhabra_Thermal_Power_Station",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102524_G100000115404",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 51.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 49.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhabra Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102524_G100000115405",
+      "location_id": "L100000102524",
+      "asset_name": "Chhabra Thermal Power Station Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.63433,
+      "longitude": 77.0385039,
+      "wiki_url": "https://www.gem.wiki/Chhabra_Thermal_Power_Station",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102524_G100000115405",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 51.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 49.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhabra Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102255_G100000101459",
+      "location_id": "L100000102255",
+      "asset_name": "Chichro Patsimal power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 2000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.691349,
+      "longitude": 85.272247,
+      "wiki_url": "https://www.gem.wiki/Chichro_Patsimal_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102255_G100000101459",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chichro Patsimal power station"
+    },
+    {
+      "asset_id": "L100000401465_G100000401435",
+      "location_id": "L100000401465",
+      "asset_name": "Dadri Combined Cycle power plant 46028.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 829.8,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.5932,
+      "longitude": 77.6101,
+      "wiki_url": "https://www.gem.wiki/Dadri_Combined_Cycle_power_plant",
+      "unit_name": "46028.0",
+      "url": "/assets/L100000401465_G100000401435",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dadri Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000102458_G100000101987",
+      "location_id": "L100000102458",
+      "asset_name": "Darlipali power station Phase I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.963554,
+      "longitude": 83.89187,
+      "wiki_url": "https://www.gem.wiki/Darlipali_power_station",
+      "unit_name": "Phase I Unit 1",
+      "url": "/assets/L100000102458_G100000101987",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Darlipali power station"
+    },
+    {
+      "asset_id": "L100000102458_G100000101988",
+      "location_id": "L100000102458",
+      "asset_name": "Darlipali power station Phase I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.963554,
+      "longitude": 83.89187,
+      "wiki_url": "https://www.gem.wiki/Darlipali_power_station",
+      "unit_name": "Phase I Unit 2",
+      "url": "/assets/L100000102458_G100000101988",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Darlipali power station"
+    },
+    {
+      "asset_id": "L100000102458_G100000115662",
+      "location_id": "L100000102458",
+      "asset_name": "Darlipali power station Phase II Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.963554,
+      "longitude": 83.89187,
+      "wiki_url": "https://www.gem.wiki/Darlipali_power_station",
+      "unit_name": "Phase II Unit 3",
+      "url": "/assets/L100000102458_G100000115662",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Darlipali power station"
+    },
+    {
+      "asset_id": "L100000102458_G100000115663",
+      "location_id": "L100000102458",
+      "asset_name": "Darlipali power station Phase II Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.963554,
+      "longitude": 83.89187,
+      "wiki_url": "https://www.gem.wiki/Darlipali_power_station",
+      "unit_name": "Phase II Unit 4",
+      "url": "/assets/L100000102458_G100000115663",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Darlipali power station"
+    },
+    {
+      "asset_id": "L100000102458_G100000115664",
+      "location_id": "L100000102458",
+      "asset_name": "Darlipali power station Phase II Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.963554,
+      "longitude": 83.89187,
+      "wiki_url": "https://www.gem.wiki/Darlipali_power_station",
+      "unit_name": "Phase II Unit 5",
+      "url": "/assets/L100000102458_G100000115664",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Darlipali power station"
+    },
+    {
+      "asset_id": "L100000102458_G100000115665",
+      "location_id": "L100000102458",
+      "asset_name": "Darlipali power station Phase II Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.963554,
+      "longitude": 83.89187,
+      "wiki_url": "https://www.gem.wiki/Darlipali_power_station",
+      "unit_name": "Phase II Unit 6",
+      "url": "/assets/L100000102458_G100000115665",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Darlipali power station"
+    },
+    {
+      "asset_id": "L100000102392_G100000102334",
+      "location_id": "L100000102392",
+      "asset_name": "Devgad UMPP --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 4000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 16.3735,
+      "longitude": 73.3778,
+      "wiki_url": "https://www.gem.wiki/Devgad_UMPP",
+      "unit_name": "--",
+      "url": "/assets/L100000102392_G100000102334",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Devgad UMPP"
+    },
+    {
+      "asset_id": "L100000102395_G100000102345",
+      "location_id": "L100000102395",
+      "asset_name": "Dhopave coal plant (NTPC) --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 17.55829,
+      "longitude": 73.192694,
+      "wiki_url": "https://www.gem.wiki/Dhopave_coal_plant_(NTPC)",
+      "unit_name": "--",
+      "url": "/assets/L100000102395_G100000102345",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dhopave coal plant (NTPC)"
+    },
+    {
+      "asset_id": "L100000102206_G100000102352",
+      "location_id": "L100000102206",
+      "asset_name": "Dhuvaran Super Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.233007,
+      "longitude": 72.757241,
+      "wiki_url": "https://www.gem.wiki/Dhuvaran_Super_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102206_G100000102352",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dhuvaran Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102206_G100000102353",
+      "location_id": "L100000102206",
+      "asset_name": "Dhuvaran Super Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.233007,
+      "longitude": 72.757241,
+      "wiki_url": "https://www.gem.wiki/Dhuvaran_Super_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102206_G100000102353",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dhuvaran Super Thermal Power Project"
+    },
+    {
+      "asset_id": "M0515",
+      "location_id": "M0515",
+      "asset_name": "Dulanga Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 7.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.951705,
+      "longitude": 83.807564,
+      "wiki_url": "https://www.gem.wiki/Dulanga_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0515",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dulanga Coal Mine"
+    },
+    {
+      "asset_id": "L100000102671_G100000102511",
+      "location_id": "L100000102671",
+      "asset_name": "Durgapur SAIL power station Phase 2 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.551805,
+      "longitude": 87.248475,
+      "wiki_url": "https://www.gem.wiki/Durgapur_SAIL_power_station",
+      "unit_name": "Phase 2 Unit 1",
+      "url": "/assets/L100000102671_G100000102511",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Durgapur SAIL power station"
+    },
+    {
+      "asset_id": "L100000102671_G100000102512",
+      "location_id": "L100000102671",
+      "asset_name": "Durgapur SAIL power station Phase 2 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.551805,
+      "longitude": 87.248475,
+      "wiki_url": "https://www.gem.wiki/Durgapur_SAIL_power_station",
+      "unit_name": "Phase 2 Unit 2",
+      "url": "/assets/L100000102671_G100000102512",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Durgapur SAIL power station"
+    },
+    {
+      "asset_id": "L100000102673_G100000102711",
+      "location_id": "L100000102673",
+      "asset_name": "Farakka power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 200.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 24.772729,
+      "longitude": 87.893707,
+      "wiki_url": "https://www.gem.wiki/Farakka_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102673_G100000102711",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Farakka power station"
+    },
+    {
+      "asset_id": "L100000102673_G100000102712",
+      "location_id": "L100000102673",
+      "asset_name": "Farakka power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 200.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 24.772729,
+      "longitude": 87.893707,
+      "wiki_url": "https://www.gem.wiki/Farakka_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102673_G100000102712",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Farakka power station"
+    },
+    {
+      "asset_id": "L100000102673_G100000102713",
+      "location_id": "L100000102673",
+      "asset_name": "Farakka power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 200.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 24.772729,
+      "longitude": 87.893707,
+      "wiki_url": "https://www.gem.wiki/Farakka_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102673_G100000102713",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Farakka power station"
+    },
+    {
+      "asset_id": "L100000102673_G100000102714",
+      "location_id": "L100000102673",
+      "asset_name": "Farakka power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 24.772729,
+      "longitude": 87.893707,
+      "wiki_url": "https://www.gem.wiki/Farakka_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102673_G100000102714",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Farakka power station"
+    },
+    {
+      "asset_id": "L100000102673_G100000102715",
+      "location_id": "L100000102673",
+      "asset_name": "Farakka power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 24.772729,
+      "longitude": 87.893707,
+      "wiki_url": "https://www.gem.wiki/Farakka_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102673_G100000102715",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Farakka power station"
+    },
+    {
+      "asset_id": "L100000102673_G100000102716",
+      "location_id": "L100000102673",
+      "asset_name": "Farakka power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 24.772729,
+      "longitude": 87.893707,
+      "wiki_url": "https://www.gem.wiki/Farakka_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102673_G100000102716",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Farakka power station"
+    },
+    {
+      "asset_id": "L100000401463_G100000401433",
+      "location_id": "L100000401463",
+      "asset_name": "Faridabad Combined Cycle power plant 46025.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 431.6,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 28.34652,
+      "longitude": 77.359003,
+      "wiki_url": "https://www.gem.wiki/Faridabad_Combined_Cycle_power_plant",
+      "unit_name": "46025.0",
+      "url": "/assets/L100000401463_G100000401433",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Faridabad Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000102626_G100000102747",
+      "location_id": "L100000102626",
+      "asset_name": "Feroze Gandhi Unchahar Power Station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.9137597,
+      "longitude": 81.3272384,
+      "wiki_url": "https://www.gem.wiki/Feroze_Gandhi_Unchahar_Power_Station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102626_G100000102747",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Feroze Gandhi Unchahar Power Station"
+    },
+    {
+      "asset_id": "L100000102626_G100000102748",
+      "location_id": "L100000102626",
+      "asset_name": "Feroze Gandhi Unchahar Power Station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.9137597,
+      "longitude": 81.3272384,
+      "wiki_url": "https://www.gem.wiki/Feroze_Gandhi_Unchahar_Power_Station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102626_G100000102748",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Feroze Gandhi Unchahar Power Station"
+    },
+    {
+      "asset_id": "L100000102626_G100000102749",
+      "location_id": "L100000102626",
+      "asset_name": "Feroze Gandhi Unchahar Power Station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.9137597,
+      "longitude": 81.3272384,
+      "wiki_url": "https://www.gem.wiki/Feroze_Gandhi_Unchahar_Power_Station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102626_G100000102749",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Feroze Gandhi Unchahar Power Station"
+    },
+    {
+      "asset_id": "L100000102626_G100000102750",
+      "location_id": "L100000102626",
+      "asset_name": "Feroze Gandhi Unchahar Power Station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.9137597,
+      "longitude": 81.3272384,
+      "wiki_url": "https://www.gem.wiki/Feroze_Gandhi_Unchahar_Power_Station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102626_G100000102750",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Feroze Gandhi Unchahar Power Station"
+    },
+    {
+      "asset_id": "L100000102626_G100000102751",
+      "location_id": "L100000102626",
+      "asset_name": "Feroze Gandhi Unchahar Power Station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.9137597,
+      "longitude": 81.3272384,
+      "wiki_url": "https://www.gem.wiki/Feroze_Gandhi_Unchahar_Power_Station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102626_G100000102751",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Feroze Gandhi Unchahar Power Station"
+    },
+    {
+      "asset_id": "L100000102626_G100000102752",
+      "location_id": "L100000102626",
+      "asset_name": "Feroze Gandhi Unchahar Power Station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.9122537,
+      "longitude": 81.3206291,
+      "wiki_url": "https://www.gem.wiki/Feroze_Gandhi_Unchahar_Power_Station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102626_G100000102752",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Feroze Gandhi Unchahar Power Station"
+    },
+    {
+      "asset_id": "L100000102332_G100000102892",
+      "location_id": "L100000102332",
+      "asset_name": "Gadarwara Super Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.861752,
+      "longitude": 78.866129,
+      "wiki_url": "https://www.gem.wiki/Gadarwara_Super_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102332_G100000102892",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gadarwara Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102332_G100000102893",
+      "location_id": "L100000102332",
+      "asset_name": "Gadarwara Super Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.861752,
+      "longitude": 78.866129,
+      "wiki_url": "https://www.gem.wiki/Gadarwara_Super_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102332_G100000102893",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gadarwara Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102332_G100001018573",
+      "location_id": "L100000102332",
+      "asset_name": "Gadarwara Super Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.861752,
+      "longitude": 78.866129,
+      "wiki_url": "https://www.gem.wiki/Gadarwara_Super_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102332_G100001018573",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gadarwara Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102332_G100001018576",
+      "location_id": "L100000102332",
+      "asset_name": "Gadarwara Super Thermal Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.861752,
+      "longitude": 78.866129,
+      "wiki_url": "https://www.gem.wiki/Gadarwara_Super_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102332_G100001018576",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gadarwara Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102462_G100000102901",
+      "location_id": "L100000102462",
+      "asset_name": "Gajmara Super Thermal Power Station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.65616,
+      "longitude": 85.604263,
+      "wiki_url": "https://www.gem.wiki/Gajmara_Super_Thermal_Power_Station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102462_G100000102901",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gajmara Super Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102462_G100000102902",
+      "location_id": "L100000102462",
+      "asset_name": "Gajmara Super Thermal Power Station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.65616,
+      "longitude": 85.604263,
+      "wiki_url": "https://www.gem.wiki/Gajmara_Super_Thermal_Power_Station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102462_G100000102902",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gajmara Super Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102439_G100000102954",
+      "location_id": "L100000102439",
+      "asset_name": "Garo Hills power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Meghalaya",
+      "latitude": 25.49546,
+      "longitude": 90.61682,
+      "wiki_url": "https://www.gem.wiki/Garo_Hills_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102439_G100000102954",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000001930",
+          "name": "North Eastern Electric Power Corp Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Garo Hills power station"
+    },
+    {
+      "asset_id": "L100000102145_G100000103070",
+      "location_id": "L100000102145",
+      "asset_name": "Godhna power station Phase I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.826445,
+      "longitude": 82.604828,
+      "wiki_url": "https://www.gem.wiki/Godhna_power_station",
+      "unit_name": "Phase I Unit 1",
+      "url": "/assets/L100000102145_G100000103070",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000121384",
+          "name": "THDC India Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001920",
+          "name": "Karnataka Power Corp Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Godhna power station"
+    },
+    {
+      "asset_id": "L100000102145_G100000103071",
+      "location_id": "L100000102145",
+      "asset_name": "Godhna power station Phase I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.826445,
+      "longitude": 82.604828,
+      "wiki_url": "https://www.gem.wiki/Godhna_power_station",
+      "unit_name": "Phase I Unit 2",
+      "url": "/assets/L100000102145_G100000103071",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000121384",
+          "name": "THDC India Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001920",
+          "name": "Karnataka Power Corp Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Godhna power station"
+    },
+    {
+      "asset_id": "L100000102145_G100000103072",
+      "location_id": "L100000102145",
+      "asset_name": "Godhna power station Phase II Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.826445,
+      "longitude": 82.604828,
+      "wiki_url": "https://www.gem.wiki/Godhna_power_station",
+      "unit_name": "Phase II Unit 1",
+      "url": "/assets/L100000102145_G100000103072",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000001920",
+          "name": "Karnataka Power Corp Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Godhna power station"
+    },
+    {
+      "asset_id": "L100000408394_G100000411776",
+      "location_id": "L100000408394",
+      "asset_name": "Hope Town power station 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andaman and Nicobar Islands",
+      "latitude": 11.706072,
+      "longitude": 92.736766,
+      "wiki_url": "https://www.gem.wiki/Hope_Town_power_station",
+      "unit_name": "1.0",
+      "url": "/assets/L100000408394_G100000411776",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hope Town power station"
+    },
+    {
+      "asset_id": "L100000102237_G100000104845",
+      "location_id": "L100000102237",
+      "asset_name": "Indira Gandhi Super Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 28.485091,
+      "longitude": 76.37316,
+      "wiki_url": "https://www.gem.wiki/Indira_Gandhi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102237_G100000104845",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120075",
+          "name": "Aravali Power Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Indira Gandhi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102237_G100000104846",
+      "location_id": "L100000102237",
+      "asset_name": "Indira Gandhi Super Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 28.485091,
+      "longitude": 76.37316,
+      "wiki_url": "https://www.gem.wiki/Indira_Gandhi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102237_G100000104846",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120075",
+          "name": "Aravali Power Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Indira Gandhi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102237_G100000104847",
+      "location_id": "L100000102237",
+      "asset_name": "Indira Gandhi Super Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 28.485091,
+      "longitude": 76.37316,
+      "wiki_url": "https://www.gem.wiki/Indira_Gandhi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102237_G100000104847",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120075",
+          "name": "Aravali Power Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Indira Gandhi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102237_G100000104848",
+      "location_id": "L100000102237",
+      "asset_name": "Indira Gandhi Super Thermal Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 28.485091,
+      "longitude": 76.37316,
+      "wiki_url": "https://www.gem.wiki/Indira_Gandhi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102237_G100000104848",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120075",
+          "name": "Aravali Power Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Indira Gandhi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102237_G100000104849",
+      "location_id": "L100000102237",
+      "asset_name": "Indira Gandhi Super Thermal Power Project Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 28.485091,
+      "longitude": 76.37316,
+      "wiki_url": "https://www.gem.wiki/Indira_Gandhi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102237_G100000104849",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120075",
+          "name": "Aravali Power Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Indira Gandhi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102631_G100000104946",
+      "location_id": "L100000102631",
+      "asset_name": "Jagdishpur captive power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.75,
+      "longitude": 80.533,
+      "wiki_url": "https://www.gem.wiki/Jagdishpur_captive_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102631_G100000104946",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jagdishpur captive power station"
+    },
+    {
+      "asset_id": "L100000102631_G100000104947",
+      "location_id": "L100000102631",
+      "asset_name": "Jagdishpur captive power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.75,
+      "longitude": 80.533,
+      "wiki_url": "https://www.gem.wiki/Jagdishpur_captive_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102631_G100000104947",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jagdishpur captive power station"
+    },
+    {
+      "asset_id": "L100000401489_G100000401459",
+      "location_id": "L100000401489",
+      "asset_name": "Jhanor Gandhar Combined Cycle power plant 46026.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 657.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.8242,
+      "longitude": 73.1136,
+      "wiki_url": "https://www.gem.wiki/Jhanor_Gandhar_Combined_Cycle_power_plant",
+      "unit_name": "46026.0",
+      "url": "/assets/L100000401489_G100000401459",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jhanor Gandhar Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000102104_G100000105425",
+      "location_id": "L100000102104",
+      "asset_name": "Kahalgaon Super Thermal Power Plant Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.236903,
+      "longitude": 87.265595,
+      "wiki_url": "https://www.gem.wiki/Kahalgaon_Super_Thermal_Power_Plant",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102104_G100000105425",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kahalgaon Super Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102104_G100000105426",
+      "location_id": "L100000102104",
+      "asset_name": "Kahalgaon Super Thermal Power Plant Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.236903,
+      "longitude": 87.265595,
+      "wiki_url": "https://www.gem.wiki/Kahalgaon_Super_Thermal_Power_Plant",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102104_G100000105426",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kahalgaon Super Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102104_G100000105427",
+      "location_id": "L100000102104",
+      "asset_name": "Kahalgaon Super Thermal Power Plant Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.236903,
+      "longitude": 87.265595,
+      "wiki_url": "https://www.gem.wiki/Kahalgaon_Super_Thermal_Power_Plant",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102104_G100000105427",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kahalgaon Super Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102104_G100000105428",
+      "location_id": "L100000102104",
+      "asset_name": "Kahalgaon Super Thermal Power Plant Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.236903,
+      "longitude": 87.265595,
+      "wiki_url": "https://www.gem.wiki/Kahalgaon_Super_Thermal_Power_Plant",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102104_G100000105428",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kahalgaon Super Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102104_G100000105429",
+      "location_id": "L100000102104",
+      "asset_name": "Kahalgaon Super Thermal Power Plant Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.236903,
+      "longitude": 87.265595,
+      "wiki_url": "https://www.gem.wiki/Kahalgaon_Super_Thermal_Power_Plant",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102104_G100000105429",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kahalgaon Super Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102104_G100000105430",
+      "location_id": "L100000102104",
+      "asset_name": "Kahalgaon Super Thermal Power Plant Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.236903,
+      "longitude": 87.265595,
+      "wiki_url": "https://www.gem.wiki/Kahalgaon_Super_Thermal_Power_Plant",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102104_G100000105430",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kahalgaon Super Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102104_G100000105431",
+      "location_id": "L100000102104",
+      "asset_name": "Kahalgaon Super Thermal Power Plant Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.236903,
+      "longitude": 87.265595,
+      "wiki_url": "https://www.gem.wiki/Kahalgaon_Super_Thermal_Power_Plant",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102104_G100000105431",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kahalgaon Super Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102676_G100000105623",
+      "location_id": "L100000102676",
+      "asset_name": "Katwa Super Thermal Power Project (NTPC) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.65,
+      "longitude": 88.13,
+      "wiki_url": "https://www.gem.wiki/Katwa_Super_Thermal_Power_Project_(NTPC)",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102676_G100000105623",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Katwa Super Thermal Power Project (NTPC)"
+    },
+    {
+      "asset_id": "L100000102676_G100000105624",
+      "location_id": "L100000102676",
+      "asset_name": "Katwa Super Thermal Power Project (NTPC) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.65,
+      "longitude": 88.13,
+      "wiki_url": "https://www.gem.wiki/Katwa_Super_Thermal_Power_Project_(NTPC)",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102676_G100000105624",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Katwa Super Thermal Power Project (NTPC)"
+    },
+    {
+      "asset_id": "L100000401490_G100000401460",
+      "location_id": "L100000401490",
+      "asset_name": "Kawas Combined Cycle power plant 46028.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 656.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.175,
+      "longitude": 72.6879,
+      "wiki_url": "https://www.gem.wiki/Kawas_Combined_Cycle_power_plant",
+      "unit_name": "46028.0",
+      "url": "/assets/L100000401490_G100000401460",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kawas Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000407598_G100000409915",
+      "location_id": "L100000407598",
+      "asset_name": "Kayamkulam Gas power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Kerala",
+      "latitude": 9.207196,
+      "longitude": 76.434225,
+      "wiki_url": "https://www.gem.wiki/Kayamkulam_Gas_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407598_G100000409915",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kayamkulam Gas power plant"
+    },
+    {
+      "asset_id": "M3877",
+      "location_id": "M3877",
+      "asset_name": "Kerendari Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 6.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.9125,
+      "longitude": 85.0875,
+      "wiki_url": "https://www.gem.wiki/Kerendari_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M3877",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kerendari Coal Mine"
+    },
+    {
+      "asset_id": "L100000102345_G100000105722",
+      "location_id": "L100000102345",
+      "asset_name": "Khargone power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.065169,
+      "longitude": 75.851943,
+      "wiki_url": "https://www.gem.wiki/Khargone_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102345_G100000105722",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Khargone power station"
+    },
+    {
+      "asset_id": "L100000102345_G100000105723",
+      "location_id": "L100000102345",
+      "asset_name": "Khargone power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.065169,
+      "longitude": 75.851943,
+      "wiki_url": "https://www.gem.wiki/Khargone_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102345_G100000105723",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Khargone power station"
+    },
+    {
+      "asset_id": "L100000102636_G100000105727",
+      "location_id": "L100000102636",
+      "asset_name": "Khurja power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.158333,
+      "longitude": 77.908333,
+      "wiki_url": "https://www.gem.wiki/Khurja_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102636_G100000105727",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000121384",
+          "name": "THDC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Khurja power station"
+    },
+    {
+      "asset_id": "L100000102636_G100000112418",
+      "location_id": "L100000102636",
+      "asset_name": "Khurja power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.158333,
+      "longitude": 77.908333,
+      "wiki_url": "https://www.gem.wiki/Khurja_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102636_G100000112418",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000121384",
+          "name": "THDC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Khurja power station"
+    },
+    {
+      "asset_id": "L100000102636_G100000112419",
+      "location_id": "L100000102636",
+      "asset_name": "Khurja power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.158333,
+      "longitude": 77.908333,
+      "wiki_url": "https://www.gem.wiki/Khurja_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102636_G100000112419",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000121384",
+          "name": "THDC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Khurja power station"
+    },
+    {
+      "asset_id": "L100000102157_G100000105864",
+      "location_id": "L100000102157",
+      "asset_name": "Korba Super Thermal Power Station (NTPC) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 200.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3874221,
+      "longitude": 82.6818961,
+      "wiki_url": "https://www.gem.wiki/Korba_Super_Thermal_Power_Station_(NTPC)",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102157_G100000105864",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Super Thermal Power Station (NTPC)"
+    },
+    {
+      "asset_id": "L100000102157_G100000105865",
+      "location_id": "L100000102157",
+      "asset_name": "Korba Super Thermal Power Station (NTPC) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 200.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3874221,
+      "longitude": 82.6818961,
+      "wiki_url": "https://www.gem.wiki/Korba_Super_Thermal_Power_Station_(NTPC)",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102157_G100000105865",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Super Thermal Power Station (NTPC)"
+    },
+    {
+      "asset_id": "L100000102157_G100000105866",
+      "location_id": "L100000102157",
+      "asset_name": "Korba Super Thermal Power Station (NTPC) Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 200.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3874221,
+      "longitude": 82.6818961,
+      "wiki_url": "https://www.gem.wiki/Korba_Super_Thermal_Power_Station_(NTPC)",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102157_G100000105866",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Super Thermal Power Station (NTPC)"
+    },
+    {
+      "asset_id": "L100000102157_G100000105867",
+      "location_id": "L100000102157",
+      "asset_name": "Korba Super Thermal Power Station (NTPC) Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3874221,
+      "longitude": 82.6818961,
+      "wiki_url": "https://www.gem.wiki/Korba_Super_Thermal_Power_Station_(NTPC)",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102157_G100000105867",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Super Thermal Power Station (NTPC)"
+    },
+    {
+      "asset_id": "L100000102157_G100000105868",
+      "location_id": "L100000102157",
+      "asset_name": "Korba Super Thermal Power Station (NTPC) Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3874221,
+      "longitude": 82.6818961,
+      "wiki_url": "https://www.gem.wiki/Korba_Super_Thermal_Power_Station_(NTPC)",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102157_G100000105868",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Super Thermal Power Station (NTPC)"
+    },
+    {
+      "asset_id": "L100000102157_G100000105869",
+      "location_id": "L100000102157",
+      "asset_name": "Korba Super Thermal Power Station (NTPC) Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3874221,
+      "longitude": 82.6818961,
+      "wiki_url": "https://www.gem.wiki/Korba_Super_Thermal_Power_Station_(NTPC)",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102157_G100000105869",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Super Thermal Power Station (NTPC)"
+    },
+    {
+      "asset_id": "L100000102157_G100000105870",
+      "location_id": "L100000102157",
+      "asset_name": "Korba Super Thermal Power Station (NTPC) Unit 7 (Korba III)",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3881,
+      "longitude": 82.6858,
+      "wiki_url": "https://www.gem.wiki/Korba_Super_Thermal_Power_Station_(NTPC)",
+      "unit_name": "Unit 7 (Korba III)",
+      "url": "/assets/L100000102157_G100000105870",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Korba Super Thermal Power Station (NTPC)"
+    },
+    {
+      "asset_id": "L100000102306_G100000106008",
+      "location_id": "L100000102306",
+      "asset_name": "Kudgi Super Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 16.499546,
+      "longitude": 75.834632,
+      "wiki_url": "https://www.gem.wiki/Kudgi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102306_G100000106008",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kudgi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102306_G100000106009",
+      "location_id": "L100000102306",
+      "asset_name": "Kudgi Super Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 16.499546,
+      "longitude": 75.834632,
+      "wiki_url": "https://www.gem.wiki/Kudgi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102306_G100000106009",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kudgi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102306_G100000106010",
+      "location_id": "L100000102306",
+      "asset_name": "Kudgi Super Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 16.499546,
+      "longitude": 75.834632,
+      "wiki_url": "https://www.gem.wiki/Kudgi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102306_G100000106010",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kudgi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102306_G100000106011",
+      "location_id": "L100000102306",
+      "asset_name": "Kudgi Super Thermal Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 16.499546,
+      "longitude": 75.834632,
+      "wiki_url": "https://www.gem.wiki/Kudgi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102306_G100000106011",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kudgi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102306_G100000106012",
+      "location_id": "L100000102306",
+      "asset_name": "Kudgi Super Thermal Power Project Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 16.499546,
+      "longitude": 75.834632,
+      "wiki_url": "https://www.gem.wiki/Kudgi_Super_Thermal_Power_Project",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102306_G100000106012",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kudgi Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102109_G100000106119",
+      "location_id": "L100000102109",
+      "asset_name": "Lakhisarai Thermal Power Station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.18036,
+      "longitude": 86.25903,
+      "wiki_url": "https://www.gem.wiki/Lakhisarai_Thermal_Power_Station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102109_G100000106119",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100001000832",
+          "name": "Bihar State Power Holding Co Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Lakhisarai Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102109_G100000106120",
+      "location_id": "L100000102109",
+      "asset_name": "Lakhisarai Thermal Power Station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.18036,
+      "longitude": 86.25903,
+      "wiki_url": "https://www.gem.wiki/Lakhisarai_Thermal_Power_Station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102109_G100000106120",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100001000832",
+          "name": "Bihar State Power Holding Co Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Lakhisarai Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102164_G100000106174",
+      "location_id": "L100000102164",
+      "asset_name": "Lara Integrated Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.757661,
+      "longitude": 83.457545,
+      "wiki_url": "https://www.gem.wiki/Lara_Integrated_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102164_G100000106174",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Lara Integrated Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102164_G100000106175",
+      "location_id": "L100000102164",
+      "asset_name": "Lara Integrated Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.757661,
+      "longitude": 83.457545,
+      "wiki_url": "https://www.gem.wiki/Lara_Integrated_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102164_G100000106175",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Lara Integrated Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102164_G100000106176",
+      "location_id": "L100000102164",
+      "asset_name": "Lara Integrated Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.757661,
+      "longitude": 83.457545,
+      "wiki_url": "https://www.gem.wiki/Lara_Integrated_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102164_G100000106176",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Lara Integrated Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102164_G100000106177",
+      "location_id": "L100000102164",
+      "asset_name": "Lara Integrated Thermal Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.757661,
+      "longitude": 83.457545,
+      "wiki_url": "https://www.gem.wiki/Lara_Integrated_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102164_G100000106177",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Lara Integrated Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102164_G100000106178",
+      "location_id": "L100000102164",
+      "asset_name": "Lara Integrated Thermal Power Project Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.757661,
+      "longitude": 83.457545,
+      "wiki_url": "https://www.gem.wiki/Lara_Integrated_Thermal_Power_Project",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102164_G100000106178",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Lara Integrated Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102164_G100001051473",
+      "location_id": "L100000102164",
+      "asset_name": "Lara Integrated Thermal Power Project Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.757661,
+      "longitude": 83.457545,
+      "wiki_url": "https://www.gem.wiki/Lara_Integrated_Thermal_Power_Project",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102164_G100001051473",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Lara Integrated Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102164_G100001051474",
+      "location_id": "L100000102164",
+      "asset_name": "Lara Integrated Thermal Power Project Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.757661,
+      "longitude": 83.457545,
+      "wiki_url": "https://www.gem.wiki/Lara_Integrated_Thermal_Power_Project",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102164_G100001051474",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Lara Integrated Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102557_G100000106659",
+      "location_id": "L100000102557",
+      "asset_name": "Marakkanam Super Thermal Power Project --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 4000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 12.19036,
+      "longitude": 79.941856,
+      "wiki_url": "https://www.gem.wiki/Marakkanam_Super_Thermal_Power_Project",
+      "unit_name": "--",
+      "url": "/assets/L100000102557_G100000106659",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Marakkanam Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102087_G100000106661",
+      "location_id": "L100000102087",
+      "asset_name": "Margherita power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 27.489464,
+      "longitude": 95.360144,
+      "wiki_url": "https://www.gem.wiki/Margherita_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102087_G100000106661",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000001930",
+          "name": "North Eastern Electric Power Corp Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Margherita power station"
+    },
+    {
+      "asset_id": "L100000102415_G100000106746",
+      "location_id": "L100000102415",
+      "asset_name": "Mauda power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.18074,
+      "longitude": 79.396541,
+      "wiki_url": "https://www.gem.wiki/Mauda_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102415_G100000106746",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mauda power station"
+    },
+    {
+      "asset_id": "L100000102415_G100000106747",
+      "location_id": "L100000102415",
+      "asset_name": "Mauda power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.18074,
+      "longitude": 79.396541,
+      "wiki_url": "https://www.gem.wiki/Mauda_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102415_G100000106747",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mauda power station"
+    },
+    {
+      "asset_id": "L100000102415_G100000106748",
+      "location_id": "L100000102415",
+      "asset_name": "Mauda power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.18074,
+      "longitude": 79.396541,
+      "wiki_url": "https://www.gem.wiki/Mauda_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102415_G100000106748",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mauda power station"
+    },
+    {
+      "asset_id": "L100000102415_G100000106749",
+      "location_id": "L100000102415",
+      "asset_name": "Mauda power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 21.18074,
+      "longitude": 79.396541,
+      "wiki_url": "https://www.gem.wiki/Mauda_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102415_G100000106749",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mauda power station"
+    },
+    {
+      "asset_id": "L100000103518_G100000106757",
+      "location_id": "L100000103518",
+      "asset_name": "Mawella Coal Power Development Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "Sri Lanka",
+      "state_province": "Eastern",
+      "latitude": 5.988493,
+      "longitude": 80.735932,
+      "wiki_url": "https://www.gem.wiki/Mawella_Coal_Power_Development_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000103518_G100000106757",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000984",
+          "name": "Ceylon Electricity Board",
+          "ownership_share": 50.0,
+          "hq_country": "Sri Lanka"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mawella Coal Power Development Project"
+    },
+    {
+      "asset_id": "L100000103518_G100000106758",
+      "location_id": "L100000103518",
+      "asset_name": "Mawella Coal Power Development Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "Sri Lanka",
+      "state_province": "Eastern",
+      "latitude": 5.988493,
+      "longitude": 80.735932,
+      "wiki_url": "https://www.gem.wiki/Mawella_Coal_Power_Development_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000103518_G100000106758",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000000984",
+          "name": "Ceylon Electricity Board",
+          "ownership_share": 50.0,
+          "hq_country": "Sri Lanka"
+        },
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mawella Coal Power Development Project"
+    },
+    {
+      "asset_id": "L100000102640_G100000106821",
+      "location_id": "L100000102640",
+      "asset_name": "Meja Thermal Power Project Stage I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.145867,
+      "longitude": 81.940096,
+      "wiki_url": "https://www.gem.wiki/Meja_Thermal_Power_Project",
+      "unit_name": "Stage I Unit 1",
+      "url": "/assets/L100000102640_G100000106821",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120838",
+          "name": "Meja Urja Nigam Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meja Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102640_G100000106822",
+      "location_id": "L100000102640",
+      "asset_name": "Meja Thermal Power Project Stage I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.145867,
+      "longitude": 81.940096,
+      "wiki_url": "https://www.gem.wiki/Meja_Thermal_Power_Project",
+      "unit_name": "Stage I Unit 2",
+      "url": "/assets/L100000102640_G100000106822",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120838",
+          "name": "Meja Urja Nigam Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meja Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102640_G100000115761",
+      "location_id": "L100000102640",
+      "asset_name": "Meja Thermal Power Project Stage II Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.145867,
+      "longitude": 81.940096,
+      "wiki_url": "https://www.gem.wiki/Meja_Thermal_Power_Project",
+      "unit_name": "Stage II Unit 3",
+      "url": "/assets/L100000102640_G100000115761",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120838",
+          "name": "Meja Urja Nigam Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meja Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102640_G100000115762",
+      "location_id": "L100000102640",
+      "asset_name": "Meja Thermal Power Project Stage II Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.145867,
+      "longitude": 81.940096,
+      "wiki_url": "https://www.gem.wiki/Meja_Thermal_Power_Project",
+      "unit_name": "Stage II Unit 4",
+      "url": "/assets/L100000102640_G100000115762",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120838",
+          "name": "Meja Urja Nigam Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meja Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102640_G100001000259",
+      "location_id": "L100000102640",
+      "asset_name": "Meja Thermal Power Project Stage II Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.145867,
+      "longitude": 81.940096,
+      "wiki_url": "https://www.gem.wiki/Meja_Thermal_Power_Project",
+      "unit_name": "Stage II Unit 5",
+      "url": "/assets/L100000102640_G100001000259",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120838",
+          "name": "Meja Urja Nigam Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meja Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000401520_G100000401490",
+      "location_id": "L100000401520",
+      "asset_name": "Monarchak Combined Cycle power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 101.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tripura",
+      "latitude": 23.438,
+      "longitude": 91.274,
+      "wiki_url": "https://www.gem.wiki/Monarchak_Combined_Cycle_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000401520_G100000401490",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000001930",
+          "name": "North Eastern Electric Power Corp Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Monarchak Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000102112_G100000107142",
+      "location_id": "L100000102112",
+      "asset_name": "Muzaffarpur power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 110.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 26.194771,
+      "longitude": 85.303302,
+      "wiki_url": "https://www.gem.wiki/Muzaffarpur_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102112_G100000107142",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Muzaffarpur power station"
+    },
+    {
+      "asset_id": "L100000102112_G100000107143",
+      "location_id": "L100000102112",
+      "asset_name": "Muzaffarpur power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 110.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 26.194771,
+      "longitude": 85.303302,
+      "wiki_url": "https://www.gem.wiki/Muzaffarpur_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102112_G100000107143",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Muzaffarpur power station"
+    },
+    {
+      "asset_id": "L100000102112_G100000107144",
+      "location_id": "L100000102112",
+      "asset_name": "Muzaffarpur power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 195.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 26.194771,
+      "longitude": 85.303302,
+      "wiki_url": "https://www.gem.wiki/Muzaffarpur_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102112_G100000107144",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Muzaffarpur power station"
+    },
+    {
+      "asset_id": "L100000102112_G100000107145",
+      "location_id": "L100000102112",
+      "asset_name": "Muzaffarpur power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 195.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 26.194771,
+      "longitude": 85.303302,
+      "wiki_url": "https://www.gem.wiki/Muzaffarpur_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102112_G100000107145",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Muzaffarpur power station"
+    },
+    {
+      "asset_id": "L100000102482_G100000112745",
+      "location_id": "L100000102482",
+      "asset_name": "NALCO Gajmara power station Phase I",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1400.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.65616,
+      "longitude": 85.604263,
+      "wiki_url": "https://www.gem.wiki/NALCO_Gajmara_power_station",
+      "unit_name": "Phase I",
+      "url": "/assets/L100000102482_G100000112745",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120480",
+          "name": "Gajamara Power Project",
+          "ownership_share": 100.0,
+          "hq_country": null
+        }
+      ],
+      "project_name": "NALCO Gajmara power station"
+    },
+    {
+      "asset_id": "L100000102482_G100000113125",
+      "location_id": "L100000102482",
+      "asset_name": "NALCO Gajmara power station Phase II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.65616,
+      "longitude": 85.604263,
+      "wiki_url": "https://www.gem.wiki/NALCO_Gajmara_power_station",
+      "unit_name": "Phase II",
+      "url": "/assets/L100000102482_G100000113125",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120480",
+          "name": "Gajamara Power Project",
+          "ownership_share": 100.0,
+          "hq_country": null
+        }
+      ],
+      "project_name": "NALCO Gajmara power station"
+    },
+    {
+      "asset_id": "L100000102340_G100000105026",
+      "location_id": "L100000102340",
+      "asset_name": "NTPC Seoni power station Phase 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.735479,
+      "longitude": 79.912341,
+      "wiki_url": "https://www.gem.wiki/NTPC_Seoni_power_station",
+      "unit_name": "Phase 1",
+      "url": "/assets/L100000102340_G100000105026",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000120674",
+          "name": "Jhabua Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "NTPC Seoni power station"
+    },
+    {
+      "asset_id": "L100000102340_G100000105027",
+      "location_id": "L100000102340",
+      "asset_name": "NTPC Seoni power station Phase 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.735479,
+      "longitude": 79.912341,
+      "wiki_url": "https://www.gem.wiki/NTPC_Seoni_power_station",
+      "unit_name": "Phase 2",
+      "url": "/assets/L100000102340_G100000105027",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000120674",
+          "name": "Jhabua Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "NTPC Seoni power station"
+    },
+    {
+      "asset_id": "L100000102113_G100000107158",
+      "location_id": "L100000102113",
+      "asset_name": "Nabinagar Super Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.776,
+      "longitude": 84.158025,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Super_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102113_G100000107158",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102113_G100000107159",
+      "location_id": "L100000102113",
+      "asset_name": "Nabinagar Super Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.776,
+      "longitude": 84.158025,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Super_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102113_G100000107159",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102113_G100000107160",
+      "location_id": "L100000102113",
+      "asset_name": "Nabinagar Super Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.776,
+      "longitude": 84.158025,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Super_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102113_G100000107160",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102113_G100001005227",
+      "location_id": "L100000102113",
+      "asset_name": "Nabinagar Super Thermal Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.776,
+      "longitude": 84.158025,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Super_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102113_G100001005227",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102113_G100001005229",
+      "location_id": "L100000102113",
+      "asset_name": "Nabinagar Super Thermal Power Project Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.776,
+      "longitude": 84.158025,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Super_Thermal_Power_Project",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102113_G100001005229",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102113_G100001005230",
+      "location_id": "L100000102113",
+      "asset_name": "Nabinagar Super Thermal Power Project Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.776,
+      "longitude": 84.158025,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Super_Thermal_Power_Project",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102113_G100001005230",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102114_G100000107161",
+      "location_id": "L100000102114",
+      "asset_name": "Nabinagar Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.705081,
+      "longitude": 84.088738,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102114_G100000107161",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000120152",
+          "name": "Bhartiya Rail Bijlee Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102114_G100000107162",
+      "location_id": "L100000102114",
+      "asset_name": "Nabinagar Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.705081,
+      "longitude": 84.088738,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102114_G100000107162",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000120152",
+          "name": "Bhartiya Rail Bijlee Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102114_G100000107163",
+      "location_id": "L100000102114",
+      "asset_name": "Nabinagar Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.705081,
+      "longitude": 84.088738,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102114_G100000107163",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000120152",
+          "name": "Bhartiya Rail Bijlee Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102114_G100000107164",
+      "location_id": "L100000102114",
+      "asset_name": "Nabinagar Thermal Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.705081,
+      "longitude": 84.088738,
+      "wiki_url": "https://www.gem.wiki/Nabinagar_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102114_G100000107164",
+      "upstream_entity_count": 5,
+      "owners": [
+        {
+          "entity_id": "E100000120152",
+          "name": "Bhartiya Rail Bijlee Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Nabinagar Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102642_G100000107338",
+      "location_id": "L100000102642",
+      "asset_name": "National Capital Dadri Thermal Power Plant IGCC demonstration",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.603,
+      "longitude": 77.6078,
+      "wiki_url": "https://www.gem.wiki/National_Capital_Dadri_Thermal_Power_Plant",
+      "unit_name": "IGCC demonstration",
+      "url": "/assets/L100000102642_G100000107338",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "National Capital Dadri Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102642_G100000107306",
+      "location_id": "L100000102642",
+      "asset_name": "National Capital Dadri Thermal Power Plant Stage I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.603,
+      "longitude": 77.6078,
+      "wiki_url": "https://www.gem.wiki/National_Capital_Dadri_Thermal_Power_Plant",
+      "unit_name": "Stage I Unit 1",
+      "url": "/assets/L100000102642_G100000107306",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "National Capital Dadri Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102642_G100000107307",
+      "location_id": "L100000102642",
+      "asset_name": "National Capital Dadri Thermal Power Plant Stage I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.603,
+      "longitude": 77.6078,
+      "wiki_url": "https://www.gem.wiki/National_Capital_Dadri_Thermal_Power_Plant",
+      "unit_name": "Stage I Unit 2",
+      "url": "/assets/L100000102642_G100000107307",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "National Capital Dadri Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102642_G100000107308",
+      "location_id": "L100000102642",
+      "asset_name": "National Capital Dadri Thermal Power Plant Stage I Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.603,
+      "longitude": 77.6078,
+      "wiki_url": "https://www.gem.wiki/National_Capital_Dadri_Thermal_Power_Plant",
+      "unit_name": "Stage I Unit 3",
+      "url": "/assets/L100000102642_G100000107308",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "National Capital Dadri Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102642_G100000107309",
+      "location_id": "L100000102642",
+      "asset_name": "National Capital Dadri Thermal Power Plant Stage I Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.603,
+      "longitude": 77.6078,
+      "wiki_url": "https://www.gem.wiki/National_Capital_Dadri_Thermal_Power_Plant",
+      "unit_name": "Stage I Unit 4",
+      "url": "/assets/L100000102642_G100000107309",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "National Capital Dadri Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102642_G100000107310",
+      "location_id": "L100000102642",
+      "asset_name": "National Capital Dadri Thermal Power Plant Stage II Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 490.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.603,
+      "longitude": 77.6078,
+      "wiki_url": "https://www.gem.wiki/National_Capital_Dadri_Thermal_Power_Plant",
+      "unit_name": "Stage II Unit 5",
+      "url": "/assets/L100000102642_G100000107310",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "National Capital Dadri Thermal Power Plant"
+    },
+    {
+      "asset_id": "L100000102642_G100000107311",
+      "location_id": "L100000102642",
+      "asset_name": "National Capital Dadri Thermal Power Plant Stage II Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 490.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.603,
+      "longitude": 77.6078,
+      "wiki_url": "https://www.gem.wiki/National_Capital_Dadri_Thermal_Power_Plant",
+      "unit_name": "Stage II Unit 6",
+      "url": "/assets/L100000102642_G100000107311",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "National Capital Dadri Thermal Power Plant"
+    },
+    {
+      "asset_id": "M7254",
+      "location_id": "M7254",
+      "asset_name": "North Dhadu (East) Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.7341172,
+      "longitude": 84.7625363,
+      "wiki_url": "https://www.gem.wiki/North_Dhadu_(East)_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M7254",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100002022888",
+          "name": "NTPC Mining Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "North Dhadu (East) Coal Mine"
+    },
+    {
+      "asset_id": "L100000102278_G100000107506",
+      "location_id": "L100000102278",
+      "asset_name": "North Karanpura power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.850772,
+      "longitude": 85.012411,
+      "wiki_url": "https://www.gem.wiki/North_Karanpura_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102278_G100000107506",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "North Karanpura power station"
+    },
+    {
+      "asset_id": "L100000102278_G100000107507",
+      "location_id": "L100000102278",
+      "asset_name": "North Karanpura power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.850772,
+      "longitude": 85.012411,
+      "wiki_url": "https://www.gem.wiki/North_Karanpura_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102278_G100000107507",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "North Karanpura power station"
+    },
+    {
+      "asset_id": "L100000102278_G100000107508",
+      "location_id": "L100000102278",
+      "asset_name": "North Karanpura power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.850772,
+      "longitude": 85.012411,
+      "wiki_url": "https://www.gem.wiki/North_Karanpura_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102278_G100000107508",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "North Karanpura power station"
+    },
+    {
+      "asset_id": "L100000102644_G100000115946",
+      "location_id": "L100000102644",
+      "asset_name": "Obra Thermal Power Station D Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.4445,
+      "longitude": 82.98,
+      "wiki_url": "https://www.gem.wiki/Obra_Thermal_Power_Station",
+      "unit_name": "D Unit 1",
+      "url": "/assets/L100000102644_G100000115946",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120838",
+          "name": "Meja Urja Nigam Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Obra Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102644_G100000115947",
+      "location_id": "L100000102644",
+      "asset_name": "Obra Thermal Power Station D Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.4445,
+      "longitude": 82.98,
+      "wiki_url": "https://www.gem.wiki/Obra_Thermal_Power_Station",
+      "unit_name": "D Unit 2",
+      "url": "/assets/L100000102644_G100000115947",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120838",
+          "name": "Meja Urja Nigam Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Obra Thermal Power Station"
+    },
+    {
+      "asset_id": "M0601",
+      "location_id": "M0601",
+      "asset_name": "Pakri Barwadih Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 18.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.881918,
+      "longitude": 85.233799,
+      "wiki_url": "https://www.gem.wiki/Pakri_Barwadih_Mine",
+      "unit_name": null,
+      "url": "/assets/M0601",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pakri Barwadih Coal Mine"
+    },
+    {
+      "asset_id": "L100000102281_G100000107868",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102281_G100000107868",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107869",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 10",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 110.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 10",
+      "url": "/assets/L100000102281_G100000107869",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107870",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 11",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 11",
+      "url": "/assets/L100000102281_G100000107870",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107871",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 12",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 12",
+      "url": "/assets/L100000102281_G100000107871",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107872",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 13",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 13",
+      "url": "/assets/L100000102281_G100000107872",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107873",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 14",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 14",
+      "url": "/assets/L100000102281_G100000107873",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107874",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 15",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 15",
+      "url": "/assets/L100000102281_G100000107874",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107875",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102281_G100000107875",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107876",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102281_G100000107876",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107877",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102281_G100000107877",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107878",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102281_G100000107878",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107879",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102281_G100000107879",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107880",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 110.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102281_G100000107880",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107881",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 110.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102281_G100000107881",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102281_G100000107882",
+      "location_id": "L100000102281",
+      "asset_name": "Patratu JSEB power station Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 110.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.64,
+      "longitude": 85.2931,
+      "wiki_url": "https://www.gem.wiki/Patratu_JSEB_power_station",
+      "unit_name": "Unit 9",
+      "url": "/assets/L100000102281_G100000107882",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121104",
+          "name": "Patratu Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Patratu JSEB power station"
+    },
+    {
+      "asset_id": "L100000102065_G100000108197",
+      "location_id": "L100000102065",
+      "asset_name": "Pudimadaka Ultra Mega Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 17.492713,
+      "longitude": 83.002767,
+      "wiki_url": "https://www.gem.wiki/Pudimadaka_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102065_G100000108197",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pudimadaka Ultra Mega Power Project"
+    },
+    {
+      "asset_id": "L100000102065_G100000108198",
+      "location_id": "L100000102065",
+      "asset_name": "Pudimadaka Ultra Mega Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 17.492713,
+      "longitude": 83.002767,
+      "wiki_url": "https://www.gem.wiki/Pudimadaka_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102065_G100000108198",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pudimadaka Ultra Mega Power Project"
+    },
+    {
+      "asset_id": "L100000102065_G100000108199",
+      "location_id": "L100000102065",
+      "asset_name": "Pudimadaka Ultra Mega Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 17.492713,
+      "longitude": 83.002767,
+      "wiki_url": "https://www.gem.wiki/Pudimadaka_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102065_G100000108199",
+      "upstream_entity_count": 3,
+      "owners": [
+        {
+          "entity_id": "E100000001926",
+          "name": "NTPC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pudimadaka Ultra Mega Power Project"
+    }
+  ]
+}

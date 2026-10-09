@@ -5,7 +5,13 @@ node_modules/
 .venv/
 __pycache__/
 *.pyc
+.pytest_cache/
 cdk.out/
 dist/
-data/raw/
 work/
+data/reports/
+# large unused legacy file
+data/raw/global_power_plant_database.csv
+apps/web/test-results/
+apps/web/playwright-report/
+data/raw/legacy/

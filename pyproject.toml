@@ -1,0 +1,9 @@
+[project]
+name = "energy-truth"
+version = "1.0.0"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["packages/core", "packages/connectors", "packages/fusion", "packages/chronos", "packages/agents", "."]
+testpaths = ["packages/fusion/tests", "packages/connectors/tests", "packages/chronos/tests", "packages/agents/tests", "tests"]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning", "ignore::UserWarning"]

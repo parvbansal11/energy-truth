@@ -1,0 +1,32 @@
+{
+ "no2": {
+  "id": "TROPOMI_L2_Nitrogen_Dioxide_Tropospheric_Column",
+  "matrix": "GoogleMapsCompatible_Level6",
+  "max_zoom": 6,
+  "title": "TROPOMI tropospheric NO2 (Sentinel-5P)",
+  "why": "Combustion proxy over coal plants and steel works; not a CO2 measurement",
+  "date": "2026-10-08",
+  "template": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/TROPOMI_L2_Nitrogen_Dioxide_Tropospheric_Column/default/2026-10-08/GoogleMapsCompatible_Level6/{z}/{y}/{x}.png",
+  "evidence_id": "ev_tile_5c7e5d7d2a"
+ },
+ "dnb": {
+  "id": "VIIRS_SNPP_DayNightBand_At_Sensor_Radiance",
+  "matrix": "GoogleMapsCompatible_Level8",
+  "max_zoom": 8,
+  "title": "VIIRS Day/Night Band radiance (Suomi NPP)",
+  "why": "Industrial night-time energy activity proxy",
+  "date": "2026-10-09",
+  "template": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_SNPP_DayNightBand_At_Sensor_Radiance/default/2026-10-09/GoogleMapsCompatible_Level8/{z}/{y}/{x}.png",
+  "evidence_id": "ev_tile_31cf16c103"
+ },
+ "truecolor": {
+  "id": "VIIRS_SNPP_CorrectedReflectance_TrueColor",
+  "matrix": "GoogleMapsCompatible_Level9",
+  "max_zoom": 9,
+  "title": "VIIRS corrected reflectance true colour",
+  "why": "Daily cloud/haze context",
+  "date": "2026-10-09",
+  "template": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_SNPP_CorrectedReflectance_TrueColor/default/2026-10-09/GoogleMapsCompatible_Level9/{z}/{y}/{x}.png",
+  "evidence_id": "ev_tile_1f2a772939"
+ }
+}

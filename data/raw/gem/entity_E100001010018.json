@@ -1,0 +1,25 @@
+{
+  "entity_id": "E100001010018",
+  "name": "Tata Steel",
+  "full_name": "Tata Steel Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Mahārāshtra",
+  "registration_country": "India",
+  "home_page": "https://www.tatasteel.com/",
+  "external_ids": {
+    "lei": "335800E6C75YGSGD5T66",
+    "permid": "4295872420"
+  },
+  "url": "/entities/E100001010018",
+  "owners_url": "/entities/E100001010018/owners",
+  "owned_url": "/entities/E100001010018/owned",
+  "trace_up_url": "/entities/E100001010018/trace/up",
+  "trace_down_url": "/entities/E100001010018/trace/down",
+  "graph_up_url": "/entities/E100001010018/graph/up",
+  "graph_down_url": "/entities/E100001010018/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100001010018&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100001010018"
+}

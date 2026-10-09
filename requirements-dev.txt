@@ -1,0 +1,6 @@
+-r apps/api/requirements.txt
+uvicorn[standard]>=0.30
+websockets>=12
+pytest>=8
+chronos-forecasting>=2.3
+pypdf>=5

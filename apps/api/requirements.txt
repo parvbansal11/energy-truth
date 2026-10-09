@@ -1,2 +1,12 @@
-fastapi>=0.115,<1
-uvicorn>=0.34,<1
+# API + agents runtime (Lambda bundle excludes torch/chronos; forecasts come from stored runs or SageMaker)
+fastapi>=0.115
+mangum>=0.19
+pydantic>=2
+httpx>=0.27
+pandas>=2.2
+numpy>=2
+langgraph>=1.0
+strands-agents>=1.0
+fpdf2>=2.8
+pdfplumber>=0.11
+boto3>=1.35

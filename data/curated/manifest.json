@@ -1,0 +1,24 @@
+{
+ "generated_at": "2026-10-09T19:21:20+00:00",
+ "compare_fy": "FY2024-25",
+ "ct_years": [
+  2023,
+  2024,
+  2025
+ ],
+ "ef": 0.727,
+ "ef_version": "V20_FY2023-24",
+ "companies": [
+  "NTPC",
+  "TATASTEEL",
+  "ULTRACEMCO",
+  "JSWSTEEL",
+  "ADANIPOWER"
+ ],
+ "counts": {
+  "assets": 267,
+  "evidence": 208,
+  "estimates": 11,
+  "alerts": 4
+ }
+}

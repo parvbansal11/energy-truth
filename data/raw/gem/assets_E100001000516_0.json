@@ -1,0 +1,3706 @@
+{
+  "total": 136,
+  "total_asset_count": 136,
+  "total_location_count": 50,
+  "limit": 200,
+  "offset": 0,
+  "count": 136,
+  "results": [
+    {
+      "asset_id": "M3855",
+      "location_id": "M3855",
+      "asset_name": "Banai & Bhalumuda Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 7.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chattisgarh",
+      "latitude": 21.027778,
+      "longitude": 84.833056,
+      "wiki_url": "https://www.gem.wiki/Banai_%26_Bhalumuda_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M3855",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Banai & Bhalumuda Coal Mine"
+    },
+    {
+      "asset_id": "L100000102380_G100000100778",
+      "location_id": "L100000102380",
+      "asset_name": "Bhadravati power station (Ispat) --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 2000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.110047,
+      "longitude": 79.121003,
+      "wiki_url": "https://www.gem.wiki/Bhadravati_power_station_(Ispat)",
+      "unit_name": "--",
+      "url": "/assets/L100000102380_G100000100778",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhadravati power station (Ispat)"
+    },
+    {
+      "asset_id": "L100000102141_G100000102339",
+      "location_id": "L100000102141",
+      "asset_name": "Dhardai power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1200.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.878943,
+      "longitude": 82.451606,
+      "wiki_url": "https://www.gem.wiki/Dhardai_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102141_G100000102339",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dhardai power station"
+    },
+    {
+      "asset_id": "L100000102397_G100000102399",
+      "location_id": "L100000102397",
+      "asset_name": "Dolvi captive power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530398,
+      "longitude": 72.92038,
+      "wiki_url": "https://www.gem.wiki/Dolvi_captive_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102397_G100000102399",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dolvi captive power station"
+    },
+    {
+      "asset_id": "P100000120537_U100000144960",
+      "location_id": "P100000120537",
+      "asset_name": "JSW BPSL Jharkhand steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.665526,
+      "longitude": 85.64622,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharkhand_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120537_U100000144960",
+      "upstream_entity_count": 43,
+      "owners": [
+        {
+          "entity_id": "E100000120156",
+          "name": "Bhushan Power & Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharkhand steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000141315",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120510_U100000141315",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000141018",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1550.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120510_U100000141018",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000141901",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant EAF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 651.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "EAF 1",
+      "url": "/assets/P100000120510_U100000141901",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144179",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant EAF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 651.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "EAF 2",
+      "url": "/assets/P100000120510_U100000144179",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144180",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant EAF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 724.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "EAF 3",
+      "url": "/assets/P100000120510_U100000144180",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144181",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant EAF 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 724.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "EAF 4",
+      "url": "/assets/P100000120510_U100000144181",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144185",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant EAF 5",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 750.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "EAF 5",
+      "url": "/assets/P100000120510_U100000144185",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000143315",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100000120510_U100000143315",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144194",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (10)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (10)",
+      "url": "/assets/P100000120510_U100000144194",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144373",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (11)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (11)",
+      "url": "/assets/P100000120510_U100000144373",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144374",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (12)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (12)",
+      "url": "/assets/P100000120510_U100000144374",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144186",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (2)",
+      "url": "/assets/P100000120510_U100000144186",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144187",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (3)",
+      "url": "/assets/P100000120510_U100000144187",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144188",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (4)",
+      "url": "/assets/P100000120510_U100000144188",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144189",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (5)",
+      "url": "/assets/P100000120510_U100000144189",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144190",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (6)",
+      "url": "/assets/P100000120510_U100000144190",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144191",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (7)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (7)",
+      "url": "/assets/P100000120510_U100000144191",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144192",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (8)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (8)",
+      "url": "/assets/P100000120510_U100000144192",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000144193",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown DRI (9)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown DRI (9)",
+      "url": "/assets/P100000120510_U100000144193",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120510_U100000145099",
+      "location_id": "P100000120510",
+      "asset_name": "JSW BPSL Jharsuguda steel plant unknown steel (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.763989,
+      "longitude": 84.022529,
+      "wiki_url": "https://www.gem.wiki/JSW_BPSL_Jharsuguda_steel_plant",
+      "unit_name": "unknown steel (unspecified) (1)",
+      "url": "/assets/P100000120510_U100000145099",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW BPSL Jharsuguda steel plant"
+    },
+    {
+      "asset_id": "P100000120521_U100000141034",
+      "location_id": "P100000120521",
+      "asset_name": "JSW Bengal Steel Salboni plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.575726,
+      "longitude": 87.310258,
+      "wiki_url": "https://www.gem.wiki/JSW_Bengal_Steel_Salboni_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100000120521_U100000141034",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000530",
+          "name": "JSW Bengal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Bengal Steel Salboni plant"
+    },
+    {
+      "asset_id": "P100000120521_U100000145062",
+      "location_id": "P100000120521",
+      "asset_name": "JSW Bengal Steel Salboni plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 10000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.575726,
+      "longitude": 87.310258,
+      "wiki_url": "https://www.gem.wiki/JSW_Bengal_Steel_Salboni_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120521_U100000145062",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000530",
+          "name": "JSW Bengal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Bengal Steel Salboni plant"
+    },
+    {
+      "asset_id": "P100000120570_U100000144904",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown Corex (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 850.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown Corex (1)",
+      "url": "/assets/P100000120570_U100000144904",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "P100000120570_U100000144905",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown Corex (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 850.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown Corex (2)",
+      "url": "/assets/P100000120570_U100000144905",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "P100000120570_U100000143350",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 900.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100000120570_U100000143350",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "P100000120570_U100000144879",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown DRI (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 750.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown DRI (2)",
+      "url": "/assets/P100000120570_U100000144879",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "P100000120570_U100001055454",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown DRI (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown DRI (3)",
+      "url": "/assets/P100000120570_U100001055454",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "P100000120570_U100001055456",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown DRI (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown DRI (4)",
+      "url": "/assets/P100000120570_U100001055456",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "P100000120570_U100000144408",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120570_U100000144408",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "P100000120570_U100000144409",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown EAF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown EAF (2)",
+      "url": "/assets/P100000120570_U100000144409",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "P100000120570_U100001055455",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown EAF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown EAF (3)",
+      "url": "/assets/P100000120570_U100001055455",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "P100000120570_U100001055457",
+      "location_id": "P100000120570",
+      "asset_name": "JSW Green Steel Salav plant unknown EAF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 6000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530853,
+      "longitude": 72.947091,
+      "wiki_url": "https://www.gem.wiki/JSW_Green_Steel_Salav_plant",
+      "unit_name": "unknown EAF (4)",
+      "url": "/assets/P100000120570_U100001055457",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002016710",
+          "name": "JSW Green Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Green Steel Salav plant"
+    },
+    {
+      "asset_id": "L100000102172_G100000108443",
+      "location_id": "L100000102172",
+      "asset_name": "JSW Ispat Raigarh power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 151.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.987781,
+      "longitude": 83.231306,
+      "wiki_url": "https://www.gem.wiki/JSW_Ispat_Raigarh_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102172_G100000108443",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001010152",
+          "name": "Mivaan Steels Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Ispat Raigarh power station"
+    },
+    {
+      "asset_id": "L100000102172_G100000108444",
+      "location_id": "L100000102172",
+      "asset_name": "JSW Ispat Raigarh power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 73.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.987781,
+      "longitude": 83.231306,
+      "wiki_url": "https://www.gem.wiki/JSW_Ispat_Raigarh_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102172_G100000108444",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001010152",
+          "name": "Mivaan Steels Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Ispat Raigarh power station"
+    },
+    {
+      "asset_id": "P100001023560_U100001028091",
+      "location_id": "P100001023560",
+      "asset_name": "JSW POSCO Keonjhar steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 6000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.248632,
+      "longitude": 86.156416,
+      "wiki_url": "https://www.gem.wiki/JSW_POSCO_Keonjhar_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100001023560_U100001028091",
+      "upstream_entity_count": 24,
+      "owners": [
+        {
+          "entity_id": "E100000000953",
+          "name": "POSCO Holdings Inc",
+          "ownership_share": 50.0,
+          "hq_country": "South Korea"
+        },
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW POSCO Keonjhar steel plant"
+    },
+    {
+      "asset_id": "P100001023560_U100001028144",
+      "location_id": "P100001023560",
+      "asset_name": "JSW POSCO Keonjhar steel plant unknown BF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 12000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.248632,
+      "longitude": 86.156416,
+      "wiki_url": "https://www.gem.wiki/JSW_POSCO_Keonjhar_steel_plant",
+      "unit_name": "unknown BF (2)",
+      "url": "/assets/P100001023560_U100001028144",
+      "upstream_entity_count": 24,
+      "owners": [
+        {
+          "entity_id": "E100000000953",
+          "name": "POSCO Holdings Inc",
+          "ownership_share": 50.0,
+          "hq_country": "South Korea"
+        },
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW POSCO Keonjhar steel plant"
+    },
+    {
+      "asset_id": "P100001023560_U100001028090",
+      "location_id": "P100001023560",
+      "asset_name": "JSW POSCO Keonjhar steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 6000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.248632,
+      "longitude": 86.156416,
+      "wiki_url": "https://www.gem.wiki/JSW_POSCO_Keonjhar_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100001023560_U100001028090",
+      "upstream_entity_count": 24,
+      "owners": [
+        {
+          "entity_id": "E100000000953",
+          "name": "POSCO Holdings Inc",
+          "ownership_share": 50.0,
+          "hq_country": "South Korea"
+        },
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW POSCO Keonjhar steel plant"
+    },
+    {
+      "asset_id": "P100001023560_U100001028145",
+      "location_id": "P100001023560",
+      "asset_name": "JSW POSCO Keonjhar steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 12000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.248632,
+      "longitude": 86.156416,
+      "wiki_url": "https://www.gem.wiki/JSW_POSCO_Keonjhar_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100001023560_U100001028145",
+      "upstream_entity_count": 24,
+      "owners": [
+        {
+          "entity_id": "E100000000953",
+          "name": "POSCO Holdings Inc",
+          "ownership_share": 50.0,
+          "hq_country": "South Korea"
+        },
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW POSCO Keonjhar steel plant"
+    },
+    {
+      "asset_id": "P100000121039_U100000145035",
+      "location_id": "P100000121039",
+      "asset_name": "JSW Rayalseema steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.76855,
+      "longitude": 78.403263,
+      "wiki_url": "https://www.gem.wiki/JSW_Rayalseema_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000121039_U100000145035",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002018902",
+          "name": "JSW Rayalaseema Steel Limited",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Rayalseema steel plant"
+    },
+    {
+      "asset_id": "P100000121039_U100001064275",
+      "location_id": "P100000121039",
+      "asset_name": "JSW Rayalseema steel plant unknown EAF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.76855,
+      "longitude": 78.403263,
+      "wiki_url": "https://www.gem.wiki/JSW_Rayalseema_steel_plant",
+      "unit_name": "unknown EAF (2)",
+      "url": "/assets/P100000121039_U100001064275",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002018902",
+          "name": "JSW Rayalaseema Steel Limited",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Rayalseema steel plant"
+    },
+    {
+      "asset_id": "P100000128464",
+      "location_id": "P100000128464",
+      "asset_name": "JSW Sesa Kodli Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Goa",
+      "latitude": 15.342999,
+      "longitude": 74.134102,
+      "wiki_url": "https://www.gem.wiki/JSW_Sesa_Kodli_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128464",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Sesa Kodli Mine"
+    },
+    {
+      "asset_id": "P100000128883",
+      "location_id": "P100000128883",
+      "asset_name": "JSW Steel Bedarabommenahall Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 14.210619,
+      "longitude": 76.222929,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Bedarabommenahall_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128883",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Bedarabommenahall Mine"
+    },
+    {
+      "asset_id": "P100000128518",
+      "location_id": "P100000128518",
+      "asset_name": "JSW Steel Bhadra Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1050.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.105667,
+      "longitude": 76.629021,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Bhadra_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128518",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Bhadra Mine"
+    },
+    {
+      "asset_id": "P100000128874",
+      "location_id": "P100000128874",
+      "asset_name": "JSW Steel Devadri Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1165.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.067338,
+      "longitude": 76.575671,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Devadri_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128874",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Devadri Mine"
+    },
+    {
+      "asset_id": "P100000128935",
+      "location_id": "P100000128935",
+      "asset_name": "JSW Steel Dharmapura Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 180.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.142877,
+      "longitude": 76.454776,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dharmapura_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128935",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dharmapura Mine"
+    },
+    {
+      "asset_id": "P100000120517_U100000141029",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3600.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120517_U100000141029",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100000141030",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120517_U100000141030",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100001028177",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant BF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "BF 3",
+      "url": "/assets/P100000120517_U100001028177",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100000144378",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120517_U100000144378",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100000144379",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120517_U100000144379",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100001028180",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 5000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120517_U100001028180",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100000144380",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant unknown CONARC (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "unknown CONARC (1)",
+      "url": "/assets/P100000120517_U100000144380",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100000144381",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant unknown CONARC (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "unknown CONARC (2)",
+      "url": "/assets/P100000120517_U100000144381",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100000144382",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant unknown CONARC (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "unknown CONARC (3)",
+      "url": "/assets/P100000120517_U100000144382",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100000144383",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant unknown CONARC (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "unknown CONARC (4)",
+      "url": "/assets/P100000120517_U100000144383",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100000143328",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100000120517_U100000143328",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100000120517_U100001028181",
+      "location_id": "P100000120517",
+      "asset_name": "JSW Steel Dolvi steel plant unknown DRI (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 2000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.690312,
+      "longitude": 73.035902,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Dolvi_steel_plant",
+      "unit_name": "unknown DRI (2)",
+      "url": "/assets/P100000120517_U100001028181",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Dolvi steel plant"
+    },
+    {
+      "asset_id": "P100001045504_U100001051227",
+      "location_id": "P100001045504",
+      "asset_name": "JSW Steel Gadchiroli steel plant unknown iron (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 25000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.1846793,
+      "longitude": 79.9957641,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Gadchiroli_steel_plant",
+      "unit_name": "unknown iron (unspecified) (1)",
+      "url": "/assets/P100001045504_U100001051227",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Gadchiroli steel plant"
+    },
+    {
+      "asset_id": "P100001045504_U100001051219",
+      "location_id": "P100001045504",
+      "asset_name": "JSW Steel Gadchiroli steel plant unknown steel (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 25000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.1846793,
+      "longitude": 79.9957641,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Gadchiroli_steel_plant",
+      "unit_name": "unknown steel (unspecified) (1)",
+      "url": "/assets/P100001045504_U100001051219",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Gadchiroli steel plant"
+    },
+    {
+      "asset_id": "P100000128976",
+      "location_id": "P100000128976",
+      "asset_name": "JSW Steel Gonua Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 341.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.922275,
+      "longitude": 85.373726,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Gonua_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128976",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Gonua Mine"
+    },
+    {
+      "asset_id": "P100000128929",
+      "location_id": "P100000128929",
+      "asset_name": "JSW Steel Jaisinghpura South Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.201632,
+      "longitude": 76.463542,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jaisinghpura_South_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128929",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jaisinghpura South Mine"
+    },
+    {
+      "asset_id": "P100000128512",
+      "location_id": "P100000128512",
+      "asset_name": "JSW Steel Jajang Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 9323.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.931082,
+      "longitude": 85.427162,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jajang_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128512",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jajang Mine"
+    },
+    {
+      "asset_id": "P100000120520_U100000144391",
+      "location_id": "P100000120520",
+      "asset_name": "JSW Steel Jharkhand steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4900.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.188108,
+      "longitude": 85.715097,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jharkhand_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100000120520_U100000144391",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000524",
+          "name": "JSW Jharkhand Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jharkhand steel plant"
+    },
+    {
+      "asset_id": "P100000120520_U100000144392",
+      "location_id": "P100000120520",
+      "asset_name": "JSW Steel Jharkhand steel plant unknown BF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4900.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.188108,
+      "longitude": 85.715097,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jharkhand_steel_plant",
+      "unit_name": "unknown BF (2)",
+      "url": "/assets/P100000120520_U100000144392",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000524",
+          "name": "JSW Jharkhand Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jharkhand steel plant"
+    },
+    {
+      "asset_id": "P100000120520_U100000144395",
+      "location_id": "P100000120520",
+      "asset_name": "JSW Steel Jharkhand steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1579.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.188108,
+      "longitude": 85.715097,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jharkhand_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120520_U100000144395",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000524",
+          "name": "JSW Jharkhand Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jharkhand steel plant"
+    },
+    {
+      "asset_id": "P100000120520_U100000144396",
+      "location_id": "P100000120520",
+      "asset_name": "JSW Steel Jharkhand steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1579.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.188108,
+      "longitude": 85.715097,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jharkhand_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120520_U100000144396",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000524",
+          "name": "JSW Jharkhand Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jharkhand steel plant"
+    },
+    {
+      "asset_id": "P100000120520_U100000144397",
+      "location_id": "P100000120520",
+      "asset_name": "JSW Steel Jharkhand steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1579.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.188108,
+      "longitude": 85.715097,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jharkhand_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120520_U100000144397",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000524",
+          "name": "JSW Jharkhand Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jharkhand steel plant"
+    },
+    {
+      "asset_id": "P100000120520_U100000144398",
+      "location_id": "P100000120520",
+      "asset_name": "JSW Steel Jharkhand steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2632.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.188108,
+      "longitude": 85.715097,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jharkhand_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120520_U100000144398",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000524",
+          "name": "JSW Jharkhand Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jharkhand steel plant"
+    },
+    {
+      "asset_id": "P100000120520_U100000144399",
+      "location_id": "P100000120520",
+      "asset_name": "JSW Steel Jharkhand steel plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2632.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.188108,
+      "longitude": 85.715097,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jharkhand_steel_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120520_U100000144399",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000524",
+          "name": "JSW Jharkhand Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jharkhand steel plant"
+    },
+    {
+      "asset_id": "P100000120520_U100000144393",
+      "location_id": "P100000120520",
+      "asset_name": "JSW Steel Jharkhand steel plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1200.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.188108,
+      "longitude": 85.715097,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Jharkhand_steel_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100000120520_U100000144393",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000524",
+          "name": "JSW Jharkhand Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Jharkhand steel plant"
+    },
+    {
+      "asset_id": "P100000128873",
+      "location_id": "P100000128873",
+      "asset_name": "JSW Steel Nandi Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 408.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.015044,
+      "longitude": 76.573073,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Nandi_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128873",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Nandi Mine"
+    },
+    {
+      "asset_id": "P100000128316",
+      "location_id": "P100000128316",
+      "asset_name": "JSW Steel Narayana Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1092.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 14.992565,
+      "longitude": 76.656198,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Narayana_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128316",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Narayana Mine"
+    },
+    {
+      "asset_id": "P100000128521",
+      "location_id": "P100000128521",
+      "asset_name": "JSW Steel Narayanposhi Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5297.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.927954,
+      "longitude": 85.242293,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Narayanposhi_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128521",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Narayanposhi Mine"
+    },
+    {
+      "asset_id": "P100000128490",
+      "location_id": "P100000128490",
+      "asset_name": "JSW Steel Nuagaon Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 7117.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.972214,
+      "longitude": 85.300502,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Nuagaon_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128490",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Nuagaon Mine"
+    },
+    {
+      "asset_id": "P100000120622_U100000144996",
+      "location_id": "P100000120622",
+      "asset_name": "JSW Steel Piombino steel plant unknown EAF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 600.0,
+      "capacity_unit": "ttpa",
+      "country": "Italy",
+      "state_province": "Province of Livorno",
+      "latitude": 42.93652,
+      "longitude": 10.537794,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Piombino_steel_plant",
+      "unit_name": "unknown EAF (2)",
+      "url": "/assets/P100000120622_U100000144996",
+      "upstream_entity_count": 21,
+      "owners": [
+        {
+          "entity_id": "E100001000525",
+          "name": "JSW Steel Italy Piombino SpA",
+          "ownership_share": 100.0,
+          "hq_country": "Italy"
+        }
+      ],
+      "project_name": "JSW Steel Piombino steel plant"
+    },
+    {
+      "asset_id": "P100000128528",
+      "location_id": "P100000128528",
+      "asset_name": "JSW Steel Rama Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 940.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.121743,
+      "longitude": 76.468844,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Rama_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128528",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Rama Mine"
+    },
+    {
+      "asset_id": "P100000120518_U100000141031",
+      "location_id": "P100000120518",
+      "asset_name": "JSW Steel Salem steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 683.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.814912,
+      "longitude": 77.918465,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Salem_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120518_U100000141031",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Salem steel plant"
+    },
+    {
+      "asset_id": "P100000120518_U100000141032",
+      "location_id": "P100000120518",
+      "asset_name": "JSW Steel Salem steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 683.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.814912,
+      "longitude": 77.918465,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Salem_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120518_U100000141032",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Salem steel plant"
+    },
+    {
+      "asset_id": "P100000120518_U100000144372",
+      "location_id": "P100000120518",
+      "asset_name": "JSW Steel Salem steel plant BOF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 640.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.814912,
+      "longitude": 77.918465,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Salem_steel_plant",
+      "unit_name": "BOF 1",
+      "url": "/assets/P100000120518_U100000144372",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Salem steel plant"
+    },
+    {
+      "asset_id": "P100000120518_U100000144390",
+      "location_id": "P100000120518",
+      "asset_name": "JSW Steel Salem steel plant BOF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 620.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.814912,
+      "longitude": 77.918465,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Salem_steel_plant",
+      "unit_name": "BOF 2",
+      "url": "/assets/P100000120518_U100000144390",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Salem steel plant"
+    },
+    {
+      "asset_id": "P100000129277",
+      "location_id": "P100000129277",
+      "asset_name": "JSW Steel Surjagad 4 Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.635846,
+      "longitude": 80.348696,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Surjagad_4_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129277",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Surjagad 4 Mine"
+    },
+    {
+      "asset_id": "P100000128875",
+      "location_id": "P100000128875",
+      "asset_name": "JSW Steel Tunga Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.105902,
+      "longitude": 76.634617,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Tunga_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128875",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Tunga Mine"
+    },
+    {
+      "asset_id": "P100000120935_U100000142239",
+      "location_id": "P100000120935",
+      "asset_name": "JSW Steel USA Ohio plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "United States",
+      "state_province": "Ohio",
+      "latitude": 40.314891,
+      "longitude": -80.605553,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_USA_Ohio_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120935_U100000142239",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000527",
+          "name": "JSW Steel USA Ohio Inc",
+          "ownership_share": 100.0,
+          "hq_country": "United States"
+        }
+      ],
+      "project_name": "JSW Steel USA Ohio plant"
+    },
+    {
+      "asset_id": "P100000128508",
+      "location_id": "P100000128508",
+      "asset_name": "JSW Steel Ubbalagundi Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.059815,
+      "longitude": 76.646348,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Ubbalagundi_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128508",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Ubbalagundi Mine"
+    },
+    {
+      "asset_id": "P100000120519_U100000141033",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120519_U100000141033",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000141435",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "capacity_value": 2170.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120519_U100000141435",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000141436",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant BF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "BF 3",
+      "url": "/assets/P100000120519_U100000141436",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000141437",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant BF 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "BF 4",
+      "url": "/assets/P100000120519_U100000141437",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000143600",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1333.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120519_U100000143600",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000143601",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1333.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120519_U100000143601",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000143602",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1333.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120519_U100000143602",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000143603",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1600.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120519_U100000143603",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000143604",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1600.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120519_U100000143604",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000143605",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown BOF (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1600.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown BOF (6)",
+      "url": "/assets/P100000120519_U100000143605",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000143606",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown BOF (7)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1600.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown BOF (7)",
+      "url": "/assets/P100000120519_U100000143606",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000144893",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown Corex (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 850.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown Corex (1)",
+      "url": "/assets/P100000120519_U100000144893",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000144894",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown Corex (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 850.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown Corex (2)",
+      "url": "/assets/P100000120519_U100000144894",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000143329",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1200.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100000120519_U100000143329",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000141908",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120519_U100000141908",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000120519_U100000143815",
+      "location_id": "P100000120519",
+      "asset_name": "JSW Steel Vijayanagar steel plant unknown ZPF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.180423,
+      "longitude": 76.663134,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vijayanagar_steel_plant",
+      "unit_name": "unknown ZPF (1)",
+      "url": "/assets/P100000120519_U100000143815",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vijayanagar steel plant"
+    },
+    {
+      "asset_id": "P100000128932",
+      "location_id": "P100000128932",
+      "asset_name": "JSW Steel Vyasankere Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.220901,
+      "longitude": 76.384072,
+      "wiki_url": "https://www.gem.wiki/JSW_Steel_Vyasankere_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128932",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Steel Vyasankere Mine"
+    },
+    {
+      "asset_id": "L100000102405_G100000105377",
+      "location_id": "L100000102405",
+      "asset_name": "JSW Tarapur power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.794507,
+      "longitude": 72.740525,
+      "wiki_url": "https://www.gem.wiki/JSW_Tarapur_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102405_G100000105377",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Tarapur power station"
+    },
+    {
+      "asset_id": "P100000120539_U100000141066",
+      "location_id": "P100000120539",
+      "asset_name": "JSW Utkal Steel Rajnagar plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.216667,
+      "longitude": 86.55,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_Rajnagar_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120539_U100000141066",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel Rajnagar plant"
+    },
+    {
+      "asset_id": "P100000120539_U100000141067",
+      "location_id": "P100000120539",
+      "asset_name": "JSW Utkal Steel Rajnagar plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.216667,
+      "longitude": 86.55,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_Rajnagar_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120539_U100000141067",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel Rajnagar plant"
+    },
+    {
+      "asset_id": "P100000120539_U100000141328",
+      "location_id": "P100000120539",
+      "asset_name": "JSW Utkal Steel Rajnagar plant BF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.216667,
+      "longitude": 86.55,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_Rajnagar_plant",
+      "unit_name": "BF 3",
+      "url": "/assets/P100000120539_U100000141328",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel Rajnagar plant"
+    },
+    {
+      "asset_id": "P100000120539_U100000143637",
+      "location_id": "P100000120539",
+      "asset_name": "JSW Utkal Steel Rajnagar plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.216667,
+      "longitude": 86.55,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_Rajnagar_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120539_U100000143637",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel Rajnagar plant"
+    },
+    {
+      "asset_id": "P100000120539_U100000144117",
+      "location_id": "P100000120539",
+      "asset_name": "JSW Utkal Steel Rajnagar plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.216667,
+      "longitude": 86.55,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_Rajnagar_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120539_U100000144117",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel Rajnagar plant"
+    },
+    {
+      "asset_id": "P100000120539_U100000144102",
+      "location_id": "P100000120539",
+      "asset_name": "JSW Utkal Steel Rajnagar plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.216667,
+      "longitude": 86.55,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_Rajnagar_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120539_U100000144102",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel Rajnagar plant"
+    },
+    {
+      "asset_id": "P100000120539_U100000144118",
+      "location_id": "P100000120539",
+      "asset_name": "JSW Utkal Steel Rajnagar plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.216667,
+      "longitude": 86.55,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_Rajnagar_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120539_U100000144118",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel Rajnagar plant"
+    },
+    {
+      "asset_id": "P100000120539_U100000144103",
+      "location_id": "P100000120539",
+      "asset_name": "JSW Utkal Steel Rajnagar plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.216667,
+      "longitude": 86.55,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_Rajnagar_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120539_U100000144103",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel Rajnagar plant"
+    },
+    {
+      "asset_id": "P100000120539_U100000144116",
+      "location_id": "P100000120539",
+      "asset_name": "JSW Utkal Steel Rajnagar plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1200.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.216667,
+      "longitude": 86.55,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_Rajnagar_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100000120539_U100000144116",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel Rajnagar plant"
+    },
+    {
+      "asset_id": "L100000104954_G100000115666",
+      "location_id": "L100000104954",
+      "asset_name": "JSW Utkal Steel power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.225479,
+      "longitude": 86.562654,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000104954_G100000115666",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel power station"
+    },
+    {
+      "asset_id": "L100000104954_G100000115667",
+      "location_id": "L100000104954",
+      "asset_name": "JSW Utkal Steel power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.225479,
+      "longitude": 86.562654,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000104954_G100000115667",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel power station"
+    },
+    {
+      "asset_id": "L100000104954_G100000115668",
+      "location_id": "L100000104954",
+      "asset_name": "JSW Utkal Steel power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.225479,
+      "longitude": 86.562654,
+      "wiki_url": "https://www.gem.wiki/JSW_Utkal_Steel_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000104954_G100000115668",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000528",
+          "name": "JSW Utkal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Utkal Steel power station"
+    },
+    {
+      "asset_id": "P100000120538_U100000144101",
+      "location_id": "P100000120538",
+      "asset_name": "JSW Vijayanagar Metallics steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.203176,
+      "longitude": 76.659122,
+      "wiki_url": "https://www.gem.wiki/JSW_Vijayanagar_Metallics_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100000120538_U100000144101",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000529",
+          "name": "JSW Vijayanagar Metallics Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Vijayanagar Metallics steel plant"
+    },
+    {
+      "asset_id": "P100000120538_U100000144119",
+      "location_id": "P100000120538",
+      "asset_name": "JSW Vijayanagar Metallics steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.203176,
+      "longitude": 76.659122,
+      "wiki_url": "https://www.gem.wiki/JSW_Vijayanagar_Metallics_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120538_U100000144119",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000529",
+          "name": "JSW Vijayanagar Metallics Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Vijayanagar Metallics steel plant"
+    },
+    {
+      "asset_id": "P100000120538_U100000144120",
+      "location_id": "P100000120538",
+      "asset_name": "JSW Vijayanagar Metallics steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 1700.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.203176,
+      "longitude": 76.659122,
+      "wiki_url": "https://www.gem.wiki/JSW_Vijayanagar_Metallics_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120538_U100000144120",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001000529",
+          "name": "JSW Vijayanagar Metallics Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Vijayanagar Metallics steel plant"
+    },
+    {
+      "asset_id": "P100000128996",
+      "location_id": "P100000128996",
+      "asset_name": "Mivan Steels Hahaladdi Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 102.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 20.224586,
+      "longitude": 80.893838,
+      "wiki_url": "https://www.gem.wiki/Mivan_Steels_Hahaladdi_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128996",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100001010152",
+          "name": "Mivaan Steels Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mivan Steels Hahaladdi Mine"
+    },
+    {
+      "asset_id": "M3900",
+      "location_id": "M3900",
+      "asset_name": "Parbatpur Central Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 0.9,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.678452,
+      "longitude": 86.34704,
+      "wiki_url": "https://www.gem.wiki/Parbatpur_Central_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M3900",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Parbatpur Central Coal Mine"
+    },
+    {
+      "asset_id": "L100000102850_G100000108007",
+      "location_id": "L100000102850",
+      "asset_name": "Piombino power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 900.0,
+      "capacity_unit": "MW",
+      "country": "Italy",
+      "state_province": "Livorno",
+      "latitude": 42.916667,
+      "longitude": 10.533333,
+      "wiki_url": "https://www.gem.wiki/Piombino_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102850_G100000108007",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Piombino power station"
+    },
+    {
+      "asset_id": "L100000102176_G100000108449",
+      "location_id": "L100000102176",
+      "asset_name": "Raipur Sponge Iron power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 37.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.987781,
+      "longitude": 83.231306,
+      "wiki_url": "https://www.gem.wiki/Raipur_Sponge_Iron_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102176_G100000108449",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Raipur Sponge Iron power station"
+    },
+    {
+      "asset_id": "L100000102492_G100000108528",
+      "location_id": "L100000102492",
+      "asset_name": "Rengali Bhushan power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 40.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.680814,
+      "longitude": 84.040505,
+      "wiki_url": "https://www.gem.wiki/Rengali_Bhushan_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102492_G100000108528",
+      "upstream_entity_count": 43,
+      "owners": [
+        {
+          "entity_id": "E100000120156",
+          "name": "Bhushan Power & Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rengali Bhushan power station"
+    },
+    {
+      "asset_id": "L100000102492_G100000108529",
+      "location_id": "L100000102492",
+      "asset_name": "Rengali Bhushan power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.680814,
+      "longitude": 84.040505,
+      "wiki_url": "https://www.gem.wiki/Rengali_Bhushan_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102492_G100000108529",
+      "upstream_entity_count": 43,
+      "owners": [
+        {
+          "entity_id": "E100000120156",
+          "name": "Bhushan Power & Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rengali Bhushan power station"
+    },
+    {
+      "asset_id": "L100000102492_G100000108530",
+      "location_id": "L100000102492",
+      "asset_name": "Rengali Bhushan power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 130.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.680814,
+      "longitude": 84.040505,
+      "wiki_url": "https://www.gem.wiki/Rengali_Bhushan_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102492_G100000108530",
+      "upstream_entity_count": 43,
+      "owners": [
+        {
+          "entity_id": "E100000120156",
+          "name": "Bhushan Power & Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rengali Bhushan power station"
+    },
+    {
+      "asset_id": "L100000102492_G100000108531",
+      "location_id": "L100000102492",
+      "asset_name": "Rengali Bhushan power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 130.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.680814,
+      "longitude": 84.040505,
+      "wiki_url": "https://www.gem.wiki/Rengali_Bhushan_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102492_G100000108531",
+      "upstream_entity_count": 43,
+      "owners": [
+        {
+          "entity_id": "E100000120156",
+          "name": "Bhushan Power & Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rengali Bhushan power station"
+    },
+    {
+      "asset_id": "M0742",
+      "location_id": "M0742",
+      "asset_name": "Revuboe Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 5.0,
+      "capacity_unit": "Mtpa",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -16.234739,
+      "longitude": 33.831034,
+      "wiki_url": "https://www.gem.wiki/Revuboè_Mine",
+      "unit_name": null,
+      "url": "/assets/M0742",
+      "upstream_entity_count": 26,
+      "owners": [
+        {
+          "entity_id": "E100001013474",
+          "name": "Minas de Revuboè Lda",
+          "ownership_share": 100.0,
+          "hq_country": "Mozambique"
+        }
+      ],
+      "project_name": "Revuboe Coal Mine"
+    },
+    {
+      "asset_id": "M0625",
+      "location_id": "M0625",
+      "asset_name": "Rohne Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 8.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.784197,
+      "longitude": 85.309898,
+      "wiki_url": "https://www.gem.wiki/Rohne_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0625",
+      "upstream_entity_count": 52,
+      "owners": [
+        {
+          "entity_id": "E100000132139",
+          "name": "Rohne Coal Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rohne Coal Mine"
+    },
+    {
+      "asset_id": "P100000128904",
+      "location_id": "P100000128904",
+      "asset_name": "SWML Bhangaon Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.029972,
+      "longitude": 85.250067,
+      "wiki_url": "https://www.gem.wiki/SWML_Bhangaon_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128904",
+      "upstream_entity_count": 20,
+      "owners": [
+        {
+          "entity_id": "E100002002817",
+          "name": "South West Mining Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SWML Bhangaon Mine"
+    },
+    {
+      "asset_id": "L100000102571_G100000108745",
+      "location_id": "L100000102571",
+      "asset_name": "Salem Siscol power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.814008,
+      "longitude": 77.919073,
+      "wiki_url": "https://www.gem.wiki/Salem_Siscol_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102571_G100000108745",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Salem Siscol power station"
+    },
+    {
+      "asset_id": "M6650",
+      "location_id": "M6650",
+      "asset_name": "Sitanala Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 0.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.6667962,
+      "longitude": 86.4047027713614,
+      "wiki_url": "https://www.gem.wiki/Sitanala_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M6650",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sitanala Coal Mine"
+    },
+    {
+      "asset_id": "L100000102438_G100000110871",
+      "location_id": "L100000102438",
+      "asset_name": "Welspun Maxsteel power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.530398,
+      "longitude": 72.92038,
+      "wiki_url": "https://www.gem.wiki/Welspun_Maxsteel_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102438_G100000110871",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000516",
+          "name": "JSW Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Welspun Maxsteel power station"
+    }
+  ]
+}

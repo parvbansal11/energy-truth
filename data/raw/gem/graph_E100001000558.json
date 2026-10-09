@@ -1,0 +1,4114 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100001000558",
+    "full_name": "Adani Power Ltd",
+    "name": "Adani Power",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": null,
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.adanipower.com/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Gujarāt",
+    "gem_parents": "Adani Power Ltd [100%]",
+    "gem_parents_ids": "E100001000558 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "33580074T4XKFXBDG813",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L40100GJ1996PLC030533",
+    "permid_refinitiv_permanent_identifier": "4297767900",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000558",
+      "full_name": "Adani Power Ltd",
+      "name": "Adani Power",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.adanipower.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Adani Power Ltd [100%]",
+      "gem_parents_ids": "E100001000558 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "33580074T4XKFXBDG813",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L40100GJ1996PLC030533",
+      "permid_refinitiv_permanent_identifier": "4297767900",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120294",
+      "full_name": "DB Power Ltd",
+      "name": "DB Power",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "DBPL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://diliigentpower.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Mahārāshtra",
+      "gem_parents": "Adani Power Ltd [100.0%]",
+      "gem_parents_ids": "E100001000558 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "33580032WRL7ZX8LNT42",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5034749876",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000121521",
+      "full_name": "Vidarbha Industries Power Ltd",
+      "name": "Vidarbha Industries Power",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Mahārāshtra",
+      "gem_parents": "Adani Power Ltd [100.0%]",
+      "gem_parents_ids": "E100001000558 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800UXNKIG8MFGLU78",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5001102673",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000559",
+      "full_name": "Kutchh Power Generation Ltd",
+      "name": "Kutchh Power Generation",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Adani Power Ltd [100.0%]",
+      "gem_parents_ids": "E100001000558 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "33580048YOLUMONSWX57",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036380292",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000561",
+      "full_name": "Katni Thermal Energy (MP) Ltd",
+      "name": "Katni Thermal Energy (MP)",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "Welspun Energy Madhya Pradesh Ltd [former]",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": null,
+      "gem_parents": "Adani Power Ltd [100.0%]",
+      "gem_parents_ids": "E100001000558 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5037056433",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000562",
+      "full_name": "Mahan Energen Ltd",
+      "name": "Mahan Energen",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "MEL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.adanipower.com",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Adani Power Ltd [74.0%]; Reliance Industries Ltd [26.0%]",
+      "gem_parents_ids": "E100001000558 [74.0%]; E100000121175 [26.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "3358008H4FYXAECINU41",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U40100GJ2005PLC147690",
+      "permid_refinitiv_permanent_identifier": "5036788751",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000563",
+      "full_name": "Pench Thermal Energy (MP) Ltd",
+      "name": "Pench Thermal Energy (MP)",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Adani Power Ltd [100.0%]",
+      "gem_parents_ids": "E100001000558 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800FHVHMKM8YXA802",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036380291",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000564",
+      "full_name": "Adani Pench Power Ltd",
+      "name": "Adani Pench Power",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "APPL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": null,
+      "gem_parents": "Adani Power Ltd [100.0%]",
+      "gem_parents_ids": "E100001000558 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "not found",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001011586",
+      "full_name": "Korba Power Ltd",
+      "name": "Korba Power",
+      "name_local": null,
+      "name_other": "Lanco Amarkantak Power [former]",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Haryāna",
+      "gem_parents": "Adani Power Ltd [100.0%]",
+      "gem_parents_ids": "E100001000558 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800NIYQYS13IKK326",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U40109TG2001PLC036265",
+      "permid_refinitiv_permanent_identifier": "4296064848",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002008799",
+      "full_name": "Orissa Thermal Energy Ltd",
+      "name": "Orissa Thermal Energy",
+      "name_local": null,
+      "name_other": "Orissa Thermal Energy Pvt Ltd; OTEPL",
+      "abbreviation": "OTEL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Adani Power Ltd [100.0%]",
+      "gem_parents_ids": "E100001000558 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800TO98Q1KDCKUU45",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U51909GJ2020PLC114529",
+      "permid_refinitiv_permanent_identifier": "5091404690",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100001080946_G100001090948",
+      "location_id": "L100001080946",
+      "unit_id": "G100001090948",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Chapar power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 26.2314806,
+      "longitude": 90.3041611,
+      "country": "India",
+      "state_province": "Assam",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Chapar_power_station",
+      "source_id": 2,
+      "project_name": "Adani Chapar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100001080946_G100001090949",
+      "location_id": "L100001080946",
+      "unit_id": "G100001090949",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Chapar power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 26.2314806,
+      "longitude": 90.3041611,
+      "country": "India",
+      "state_province": "Assam",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Chapar_power_station",
+      "source_id": 2,
+      "project_name": "Adani Chapar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100001080946_G100001090950",
+      "location_id": "L100001080946",
+      "unit_id": "G100001090950",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Chapar power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 26.2314806,
+      "longitude": 90.3041611,
+      "country": "India",
+      "state_province": "Assam",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Chapar_power_station",
+      "source_id": 2,
+      "project_name": "Adani Chapar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100001080946_G100001090951",
+      "location_id": "L100001080946",
+      "unit_id": "G100001090951",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Chapar power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 26.2314806,
+      "longitude": 90.3041611,
+      "country": "India",
+      "state_province": "Assam",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Chapar_power_station",
+      "source_id": 2,
+      "project_name": "Adani Chapar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102243_G100000107820",
+      "location_id": "L100000102243",
+      "unit_id": "G100000107820",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Godda power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.814107,
+      "longitude": 87.135465,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Godda_power_station",
+      "source_id": 2,
+      "project_name": "Adani Godda power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102243_G100000107821",
+      "location_id": "L100000102243",
+      "unit_id": "G100000107821",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Godda power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.814107,
+      "longitude": 87.135465,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Godda_power_station",
+      "source_id": 2,
+      "project_name": "Adani Godda power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102121_G100000100034",
+      "location_id": "L100000102121",
+      "unit_id": "G100000100034",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.743775,
+      "longitude": 83.274093,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "source_id": 2,
+      "project_name": "Adani Raigarh Thermal Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102121_G100000100035",
+      "location_id": "L100000102121",
+      "unit_id": "G100000100035",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 21.743775,
+      "longitude": 83.274093,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "source_id": 2,
+      "project_name": "Adani Raigarh Thermal Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102121_G100000100036",
+      "location_id": "L100000102121",
+      "unit_id": "G100000100036",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 21.743775,
+      "longitude": 83.274093,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "source_id": 2,
+      "project_name": "Adani Raigarh Thermal Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102121_G100001072694",
+      "location_id": "L100000102121",
+      "unit_id": "G100001072694",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 21.753318,
+      "longitude": 83.278732,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "source_id": 2,
+      "project_name": "Adani Raigarh Thermal Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102121_G100001072695",
+      "location_id": "L100000102121",
+      "unit_id": "G100001072695",
+      "asset_type": "Coal Plant",
+      "asset_name": "Adani Raigarh Thermal Power Plant Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 21.753318,
+      "longitude": 83.278732,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Adani_Raigarh_Thermal_Power_Plant",
+      "source_id": 2,
+      "project_name": "Adani Raigarh Thermal Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102387_G100000101135",
+      "location_id": "L100000102387",
+      "unit_id": "G100000101135",
+      "asset_type": "Coal Plant",
+      "asset_name": "Butibori Power Project Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.928591,
+      "longitude": 78.933281,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Butibori_Power_Project",
+      "source_id": 2,
+      "project_name": "Butibori Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102387_G100000101136",
+      "location_id": "L100000102387",
+      "unit_id": "G100000101136",
+      "asset_type": "Coal Plant",
+      "asset_name": "Butibori Power Project Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.928591,
+      "longitude": 78.933281,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Butibori_Power_Project",
+      "source_id": 2,
+      "project_name": "Butibori Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102528_G100000105625",
+      "location_id": "L100000102528",
+      "unit_id": "G100000105625",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kawai Thermal Power Project Phase II Unit 1",
+      "unit_name": "Phase II Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Kawai Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102528_G100000105626",
+      "location_id": "L100000102528",
+      "unit_id": "G100000105626",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kawai Thermal Power Project Phase II Unit 2",
+      "unit_name": "Phase II Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Kawai Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102528_G100000105627",
+      "location_id": "L100000102528",
+      "unit_id": "G100000105627",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kawai Thermal Power Project Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Kawai Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102528_G100000105628",
+      "location_id": "L100000102528",
+      "unit_id": "G100000105628",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kawai Thermal Power Project Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Kawai Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102528_G100001017728",
+      "location_id": "L100000102528",
+      "unit_id": "G100001017728",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kawai Thermal Power Project Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Kawai Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102528_G100001017729",
+      "location_id": "L100000102528",
+      "unit_id": "G100001017729",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kawai Thermal Power Project Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Kawai Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102528_G100001017730",
+      "location_id": "L100000102528",
+      "unit_id": "G100001017730",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kawai Thermal Power Project Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Kawai Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102528_G100001017731",
+      "location_id": "L100000102528",
+      "unit_id": "G100001017731",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kawai Thermal Power Project Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 24.777997,
+      "longitude": 76.737144,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kawai_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Kawai Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107106",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107106",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase III Unit 5",
+      "unit_name": "Phase III Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.8234904,
+      "longitude": 69.5534831,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107107",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107107",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase III Unit 6",
+      "unit_name": "Phase III Unit 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.8235448,
+      "longitude": 69.5551568,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107104",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107104",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase II Unit 3",
+      "unit_name": "Phase II Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.8235596,
+      "longitude": 69.5511094,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107105",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107105",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase II Unit 4",
+      "unit_name": "Phase II Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.8235596,
+      "longitude": 69.5511094,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107102",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107102",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase I Unit 1",
+      "unit_name": "Phase I Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.8235596,
+      "longitude": 69.5511094,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107103",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107103",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase I Unit 2",
+      "unit_name": "Phase I Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.8235596,
+      "longitude": 69.5511094,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107108",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107108",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase IV Unit 7",
+      "unit_name": "Phase IV Unit 7",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.8235448,
+      "longitude": 69.5551568,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107109",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107109",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase IV Unit 8",
+      "unit_name": "Phase IV Unit 8",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107110",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107110",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase IV Unit 9",
+      "unit_name": "Phase IV Unit 9",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107111",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107111",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase V Unit 10",
+      "unit_name": "Phase V Unit 10",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107112",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107112",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase V Unit 11",
+      "unit_name": "Phase V Unit 11",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102217_G100000107113",
+      "location_id": "L100000102217",
+      "unit_id": "G100000107113",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mundra Thermal Power Project (Adani) Phase V Unit 12",
+      "unit_name": "Phase V Unit 12",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.8235448,
+      "longitude": 69.5574957,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mundra_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Mundra Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102117_G100000108017",
+      "location_id": "L100000102117",
+      "unit_id": "G100000108017",
+      "asset_type": "Coal Plant",
+      "asset_name": "Pirpainti Thermal Power Station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 25.324011,
+      "longitude": 87.42764,
+      "country": "India",
+      "state_province": "Bihar",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Pirpainti_Thermal_Power_Station",
+      "source_id": 2,
+      "project_name": "Pirpainti Thermal Power Station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102117_G100000108018",
+      "location_id": "L100000102117",
+      "unit_id": "G100000108018",
+      "asset_type": "Coal Plant",
+      "asset_name": "Pirpainti Thermal Power Station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 25.324011,
+      "longitude": 87.42764,
+      "country": "India",
+      "state_province": "Bihar",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Pirpainti_Thermal_Power_Station",
+      "source_id": 2,
+      "project_name": "Pirpainti Thermal Power Station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102117_G100001001198",
+      "location_id": "L100000102117",
+      "unit_id": "G100001001198",
+      "asset_type": "Coal Plant",
+      "asset_name": "Pirpainti Thermal Power Station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 25.324011,
+      "longitude": 87.42764,
+      "country": "India",
+      "state_province": "Bihar",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Pirpainti_Thermal_Power_Station",
+      "source_id": 2,
+      "project_name": "Pirpainti Thermal Power Station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102173_G100000108445",
+      "location_id": "L100000102173",
+      "unit_id": "G100000108445",
+      "asset_type": "Coal Plant",
+      "asset_name": "Raikheda power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.449918,
+      "longitude": 81.852474,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 685.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Raikheda_power_station",
+      "source_id": 2,
+      "project_name": "Raikheda power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102173_G100000108446",
+      "location_id": "L100000102173",
+      "unit_id": "G100000108446",
+      "asset_type": "Coal Plant",
+      "asset_name": "Raikheda power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.449918,
+      "longitude": 81.852474,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 685.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Raikheda_power_station",
+      "source_id": 2,
+      "project_name": "Raikheda power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102173_G100000115970",
+      "location_id": "L100000102173",
+      "unit_id": "G100000115970",
+      "asset_type": "Coal Plant",
+      "asset_name": "Raikheda power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 21.449918,
+      "longitude": 81.852474,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Raikheda_power_station",
+      "source_id": 2,
+      "project_name": "Raikheda power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102173_G100000115971",
+      "location_id": "L100000102173",
+      "unit_id": "G100000115971",
+      "asset_type": "Coal Plant",
+      "asset_name": "Raikheda power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 21.449918,
+      "longitude": 81.852474,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Raikheda_power_station",
+      "source_id": 2,
+      "project_name": "Raikheda power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102432_G100000110185",
+      "location_id": "L100000102432",
+      "unit_id": "G100000110185",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tiroda Thermal Power Project Phase III Unit 4",
+      "unit_name": "Phase III Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Tiroda Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102432_G100000110186",
+      "location_id": "L100000102432",
+      "unit_id": "G100000110186",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tiroda Thermal Power Project Phase III Unit 5",
+      "unit_name": "Phase III Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Tiroda Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102432_G100000110184",
+      "location_id": "L100000102432",
+      "unit_id": "G100000110184",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tiroda Thermal Power Project Phase II Unit 3",
+      "unit_name": "Phase II Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Tiroda Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102432_G100000110182",
+      "location_id": "L100000102432",
+      "unit_id": "G100000110182",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tiroda Thermal Power Project Phase I Unit 1",
+      "unit_name": "Phase I Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Tiroda Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102432_G100000110183",
+      "location_id": "L100000102432",
+      "unit_id": "G100000110183",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tiroda Thermal Power Project Phase I Unit 2",
+      "unit_name": "Phase I Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.412502,
+      "longitude": 79.96731,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tiroda_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Tiroda Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102311_G100000110429",
+      "location_id": "L100000102311",
+      "unit_id": "G100000110429",
+      "asset_type": "Coal Plant",
+      "asset_name": "Udupi power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 13.1596,
+      "longitude": 74.8002,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Udupi_power_station",
+      "source_id": 2,
+      "project_name": "Udupi power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102311_G100000110430",
+      "location_id": "L100000102311",
+      "unit_id": "G100000110430",
+      "asset_type": "Coal Plant",
+      "asset_name": "Udupi power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 13.1596,
+      "longitude": 74.8002,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Udupi_power_station",
+      "source_id": 2,
+      "project_name": "Udupi power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102311_G100000110431",
+      "location_id": "L100000102311",
+      "unit_id": "G100000110431",
+      "asset_type": "Coal Plant",
+      "asset_name": "Udupi power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 13.1596,
+      "longitude": 74.8002,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Udupi_power_station",
+      "source_id": 2,
+      "project_name": "Udupi power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102311_G100000110432",
+      "location_id": "L100000102311",
+      "unit_id": "G100000110432",
+      "asset_type": "Coal Plant",
+      "asset_name": "Udupi power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 13.1596,
+      "longitude": 74.8002,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Udupi_power_station",
+      "source_id": 2,
+      "project_name": "Udupi power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102127_G100000100593",
+      "location_id": "L100000102127",
+      "unit_id": "G100000100593",
+      "asset_type": "Coal Plant",
+      "asset_name": "Baradarha power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.911436,
+      "longitude": 83.188863,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Baradarha_power_station",
+      "source_id": 2,
+      "project_name": "Baradarha power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102127_G100000100594",
+      "location_id": "L100000102127",
+      "unit_id": "G100000100594",
+      "asset_type": "Coal Plant",
+      "asset_name": "Baradarha power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.911436,
+      "longitude": 83.188863,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Baradarha_power_station",
+      "source_id": 2,
+      "project_name": "Baradarha power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102336_G100000103101",
+      "location_id": "L100000102336",
+      "unit_id": "G100000103101",
+      "asset_type": "Coal Plant",
+      "asset_name": "Gorgi power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.116667,
+      "longitude": 81.933333,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Gorgi_power_station",
+      "source_id": 2,
+      "project_name": "Gorgi power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102336_G100000103102",
+      "location_id": "L100000102336",
+      "unit_id": "G100000103102",
+      "asset_type": "Coal Plant",
+      "asset_name": "Gorgi power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.116667,
+      "longitude": 81.933333,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Gorgi_power_station",
+      "source_id": 2,
+      "project_name": "Gorgi power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102425_G100000107848",
+      "location_id": "L100000102425",
+      "unit_id": "G100000107848",
+      "asset_type": "Coal Plant",
+      "asset_name": "Parsodi power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.829333,
+      "longitude": 78.884639,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Parsodi_power_station",
+      "source_id": 2,
+      "project_name": "Parsodi power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102425_G100000107849",
+      "location_id": "L100000102425",
+      "unit_id": "G100000107849",
+      "asset_type": "Coal Plant",
+      "asset_name": "Parsodi power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.829333,
+      "longitude": 78.884639,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Parsodi_power_station",
+      "source_id": 2,
+      "project_name": "Parsodi power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102425_G100000107850",
+      "location_id": "L100000102425",
+      "unit_id": "G100000107850",
+      "asset_type": "Coal Plant",
+      "asset_name": "Parsodi power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.829333,
+      "longitude": 78.884639,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Parsodi_power_station",
+      "source_id": 2,
+      "project_name": "Parsodi power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102196_G100000100781",
+      "location_id": "L100000102196",
+      "unit_id": "G100000100781",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102196_G100000100782",
+      "location_id": "L100000102196",
+      "unit_id": "G100000100782",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102196_G100000100783",
+      "location_id": "L100000102196",
+      "unit_id": "G100000100783",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102196_G100000100784",
+      "location_id": "L100000102196",
+      "unit_id": "G100000100784",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102196_G100000100785",
+      "location_id": "L100000102196",
+      "unit_id": "G100000100785",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhadreshwar Thermal Power Project (Adani) Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.909409,
+      "longitude": 69.899944,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhadreshwar_Thermal_Power_Project_(Adani)",
+      "source_id": 2,
+      "project_name": "Bhadreshwar Thermal Power Project (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102342_G100000105616",
+      "location_id": "L100000102342",
+      "unit_id": "G100000105616",
+      "asset_type": "Coal Plant",
+      "asset_name": "Katni power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 23.834659,
+      "longitude": 80.395517,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Katni_power_station",
+      "source_id": 2,
+      "project_name": "Katni power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102342_G100000105617",
+      "location_id": "L100000102342",
+      "unit_id": "G100000105617",
+      "asset_type": "Coal Plant",
+      "asset_name": "Katni power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 23.834659,
+      "longitude": 80.395517,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Katni_power_station",
+      "source_id": 2,
+      "project_name": "Katni power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102342_G100000105618",
+      "location_id": "L100000102342",
+      "unit_id": "G100000105618",
+      "asset_type": "Coal Plant",
+      "asset_name": "Katni power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 23.834659,
+      "longitude": 80.395517,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Katni_power_station",
+      "source_id": 2,
+      "project_name": "Katni power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000106572",
+      "location_id": "L100000102348",
+      "unit_id": "G100000106572",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000106573",
+      "location_id": "L100000102348",
+      "unit_id": "G100000106573",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000106574",
+      "location_id": "L100000102348",
+      "unit_id": "G100000106574",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000115182",
+      "location_id": "L100000102348",
+      "unit_id": "G100000115182",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 1",
+      "unit_name": "USCTPP Unit 1",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000115183",
+      "location_id": "L100000102348",
+      "unit_id": "G100000115183",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 2",
+      "unit_name": "USCTPP Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100001005078",
+      "location_id": "L100000102348",
+      "unit_id": "G100001005078",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 3",
+      "unit_name": "USCTPP Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100001005079",
+      "location_id": "L100000102348",
+      "unit_id": "G100001005079",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 4",
+      "unit_name": "USCTPP Unit 4",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104761_G100000114812",
+      "location_id": "L100000104761",
+      "unit_id": "G100000114812",
+      "asset_type": "Coal Plant",
+      "asset_name": "MP Adani power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 21.69,
+      "longitude": 79.24,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/MP_Adani_power_station",
+      "source_id": 2,
+      "project_name": "MP Adani power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104761_G100000114813",
+      "location_id": "L100000104761",
+      "unit_id": "G100000114813",
+      "asset_type": "Coal Plant",
+      "asset_name": "MP Adani power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 21.69,
+      "longitude": 79.24,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/MP_Adani_power_station",
+      "source_id": 2,
+      "project_name": "MP Adani power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102357_G100000107920",
+      "location_id": "L100000102357",
+      "unit_id": "G100000107920",
+      "asset_type": "Coal Plant",
+      "asset_name": "Pench Thermal Power Project Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.147958,
+      "longitude": 79.134455,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Pench_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Pench Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102357_G100000107921",
+      "location_id": "L100000102357",
+      "unit_id": "G100000107921",
+      "asset_type": "Coal Plant",
+      "asset_name": "Pench Thermal Power Project Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.147958,
+      "longitude": 79.134455,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Pench_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Pench Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102162_G100000106145",
+      "location_id": "L100000102162",
+      "unit_id": "G100000106145",
+      "asset_type": "Coal Plant",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.2454,
+      "longitude": 82.7246,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Korba Power Thermal Power Plant (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102162_G100000106146",
+      "location_id": "L100000102162",
+      "unit_id": "G100000106146",
+      "asset_type": "Coal Plant",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.2454,
+      "longitude": 82.7246,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Korba Power Thermal Power Plant (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102162_G100000106147",
+      "location_id": "L100000102162",
+      "unit_id": "G100000106147",
+      "asset_type": "Coal Plant",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 22.2420932,
+      "longitude": 82.7247334,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Korba Power Thermal Power Plant (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102162_G100000106148",
+      "location_id": "L100000102162",
+      "unit_id": "G100000106148",
+      "asset_type": "Coal Plant",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 22.2420932,
+      "longitude": 82.7247334,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Korba Power Thermal Power Plant (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102162_G100001072663",
+      "location_id": "L100000102162",
+      "unit_id": "G100001072663",
+      "asset_type": "Coal Plant",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 22.23437,
+      "longitude": 82.72014,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Korba Power Thermal Power Plant (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102162_G100001072672",
+      "location_id": "L100000102162",
+      "unit_id": "G100001072672",
+      "asset_type": "Coal Plant",
+      "asset_name": "Korba Power Thermal Power Plant (Adani) Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 22.23437,
+      "longitude": 82.72014,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Lanco_Amarkantak_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Korba Power Thermal Power Plant (Adani)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102455_G100000101860",
+      "location_id": "L100000102455",
+      "unit_id": "G100000101860",
+      "asset_type": "Coal Plant",
+      "asset_name": "Nilanchal power station Phase I",
+      "unit_name": "Phase I",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "source_id": 2,
+      "project_name": "Nilanchal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102455_G100000101861",
+      "location_id": "L100000102455",
+      "unit_id": "G100000101861",
+      "asset_type": "Coal Plant",
+      "asset_name": "Nilanchal power station Phase II Unit 1",
+      "unit_name": "Phase II Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "source_id": 2,
+      "project_name": "Nilanchal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102455_G100000101862",
+      "location_id": "L100000102455",
+      "unit_id": "G100000101862",
+      "asset_type": "Coal Plant",
+      "asset_name": "Nilanchal power station Phase II Unit 2",
+      "unit_name": "Phase II Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "source_id": 2,
+      "project_name": "Nilanchal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102455_G100001051702",
+      "location_id": "L100000102455",
+      "unit_id": "G100001051702",
+      "asset_type": "Coal Plant",
+      "asset_name": "Nilanchal power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "source_id": 2,
+      "project_name": "Nilanchal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102455_G100001051703",
+      "location_id": "L100000102455",
+      "unit_id": "G100001051703",
+      "asset_type": "Coal Plant",
+      "asset_name": "Nilanchal power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "source_id": 2,
+      "project_name": "Nilanchal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102455_G100001051704",
+      "location_id": "L100000102455",
+      "unit_id": "G100001051704",
+      "asset_type": "Coal Plant",
+      "asset_name": "Nilanchal power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 20.587097,
+      "longitude": 85.742653,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Nilanchal_power_station",
+      "source_id": 2,
+      "project_name": "Nilanchal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100001000558",
+      "target": "E100000120294",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "E100000121521",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "E100001000559",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "E100001000561",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "E100001000562",
+      "value": 74.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "E100001000563",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "E100001000564",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "E100001011586",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "E100002008799",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100001080946_G100001090948",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100001080946_G100001090949",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100001080946_G100001090950",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100001080946_G100001090951",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102243_G100000107820",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102243_G100000107821",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102121_G100000100034",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102121_G100000100035",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102121_G100000100036",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102121_G100001072694",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102121_G100001072695",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102387_G100000101135",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102387_G100000101136",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102528_G100000105625",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102528_G100000105626",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102528_G100000105627",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102528_G100000105628",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102528_G100001017728",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102528_G100001017729",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102528_G100001017730",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102528_G100001017731",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107106",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107107",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107104",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107105",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107102",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107103",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107108",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107109",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107110",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107111",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107112",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102217_G100000107113",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102117_G100000108017",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102117_G100000108018",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102117_G100001001198",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102173_G100000108445",
+      "value": 100.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102173_G100000108446",
+      "value": 100.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102173_G100000115970",
+      "value": 100.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102173_G100000115971",
+      "value": 100.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102432_G100000110185",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102432_G100000110186",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102432_G100000110184",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102432_G100000110182",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102432_G100000110183",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102311_G100000110429",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102311_G100000110430",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102311_G100000110431",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000558",
+      "target": "L100000102311_G100000110432",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120294",
+      "target": "L100000102127_G100000100593",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120294",
+      "target": "L100000102127_G100000100594",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120294",
+      "target": "L100000102336_G100000103101",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120294",
+      "target": "L100000102336_G100000103102",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000121521",
+      "target": "L100000102425_G100000107848",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000121521",
+      "target": "L100000102425_G100000107849",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000121521",
+      "target": "L100000102425_G100000107850",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000559",
+      "target": "L100000102196_G100000100781",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000559",
+      "target": "L100000102196_G100000100782",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000559",
+      "target": "L100000102196_G100000100783",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000559",
+      "target": "L100000102196_G100000100784",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000559",
+      "target": "L100000102196_G100000100785",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000561",
+      "target": "L100000102342_G100000105616",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000561",
+      "target": "L100000102342_G100000105617",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000561",
+      "target": "L100000102342_G100000105618",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000106572",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000106573",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000106574",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000115182",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000115183",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100001005078",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100001005079",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000563",
+      "target": "L100000104761_G100000114812",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000563",
+      "target": "L100000104761_G100000114813",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000564",
+      "target": "L100000102357_G100000107920",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000564",
+      "target": "L100000102357_G100000107921",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001011586",
+      "target": "L100000102162_G100000106145",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001011586",
+      "target": "L100000102162_G100000106146",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001011586",
+      "target": "L100000102162_G100000106147",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001011586",
+      "target": "L100000102162_G100000106148",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001011586",
+      "target": "L100000102162_G100001072663",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001011586",
+      "target": "L100000102162_G100001072672",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002008799",
+      "target": "L100000102455_G100000101860",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002008799",
+      "target": "L100000102455_G100000101861",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002008799",
+      "target": "L100000102455_G100000101862",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002008799",
+      "target": "L100000102455_G100001051702",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002008799",
+      "target": "L100000102455_G100001051703",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002008799",
+      "target": "L100000102455_G100001051704",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    }
+  ],
+  "paths": {
+    "E100001000558": [
+      {
+        "route": [
+          "E100001000558"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000120294": [
+      {
+        "route": [
+          "E100001000558",
+          "E100000120294"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102127_G100000100593": [
+      {
+        "route": [
+          "E100001000558",
+          "E100000120294",
+          "L100000102127_G100000100593"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102127_G100000100594": [
+      {
+        "route": [
+          "E100001000558",
+          "E100000120294",
+          "L100000102127_G100000100594"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102336_G100000103101": [
+      {
+        "route": [
+          "E100001000558",
+          "E100000120294",
+          "L100000102336_G100000103101"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102336_G100000103102": [
+      {
+        "route": [
+          "E100001000558",
+          "E100000120294",
+          "L100000102336_G100000103102"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000121521": [
+      {
+        "route": [
+          "E100001000558",
+          "E100000121521"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102425_G100000107848": [
+      {
+        "route": [
+          "E100001000558",
+          "E100000121521",
+          "L100000102425_G100000107848"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102425_G100000107849": [
+      {
+        "route": [
+          "E100001000558",
+          "E100000121521",
+          "L100000102425_G100000107849"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102425_G100000107850": [
+      {
+        "route": [
+          "E100001000558",
+          "E100000121521",
+          "L100000102425_G100000107850"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001000559": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000559"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102196_G100000100781": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000559",
+          "L100000102196_G100000100781"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102196_G100000100782": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000559",
+          "L100000102196_G100000100782"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102196_G100000100783": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000559",
+          "L100000102196_G100000100783"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102196_G100000100784": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000559",
+          "L100000102196_G100000100784"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102196_G100000100785": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000559",
+          "L100000102196_G100000100785"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001000561": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000561"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102342_G100000105616": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000561",
+          "L100000102342_G100000105616"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102342_G100000105617": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000561",
+          "L100000102342_G100000105617"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102342_G100000105618": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000561",
+          "L100000102342_G100000105618"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001000562": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000562"
+        ],
+        "cumulative_pct": 74.0
+      }
+    ],
+    "L100000102348_G100000106572": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000562",
+          "L100000102348_G100000106572"
+        ],
+        "cumulative_pct": 74.0
+      }
+    ],
+    "L100000102348_G100000106573": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000562",
+          "L100000102348_G100000106573"
+        ],
+        "cumulative_pct": 74.0
+      }
+    ],
+    "L100000102348_G100000106574": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000562",
+          "L100000102348_G100000106574"
+        ],
+        "cumulative_pct": 74.0
+      }
+    ],
+    "L100000102348_G100000115182": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000562",
+          "L100000102348_G100000115182"
+        ],
+        "cumulative_pct": 74.0
+      }
+    ],
+    "L100000102348_G100000115183": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000562",
+          "L100000102348_G100000115183"
+        ],
+        "cumulative_pct": 74.0
+      }
+    ],
+    "L100000102348_G100001005078": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000562",
+          "L100000102348_G100001005078"
+        ],
+        "cumulative_pct": 74.0
+      }
+    ],
+    "L100000102348_G100001005079": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000562",
+          "L100000102348_G100001005079"
+        ],
+        "cumulative_pct": 74.0
+      }
+    ],
+    "E100001000563": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000563"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000104761_G100000114812": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000563",
+          "L100000104761_G100000114812"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000104761_G100000114813": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000563",
+          "L100000104761_G100000114813"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001000564": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000564"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102357_G100000107920": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000564",
+          "L100000102357_G100000107920"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102357_G100000107921": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001000564",
+          "L100000102357_G100000107921"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001011586": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001011586"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102162_G100000106145": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001011586",
+          "L100000102162_G100000106145"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102162_G100000106146": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001011586",
+          "L100000102162_G100000106146"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102162_G100000106147": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001011586",
+          "L100000102162_G100000106147"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102162_G100000106148": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001011586",
+          "L100000102162_G100000106148"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102162_G100001072663": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001011586",
+          "L100000102162_G100001072663"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102162_G100001072672": [
+      {
+        "route": [
+          "E100001000558",
+          "E100001011586",
+          "L100000102162_G100001072672"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002008799": [
+      {
+        "route": [
+          "E100001000558",
+          "E100002008799"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102455_G100000101860": [
+      {
+        "route": [
+          "E100001000558",
+          "E100002008799",
+          "L100000102455_G100000101860"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102455_G100000101861": [
+      {
+        "route": [
+          "E100001000558",
+          "E100002008799",
+          "L100000102455_G100000101861"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102455_G100000101862": [
+      {
+        "route": [
+          "E100001000558",
+          "E100002008799",
+          "L100000102455_G100000101862"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102455_G100001051702": [
+      {
+        "route": [
+          "E100001000558",
+          "E100002008799",
+          "L100000102455_G100001051702"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102455_G100001051703": [
+      {
+        "route": [
+          "E100001000558",
+          "E100002008799",
+          "L100000102455_G100001051703"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102455_G100001051704": [
+      {
+        "route": [
+          "E100001000558",
+          "E100002008799",
+          "L100000102455_G100001051704"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100001080946_G100001090948": [
+      {
+        "route": [
+          "E100001000558",
+          "L100001080946_G100001090948"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100001080946_G100001090949": [
+      {
+        "route": [
+          "E100001000558",
+          "L100001080946_G100001090949"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100001080946_G100001090950": [
+      {
+        "route": [
+          "E100001000558",
+          "L100001080946_G100001090950"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100001080946_G100001090951": [
+      {
+        "route": [
+          "E100001000558",
+          "L100001080946_G100001090951"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102243_G100000107820": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102243_G100000107820"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102243_G100000107821": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102243_G100000107821"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102121_G100000100034": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102121_G100000100034"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102121_G100000100035": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102121_G100000100035"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102121_G100000100036": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102121_G100000100036"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102121_G100001072694": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102121_G100001072694"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102121_G100001072695": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102121_G100001072695"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102387_G100000101135": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102387_G100000101135"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102387_G100000101136": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102387_G100000101136"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102528_G100000105625": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102528_G100000105625"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102528_G100000105626": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102528_G100000105626"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102528_G100000105627": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102528_G100000105627"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102528_G100000105628": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102528_G100000105628"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102528_G100001017728": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102528_G100001017728"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102528_G100001017729": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102528_G100001017729"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102528_G100001017730": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102528_G100001017730"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102528_G100001017731": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102528_G100001017731"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107106": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107106"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107107": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107107"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107104": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107104"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107105": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107105"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107102": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107102"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107103": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107103"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107108": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107108"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107109": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107109"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107110": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107110"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107111": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107111"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107112": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107112"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102217_G100000107113": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102217_G100000107113"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102117_G100000108017": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102117_G100000108017"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102117_G100000108018": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102117_G100000108018"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102117_G100001001198": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102117_G100001001198"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102173_G100000108445": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102173_G100000108445"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102173_G100000108446": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102173_G100000108446"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102173_G100000115970": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102173_G100000115970"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102173_G100000115971": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102173_G100000115971"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102432_G100000110185": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102432_G100000110185"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102432_G100000110186": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102432_G100000110186"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102432_G100000110184": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102432_G100000110184"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102432_G100000110182": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102432_G100000110182"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102432_G100000110183": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102432_G100000110183"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102311_G100000110429": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102311_G100000110429"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102311_G100000110430": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102311_G100000110430"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102311_G100000110431": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102311_G100000110431"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102311_G100000110432": [
+      {
+        "route": [
+          "E100001000558",
+          "L100000102311_G100000110432"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "L100000102173_G100000108446",
+    "L100000102121_G100000100035",
+    "L100000102196_G100000100781",
+    "L100000102432_G100000110182",
+    "L100000102348_G100000106572",
+    "L100000102528_G100000105627",
+    "L100000102357_G100000107921",
+    "L100000102336_G100000103101",
+    "L100000102342_G100000105618",
+    "L100000102217_G100000107113",
+    "L100000102425_G100000107849",
+    "L100000102455_G100000101860",
+    "L100000102217_G100000107104",
+    "L100000102432_G100000110183",
+    "L100000102196_G100000100785",
+    "L100000102243_G100000107821",
+    "L100000102311_G100000110430",
+    "L100000102217_G100000107106",
+    "L100000102336_G100000103102",
+    "L100000102162_G100001072663",
+    "L100000102528_G100000105625",
+    "L100000102196_G100000100783",
+    "L100000102117_G100000108017",
+    "L100000102425_G100000107850",
+    "L100000102387_G100000101135",
+    "L100000102162_G100000106148",
+    "L100000102425_G100000107848",
+    "L100000102162_G100000106147",
+    "L100000102217_G100000107108",
+    "L100000102121_G100001072695",
+    "L100001080946_G100001090949",
+    "L100000102528_G100001017728",
+    "L100000104761_G100000114813",
+    "L100000102173_G100000108445",
+    "L100000102117_G100001001198",
+    "L100000102121_G100000100036",
+    "L100001080946_G100001090948",
+    "L100000102217_G100000107103",
+    "L100000102117_G100000108018",
+    "L100000102311_G100000110431",
+    "L100000102348_G100000115183",
+    "L100000102196_G100000100782",
+    "L100000102121_G100001072694",
+    "L100000102162_G100001072672",
+    "L100000102455_G100001051703",
+    "L100000102528_G100000105626",
+    "L100000102217_G100000107105",
+    "L100000102311_G100000110432",
+    "L100000102243_G100000107820",
+    "L100000102348_G100000106574",
+    "L100000104761_G100000114812",
+    "L100000102455_G100001051702",
+    "L100000102127_G100000100594",
+    "L100000102217_G100000107109",
+    "L100000102348_G100000115182",
+    "L100000102348_G100000106573",
+    "L100000102455_G100000101862",
+    "L100000102455_G100000101861",
+    "L100001080946_G100001090950",
+    "L100000102311_G100000110429",
+    "L100000102432_G100000110184",
+    "L100000102162_G100000106145",
+    "L100000102196_G100000100784",
+    "L100000102217_G100000107110",
+    "L100000102127_G100000100593",
+    "L100000102342_G100000105617",
+    "L100000102528_G100001017729",
+    "L100000102162_G100000106146",
+    "L100000102217_G100000107107",
+    "L100000102387_G100000101136",
+    "L100000102348_G100001005078",
+    "L100000102357_G100000107920",
+    "L100000102217_G100000107102",
+    "L100000102121_G100000100034",
+    "L100000102432_G100000110186",
+    "L100000102217_G100000107112",
+    "L100000102342_G100000105616",
+    "L100000102217_G100000107111",
+    "L100000102173_G100000115971",
+    "L100000102528_G100000105628",
+    "L100000102528_G100001017731",
+    "L100000102173_G100000115970",
+    "L100000102455_G100001051704",
+    "L100000102432_G100000110185",
+    "L100001080946_G100001090951",
+    "L100000102528_G100001017730",
+    "L100000102348_G100001005079"
+  ],
+  "truncated_node_ids": []
+}
