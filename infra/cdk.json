@@ -1,0 +1,7 @@
+{
+  "app": "node --import tsx bin/app.ts",
+  "context": {
+    "deployChronos": false,
+    "deployOpenSearch": false
+  }
+}
