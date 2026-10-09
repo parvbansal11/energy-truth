@@ -24,7 +24,7 @@ def qty(v: float | None) -> str:
 
 
 def facts_from_state(state: dict) -> list[dict]:
-    """Atomic, cited facts the narrator is allowed to use."""
+    """Atomic, cited facts the narrator is allowed to use (kept terse on purpose)."""
     c, sc = state["company"], state.get("scorecard") or {}
     est = state.get("estimates", {})
     s1, s2 = est.get("S1", {}), est.get("S2", {})
@@ -32,33 +32,29 @@ def facts_from_state(state: dict) -> list[dict]:
     f = []
     rep1 = s1.get("reported")
     if rep1:
-        f.append({"key": "s1_reported", "text": f"{c['short']} reported {mt(rep1['value_t'])} Mt CO2e Scope 1 for {sc['fy']} ({rep1['boundary']} boundary, BRSR p.{rep1['page']})", "cite": rep1["evidence_ids"][0]})
+        f.append({"key": "s1_reported", "text": f"{c['short']} reported {mt(rep1['value_t'])} Mt Scope 1 for {sc['fy']} ({rep1['boundary']}, BRSR p.{rep1['page']})", "cite": rep1["evidence_ids"][0]})
     ind1 = s1.get("independent")
     if ind1:
-        f.append({"key": "s1_independent", "text": f"the independent rebuild from {ind1.get('n_assets', len([a for a in state.get('assets', []) if a.get('ct')]))} Climate TRACE assets is {mt(ind1['value_t'])} ± {mt(ind1['sigma_t'])} Mt", "cite": (ind1.get("evidence_ids") or [None])[0]})
+        n = ind1.get("n_assets", len([a for a in state.get("assets", []) if a.get("ct")]))
+        f.append({"key": "s1_independent", "text": f"rebuilt from {n} plants: {mt(ind1['value_t'])} ± {mt(ind1['sigma_t'])} Mt", "cite": (ind1.get("evidence_ids") or [None])[0]})
     if s1.get("z") is not None:
-        f.append({"key": "s1_z", "text": f"the gap is {s1['gap_pct']:+.1f}% (z = {s1['z']:.2f}), verdict: {s1['verdict']['label']}", "cite": rep1["evidence_ids"][0] if rep1 else None})
+        f.append({"key": "s1_z", "text": f"gap {s1['gap_pct']:+.1f}%, z = {s1['z']:.2f}: {s1['verdict']['label']}", "cite": rep1["evidence_ids"][0] if rep1 else None})
     if cov:
-        f.append({"key": "coverage", "text": f"{cov['ct_linked_assets']} CT-linked assets vs {cov['gem_assets']} GEM units (rho = {cov['rho']:.2f}); {cov['operating_emitting_matched']} of {cov['operating_emitting_locations']} in-boundary operating emitters are covered (rho_eff = {cov['rho_effective']:.2f})",
-                  "cite": (cov.get("evidence_ids") or [None])[0]})
+        f.append({"key": "coverage", "text": f"coverage {cov['operating_emitting_matched']} of {cov['operating_emitting_locations']} in-boundary emitters (rho_eff {cov['rho_effective']:.2f})", "cite": (cov.get("evidence_ids") or [None])[0]})
         if cov.get("unmatched_emitting"):
-            f.append({"key": "missing", "text": "owned emitters without an independent estimate include " + ", ".join(cov["unmatched_emitting"][:4]), "cite": (cov.get("evidence_ids") or [None])[0]})
+            f.append({"key": "missing", "text": "missing: " + ", ".join(cov["unmatched_emitting"][:3]), "cite": (cov.get("evidence_ids") or [None])[0]})
     if s2.get("independent") and s2.get("reported"):
-        f.append({"key": "s2", "text": f"Scope 2 rebuild {qty(s2['independent']['value_t'])} (BRSR electricity × CEA {s2['independent']['ef']} tCO2/MWh) vs {qty(s2['reported']['value_t'])} reported", "cite": s2["independent"]["evidence_ids"][1]})
+        f.append({"key": "s2", "text": f"Scope 2 rebuilt {qty(s2['independent']['value_t'])} vs {qty(s2['reported']['value_t'])} reported", "cite": s2["independent"]["evidence_ids"][1]})
     band = (state.get("forecast") or {}).get("band")
     if band:
-        f.append({"key": "band", "text": f"for {band['fy']} the scaled Chronos-2 band is {mt(band['q10_t'])}–{mt(band['q90_t'])} Mt and the BRSR value {mt(band['reported_t'])} Mt is {'outside' if band['breach'] else 'inside'} it", "cite": band["reported_evidence_id"]})
-    sat = state.get("satellite") or []
-    if sat:
-        s0 = sat[0]
-        f.append({"key": "sat", "text": f"latest Sentinel-2 scene over {s0['asset_name']} is dated {s0['datetime'][:10]} (context imagery, not a CO2 measurement)", "cite": s0["evidence_id"]})
+        f.append({"key": "band", "text": f"{band['fy']} BRSR {mt(band['reported_t'])} Mt is {'outside' if band['breach'] else 'inside'} the Chronos band {mt(band['q10_t'])} to {mt(band['q90_t'])} Mt", "cite": band["reported_evidence_id"]})
     return [x for x in f if x["cite"]]
 
 
 def template_narrative(state: dict, facts: list[dict]) -> str:
     by = {x["key"]: x for x in facts}
     parts = []
-    for k in ["s1_reported", "s1_independent", "s1_z", "coverage", "missing", "s2", "band", "sat"]:
+    for k in ["s1_reported", "s1_independent", "s1_z", "coverage", "missing", "s2", "band"]:
         if k in by:
             t = by[k]["text"]
             parts.append(t[0].upper() + t[1:] + f" [{by[k]['cite']}].")

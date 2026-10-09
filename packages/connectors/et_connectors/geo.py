@@ -1,4 +1,4 @@
-"""India state boundaries (geoBoundaries IND ADM1, CC BY 2.5 IN — DataMeet / ECI) tagged with POSOCO grid region,
+"""India state boundaries (geoBoundaries IND ADM1, CC BY 2.5 IN · DataMeet / ECI) tagged with POSOCO grid region,
 thinned for the browser (coordinates rounded to ~1 km, collinear duplicates removed)."""
 from __future__ import annotations
 

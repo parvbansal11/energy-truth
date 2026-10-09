@@ -168,7 +168,7 @@ def grid_scope2(state: AuditState) -> dict:
         last = g["months"][-1]
         _emit("tool", n, tool="posoco_intensity_nowcast", input={"month": last}, output=f"India implied {g['series']['India'][-1]:.3f} tCO2/MWh ({g['method']})")
     if not ind:
-        _emit("node", n, status="end", summary="No BRSR electricity quantity — Scope 2 not rebuilt")
+        _emit("node", n, status="end", summary="No BRSR electricity quantity · Scope 2 not rebuilt")
         return {"estimates": {"S2": {"independent": None, "reported": None}}, "messages": ["S2 skipped"]}
     _pace()
     _emit("tool", n, tool="cea_grid_factor", input={"version": ind["ef_version"]}, output=f"{ind['mwh']:,.0f} MWh × {ind['ef']} = {ind['value_t']:,.0f} tCO2")
@@ -199,7 +199,7 @@ def satellite_verifier(state: AuditState) -> dict:
         else:
             ev = {}
             _emit("tool", n, tool="sentinel2_stac", output=f"no low-cloud scene in 90 days ({ctx.get('sentinel2_error', 'none found')})")
-    _emit("node", n, status="end", summary=f"{len(ids)} GIBS layers + {len(out)} Sentinel-2 scene(s) — context only, not CO₂ measurements")
+    _emit("node", n, status="end", summary=f"{len(ids)} GIBS layers + {len(out)} Sentinel-2 scene(s) · context only, not CO₂ measurements")
     return {"satellite": out, "evidence": {**_evidence(ids), **(ev if top else {})}, "messages": ["satellite context"]}
 
 

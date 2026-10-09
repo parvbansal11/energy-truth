@@ -7,6 +7,7 @@ export default defineConfig(({ mode }) => {
   const target = env.LOCAL_API_URL || "http://127.0.0.1:8000";
   return {
     plugins: [react(), tailwindcss()],
+    define: { global: "globalThis" },
     envDir: "../..",
     server: {
       port: 5173,

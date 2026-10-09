@@ -29,7 +29,7 @@
   "local_path": "data/raw/robbie/POSOCO_data.csv",
   "page": null,
   "quote": "",
-  "license": "CC BY 4.0 \u2014 cite Andrew, R. M. (2020) ESSD",
+  "license": "CC BY 4.0 \u00b7 cite Andrew, R. M. (2020) ESSD",
   "meta": {}
  },
  {
@@ -43,7 +43,7 @@
   "local_path": "data/raw/robbie/CEA_DGR_data.csv",
   "page": null,
   "quote": "",
-  "license": "CC BY 4.0 \u2014 cite Andrew, R. M. (2020) ESSD",
+  "license": "CC BY 4.0 \u00b7 cite Andrew, R. M. (2020) ESSD",
   "meta": {}
  },
  {
@@ -57,13 +57,13 @@
   "local_path": "data/raw/robbie/India_monthly_data.csv",
   "page": null,
   "quote": "",
-  "license": "CC BY 4.0 \u2014 cite Andrew, R. M. (2020) ESSD",
+  "license": "CC BY 4.0 \u00b7 cite Andrew, R. M. (2020) ESSD",
   "meta": {}
  },
  {
   "id": "ev_api_payload_37776cb8c5",
   "kind": "api_payload",
-  "title": "GEM entity E100000001926 \u2014 NTPC Ltd",
+  "title": "GEM entity E100000001926 \u00b7 NTPC Ltd",
   "publisher": "Global Energy Monitor",
   "url": "https://api.globalenergymonitor.org/entities/E100000001926",
   "retrieved_at": "2026-10-09T19:09:59+00:00",
@@ -71,7 +71,7 @@
   "local_path": "data/raw/gem/entity_E100000001926.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -85,7 +85,7 @@
   "local_path": "data/raw/gem/assets_E100000001926_0.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {
    "total": 308,
    "locations": 86
@@ -102,7 +102,7 @@
   "local_path": "data/raw/gem/graph_E100000001926.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -116,7 +116,7 @@
   "local_path": "data/raw/climatetrace/sources_E100000001926_2023.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100000001926",
    "year": 2023,
@@ -134,7 +134,7 @@
   "local_path": "data/raw/climatetrace/sources_E100000001926_2024.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100000001926",
    "year": 2024,
@@ -152,7 +152,7 @@
   "local_path": "data/raw/climatetrace/sources_E100000001926_2025.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100000001926",
    "year": 2025,
@@ -162,7 +162,7 @@
  {
   "id": "ev_api_payload_b2b6dd094f",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25451489 \u2014 Vindhyachal power station",
+  "title": "Climate TRACE v7 source 25451489 \u00b7 Vindhyachal power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25451489",
   "retrieved_at": "2026-10-09T19:10:27+00:00",
@@ -170,7 +170,7 @@
   "local_path": "data/raw/climatetrace/detail/25451489.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25451489
   }
@@ -178,7 +178,7 @@
  {
   "id": "ev_api_payload_cfa725daac",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 448682 \u2014 Rihand power station",
+  "title": "Climate TRACE v7 source 448682 \u00b7 Rihand power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/448682",
   "retrieved_at": "2026-10-09T19:10:30+00:00",
@@ -186,7 +186,7 @@
   "local_path": "data/raw/climatetrace/detail/448682.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 448682
   }
@@ -194,7 +194,7 @@
  {
   "id": "ev_api_payload_44b8cdf0a5",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25453799 \u2014 Talcher Kaniha Super Thermal Power Station",
+  "title": "Climate TRACE v7 source 25453799 \u00b7 Talcher Kaniha Super Thermal Power Station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25453799",
   "retrieved_at": "2026-10-09T19:10:31+00:00",
@@ -202,7 +202,7 @@
   "local_path": "data/raw/climatetrace/detail/25453799.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25453799
   }
@@ -210,7 +210,7 @@
  {
   "id": "ev_api_payload_050653834f",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25451481 \u2014 Korba Super Thermal Power Station (NTPC)",
+  "title": "Climate TRACE v7 source 25451481 \u00b7 Korba Super Thermal Power Station (NTPC)",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25451481",
   "retrieved_at": "2026-10-09T19:10:32+00:00",
@@ -218,7 +218,7 @@
   "local_path": "data/raw/climatetrace/detail/25451481.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25451481
   }
@@ -226,7 +226,7 @@
  {
   "id": "ev_api_payload_6f04fb7c62",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25452937 \u2014 Sipat power station",
+  "title": "Climate TRACE v7 source 25452937 \u00b7 Sipat power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25452937",
   "retrieved_at": "2026-10-09T19:10:34+00:00",
@@ -234,7 +234,7 @@
   "local_path": "data/raw/climatetrace/detail/25452937.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25452937
   }
@@ -242,7 +242,7 @@
  {
   "id": "ev_api_payload_54f43bd609",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25451483 \u2014 Ramagundam power station",
+  "title": "Climate TRACE v7 source 25451483 \u00b7 Ramagundam power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25451483",
   "retrieved_at": "2026-10-09T19:10:35+00:00",
@@ -250,7 +250,7 @@
   "local_path": "data/raw/climatetrace/detail/25451483.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25451483
   }
@@ -258,7 +258,7 @@
  {
   "id": "ev_api_payload_c84d753ce6",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25451479 \u2014 Kahalgaon Super Thermal Power Plant",
+  "title": "Climate TRACE v7 source 25451479 \u00b7 Kahalgaon Super Thermal Power Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25451479",
   "retrieved_at": "2026-10-09T19:10:35+00:00",
@@ -266,7 +266,7 @@
   "local_path": "data/raw/climatetrace/detail/25451479.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25451479
   }
@@ -274,7 +274,7 @@
  {
   "id": "ev_api_payload_19418413ff",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25451486 \u2014 Singrauli Super Thermal Power Station",
+  "title": "Climate TRACE v7 source 25451486 \u00b7 Singrauli Super Thermal Power Station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25451486",
   "retrieved_at": "2026-10-09T19:10:36+00:00",
@@ -282,7 +282,7 @@
   "local_path": "data/raw/climatetrace/detail/25451486.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25451486
   }
@@ -290,7 +290,7 @@
  {
   "id": "ev_api_payload_f2ad897cba",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25453947 \u2014 Mauda power station",
+  "title": "Climate TRACE v7 source 25453947 \u00b7 Mauda power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25453947",
   "retrieved_at": "2026-10-09T19:10:36+00:00",
@@ -298,7 +298,7 @@
   "local_path": "data/raw/climatetrace/detail/25453947.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25453947
   }
@@ -306,7 +306,7 @@
  {
   "id": "ev_api_payload_321c1c59c7",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25451477 \u2014 Farakka power station",
+  "title": "Climate TRACE v7 source 25451477 \u00b7 Farakka power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25451477",
   "retrieved_at": "2026-10-09T19:10:36+00:00",
@@ -314,7 +314,7 @@
   "local_path": "data/raw/climatetrace/detail/25451477.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25451477
   }
@@ -322,7 +322,7 @@
  {
   "id": "ev_api_payload_60aee413b5",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454007 \u2014 Nabinagar Super Thermal Power Project",
+  "title": "Climate TRACE v7 source 25454007 \u00b7 Nabinagar Super Thermal Power Project",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454007",
   "retrieved_at": "2026-10-09T19:10:36+00:00",
@@ -330,7 +330,7 @@
   "local_path": "data/raw/climatetrace/detail/25454007.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454007
   }
@@ -338,7 +338,7 @@
  {
   "id": "ev_api_payload_0569740879",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25452938 \u2014 Barh I & II power stations",
+  "title": "Climate TRACE v7 source 25452938 \u00b7 Barh I & II power stations",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25452938",
   "retrieved_at": "2026-10-09T19:10:37+00:00",
@@ -346,7 +346,7 @@
   "local_path": "data/raw/climatetrace/detail/25452938.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25452938
   }
@@ -354,7 +354,7 @@
  {
   "id": "ev_api_payload_5a5b7e4cd7",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25453594 \u2014 Chhabra Thermal Power Station",
+  "title": "Climate TRACE v7 source 25453594 \u00b7 Chhabra Thermal Power Station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25453594",
   "retrieved_at": "2026-10-09T19:10:37+00:00",
@@ -362,7 +362,7 @@
   "local_path": "data/raw/climatetrace/detail/25453594.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25453594
   }
@@ -370,7 +370,7 @@
  {
   "id": "ev_api_payload_073a126b89",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25452724 \u2014 Simhadri power station",
+  "title": "Climate TRACE v7 source 25452724 \u00b7 Simhadri power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25452724",
   "retrieved_at": "2026-10-09T19:10:37+00:00",
@@ -378,7 +378,7 @@
   "local_path": "data/raw/climatetrace/detail/25452724.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25452724
   }
@@ -386,7 +386,7 @@
  {
   "id": "ev_api_payload_d6e6194016",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 451683 \u2014 Kudgi Super Thermal Power Project",
+  "title": "Climate TRACE v7 source 451683 \u00b7 Kudgi Super Thermal Power Project",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/451683",
   "retrieved_at": "2026-10-09T19:10:38+00:00",
@@ -394,7 +394,7 @@
   "local_path": "data/raw/climatetrace/detail/451683.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 451683
   }
@@ -402,7 +402,7 @@
  {
   "id": "ev_api_payload_3c1dc2d59f",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 448679 \u2014 Dadri Combined Cycle power plant",
+  "title": "Climate TRACE v7 source 448679 \u00b7 Dadri Combined Cycle power plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/448679",
   "retrieved_at": "2026-10-09T19:10:39+00:00",
@@ -410,7 +410,7 @@
   "local_path": "data/raw/climatetrace/detail/448679.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 448679
   }
@@ -418,7 +418,7 @@
  {
   "id": "ev_api_payload_af6ea459d2",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454678 \u2014 Darlipali power station",
+  "title": "Climate TRACE v7 source 25454678 \u00b7 Darlipali power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454678",
   "retrieved_at": "2026-10-09T19:10:39+00:00",
@@ -426,7 +426,7 @@
   "local_path": "data/raw/climatetrace/detail/25454678.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454678
   }
@@ -434,7 +434,7 @@
  {
   "id": "ev_api_payload_0bf9512c30",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25452423 \u2014 Tanda power station",
+  "title": "Climate TRACE v7 source 25452423 \u00b7 Tanda power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25452423",
   "retrieved_at": "2026-10-09T19:10:40+00:00",
@@ -442,7 +442,7 @@
   "local_path": "data/raw/climatetrace/detail/25452423.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25452423
   }
@@ -450,7 +450,7 @@
  {
   "id": "ev_api_payload_734dcc1cf8",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454369 \u2014 Lara Integrated Thermal Power Project",
+  "title": "Climate TRACE v7 source 25454369 \u00b7 Lara Integrated Thermal Power Project",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454369",
   "retrieved_at": "2026-10-09T19:10:40+00:00",
@@ -458,7 +458,7 @@
   "local_path": "data/raw/climatetrace/detail/25454369.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454369
   }
@@ -466,7 +466,7 @@
  {
   "id": "ev_api_payload_6ab62cfa5d",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25451488 \u2014 Feroze Gandhi Unchahar Power Station",
+  "title": "Climate TRACE v7 source 25451488 \u00b7 Feroze Gandhi Unchahar Power Station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25451488",
   "retrieved_at": "2026-10-09T19:10:41+00:00",
@@ -474,7 +474,7 @@
   "local_path": "data/raw/climatetrace/detail/25451488.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25451488
   }
@@ -482,7 +482,7 @@
  {
   "id": "ev_api_payload_56c46798ab",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454553 \u2014 Gadarwara Super Thermal Power Project",
+  "title": "Climate TRACE v7 source 25454553 \u00b7 Gadarwara Super Thermal Power Project",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454553",
   "retrieved_at": "2026-10-09T19:10:41+00:00",
@@ -490,7 +490,7 @@
   "local_path": "data/raw/climatetrace/detail/25454553.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454553
   }
@@ -498,7 +498,7 @@
  {
   "id": "ev_api_payload_f40ed9e45d",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454186 \u2014 Solapur power station",
+  "title": "Climate TRACE v7 source 25454186 \u00b7 Solapur power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454186",
   "retrieved_at": "2026-10-09T19:10:42+00:00",
@@ -506,7 +506,7 @@
   "local_path": "data/raw/climatetrace/detail/25454186.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454186
   }
@@ -514,7 +514,7 @@
  {
   "id": "ev_api_payload_148035cf80",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454554 \u2014 Khargone power station",
+  "title": "Climate TRACE v7 source 25454554 \u00b7 Khargone power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454554",
   "retrieved_at": "2026-10-09T19:10:42+00:00",
@@ -522,7 +522,7 @@
   "local_path": "data/raw/climatetrace/detail/25454554.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454554
   }
@@ -530,7 +530,7 @@
  {
   "id": "ev_api_payload_d04ce197f0",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25452489 \u2014 Santaldih Thermal Power Station",
+  "title": "Climate TRACE v7 source 25452489 \u00b7 Santaldih Thermal Power Station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25452489",
   "retrieved_at": "2026-10-09T19:10:42+00:00",
@@ -538,7 +538,7 @@
   "local_path": "data/raw/climatetrace/detail/25452489.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25452489
   }
@@ -546,7 +546,7 @@
  {
   "id": "ev_api_payload_a4e7876f98",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 3900 \u2014 North Karanpura power station",
+  "title": "Climate TRACE v7 source 3900 \u00b7 North Karanpura power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/3900",
   "retrieved_at": "2026-10-09T19:10:43+00:00",
@@ -554,7 +554,7 @@
   "local_path": "data/raw/climatetrace/detail/3900.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 3900
   }
@@ -562,7 +562,7 @@
  {
   "id": "ev_api_payload_a992b29c69",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25453636 \u2014 Bongaigaon power station",
+  "title": "Climate TRACE v7 source 25453636 \u00b7 Bongaigaon power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25453636",
   "retrieved_at": "2026-10-09T19:10:43+00:00",
@@ -570,7 +570,7 @@
   "local_path": "data/raw/climatetrace/detail/25453636.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25453636
   }
@@ -578,7 +578,7 @@
  {
   "id": "ev_api_payload_5072b8963f",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25450307 \u2014 Barauni power station",
+  "title": "Climate TRACE v7 source 25450307 \u00b7 Barauni power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25450307",
   "retrieved_at": "2026-10-09T19:10:43+00:00",
@@ -586,7 +586,7 @@
   "local_path": "data/raw/climatetrace/detail/25450307.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25450307
   }
@@ -594,7 +594,7 @@
  {
   "id": "ev_api_payload_2c895642bd",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25450309 \u2014 Muzaffarpur power station",
+  "title": "Climate TRACE v7 source 25450309 \u00b7 Muzaffarpur power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25450309",
   "retrieved_at": "2026-10-09T19:10:44+00:00",
@@ -602,7 +602,7 @@
   "local_path": "data/raw/climatetrace/detail/25450309.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25450309
   }
@@ -610,7 +610,7 @@
  {
   "id": "ev_api_payload_82c04cbb83",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 16676 \u2014 Pakri Barwadih Coal Mine",
+  "title": "Climate TRACE v7 source 16676 \u00b7 Pakri Barwadih Coal Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/16676",
   "retrieved_at": "2026-10-09T19:10:44+00:00",
@@ -618,7 +618,7 @@
   "local_path": "data/raw/climatetrace/detail/16676.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 16676
   }
@@ -626,7 +626,7 @@
  {
   "id": "ev_api_payload_0c2a179889",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 16677 \u2014 Talaipalli Coal Mine",
+  "title": "Climate TRACE v7 source 16677 \u00b7 Talaipalli Coal Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/16677",
   "retrieved_at": "2026-10-09T19:10:44+00:00",
@@ -634,7 +634,7 @@
   "local_path": "data/raw/climatetrace/detail/16677.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 16677
   }
@@ -642,7 +642,7 @@
  {
   "id": "ev_api_payload_1616688604",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 16715 \u2014 Dulanga Coal Mine",
+  "title": "Climate TRACE v7 source 16715 \u00b7 Dulanga Coal Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/16715",
   "retrieved_at": "2026-10-09T19:10:44+00:00",
@@ -650,7 +650,7 @@
   "local_path": "data/raw/climatetrace/detail/16715.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 16715
   }
@@ -658,7 +658,7 @@
  {
   "id": "ev_api_payload_5c7da309d5",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 708871 \u2014 Chatti-Bariatu Coal Mine",
+  "title": "Climate TRACE v7 source 708871 \u00b7 Chatti-Bariatu Coal Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/708871",
   "retrieved_at": "2026-10-09T19:10:45+00:00",
@@ -666,7 +666,7 @@
   "local_path": "data/raw/climatetrace/detail/708871.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 708871
   }
@@ -674,7 +674,7 @@
  {
   "id": "ev_api_payload_a92ecb0302",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 448673 \u2014 Auraiya Combined Cycle power plant",
+  "title": "Climate TRACE v7 source 448673 \u00b7 Auraiya Combined Cycle power plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/448673",
   "retrieved_at": "2026-10-09T19:10:45+00:00",
@@ -682,7 +682,7 @@
   "local_path": "data/raw/climatetrace/detail/448673.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 448673
   }
@@ -690,7 +690,7 @@
  {
   "id": "ev_api_payload_b612f0fa65",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 448675 \u2014 Jhanor Gandhar Combined Cycle power plant",
+  "title": "Climate TRACE v7 source 448675 \u00b7 Jhanor Gandhar Combined Cycle power plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/448675",
   "retrieved_at": "2026-10-09T19:10:45+00:00",
@@ -698,7 +698,7 @@
   "local_path": "data/raw/climatetrace/detail/448675.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 448675
   }
@@ -706,7 +706,7 @@
  {
   "id": "ev_api_payload_b9cd376b59",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 448677 \u2014 Kawas Combined Cycle power plant",
+  "title": "Climate TRACE v7 source 448677 \u00b7 Kawas Combined Cycle power plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/448677",
   "retrieved_at": "2026-10-09T19:10:46+00:00",
@@ -714,7 +714,7 @@
   "local_path": "data/raw/climatetrace/detail/448677.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 448677
   }
@@ -722,7 +722,7 @@
  {
   "id": "ev_api_payload_71a8a86ec4",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 448672 \u2014 Anta power plant",
+  "title": "Climate TRACE v7 source 448672 \u00b7 Anta power plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/448672",
   "retrieved_at": "2026-10-09T19:10:46+00:00",
@@ -730,7 +730,7 @@
   "local_path": "data/raw/climatetrace/detail/448672.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 448672
   }
@@ -738,7 +738,7 @@
  {
   "id": "ev_api_payload_3c078c6d1e",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 449922 \u2014 Faridabad Combined Cycle power plant",
+  "title": "Climate TRACE v7 source 449922 \u00b7 Faridabad Combined Cycle power plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/449922",
   "retrieved_at": "2026-10-09T19:10:46+00:00",
@@ -746,7 +746,7 @@
   "local_path": "data/raw/climatetrace/detail/449922.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 449922
   }
@@ -754,7 +754,7 @@
  {
   "id": "ev_api_payload_be628c2fbb",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 715033 \u2014 Kayamkulam Gas power plant",
+  "title": "Climate TRACE v7 source 715033 \u00b7 Kayamkulam Gas power plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/715033",
   "retrieved_at": "2026-10-09T19:10:47+00:00",
@@ -762,7 +762,7 @@
   "local_path": "data/raw/climatetrace/detail/715033.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 715033
   }
@@ -770,7 +770,7 @@
  {
   "id": "ev_api_payload_bf58cdc25a",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25451487 \u2014 Talcher power station",
+  "title": "Climate TRACE v7 source 25451487 \u00b7 Talcher power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25451487",
   "retrieved_at": "2026-10-09T19:10:47+00:00",
@@ -778,7 +778,7 @@
   "local_path": "data/raw/climatetrace/detail/25451487.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25451487
   }
@@ -786,7 +786,7 @@
  {
   "id": "ev_api_payload_55495ad640",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 41629035 \u2014 Badarpur power station",
+  "title": "Climate TRACE v7 source 41629035 \u00b7 Badarpur power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/41629035",
   "retrieved_at": "2026-10-09T19:10:47+00:00",
@@ -794,7 +794,7 @@
   "local_path": "data/raw/climatetrace/detail/41629035.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 41629035
   }
@@ -802,7 +802,7 @@
  {
   "id": "ev_api_payload_0aa85845b5",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 32266250 \u2014 Kerendari Coal Mine",
+  "title": "Climate TRACE v7 source 32266250 \u00b7 Kerendari Coal Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/32266250",
   "retrieved_at": "2026-10-09T19:10:48+00:00",
@@ -810,7 +810,7 @@
   "local_path": "data/raw/climatetrace/detail/32266250.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 32266250
   }
@@ -818,7 +818,7 @@
  {
   "id": "ev_api_payload_bb3a89776c",
   "kind": "api_payload",
-  "title": "GEM entity E100001010018 \u2014 Tata Steel Ltd",
+  "title": "GEM entity E100001010018 \u00b7 Tata Steel Ltd",
   "publisher": "Global Energy Monitor",
   "url": "https://api.globalenergymonitor.org/entities/E100001010018",
   "retrieved_at": "2026-10-09T19:10:48+00:00",
@@ -826,7 +826,7 @@
   "local_path": "data/raw/gem/entity_E100001010018.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -840,7 +840,7 @@
   "local_path": "data/raw/gem/assets_E100001010018_0.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {
    "total": 109,
    "locations": 30
@@ -857,7 +857,7 @@
   "local_path": "data/raw/gem/graph_E100001010018.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -871,7 +871,7 @@
   "local_path": "data/raw/climatetrace/sources_E100001010018_2023.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100001010018",
    "year": 2023,
@@ -889,7 +889,7 @@
   "local_path": "data/raw/climatetrace/sources_E100001010018_2024.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100001010018",
    "year": 2024,
@@ -907,7 +907,7 @@
   "local_path": "data/raw/climatetrace/sources_E100001010018_2025.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100001010018",
    "year": 2025,
@@ -917,7 +917,7 @@
  {
   "id": "ev_api_payload_e85929b391",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1566853 \u2014 Tata Steel Jamshedpur steel plant",
+  "title": "Climate TRACE v7 source 1566853 \u00b7 Tata Steel Jamshedpur steel plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1566853",
   "retrieved_at": "2026-10-09T19:10:51+00:00",
@@ -925,7 +925,7 @@
   "local_path": "data/raw/climatetrace/detail/1566853.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1566853
   }
@@ -933,7 +933,7 @@
  {
   "id": "ev_api_payload_41b572b46d",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 32440770 \u2014 Tata Steel Meramandali steel plant",
+  "title": "Climate TRACE v7 source 32440770 \u00b7 Tata Steel Meramandali steel plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/32440770",
   "retrieved_at": "2026-10-09T19:10:52+00:00",
@@ -941,7 +941,7 @@
   "local_path": "data/raw/climatetrace/detail/32440770.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 32440770
   }
@@ -949,7 +949,7 @@
  {
   "id": "ev_api_payload_4bcfa148a7",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1566854 \u2014 Tata Steel Kalinganagar steel plant",
+  "title": "Climate TRACE v7 source 1566854 \u00b7 Tata Steel Kalinganagar steel plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1566854",
   "retrieved_at": "2026-10-09T19:10:52+00:00",
@@ -957,7 +957,7 @@
   "local_path": "data/raw/climatetrace/detail/1566854.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1566854
   }
@@ -965,7 +965,7 @@
  {
   "id": "ev_api_payload_1b958f9109",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25453916 \u2014 Meramandali power station",
+  "title": "Climate TRACE v7 source 25453916 \u00b7 Meramandali power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25453916",
   "retrieved_at": "2026-10-09T19:10:52+00:00",
@@ -973,7 +973,7 @@
   "local_path": "data/raw/climatetrace/detail/25453916.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25453916
   }
@@ -981,7 +981,7 @@
  {
   "id": "ev_api_payload_6174d07226",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 3163805 \u2014 West Bokaro Coal Mine",
+  "title": "Climate TRACE v7 source 3163805 \u00b7 West Bokaro Coal Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/3163805",
   "retrieved_at": "2026-10-09T19:10:53+00:00",
@@ -989,7 +989,7 @@
   "local_path": "data/raw/climatetrace/detail/3163805.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 3163805
   }
@@ -997,7 +997,7 @@
  {
   "id": "ev_api_payload_a4a17253e9",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 449457 \u2014 Jamshedpur Works power station",
+  "title": "Climate TRACE v7 source 449457 \u00b7 Jamshedpur Works power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/449457",
   "retrieved_at": "2026-10-09T19:10:53+00:00",
@@ -1005,7 +1005,7 @@
   "local_path": "data/raw/climatetrace/detail/449457.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 449457
   }
@@ -1013,7 +1013,7 @@
  {
   "id": "ev_api_payload_ec9acce03d",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454183 \u2014 Bhubaneshwar Jasper power station",
+  "title": "Climate TRACE v7 source 25454183 \u00b7 Bhubaneshwar Jasper power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454183",
   "retrieved_at": "2026-10-09T19:10:54+00:00",
@@ -1021,7 +1021,7 @@
   "local_path": "data/raw/climatetrace/detail/25454183.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454183
   }
@@ -1029,7 +1029,7 @@
  {
   "id": "ev_api_payload_cc170a7b31",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25450323 \u2014 Port Talbot Steelworks power station",
+  "title": "Climate TRACE v7 source 25450323 \u00b7 Port Talbot Steelworks power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25450323",
   "retrieved_at": "2026-10-09T19:10:56+00:00",
@@ -1037,7 +1037,7 @@
   "local_path": "data/raw/climatetrace/detail/25450323.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25450323
   }
@@ -1045,7 +1045,7 @@
  {
   "id": "ev_api_payload_056736bc69",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 3163572 \u2014 Jharia Coal Mine",
+  "title": "Climate TRACE v7 source 3163572 \u00b7 Jharia Coal Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/3163572",
   "retrieved_at": "2026-10-09T19:10:56+00:00",
@@ -1053,7 +1053,7 @@
   "local_path": "data/raw/climatetrace/detail/3163572.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 3163572
   }
@@ -1061,7 +1061,7 @@
  {
   "id": "ev_api_payload_aeba1a0956",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158221 \u2014 Joda East Mine",
+  "title": "Climate TRACE v7 source 43158221 \u00b7 Joda East Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158221",
   "retrieved_at": "2026-10-09T19:10:57+00:00",
@@ -1069,7 +1069,7 @@
   "local_path": "data/raw/climatetrace/detail/43158221.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158221
   }
@@ -1077,7 +1077,7 @@
  {
   "id": "ev_api_payload_9167cd8b36",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158287 \u2014 Noamundi-Katamati Mine",
+  "title": "Climate TRACE v7 source 43158287 \u00b7 Noamundi-Katamati Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158287",
   "retrieved_at": "2026-10-09T19:11:00+00:00",
@@ -1085,7 +1085,7 @@
   "local_path": "data/raw/climatetrace/detail/43158287.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158287
   }
@@ -1093,7 +1093,7 @@
  {
   "id": "ev_api_payload_e12264286e",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1567049 \u2014 Tata Steel Jurong steel plant",
+  "title": "Climate TRACE v7 source 1567049 \u00b7 Tata Steel Jurong steel plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1567049",
   "retrieved_at": "2026-10-09T19:11:01+00:00",
@@ -1101,7 +1101,7 @@
   "local_path": "data/raw/climatetrace/detail/1567049.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1567049
   }
@@ -1109,7 +1109,7 @@
  {
   "id": "ev_api_payload_a9dada2a89",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158246 \u2014 Khandbandh Mine",
+  "title": "Climate TRACE v7 source 43158246 \u00b7 Khandbandh Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158246",
   "retrieved_at": "2026-10-09T19:11:01+00:00",
@@ -1117,7 +1117,7 @@
   "local_path": "data/raw/climatetrace/detail/43158246.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158246
   }
@@ -1125,7 +1125,7 @@
  {
   "id": "ev_api_payload_212d63bff6",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158286 \u2014 Nilanchal Mine",
+  "title": "Climate TRACE v7 source 43158286 \u00b7 Nilanchal Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158286",
   "retrieved_at": "2026-10-09T19:11:01+00:00",
@@ -1133,7 +1133,7 @@
   "local_path": "data/raw/climatetrace/detail/43158286.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158286
   }
@@ -1141,7 +1141,7 @@
  {
   "id": "ev_api_payload_e20e53a888",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158194 \u2014 Guruda Mine",
+  "title": "Climate TRACE v7 source 43158194 \u00b7 Guruda Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158194",
   "retrieved_at": "2026-10-09T19:11:02+00:00",
@@ -1149,7 +1149,7 @@
   "local_path": "data/raw/climatetrace/detail/43158194.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158194
   }
@@ -1157,7 +1157,7 @@
  {
   "id": "ev_api_payload_f7081a2314",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158139 \u2014 Bamebari Mine",
+  "title": "Climate TRACE v7 source 43158139 \u00b7 Bamebari Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158139",
   "retrieved_at": "2026-10-09T19:11:02+00:00",
@@ -1165,7 +1165,7 @@
   "local_path": "data/raw/climatetrace/detail/43158139.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158139
   }
@@ -1173,7 +1173,7 @@
  {
   "id": "ev_api_payload_77f78eb83a",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158363 \u2014 Tiringpahar Mine",
+  "title": "Climate TRACE v7 source 43158363 \u00b7 Tiringpahar Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158363",
   "retrieved_at": "2026-10-09T19:11:02+00:00",
@@ -1181,7 +1181,7 @@
   "local_path": "data/raw/climatetrace/detail/43158363.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158363
   }
@@ -1189,7 +1189,7 @@
  {
   "id": "ev_api_payload_9010e22096",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158222 \u2014 Joda West Mine",
+  "title": "Climate TRACE v7 source 43158222 \u00b7 Joda West Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158222",
   "retrieved_at": "2026-10-09T19:11:03+00:00",
@@ -1197,7 +1197,7 @@
   "local_path": "data/raw/climatetrace/detail/43158222.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158222
   }
@@ -1205,7 +1205,7 @@
  {
   "id": "ev_api_payload_c6799bab0c",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158264 \u2014 Malda Mine",
+  "title": "Climate TRACE v7 source 43158264 \u00b7 Malda Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158264",
   "retrieved_at": "2026-10-09T19:11:03+00:00",
@@ -1213,7 +1213,7 @@
   "local_path": "data/raw/climatetrace/detail/43158264.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158264
   }
@@ -1221,7 +1221,7 @@
  {
   "id": "ev_api_payload_dc9f568707",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158189 \u2014 Gorumahisani Mine",
+  "title": "Climate TRACE v7 source 43158189 \u00b7 Gorumahisani Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158189",
   "retrieved_at": "2026-10-09T19:11:03+00:00",
@@ -1229,7 +1229,7 @@
   "local_path": "data/raw/climatetrace/detail/43158189.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158189
   }
@@ -1237,7 +1237,7 @@
  {
   "id": "ev_api_payload_87888d23a5",
   "kind": "api_payload",
-  "title": "GEM entity E100000000531 \u2014 UltraTech Cement Ltd",
+  "title": "GEM entity E100000000531 \u00b7 UltraTech Cement Ltd",
   "publisher": "Global Energy Monitor",
   "url": "https://api.globalenergymonitor.org/entities/E100000000531",
   "retrieved_at": "2026-10-09T19:11:04+00:00",
@@ -1245,7 +1245,7 @@
   "local_path": "data/raw/gem/entity_E100000000531.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -1259,7 +1259,7 @@
   "local_path": "data/raw/gem/assets_E100000000531_0.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {
    "total": 81,
    "locations": 79
@@ -1276,7 +1276,7 @@
   "local_path": "data/raw/gem/graph_E100000000531.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -1290,7 +1290,7 @@
   "local_path": "data/raw/climatetrace/sources_E100000000531_2023.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100000000531",
    "year": 2023,
@@ -1308,7 +1308,7 @@
   "local_path": "data/raw/climatetrace/sources_E100000000531_2024.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100000000531",
    "year": 2024,
@@ -1326,7 +1326,7 @@
   "local_path": "data/raw/climatetrace/sources_E100000000531_2025.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100000000531",
    "year": 2025,
@@ -1336,7 +1336,7 @@
  {
   "id": "ev_api_payload_bb6ae9cc12",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1896920 \u2014 UltraTech Cement Maihar Cement Plant",
+  "title": "Climate TRACE v7 source 1896920 \u00b7 UltraTech Cement Maihar Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1896920",
   "retrieved_at": "2026-10-09T19:11:07+00:00",
@@ -1344,7 +1344,7 @@
   "local_path": "data/raw/climatetrace/detail/1896920.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1896920
   }
@@ -1352,7 +1352,7 @@
  {
   "id": "ev_api_payload_77b6a1c18b",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897064 \u2014 UltraTech Cement Tadipatri Cement Plant",
+  "title": "Climate TRACE v7 source 1897064 \u00b7 UltraTech Cement Tadipatri Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897064",
   "retrieved_at": "2026-10-09T19:11:07+00:00",
@@ -1360,7 +1360,7 @@
   "local_path": "data/raw/climatetrace/detail/1897064.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897064
   }
@@ -1368,7 +1368,7 @@
  {
   "id": "ev_api_payload_7a48bcdfc3",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897060 \u2014 UltraTech Cement Nrupathanga Cement Plant",
+  "title": "Climate TRACE v7 source 1897060 \u00b7 UltraTech Cement Nrupathanga Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897060",
   "retrieved_at": "2026-10-09T19:11:08+00:00",
@@ -1376,7 +1376,7 @@
   "local_path": "data/raw/climatetrace/detail/1897060.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897060
   }
@@ -1384,7 +1384,7 @@
  {
   "id": "ev_api_payload_b1f1e6fedb",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897067 \u2014 UltraTech Cement Amreli Cement Plant",
+  "title": "Climate TRACE v7 source 1897067 \u00b7 UltraTech Cement Amreli Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897067",
   "retrieved_at": "2026-10-09T19:11:08+00:00",
@@ -1392,7 +1392,7 @@
   "local_path": "data/raw/climatetrace/detail/1897067.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897067
   }
@@ -1400,7 +1400,7 @@
  {
   "id": "ev_api_payload_008d033c49",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897066 \u2014 UltraTech Cement Vikram Nagar Cement Plant",
+  "title": "Climate TRACE v7 source 1897066 \u00b7 UltraTech Cement Vikram Nagar Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897066",
   "retrieved_at": "2026-10-09T19:11:08+00:00",
@@ -1408,7 +1408,7 @@
   "local_path": "data/raw/climatetrace/detail/1897066.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897066
   }
@@ -1416,7 +1416,7 @@
  {
   "id": "ev_api_payload_f92b2e0dcf",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897061 \u2014 UltraTech Cement Adityapuram Cement Plant",
+  "title": "Climate TRACE v7 source 1897061 \u00b7 UltraTech Cement Adityapuram Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897061",
   "retrieved_at": "2026-10-09T19:11:08+00:00",
@@ -1424,7 +1424,7 @@
   "local_path": "data/raw/climatetrace/detail/1897061.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897061
   }
@@ -1432,7 +1432,7 @@
  {
   "id": "ev_api_payload_b0cbbe4e9f",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897070 \u2014 UltraTech Cement Rawan Cement Plant",
+  "title": "Climate TRACE v7 source 1897070 \u00b7 UltraTech Cement Rawan Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897070",
   "retrieved_at": "2026-10-09T19:11:09+00:00",
@@ -1440,7 +1440,7 @@
   "local_path": "data/raw/climatetrace/detail/1897070.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897070
   }
@@ -1448,7 +1448,7 @@
  {
   "id": "ev_api_payload_04c96f2590",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897074 \u2014 UltraTech Cement Tonki Cement Plant",
+  "title": "Climate TRACE v7 source 1897074 \u00b7 UltraTech Cement Tonki Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897074",
   "retrieved_at": "2026-10-09T19:11:09+00:00",
@@ -1456,7 +1456,7 @@
   "local_path": "data/raw/climatetrace/detail/1897074.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897074
   }
@@ -1464,7 +1464,7 @@
  {
   "id": "ev_api_payload_269b6da9d9",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897059 \u2014 UltraTech Cement Budawada Cement Plant",
+  "title": "Climate TRACE v7 source 1897059 \u00b7 UltraTech Cement Budawada Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897059",
   "retrieved_at": "2026-10-09T19:11:09+00:00",
@@ -1472,7 +1472,7 @@
   "local_path": "data/raw/climatetrace/detail/1897059.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897059
   }
@@ -1480,7 +1480,7 @@
  {
   "id": "ev_api_payload_3063959e3c",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 32438620 \u2014 UltraTech Cement Sewagram Cement Plant",
+  "title": "Climate TRACE v7 source 32438620 \u00b7 UltraTech Cement Sewagram Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/32438620",
   "retrieved_at": "2026-10-09T19:11:10+00:00",
@@ -1488,7 +1488,7 @@
   "local_path": "data/raw/climatetrace/detail/32438620.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 32438620
   }
@@ -1496,7 +1496,7 @@
  {
   "id": "ev_api_payload_020499926f",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897062 \u2014 UltraTech Cement Chandrapur Cement Plant",
+  "title": "Climate TRACE v7 source 1897062 \u00b7 UltraTech Cement Chandrapur Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897062",
   "retrieved_at": "2026-10-09T19:11:10+00:00",
@@ -1504,7 +1504,7 @@
   "local_path": "data/raw/climatetrace/detail/1897062.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897062
   }
@@ -1512,7 +1512,7 @@
  {
   "id": "ev_api_payload_3bd8be095d",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1896919 \u2014 UltraTech Cement Gadchandur Cement Plant",
+  "title": "Climate TRACE v7 source 1896919 \u00b7 UltraTech Cement Gadchandur Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1896919",
   "retrieved_at": "2026-10-09T19:11:10+00:00",
@@ -1520,7 +1520,7 @@
   "local_path": "data/raw/climatetrace/detail/1896919.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1896919
   }
@@ -1528,7 +1528,7 @@
  {
   "id": "ev_api_payload_b101a67f3f",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897055 \u2014 UltraTech Cement Sirohi Cement Plant",
+  "title": "Climate TRACE v7 source 1897055 \u00b7 UltraTech Cement Sirohi Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897055",
   "retrieved_at": "2026-10-09T19:11:11+00:00",
@@ -1536,7 +1536,7 @@
   "local_path": "data/raw/climatetrace/detail/1897055.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897055
   }
@@ -1544,7 +1544,7 @@
  {
   "id": "ev_api_payload_5428bb5157",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897065 \u2014 UltraTech Cement Hirmi Cement Plant",
+  "title": "Climate TRACE v7 source 1897065 \u00b7 UltraTech Cement Hirmi Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897065",
   "retrieved_at": "2026-10-09T19:11:11+00:00",
@@ -1552,7 +1552,7 @@
   "local_path": "data/raw/climatetrace/detail/1897065.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897065
   }
@@ -1560,7 +1560,7 @@
  {
   "id": "ev_api_payload_d8f88f50cc",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 32438616 \u2014 UltraTech Cement Kotputli Cement Plant",
+  "title": "Climate TRACE v7 source 32438616 \u00b7 UltraTech Cement Kotputli Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/32438616",
   "retrieved_at": "2026-10-09T19:11:11+00:00",
@@ -1568,7 +1568,7 @@
   "local_path": "data/raw/climatetrace/detail/32438616.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 32438616
   }
@@ -1576,7 +1576,7 @@
  {
   "id": "ev_api_payload_f234c9f3d4",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897056 \u2014 UltraTech Cement Sidhi Cement Plant",
+  "title": "Climate TRACE v7 source 1897056 \u00b7 UltraTech Cement Sidhi Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897056",
   "retrieved_at": "2026-10-09T19:11:12+00:00",
@@ -1584,7 +1584,7 @@
   "local_path": "data/raw/climatetrace/detail/1897056.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897056
   }
@@ -1592,7 +1592,7 @@
  {
   "id": "ev_api_payload_523037ff56",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897058 \u2014 UltraTech Cement Jaypee Puram Cement Plant",
+  "title": "Climate TRACE v7 source 1897058 \u00b7 UltraTech Cement Jaypee Puram Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897058",
   "retrieved_at": "2026-10-09T19:11:12+00:00",
@@ -1600,7 +1600,7 @@
   "local_path": "data/raw/climatetrace/detail/1897058.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897058
   }
@@ -1608,7 +1608,7 @@
  {
   "id": "ev_api_payload_0922002c3e",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 42547391 \u2014 UltraTech Cement Pali Cement Plant",
+  "title": "Climate TRACE v7 source 42547391 \u00b7 UltraTech Cement Pali Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/42547391",
   "retrieved_at": "2026-10-09T19:11:12+00:00",
@@ -1616,7 +1616,7 @@
   "local_path": "data/raw/climatetrace/detail/42547391.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 42547391
   }
@@ -1624,7 +1624,7 @@
  {
   "id": "ev_api_payload_5106dd3f40",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897073 \u2014 UltraTech Cement Kandhar Cement Plant",
+  "title": "Climate TRACE v7 source 1897073 \u00b7 UltraTech Cement Kandhar Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897073",
   "retrieved_at": "2026-10-09T19:11:13+00:00",
@@ -1632,7 +1632,7 @@
   "local_path": "data/raw/climatetrace/detail/1897073.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897073
   }
@@ -1640,7 +1640,7 @@
  {
   "id": "ev_api_payload_0896e906a7",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25455120 \u2014 Sidhi Cement Plant power station",
+  "title": "Climate TRACE v7 source 25455120 \u00b7 Sidhi Cement Plant power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25455120",
   "retrieved_at": "2026-10-09T19:11:13+00:00",
@@ -1648,7 +1648,7 @@
   "local_path": "data/raw/climatetrace/detail/25455120.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25455120
   }
@@ -1656,7 +1656,7 @@
  {
   "id": "ev_api_payload_7980edab67",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897069 \u2014 UltraTech Cement Kharia Khangar Cement Plant",
+  "title": "Climate TRACE v7 source 1897069 \u00b7 UltraTech Cement Kharia Khangar Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897069",
   "retrieved_at": "2026-10-09T19:11:13+00:00",
@@ -1664,7 +1664,7 @@
   "local_path": "data/raw/climatetrace/detail/1897069.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897069
   }
@@ -1672,7 +1672,7 @@
  {
   "id": "ev_api_payload_2e84acceae",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897063 \u2014 UltraTech Cement Jafrabad Cement Plant",
+  "title": "Climate TRACE v7 source 1897063 \u00b7 UltraTech Cement Jafrabad Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897063",
   "retrieved_at": "2026-10-09T19:11:13+00:00",
@@ -1680,7 +1680,7 @@
   "local_path": "data/raw/climatetrace/detail/1897063.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897063
   }
@@ -1688,7 +1688,7 @@
  {
   "id": "ev_api_payload_0c4a7fe5eb",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897057 \u2014 UltraTech Cement Dalla Cement Plant",
+  "title": "Climate TRACE v7 source 1897057 \u00b7 UltraTech Cement Dalla Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897057",
   "retrieved_at": "2026-10-09T19:11:14+00:00",
@@ -1696,7 +1696,7 @@
   "local_path": "data/raw/climatetrace/detail/1897057.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897057
   }
@@ -1704,7 +1704,7 @@
  {
   "id": "ev_api_payload_23163897db",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897071 \u2014 UltraTech Cement Reddipalayam Cement Plant",
+  "title": "Climate TRACE v7 source 1897071 \u00b7 UltraTech Cement Reddipalayam Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897071",
   "retrieved_at": "2026-10-09T19:11:14+00:00",
@@ -1712,7 +1712,7 @@
   "local_path": "data/raw/climatetrace/detail/1897071.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897071
   }
@@ -1720,7 +1720,7 @@
  {
   "id": "ev_api_payload_de7be2128d",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 708694 \u2014 Bicharpur Coal Mine",
+  "title": "Climate TRACE v7 source 708694 \u00b7 Bicharpur Coal Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/708694",
   "retrieved_at": "2026-10-09T19:11:14+00:00",
@@ -1728,7 +1728,7 @@
   "local_path": "data/raw/climatetrace/detail/708694.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 708694
   }
@@ -1736,7 +1736,7 @@
  {
   "id": "ev_api_payload_1e24ab622b",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 452311 \u2014 Balaji Cement power station",
+  "title": "Climate TRACE v7 source 452311 \u00b7 Balaji Cement power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/452311",
   "retrieved_at": "2026-10-09T19:11:15+00:00",
@@ -1744,7 +1744,7 @@
   "local_path": "data/raw/climatetrace/detail/452311.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 452311
   }
@@ -1752,7 +1752,7 @@
  {
   "id": "ev_api_payload_64cf901f66",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 451940 \u2014 Rawan Cement power station",
+  "title": "Climate TRACE v7 source 451940 \u00b7 Rawan Cement power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/451940",
   "retrieved_at": "2026-10-09T19:11:16+00:00",
@@ -1760,7 +1760,7 @@
   "local_path": "data/raw/climatetrace/detail/451940.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 451940
   }
@@ -1768,7 +1768,7 @@
  {
   "id": "ev_api_payload_759b16cf8e",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1897135 \u2014 UltraTech Cement Vilemar Kundi Cement Plant",
+  "title": "Climate TRACE v7 source 1897135 \u00b7 UltraTech Cement Vilemar Kundi Cement Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1897135",
   "retrieved_at": "2026-10-09T19:11:16+00:00",
@@ -1776,7 +1776,7 @@
   "local_path": "data/raw/climatetrace/detail/1897135.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1897135
   }
@@ -1784,7 +1784,7 @@
  {
   "id": "ev_api_payload_44084c40bf",
   "kind": "api_payload",
-  "title": "GEM entity E100001000516 \u2014 JSW Steel Ltd",
+  "title": "GEM entity E100001000516 \u00b7 JSW Steel Ltd",
   "publisher": "Global Energy Monitor",
   "url": "https://api.globalenergymonitor.org/entities/E100001000516",
   "retrieved_at": "2026-10-09T19:11:16+00:00",
@@ -1792,7 +1792,7 @@
   "local_path": "data/raw/gem/entity_E100001000516.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -1806,7 +1806,7 @@
   "local_path": "data/raw/gem/assets_E100001000516_0.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {
    "total": 136,
    "locations": 50
@@ -1823,7 +1823,7 @@
   "local_path": "data/raw/gem/graph_E100001000516.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -1837,7 +1837,7 @@
   "local_path": "data/raw/climatetrace/sources_E100001000516_2023.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100001000516",
    "year": 2023,
@@ -1855,7 +1855,7 @@
   "local_path": "data/raw/climatetrace/sources_E100001000516_2024.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100001000516",
    "year": 2024,
@@ -1873,7 +1873,7 @@
   "local_path": "data/raw/climatetrace/sources_E100001000516_2025.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100001000516",
    "year": 2025,
@@ -1883,7 +1883,7 @@
  {
   "id": "ev_api_payload_1f5c54e2df",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 32440775 \u2014 JSW Steel Dolvi steel plant",
+  "title": "Climate TRACE v7 source 32440775 \u00b7 JSW Steel Dolvi steel plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/32440775",
   "retrieved_at": "2026-10-09T19:11:19+00:00",
@@ -1891,7 +1891,7 @@
   "local_path": "data/raw/climatetrace/detail/32440775.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 32440775
   }
@@ -1899,7 +1899,7 @@
  {
   "id": "ev_api_payload_442cd83895",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 32440777 \u2014 JSW Steel Vijayanagar steel plant",
+  "title": "Climate TRACE v7 source 32440777 \u00b7 JSW Steel Vijayanagar steel plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/32440777",
   "retrieved_at": "2026-10-09T19:11:22+00:00",
@@ -1907,7 +1907,7 @@
   "local_path": "data/raw/climatetrace/detail/32440777.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 32440777
   }
@@ -1915,7 +1915,7 @@
  {
   "id": "ev_api_payload_d3cfc06a86",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 32440769 \u2014 JSW BPSL Jharsuguda steel plant",
+  "title": "Climate TRACE v7 source 32440769 \u00b7 JSW BPSL Jharsuguda steel plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/32440769",
   "retrieved_at": "2026-10-09T19:11:25+00:00",
@@ -1923,7 +1923,7 @@
   "local_path": "data/raw/climatetrace/detail/32440769.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 32440769
   }
@@ -1931,7 +1931,7 @@
  {
   "id": "ev_api_payload_3abf74ee16",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 1566846 \u2014 JSW Steel Salem steel plant",
+  "title": "Climate TRACE v7 source 1566846 \u00b7 JSW Steel Salem steel plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/1566846",
   "retrieved_at": "2026-10-09T19:11:26+00:00",
@@ -1939,7 +1939,7 @@
   "local_path": "data/raw/climatetrace/detail/1566846.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 1566846
   }
@@ -1947,7 +1947,7 @@
  {
   "id": "ev_api_payload_54686381d8",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 448606 \u2014 Raipur Sponge Iron power station",
+  "title": "Climate TRACE v7 source 448606 \u00b7 Raipur Sponge Iron power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/448606",
   "retrieved_at": "2026-10-09T19:11:27+00:00",
@@ -1955,7 +1955,7 @@
   "local_path": "data/raw/climatetrace/detail/448606.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 448606
   }
@@ -1963,7 +1963,7 @@
  {
   "id": "ev_api_payload_c25e6a160e",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 452316 \u2014 JSW Tarapur power station",
+  "title": "Climate TRACE v7 source 452316 \u00b7 JSW Tarapur power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/452316",
   "retrieved_at": "2026-10-09T19:11:27+00:00",
@@ -1971,7 +1971,7 @@
   "local_path": "data/raw/climatetrace/detail/452316.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 452316
   }
@@ -1979,7 +1979,7 @@
  {
   "id": "ev_api_payload_270ef4fa5b",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 451202 \u2014 Salem Siscol power station",
+  "title": "Climate TRACE v7 source 451202 \u00b7 Salem Siscol power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/451202",
   "retrieved_at": "2026-10-09T19:11:28+00:00",
@@ -1987,7 +1987,7 @@
   "local_path": "data/raw/climatetrace/detail/451202.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 451202
   }
@@ -1995,7 +1995,7 @@
  {
   "id": "ev_api_payload_c4706505e5",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158210 \u2014 Jajang Mine",
+  "title": "Climate TRACE v7 source 43158210 \u00b7 Jajang Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158210",
   "retrieved_at": "2026-10-09T19:11:28+00:00",
@@ -2003,7 +2003,7 @@
   "local_path": "data/raw/climatetrace/detail/43158210.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158210
   }
@@ -2011,7 +2011,7 @@
  {
   "id": "ev_api_payload_9aff98bcaa",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158314 \u2014 Rama Mine",
+  "title": "Climate TRACE v7 source 43158314 \u00b7 Rama Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158314",
   "retrieved_at": "2026-10-09T19:11:29+00:00",
@@ -2019,7 +2019,7 @@
   "local_path": "data/raw/climatetrace/detail/43158314.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158314
   }
@@ -2027,7 +2027,7 @@
  {
   "id": "ev_api_payload_c18b43fe43",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158188 \u2014 Gonua Mine",
+  "title": "Climate TRACE v7 source 43158188 \u00b7 Gonua Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158188",
   "retrieved_at": "2026-10-09T19:11:29+00:00",
@@ -2035,7 +2035,7 @@
   "local_path": "data/raw/climatetrace/detail/43158188.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158188
   }
@@ -2043,7 +2043,7 @@
  {
   "id": "ev_api_payload_639080eb45",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158289 \u2014 Nuagaon Mine",
+  "title": "Climate TRACE v7 source 43158289 \u00b7 Nuagaon Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158289",
   "retrieved_at": "2026-10-09T19:11:30+00:00",
@@ -2051,7 +2051,7 @@
   "local_path": "data/raw/climatetrace/detail/43158289.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158289
   }
@@ -2059,7 +2059,7 @@
  {
   "id": "ev_api_payload_cb71841472",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158281 \u2014 Narayanpura Mine",
+  "title": "Climate TRACE v7 source 43158281 \u00b7 Narayanpura Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158281",
   "retrieved_at": "2026-10-09T19:11:30+00:00",
@@ -2067,7 +2067,7 @@
   "local_path": "data/raw/climatetrace/detail/43158281.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158281
   }
@@ -2075,7 +2075,7 @@
  {
   "id": "ev_api_payload_f42b0de09f",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158170 \u2014 Devadari Mine",
+  "title": "Climate TRACE v7 source 43158170 \u00b7 Devadari Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158170",
   "retrieved_at": "2026-10-09T19:11:31+00:00",
@@ -2083,7 +2083,7 @@
   "local_path": "data/raw/climatetrace/detail/43158170.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158170
   }
@@ -2091,7 +2091,7 @@
  {
   "id": "ev_api_payload_5b60e363ef",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158149 \u2014 Bhomman Mine",
+  "title": "Climate TRACE v7 source 43158149 \u00b7 Bhomman Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158149",
   "retrieved_at": "2026-10-09T19:11:31+00:00",
@@ -2099,7 +2099,7 @@
   "local_path": "data/raw/climatetrace/detail/43158149.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158149
   }
@@ -2107,7 +2107,7 @@
  {
   "id": "ev_api_payload_59230d391b",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158280 \u2014 Narayanposhi Mine",
+  "title": "Climate TRACE v7 source 43158280 \u00b7 Narayanposhi Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158280",
   "retrieved_at": "2026-10-09T19:11:32+00:00",
@@ -2115,7 +2115,7 @@
   "local_path": "data/raw/climatetrace/detail/43158280.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158280
   }
@@ -2123,7 +2123,7 @@
  {
   "id": "ev_api_payload_10a8a34167",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158367 \u2014 Tunga-Bhadra Mine",
+  "title": "Climate TRACE v7 source 43158367 \u00b7 Tunga-Bhadra Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158367",
   "retrieved_at": "2026-10-09T19:11:32+00:00",
@@ -2131,7 +2131,7 @@
   "local_path": "data/raw/climatetrace/detail/43158367.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158367
   }
@@ -2139,7 +2139,7 @@
  {
   "id": "ev_api_payload_dd1610e830",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 43158277 \u2014 Nandi Mine",
+  "title": "Climate TRACE v7 source 43158277 \u00b7 Nandi Mine",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/43158277",
   "retrieved_at": "2026-10-09T19:11:32+00:00",
@@ -2147,7 +2147,7 @@
   "local_path": "data/raw/climatetrace/detail/43158277.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 43158277
   }
@@ -2155,7 +2155,7 @@
  {
   "id": "ev_api_payload_efb7f8113b",
   "kind": "api_payload",
-  "title": "GEM entity E100001000558 \u2014 Adani Power Ltd",
+  "title": "GEM entity E100001000558 \u00b7 Adani Power Ltd",
   "publisher": "Global Energy Monitor",
   "url": "https://api.globalenergymonitor.org/entities/E100001000558",
   "retrieved_at": "2026-10-09T19:11:33+00:00",
@@ -2163,7 +2163,7 @@
   "local_path": "data/raw/gem/entity_E100001000558.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -2177,7 +2177,7 @@
   "local_path": "data/raw/gem/assets_E100001000558_0.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {
    "total": 87,
    "locations": 20
@@ -2194,7 +2194,7 @@
   "local_path": "data/raw/gem/graph_E100001000558.json",
   "page": null,
   "quote": "",
-  "license": "GEM Ownership Tracker \u2014 CC BY 4.0 attribution to Global Energy Monitor",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
   "meta": {}
  },
  {
@@ -2208,7 +2208,7 @@
   "local_path": "data/raw/climatetrace/sources_E100001000558_2023.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100001000558",
    "year": 2023,
@@ -2226,7 +2226,7 @@
   "local_path": "data/raw/climatetrace/sources_E100001000558_2024.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100001000558",
    "year": 2024,
@@ -2244,7 +2244,7 @@
   "local_path": "data/raw/climatetrace/sources_E100001000558_2025.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "owner_id": "E100001000558",
    "year": 2025,
@@ -2254,7 +2254,7 @@
  {
   "id": "ev_api_payload_f46dd23c9e",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454050 \u2014 Tiroda Thermal Power Project",
+  "title": "Climate TRACE v7 source 25454050 \u00b7 Tiroda Thermal Power Project",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454050",
   "retrieved_at": "2026-10-09T19:11:36+00:00",
@@ -2262,7 +2262,7 @@
   "local_path": "data/raw/climatetrace/detail/25454050.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454050
   }
@@ -2270,7 +2270,7 @@
  {
   "id": "ev_api_payload_8d822bb80b",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25453453 \u2014 Mundra Thermal Power Project (Adani)",
+  "title": "Climate TRACE v7 source 25453453 \u00b7 Mundra Thermal Power Project (Adani)",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25453453",
   "retrieved_at": "2026-10-09T19:11:36+00:00",
@@ -2278,7 +2278,7 @@
   "local_path": "data/raw/climatetrace/detail/25453453.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25453453
   }
@@ -2286,7 +2286,7 @@
  {
   "id": "ev_api_payload_b595f94f73",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454271 \u2014 Raikheda power station",
+  "title": "Climate TRACE v7 source 25454271 \u00b7 Raikheda power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454271",
   "retrieved_at": "2026-10-09T19:11:36+00:00",
@@ -2294,7 +2294,7 @@
   "local_path": "data/raw/climatetrace/detail/25454271.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454271
   }
@@ -2302,7 +2302,7 @@
  {
   "id": "ev_api_payload_1150f010ee",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25454267 \u2014 Kawai Thermal Power Project",
+  "title": "Climate TRACE v7 source 25454267 \u00b7 Kawai Thermal Power Project",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25454267",
   "retrieved_at": "2026-10-09T19:11:37+00:00",
@@ -2310,7 +2310,7 @@
   "local_path": "data/raw/climatetrace/detail/25454267.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25454267
   }
@@ -2318,7 +2318,7 @@
  {
   "id": "ev_api_payload_72b1a08ae9",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 46885434 \u2014 Adani Godda power station",
+  "title": "Climate TRACE v7 source 46885434 \u00b7 Adani Godda power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/46885434",
   "retrieved_at": "2026-10-09T19:11:37+00:00",
@@ -2326,7 +2326,7 @@
   "local_path": "data/raw/climatetrace/detail/46885434.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 46885434
   }
@@ -2334,7 +2334,7 @@
  {
   "id": "ev_api_payload_fbccea6aa4",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 25451354 \u2014 Udupi power station",
+  "title": "Climate TRACE v7 source 25451354 \u00b7 Udupi power station",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/25451354",
   "retrieved_at": "2026-10-09T19:11:37+00:00",
@@ -2342,7 +2342,7 @@
   "local_path": "data/raw/climatetrace/detail/25451354.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 25451354
   }
@@ -2350,7 +2350,7 @@
  {
   "id": "ev_api_payload_e57e84ace4",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 718368 \u2014 Adani Raigarh Thermal Power Plant",
+  "title": "Climate TRACE v7 source 718368 \u00b7 Adani Raigarh Thermal Power Plant",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/718368",
   "retrieved_at": "2026-10-09T19:11:38+00:00",
@@ -2358,7 +2358,7 @@
   "local_path": "data/raw/climatetrace/detail/718368.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 718368
   }
@@ -2366,7 +2366,7 @@
  {
   "id": "ev_api_payload_3a7ed6ff44",
   "kind": "api_payload",
-  "title": "Climate TRACE v7 source 717596 \u2014 Butibori Power Project",
+  "title": "Climate TRACE v7 source 717596 \u00b7 Butibori Power Project",
   "publisher": "Climate TRACE",
   "url": "https://api.climatetrace.org/v7/sources/717596",
   "retrieved_at": "2026-10-09T19:11:39+00:00",
@@ -2374,7 +2374,7 @@
   "local_path": "data/raw/climatetrace/detail/717596.json",
   "page": null,
   "quote": "",
-  "license": "Climate TRACE terms (attribution required) \u2014 https://climatetrace.org/terms",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
   "meta": {
    "source_id": 717596
   }
@@ -2396,15 +2396,15 @@
  {
   "id": "ev_tile_0fb3b5c161",
   "kind": "tile",
-  "title": "TROPOMI tropospheric NO2 (Sentinel-5P) \u2014 2026-10-09",
+  "title": "TROPOMI tropospheric NO2 (Sentinel-5P) \u00b7 2026-10-09",
   "publisher": "NASA EOSDIS Global Imagery Browse Services (GIBS)",
   "url": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/TROPOMI_L2_Nitrogen_Dioxide_Tropospheric_Column/default/2026-10-09/GoogleMapsCompatible_Level6/4/11/6.png",
-  "retrieved_at": "2026-10-09T19:50:50+00:00",
-  "sha256": "32d36733aab026374a4a176f9bde0e01fa9cf54e9eb28e961b0c3ab5a8f9473f",
+  "retrieved_at": "2026-10-09T21:08:59+00:00",
+  "sha256": "91e6b9e39db3282d9099b3795a466d6c09b1fd741e44d384f07ee5fe307ccef0",
   "local_path": "",
   "page": null,
   "quote": "",
-  "license": "NASA EOSDIS open data \u2014 attribution requested",
+  "license": "NASA EOSDIS open data \u00b7 attribution requested",
   "meta": {
    "layer": "TROPOMI_L2_Nitrogen_Dioxide_Tropospheric_Column",
    "date": "2026-10-09"
@@ -2413,15 +2413,15 @@
  {
   "id": "ev_tile_31cf16c103",
   "kind": "tile",
-  "title": "VIIRS Day/Night Band radiance (Suomi NPP) \u2014 2026-10-09",
+  "title": "VIIRS Day/Night Band radiance (Suomi NPP) \u00b7 2026-10-09",
   "publisher": "NASA EOSDIS Global Imagery Browse Services (GIBS)",
   "url": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_SNPP_DayNightBand_At_Sensor_Radiance/default/2026-10-09/GoogleMapsCompatible_Level8/4/11/6.png",
-  "retrieved_at": "2026-10-09T19:50:51+00:00",
+  "retrieved_at": "2026-10-09T21:09:00+00:00",
   "sha256": "312efcfece097161e5da1e9d5ad518355b662feacc264c5a21f0cee4f6572b66",
   "local_path": "",
   "page": null,
   "quote": "",
-  "license": "NASA EOSDIS open data \u2014 attribution requested",
+  "license": "NASA EOSDIS open data \u00b7 attribution requested",
   "meta": {
    "layer": "VIIRS_SNPP_DayNightBand_At_Sensor_Radiance",
    "date": "2026-10-09"
@@ -2430,15 +2430,15 @@
  {
   "id": "ev_tile_1f2a772939",
   "kind": "tile",
-  "title": "VIIRS corrected reflectance true colour \u2014 2026-10-09",
+  "title": "VIIRS corrected reflectance true colour \u00b7 2026-10-09",
   "publisher": "NASA EOSDIS Global Imagery Browse Services (GIBS)",
   "url": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_SNPP_CorrectedReflectance_TrueColor/default/2026-10-09/GoogleMapsCompatible_Level9/4/11/6.png",
-  "retrieved_at": "2026-10-09T19:50:52+00:00",
-  "sha256": "ea23e06d9cd80309f5cb4fb42de5fcb30a9f9220f7360eed9d6a763c7c1685b1",
+  "retrieved_at": "2026-10-09T21:09:01+00:00",
+  "sha256": "d102deabd8d8cfef23bb63c5ab1f3339afb8df84abb896a45a8611b13a12b1d0",
   "local_path": "",
   "page": null,
   "quote": "",
-  "license": "NASA EOSDIS open data \u2014 attribution requested",
+  "license": "NASA EOSDIS open data \u00b7 attribution requested",
   "meta": {
    "layer": "VIIRS_SNPP_CorrectedReflectance_TrueColor",
    "date": "2026-10-09"
@@ -2461,7 +2461,7 @@
  {
   "id": "ev_pdf_page_8b39f96286",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2024-25 \u2014 electricity renewable mwh (standalone, FY2024-25), p.16",
+  "title": "NTPC BRSR FY2024-25 \u00b7 electricity renewable mwh (standalone, FY2024-25), p.16",
   "publisher": "NTPC",
   "url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf#page=16",
   "retrieved_at": "2026-10-09T19:50:52+00:00",
@@ -2479,7 +2479,7 @@
  {
   "id": "ev_pdf_page_0b57a55c4a",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2024-25 \u2014 electricity renewable mwh (standalone, FY2023-24), p.16",
+  "title": "NTPC BRSR FY2024-25 \u00b7 electricity renewable mwh (standalone, FY2023-24), p.16",
   "publisher": "NTPC",
   "url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf#page=16",
   "retrieved_at": "2026-10-09T19:50:52+00:00",
@@ -2497,7 +2497,7 @@
  {
   "id": "ev_pdf_page_c43392945d",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2024-25 \u2014 electricity nonrenewable mwh (standalone, FY2024-25), p.16",
+  "title": "NTPC BRSR FY2024-25 \u00b7 electricity nonrenewable mwh (standalone, FY2024-25), p.16",
   "publisher": "NTPC",
   "url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf#page=16",
   "retrieved_at": "2026-10-09T19:50:52+00:00",
@@ -2515,7 +2515,7 @@
  {
   "id": "ev_pdf_page_6c401752ef",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2024-25 \u2014 electricity nonrenewable mwh (standalone, FY2023-24), p.16",
+  "title": "NTPC BRSR FY2024-25 \u00b7 electricity nonrenewable mwh (standalone, FY2023-24), p.16",
   "publisher": "NTPC",
   "url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf#page=16",
   "retrieved_at": "2026-10-09T19:50:52+00:00",
@@ -2533,7 +2533,7 @@
  {
   "id": "ev_pdf_page_6fd543288a",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2024-25 \u2014 scope1 (standalone, FY2024-25), p.17",
+  "title": "NTPC BRSR FY2024-25 \u00b7 scope1 (standalone, FY2024-25), p.17",
   "publisher": "NTPC",
   "url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf#page=17",
   "retrieved_at": "2026-10-09T19:50:52+00:00",
@@ -2551,7 +2551,7 @@
  {
   "id": "ev_pdf_page_bcc24dc49b",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2024-25 \u2014 scope1 (standalone, FY2023-24), p.17",
+  "title": "NTPC BRSR FY2024-25 \u00b7 scope1 (standalone, FY2023-24), p.17",
   "publisher": "NTPC",
   "url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf#page=17",
   "retrieved_at": "2026-10-09T19:50:52+00:00",
@@ -2569,7 +2569,7 @@
  {
   "id": "ev_pdf_page_78de26ce9d",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2024-25 \u2014 scope2 (standalone, FY2024-25), p.17",
+  "title": "NTPC BRSR FY2024-25 \u00b7 scope2 (standalone, FY2024-25), p.17",
   "publisher": "NTPC",
   "url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf#page=17",
   "retrieved_at": "2026-10-09T19:50:52+00:00",
@@ -2587,7 +2587,7 @@
  {
   "id": "ev_pdf_page_12987be96b",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2024-25 \u2014 scope2 (standalone, FY2023-24), p.17",
+  "title": "NTPC BRSR FY2024-25 \u00b7 scope2 (standalone, FY2023-24), p.17",
   "publisher": "NTPC",
   "url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf#page=17",
   "retrieved_at": "2026-10-09T19:50:52+00:00",
@@ -2605,7 +2605,7 @@
  {
   "id": "ev_pdf_page_73a7f36562",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2024-25 \u2014 GHG assurance note, p.17",
+  "title": "NTPC BRSR FY2024-25 \u00b7 GHG assurance note, p.17",
   "publisher": "NTPC",
   "url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf#page=17",
   "retrieved_at": "2026-10-09T19:50:52+00:00",
@@ -2635,7 +2635,7 @@
  {
   "id": "ev_pdf_page_f55f3694b7",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2025-26 \u2014 electricity nonrenewable mwh (standalone, FY2025-26), p.20",
+  "title": "NTPC BRSR FY2025-26 \u00b7 electricity nonrenewable mwh (standalone, FY2025-26), p.20",
   "publisher": "NTPC",
   "url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf#page=20",
   "retrieved_at": "2026-10-09T19:50:56+00:00",
@@ -2653,7 +2653,7 @@
  {
   "id": "ev_pdf_page_56f5bb0306",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2025-26 \u2014 electricity nonrenewable mwh (standalone, FY2024-25), p.20",
+  "title": "NTPC BRSR FY2025-26 \u00b7 electricity nonrenewable mwh (standalone, FY2024-25), p.20",
   "publisher": "NTPC",
   "url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf#page=20",
   "retrieved_at": "2026-10-09T19:50:56+00:00",
@@ -2671,7 +2671,7 @@
  {
   "id": "ev_pdf_page_83ad2c51ca",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2025-26 \u2014 electricity renewable mwh (standalone, FY2025-26), p.20",
+  "title": "NTPC BRSR FY2025-26 \u00b7 electricity renewable mwh (standalone, FY2025-26), p.20",
   "publisher": "NTPC",
   "url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf#page=20",
   "retrieved_at": "2026-10-09T19:50:56+00:00",
@@ -2689,7 +2689,7 @@
  {
   "id": "ev_pdf_page_a39c6f6fc4",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2025-26 \u2014 electricity renewable mwh (standalone, FY2024-25), p.20",
+  "title": "NTPC BRSR FY2025-26 \u00b7 electricity renewable mwh (standalone, FY2024-25), p.20",
   "publisher": "NTPC",
   "url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf#page=20",
   "retrieved_at": "2026-10-09T19:50:56+00:00",
@@ -2707,7 +2707,7 @@
  {
   "id": "ev_pdf_page_c0be953c44",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2025-26 \u2014 scope1 (standalone, FY2025-26), p.21",
+  "title": "NTPC BRSR FY2025-26 \u00b7 scope1 (standalone, FY2025-26), p.21",
   "publisher": "NTPC",
   "url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf#page=21",
   "retrieved_at": "2026-10-09T19:50:56+00:00",
@@ -2725,7 +2725,7 @@
  {
   "id": "ev_pdf_page_471f10438d",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2025-26 \u2014 scope1 (standalone, FY2024-25), p.21",
+  "title": "NTPC BRSR FY2025-26 \u00b7 scope1 (standalone, FY2024-25), p.21",
   "publisher": "NTPC",
   "url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf#page=21",
   "retrieved_at": "2026-10-09T19:50:56+00:00",
@@ -2743,7 +2743,7 @@
  {
   "id": "ev_pdf_page_fe78377708",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2025-26 \u2014 scope2 (standalone, FY2025-26), p.21",
+  "title": "NTPC BRSR FY2025-26 \u00b7 scope2 (standalone, FY2025-26), p.21",
   "publisher": "NTPC",
   "url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf#page=21",
   "retrieved_at": "2026-10-09T19:50:56+00:00",
@@ -2761,7 +2761,7 @@
  {
   "id": "ev_pdf_page_539cfdaf96",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2025-26 \u2014 scope2 (standalone, FY2024-25), p.21",
+  "title": "NTPC BRSR FY2025-26 \u00b7 scope2 (standalone, FY2024-25), p.21",
   "publisher": "NTPC",
   "url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf#page=21",
   "retrieved_at": "2026-10-09T19:50:56+00:00",
@@ -2779,7 +2779,7 @@
  {
   "id": "ev_pdf_page_d3187bcf66",
   "kind": "pdf_page",
-  "title": "NTPC BRSR FY2025-26 \u2014 GHG assurance note, p.21",
+  "title": "NTPC BRSR FY2025-26 \u00b7 GHG assurance note, p.21",
   "publisher": "NTPC",
   "url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf#page=21",
   "retrieved_at": "2026-10-09T19:50:56+00:00",
@@ -2809,7 +2809,7 @@
  {
   "id": "ev_pdf_page_29205f273b",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 electricity renewable mwh (standalone, FY2024-25), p.45",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 electricity renewable mwh (standalone, FY2024-25), p.45",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=45",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2827,7 +2827,7 @@
  {
   "id": "ev_pdf_page_98ee7e3033",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 electricity renewable mwh (standalone, FY2023-24), p.45",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 electricity renewable mwh (standalone, FY2023-24), p.45",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=45",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2845,7 +2845,7 @@
  {
   "id": "ev_pdf_page_d43263ed1b",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 electricity renewable mwh (consolidated, FY2024-25), p.45",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 electricity renewable mwh (consolidated, FY2024-25), p.45",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=45",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2863,7 +2863,7 @@
  {
   "id": "ev_pdf_page_ba0b26dbf3",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 electricity renewable mwh (consolidated, FY2023-24), p.45",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 electricity renewable mwh (consolidated, FY2023-24), p.45",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=45",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2881,7 +2881,7 @@
  {
   "id": "ev_pdf_page_daa9796a9c",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 electricity nonrenewable mwh (standalone, FY2024-25), p.45",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 electricity nonrenewable mwh (standalone, FY2024-25), p.45",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=45",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2899,7 +2899,7 @@
  {
   "id": "ev_pdf_page_ac97593f72",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 electricity nonrenewable mwh (standalone, FY2023-24), p.45",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 electricity nonrenewable mwh (standalone, FY2023-24), p.45",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=45",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2917,7 +2917,7 @@
  {
   "id": "ev_pdf_page_c8a757c480",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 electricity nonrenewable mwh (consolidated, FY2024-25), p.45",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 electricity nonrenewable mwh (consolidated, FY2024-25), p.45",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=45",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2935,7 +2935,7 @@
  {
   "id": "ev_pdf_page_1872ee9686",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 electricity nonrenewable mwh (consolidated, FY2023-24), p.45",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 electricity nonrenewable mwh (consolidated, FY2023-24), p.45",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=45",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2953,7 +2953,7 @@
  {
   "id": "ev_pdf_page_3fe7c89b11",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 scope1 (standalone, FY2024-25), p.47",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 scope1 (standalone, FY2024-25), p.47",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=47",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2971,7 +2971,7 @@
  {
   "id": "ev_pdf_page_df4a698ac8",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 scope1 (standalone, FY2023-24), p.47",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 scope1 (standalone, FY2023-24), p.47",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=47",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -2989,7 +2989,7 @@
  {
   "id": "ev_pdf_page_94e084e889",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 scope1 (consolidated, FY2024-25), p.47",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 scope1 (consolidated, FY2024-25), p.47",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=47",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -3007,7 +3007,7 @@
  {
   "id": "ev_pdf_page_336387dbf8",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 scope1 (consolidated, FY2023-24), p.47",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 scope1 (consolidated, FY2023-24), p.47",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=47",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -3025,7 +3025,7 @@
  {
   "id": "ev_pdf_page_fcbb7f7f1f",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 scope2 (standalone, FY2024-25), p.47",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 scope2 (standalone, FY2024-25), p.47",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=47",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -3043,7 +3043,7 @@
  {
   "id": "ev_pdf_page_621d1deea2",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 scope2 (standalone, FY2023-24), p.47",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 scope2 (standalone, FY2023-24), p.47",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=47",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -3061,7 +3061,7 @@
  {
   "id": "ev_pdf_page_9770537537",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 scope2 (consolidated, FY2024-25), p.47",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 scope2 (consolidated, FY2024-25), p.47",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=47",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -3079,7 +3079,7 @@
  {
   "id": "ev_pdf_page_1bcfccfd76",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 scope2 (consolidated, FY2023-24), p.47",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 scope2 (consolidated, FY2023-24), p.47",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=47",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -3097,7 +3097,7 @@
  {
   "id": "ev_pdf_page_7990dd633a",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2024-25 \u2014 GHG assurance note, p.47",
+  "title": "TATASTEEL BRSR FY2024-25 \u00b7 GHG assurance note, p.47",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf#page=47",
   "retrieved_at": "2026-10-09T19:50:58+00:00",
@@ -3127,7 +3127,7 @@
  {
   "id": "ev_pdf_page_3919ce5a39",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 electricity renewable mwh (standalone, FY2023-24), p.61",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 electricity renewable mwh (standalone, FY2023-24), p.61",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=61",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3145,7 +3145,7 @@
  {
   "id": "ev_pdf_page_c2dac6fde4",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 electricity renewable mwh (standalone, FY2022-23), p.61",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 electricity renewable mwh (standalone, FY2022-23), p.61",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=61",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3163,7 +3163,7 @@
  {
   "id": "ev_pdf_page_8ec8e21f73",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 electricity renewable mwh (consolidated, FY2023-24), p.61",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 electricity renewable mwh (consolidated, FY2023-24), p.61",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=61",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3181,7 +3181,7 @@
  {
   "id": "ev_pdf_page_535f89d9bb",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 electricity renewable mwh (consolidated, FY2022-23), p.61",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 electricity renewable mwh (consolidated, FY2022-23), p.61",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=61",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3199,7 +3199,7 @@
  {
   "id": "ev_pdf_page_4764a0d5fe",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 electricity nonrenewable mwh (standalone, FY2023-24), p.61",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 electricity nonrenewable mwh (standalone, FY2023-24), p.61",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=61",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3217,7 +3217,7 @@
  {
   "id": "ev_pdf_page_254e5008c0",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 electricity nonrenewable mwh (standalone, FY2022-23), p.61",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 electricity nonrenewable mwh (standalone, FY2022-23), p.61",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=61",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3235,7 +3235,7 @@
  {
   "id": "ev_pdf_page_51d5d5c1a8",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 electricity nonrenewable mwh (consolidated, FY2023-24), p.61",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 electricity nonrenewable mwh (consolidated, FY2023-24), p.61",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=61",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3253,7 +3253,7 @@
  {
   "id": "ev_pdf_page_e932627fab",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 electricity nonrenewable mwh (consolidated, FY2022-23), p.61",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 electricity nonrenewable mwh (consolidated, FY2022-23), p.61",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=61",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3271,7 +3271,7 @@
  {
   "id": "ev_pdf_page_292275ac92",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 scope1 (standalone, FY2023-24), p.64",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 scope1 (standalone, FY2023-24), p.64",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=64",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3289,7 +3289,7 @@
  {
   "id": "ev_pdf_page_5ecae681b9",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 scope1 (standalone, FY2022-23), p.64",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 scope1 (standalone, FY2022-23), p.64",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=64",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3307,7 +3307,7 @@
  {
   "id": "ev_pdf_page_98b6a415f0",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 scope1 (consolidated, FY2023-24), p.64",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 scope1 (consolidated, FY2023-24), p.64",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=64",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3325,7 +3325,7 @@
  {
   "id": "ev_pdf_page_bc3cffa56e",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 scope1 (consolidated, FY2022-23), p.64",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 scope1 (consolidated, FY2022-23), p.64",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=64",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3343,7 +3343,7 @@
  {
   "id": "ev_pdf_page_a19e1fbe00",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 scope2 (standalone, FY2023-24), p.64",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 scope2 (standalone, FY2023-24), p.64",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=64",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3361,7 +3361,7 @@
  {
   "id": "ev_pdf_page_abc53e2606",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 scope2 (standalone, FY2022-23), p.64",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 scope2 (standalone, FY2022-23), p.64",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=64",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3379,7 +3379,7 @@
  {
   "id": "ev_pdf_page_5d4dc06b5b",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 scope2 (consolidated, FY2023-24), p.64",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 scope2 (consolidated, FY2023-24), p.64",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=64",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3397,7 +3397,7 @@
  {
   "id": "ev_pdf_page_4dec40a8bb",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 scope2 (consolidated, FY2022-23), p.64",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 scope2 (consolidated, FY2022-23), p.64",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=64",
   "retrieved_at": "2026-10-09T19:51:01+00:00",
@@ -3415,7 +3415,7 @@
  {
   "id": "ev_pdf_page_165d396c6c",
   "kind": "pdf_page",
-  "title": "TATASTEEL BRSR FY2023-24 \u2014 GHG assurance note, p.64",
+  "title": "TATASTEEL BRSR FY2023-24 \u00b7 GHG assurance note, p.64",
   "publisher": "TATASTEEL",
   "url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf#page=64",
   "retrieved_at": "2026-10-09T19:51:01+00:00",

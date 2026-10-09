@@ -12,7 +12,7 @@ from et_core.evidence import Evidence
 from et_core.http import fetch
 
 PUBLISHER = "Robbie M. Andrew (CICERO), from Grid-India/POSOCO and CEA reports"
-LICENSE = "CC BY 4.0 — cite Andrew, R. M. (2020) ESSD"
+LICENSE = "CC BY 4.0 · cite Andrew, R. M. (2020) ESSD"
 FILES = {"posoco": "POSOCO_data.csv", "cea_dgr": "CEA_DGR_data.csv", "monthly": "India_monthly_data.csv"}
 REGIONS = ["NR", "WR", "SR", "ER", "NER"]
 

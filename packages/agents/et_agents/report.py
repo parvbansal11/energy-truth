@@ -14,7 +14,7 @@ INK, MUTED, ACCENT, RED, AMBER, GREEN = (17, 24, 39), (100, 110, 125), (13, 110,
 
 def _t(s: str) -> str:
     """fpdf core fonts are latin-1; map the few unicode glyphs we use."""
-    rep = {"₂": "2", "–": "-", "—": "-", "±": "+/-", "ρ": "rho", "σ": "sigma", "×": "x", "’": "'", "“": '"', "”": '"', "≥": ">=", "…": "...", "→": "->", "Δ": "delta "}
+    rep = {"₂": "2", "–": "-", "—": ", ", "·": "-", "±": "+/-", "ρ": "rho", "σ": "sigma", "×": "x", "’": "'", "“": '"', "”": '"', "≥": ">=", "…": "...", "→": "->", "Δ": "delta "}
     for k, v in rep.items():
         s = s.replace(k, v)
     return s.encode("latin-1", "replace").decode("latin-1")

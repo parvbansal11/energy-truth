@@ -10,7 +10,10 @@ export type AgentEvent = {
   forecast_mode?: string;
 };
 
-export type Layers = { no2: boolean; dnb: boolean; grid: boolean; columns: boolean; gemOnly: boolean; colorBy: "gap" | "fuel"; satellite: boolean; s2: boolean };
+export type Layers = {
+  no2: boolean; dnb: boolean; grid: boolean; columns: boolean; gemOnly: boolean; plants: boolean; colorBy: "gap" | "fuel";
+  imagery: boolean; shade: boolean; terrain: boolean; s2: boolean;
+};
 export type MapCommand = { id: number; kind: "fly_company" | "fly_to" | "fit_ids"; ids?: string[]; lon?: number; lat?: number; zoom?: number };
 
 type Audit = {
@@ -30,6 +33,8 @@ type Ctx = {
   mapCmd?: MapCommand; command: (c: Omit<MapCommand, "id">) => void;
   audit: Audit; startAudit: (s: string, auto?: boolean) => void; resume: (d: "accept" | "exclude") => void; closeAudit: () => void;
   theme: "dark" | "light"; toggleTheme: () => void;
+  panel: "score" | "agent" | "plant"; setPanel: (p: "score" | "agent" | "plant") => void;
+  reportUrl?: string; setReportUrl: (u?: string) => void;
 };
 
 const C = createContext<Ctx | null>(null);
@@ -39,13 +44,7 @@ export const useApp = () => {
   return v;
 };
 
-const initialTheme = (): "dark" | "light" => {
-  try {
-    const s = localStorage.getItem("et-theme");
-    if (s === "dark" || s === "light") return s;
-  } catch {}
-  return matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
-};
+const initialTheme = (): "dark" | "light" => "dark";
 
 export function AppProvider({ children, initialCompany }: { children: ReactNode; initialCompany?: string }) {
   const [meta, setMeta] = useState<Meta>();
@@ -57,19 +56,17 @@ export function AppProvider({ children, initialCompany }: { children: ReactNode;
   const [plant, setPlant] = useState<string>();
   const [evidenceIds, setEvidenceIds] = useState<string[] | null>(null);
   const [evidenceTitle, setEvidenceTitle] = useState<string>();
-  const [layers, setLayersState] = useState<Layers>({ no2: false, dnb: false, grid: false, columns: false, gemOnly: true, colorBy: "gap", satellite: false, s2: false });
+  const [layers, setLayersState] = useState<Layers>({ no2: false, dnb: false, grid: false, columns: false, gemOnly: true, plants: true, colorBy: "gap", imagery: false, shade: true, terrain: true, s2: false });
   const [highlight, setHighlight] = useState<string[]>([]);
   const [alertIds, setAlertIds] = useState<string[]>([]);
   const [mapCmd, setMapCmd] = useState<MapCommand>();
   const [audit, setAudit] = useState<Audit>({ running: false, events: [], nodes: [], open: false });
   const [theme, setTheme] = useState(initialTheme);
+  const [panel, setPanel] = useState<"score" | "agent" | "plant">("score");
+  const [reportUrl, setReportUrl] = useState<string>();
   const ws = useRef<WebSocket | null>(null);
   const cmdId = useRef(0);
 
-  useEffect(() => {
-    document.documentElement.dataset.theme = theme;
-    try { localStorage.setItem("et-theme", theme); } catch {}
-  }, [theme]);
 
   useEffect(() => {
     Promise.all([api.meta(), api.companies()])
@@ -88,6 +85,8 @@ export function AppProvider({ children, initialCompany }: { children: ReactNode;
     setSelected(s);
     setPlant(undefined);
     setHighlight([]);
+    setReportUrl(undefined);
+    setPanel((p) => (p === "plant" ? "score" : p));
     command({ kind: "fly_company" });
   }, [command]);
 
@@ -106,7 +105,7 @@ export function AppProvider({ children, initialCompany }: { children: ReactNode;
       if (ev.type === "run") next.nodes = ev.nodes || [];
       if (ev.run_id) next.runId = ev.run_id;
       if (ev.type === "interrupt") next.hitl = ev.value || null;
-      if (ev.type === "result") { next.result = ev; next.running = false; }
+      if (ev.type === "result") { next.result = ev; next.running = false; if (ev.report_url) setReportUrl(ev.report_url); }
       if (ev.type === "error") { next.error = ev.message; next.running = false; }
       return next;
     });
@@ -118,7 +117,7 @@ export function AppProvider({ children, initialCompany }: { children: ReactNode;
     ws.current = sock;
     sock.onopen = () => sock.send(JSON.stringify(first));
     sock.onmessage = (m) => onEvent(JSON.parse(m.data));
-    sock.onerror = () => setAudit((a) => ({ ...a, running: false, error: "Agent stream connection failed — is the API running?" }));
+    sock.onerror = () => setAudit((a) => ({ ...a, running: false, error: "Agent stream connection failed: is the API running?" }));
   }, [onEvent]);
 
   const startAudit = useCallback((s: string, auto = false) => {
@@ -127,6 +126,8 @@ export function AppProvider({ children, initialCompany }: { children: ReactNode;
     setHighlight([]);
     setAlertIds([]);
     setAudit({ running: true, company: s, events: [], nodes: [], open: true, hitl: null });
+    setPanel("agent");
+    setReportUrl(undefined);
     connect({ action: "audit", company: s, auto_approve: auto });
   }, [connect]);
 
@@ -141,7 +142,10 @@ export function AppProvider({ children, initialCompany }: { children: ReactNode;
 
   const closeAudit = useCallback(() => setAudit((a) => ({ ...a, open: false })), []);
   const openEvidence = useCallback((ids: string[] | null, title?: string) => { setEvidenceIds(ids); setEvidenceTitle(title); }, []);
-  const openPlant = useCallback((id?: string) => setPlant(id), []);
+  const openPlant = useCallback((id?: string) => {
+    setPlant(id);
+    setPanel((p) => (id ? "plant" : p === "plant" ? "score" : p));
+  }, []);
   const setLayers = useCallback((f: (l: Layers) => Layers) => setLayersState(f), []);
   const toggleTheme = useCallback(() => setTheme((t) => (t === "dark" ? "light" : "dark")), []);
 
@@ -149,6 +153,7 @@ export function AppProvider({ children, initialCompany }: { children: ReactNode;
   const value: Ctx = {
     meta, companies, loadError, selected, select, scorecard: scorecards[selected], scorecards, assets, assetsBy, plant, openPlant,
     evidenceIds, openEvidence, evidenceTitle, layers, setLayers, highlight, alertIds, mapCmd, command, audit, startAudit, resume, closeAudit, theme, toggleTheme,
+    panel, setPanel, reportUrl, setReportUrl,
   };
   return <C.Provider value={value}>{children}</C.Provider>;
 }

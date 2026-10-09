@@ -1,4 +1,4 @@
-"""P1 — ingest + canonical energy graph (Company, Asset, Ownership) with coverage rho (plan §5.2, §9.1)."""
+"""P1 · ingest + canonical energy graph (Company, Asset, Ownership) with coverage rho (plan §5.2, §9.1)."""
 from __future__ import annotations
 
 from collections import defaultdict

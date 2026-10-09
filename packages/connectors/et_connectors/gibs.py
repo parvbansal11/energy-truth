@@ -64,12 +64,12 @@ def probe_layers(start: date | None = None, max_back: int = 10) -> tuple[dict, l
         ev = Evidence(
             id=evidence_id("tile", L["id"], day),
             kind="tile",
-            title=f"{L['title']} — {day}",
+            title=f"{L['title']} · {day}",
             publisher="NASA EOSDIS Global Imagery Browse Services (GIBS)",
             url=url,
             retrieved_at=now_iso(),
             sha256=digest,
-            license="NASA EOSDIS open data — attribution requested",
+            license="NASA EOSDIS open data · attribution requested",
             meta={"layer": L["id"], "date": day},
         )
         evs.append(ev)

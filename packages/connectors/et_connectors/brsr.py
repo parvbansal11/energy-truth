@@ -121,7 +121,7 @@ def extract_rules(symbol: str, fy: str, pdf_path: Path, url: str, pdf_ev_id: str
         ev = Evidence(
             id=evidence_id("pdf_page", url, page_no, key, boundary, fy_lbl),
             kind="pdf_page",
-            title=f"{symbol} BRSR {fy} — {key.replace('_', ' ')} ({boundary}, {fy_lbl}), p.{page_no}",
+            title=f"{symbol} BRSR {fy} · {key.replace('_', ' ')} ({boundary}, {fy_lbl}), p.{page_no}",
             publisher=symbol,
             url=f"{url}#page={page_no}",
             retrieved_at="",
@@ -183,7 +183,7 @@ def extract_rules(symbol: str, fy: str, pdf_path: Path, url: str, pdf_ev_id: str
                 level = "reasonable" if re.search(r"reasonable\s+assurance", q, re.I) else "limited" if re.search(r"limited\s+assurance", q, re.I) else "unspecified"
                 prov = re.search(r"(Bureau Veritas|Price Waterhouse[^,]*?LLP|TUV India Private Limited|KPMG[^,.]*|Deloitte[^,.]*|DNV[^,.]*)", q, re.I)
                 scope_note = "standalone only" if re.search(r"for\s+Standalone", q, re.I) else "as tabled"
-                ev = Evidence(id=evidence_id("pdf_page", url, pno, "assurance"), kind="pdf_page", title=f"{symbol} BRSR {fy} — GHG assurance note, p.{pno}",
+                ev = Evidence(id=evidence_id("pdf_page", url, pno, "assurance"), kind="pdf_page", title=f"{symbol} BRSR {fy} · GHG assurance note, p.{pno}",
                               publisher=symbol, url=f"{url}#page={pno}", retrieved_at="", page=pno, quote=q[:300], license="Public statutory disclosure",
                               meta={"pdf_evidence_id": pdf_ev_id})
                 evs.append(ev)
@@ -223,7 +223,7 @@ def extract_bedrock(symbol: str, fy: str, pdf_path: Path, url: str, pdf_ev_id: s
     for row in data.get("rows", []):
         page_text = pages[int(row["page"]) - 1]
         if row["value"] not in page_text:  # citation lock: value must literally appear on the cited page
-            ex.warnings.append(f"bedrock value {row['value']} not found on p.{row['page']} — dropped")
+            ex.warnings.append(f"bedrock value {row['value']} not found on p.{row['page']} · dropped")
             continue
         metric = row["metric"]
         if metric.startswith("scope"):
@@ -232,7 +232,7 @@ def extract_bedrock(symbol: str, fy: str, pdf_path: Path, url: str, pdf_ev_id: s
             v, unit, metric = to_mwh(parse_number(row["value"]), row["unit"]), "MWh", metric + "_mwh"
         line = next((l for l in page_text.splitlines() if row["value"] in l), "")
         ev = Evidence(id=evidence_id("pdf_page", url, row["page"], metric, row["boundary"], row["fiscal_year"]), kind="pdf_page",
-                      title=f"{symbol} BRSR {fy} — {metric} ({row['boundary']}, {row['fiscal_year']}), p.{row['page']}", publisher=symbol,
+                      title=f"{symbol} BRSR {fy} · {metric} ({row['boundary']}, {row['fiscal_year']}), p.{row['page']}", publisher=symbol,
                       url=f"{url}#page={row['page']}", retrieved_at="", page=int(row["page"]), quote=line[:300], license="Public statutory disclosure",
                       meta={"pdf_evidence_id": pdf_ev_id, "engine": ex.engine})
         evs.append(ev)

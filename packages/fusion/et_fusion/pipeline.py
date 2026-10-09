@@ -173,7 +173,7 @@ def run(refresh: bool = False, skip_forecast: bool = False) -> dict:
         def fy_value(a: dict, fy: str) -> float:
             return fy_sum(series[a["asset_id"]], fy)[0]
 
-        # rollup monthly series (T2 target) — ownership-weighted
+        # rollup monthly series (T2 target) · ownership-weighted
         roll = sum(series[a["asset_id"]] * a["ownership_weight"] for a in cas) if cas else pd.Series(dtype=float)
         unweighted_cy = {str(y): round(sum(a["ct"]["emissions_t"].get(str(y), 0) for a in cas), 1) for y in CT_YEARS}
 

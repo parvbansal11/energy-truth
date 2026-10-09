@@ -43,7 +43,7 @@ def latest_scene(lon: float, lat: float, days: int = 90, max_cloud: float = 30) 
         publisher="Copernicus Sentinel-2 via Element84 Earth Search (AWS Open Data)",
         url=scene["stac_url"],
         retrieved_at=now_iso(),
-        license="Copernicus Sentinel data — free and open, attribution required",
+        license="Copernicus Sentinel data · free and open, attribution required",
         meta=scene,
     )
     return scene, ev

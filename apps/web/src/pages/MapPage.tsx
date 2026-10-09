@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
-import { Bot, X } from "lucide-react";
+import { ArrowRight, Bot, MessageSquareText, X } from "lucide-react";
 import { AgentConsole } from "../components/AgentConsole";
-import { MapControls } from "../components/MapControls";
+import { LeftRail } from "../components/LeftRail";
 import { MapView } from "../components/MapView";
 import { PlantDrawer } from "../components/PlantDrawer";
 import { ScorecardPanel } from "../components/ScorecardPanel";
-import { Button, cx } from "../components/ui";
+import { cx } from "../components/ui";
+import { api } from "../lib/api";
 import { useApp } from "../lib/store";
 
 function useDesktop() {
@@ -20,73 +21,102 @@ function useDesktop() {
   return d;
 }
 
-export function MapPage() {
-  const { plant, audit, startAudit, companies, loadError } = useApp();
-  const desktop = useDesktop();
-  const [intro, setIntro] = useState(() => { try { return localStorage.getItem("et-intro") !== "seen"; } catch { return true; } });
-  const [sheet, setSheet] = useState<"score" | "agent" | "plant">("score");
-  useEffect(() => { if (audit.open) setSheet("agent"); }, [audit.open]);
-  useEffect(() => { if (plant) setSheet("plant"); }, [plant]);
-  const dismiss = () => { setIntro(false); try { localStorage.setItem("et-intro", "seen"); } catch {} };
-  const right = plant ? <PlantDrawer /> : audit.open ? <AgentConsole /> : null;
+const TABS = [["score", "Scorecard"], ["agent", "Agent"], ["plant", "Plant"]] as const;
 
+function RightPanel() {
+  const { panel, setPanel, plant, audit } = useApp();
   return (
-    <div className="fixed inset-0 overflow-hidden">
-      <MapView />
+    <aside className="panel animate-slide-in-right flex h-full w-[372px] flex-col overflow-hidden">
+      <div className="grid shrink-0 grid-cols-3 border-b border-line" role="tablist">
+        {TABS.map(([k, l]) => (
+          <button key={k} role="tab" aria-selected={panel === k} onClick={() => setPanel(k)} disabled={k === "plant" && !plant}
+            className={cx("focus-ring eyebrow relative py-2.5 transition disabled:opacity-30", panel === k ? "!text-ink" : "hover:!text-ink-2")}>
+            {l}{k === "agent" && audit.running && <span className="ml-1.5 inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-accent align-middle" />}
+            {panel === k && <span className="absolute inset-x-3 bottom-0 h-px bg-accent" />}
+          </button>
+        ))}
+      </div>
+      <div className="min-h-0 flex-1 overflow-y-auto">
+        {panel === "score" && <ScorecardPanel />}
+        {panel === "agent" && <AgentConsole />}
+        {panel === "plant" && <PlantDrawer />}
+      </div>
+    </aside>
+  );
+}
 
-      {loadError && (
-        <div className="glass absolute top-20 left-1/2 z-30 max-w-md -translate-x-1/2 rounded-xl p-4 text-sm">
-          <b className="text-crit">API unavailable.</b> <span className="text-ink-2">Start it with <code className="font-mono">make api</code> and run <code className="font-mono">make pipeline</code> once. ({loadError})</span>
+/** "Ask" step: an empty prompt runs the audit; a question goes to the Strands judge agent. */
+function AskBar() {
+  const { scorecard, selected, startAudit, audit } = useApp();
+  const [q, setQ] = useState("");
+  const [ans, setAns] = useState<{ text: string; ok: boolean } | null>(null);
+  const [busy, setBusy] = useState(false);
+  const submit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!q.trim()) return startAudit(selected);
+    setBusy(true);
+    try {
+      const r = await api.judge(q);
+      setAns(r.available ? { text: r.answer || "", ok: true } : { text: r.reason || "Unavailable", ok: false });
+    } catch (x) { setAns({ text: String((x as Error).message), ok: false }); } finally { setBusy(false); }
+  };
+  return (
+    <div className="pointer-events-auto w-full max-w-[520px]">
+      <form onSubmit={submit} className="panel flex items-center gap-2 py-1 pr-1 pl-3">
+        <MessageSquareText size={14} className="shrink-0 text-muted" />
+        <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={`Ask about ${scorecard?.short || selected}, or run the audit`} className="h-8 min-w-0 flex-1 bg-transparent text-[12.5px] outline-none placeholder:text-faint" aria-label="Ask a question" />
+        <button type="submit" disabled={busy || audit.running} className="focus-ring flex h-7 shrink-0 items-center gap-1.5 rounded-[2px] bg-ink px-2.5 text-[12px] font-medium text-bg hover:bg-white disabled:opacity-40">
+          {q.trim() ? <>Ask <ArrowRight size={12} /></> : <><Bot size={12} /> Run audit</>}
+        </button>
+      </form>
+      {ans && (
+        <div className="panel animate-fade-up mt-1.5 flex gap-2 p-3 text-[12px]">
+          <div className={cx("flex-1 whitespace-pre-wrap", ans.ok ? "text-ink-2" : "text-accent")}>{ans.text}</div>
+          <button onClick={() => setAns(null)} className="self-start text-muted hover:text-ink" aria-label="Close answer"><X size={13} /></button>
         </div>
       )}
-
-      {/* desktop */}
-      {desktop && <div className="pointer-events-none absolute inset-x-3 top-[68px] bottom-3 z-10 flex gap-3">
-        <div className="glass animate-slide-in-left pointer-events-auto w-[400px] shrink-0 overflow-y-auto rounded-2xl"><ScorecardPanel /></div>
-        <div className="flex min-w-0 flex-1 flex-col items-start gap-3">
-          <div className="pointer-events-auto"><MapControls /></div>
-          {intro && !audit.open && companies.length > 0 && <Intro onClose={dismiss} onAudit={(s) => { dismiss(); startAudit(s); }} />}
-        </div>
-        {right && <div className="pointer-events-auto w-[420px] shrink-0">{right}</div>}
-      </div>}
-
-      {/* mobile / tablet: bottom sheet */}
-      {!desktop && <div className="absolute inset-x-0 bottom-0 z-30">
-        {intro && !audit.open && companies.length > 0 && <div className="px-3 pb-2"><Intro onClose={dismiss} onAudit={(s) => { dismiss(); startAudit(s); }} /></div>}
-        <div className="px-3 pb-2"><div className="pointer-events-auto inline-block"><MapControls /></div></div>
-        <div className="glass flex max-h-[52vh] flex-col rounded-t-2xl">
-          <div className="flex shrink-0 gap-1 border-b border-line p-1.5" role="tablist">
-            {([["score", "Scorecard"], ["agent", "Agent"], ["plant", "Plant"]] as const).map(([k, l]) => (
-              <button key={k} role="tab" aria-selected={sheet === k} disabled={(k === "agent" && !audit.open) || (k === "plant" && !plant)} onClick={() => setSheet(k)}
-                className={cx("flex-1 rounded-lg py-1.5 text-[12.5px] font-medium disabled:opacity-35", sheet === k ? "bg-surface-2 text-ink" : "text-muted")}>{l}</button>
-            ))}
-          </div>
-          <div className="min-h-0 flex-1 overflow-y-auto">
-            {sheet === "score" && <ScorecardPanel />}
-            {sheet === "agent" && audit.open && <div className="h-[44vh]"><AgentConsole /></div>}
-            {sheet === "plant" && plant && <PlantDrawer />}
-          </div>
-        </div>
-      </div>}
     </div>
   );
 }
 
-function Intro({ onClose, onAudit }: { onClose: () => void; onAudit: (s: string) => void }) {
+export function MapPage() {
+  const { plant, loadError, panel, setPanel, audit } = useApp();
+  const desktop = useDesktop();
+  const [sheet, setSheet] = useState<"tools" | "score" | "agent" | "plant">("score");
+  useEffect(() => { if (!desktop) setSheet(panel); }, [panel, desktop]);
   return (
-    <div className="glass animate-fade-up pointer-events-auto relative max-w-md rounded-2xl p-4">
-      <button onClick={onClose} className="focus-ring absolute top-2 right-2 rounded-md p-1 text-muted hover:text-ink" aria-label="Dismiss introduction"><X size={14} /></button>
-      <div className="text-[11px] font-semibold tracking-[0.16em] text-accent uppercase">Outside-in energy-carbon audit</div>
-      <p className="mt-1 text-[13px] leading-snug font-medium sm:text-[14px]">Indian companies self-report the carbon of their energy in BRSR filings. Nobody checks. ENERGY TRUTH rebuilds those numbers from independent public data<span className="hidden sm:inline"> — plants, ownership, grid and satellites —</span> and shows every piece of evidence.</p>
-      <ol className="mt-2 hidden space-y-0.5 text-[12px] text-ink-2 sm:block">
-        <li><b className="text-ink">1.</b> Pick a company — reported vs independent vs fused.</li>
-        <li><b className="text-ink">2.</b> Click a plant on the map for its detail and satellite scene.</li>
-        <li><b className="text-ink">3.</b> Run an audit — watch the agent work, then export the cited PDF.</li>
-      </ol>
-      <div className="mt-3 flex gap-2">
-        <Button variant="primary" onClick={() => onAudit("NTPC")}><Bot size={14} /> Audit NTPC</Button>
-        <Button variant="outline" onClick={() => onAudit("TATASTEEL")}>Audit Tata Steel</Button>
-      </div>
+    <div className="fixed inset-0 overflow-hidden">
+      <div className="absolute inset-x-0 top-12 bottom-0 isolate z-0"><MapView /></div>
+      {loadError && (
+        <div className="panel absolute top-20 left-1/2 z-30 max-w-md -translate-x-1/2 p-4 text-[12.5px]">
+          <b className="text-crit">API unavailable.</b> <span className="text-ink-2">Run <code className="font-mono">make api</code> and <code className="font-mono">make pipeline</code>. ({loadError})</span>
+        </div>
+      )}
+      {desktop ? (
+        <div className="pointer-events-none absolute inset-x-3 top-[60px] bottom-3 z-10 flex gap-3">
+          <div className="pointer-events-auto"><LeftRail /></div>
+          <div className="flex min-w-0 flex-1 justify-center"><AskBar /></div>
+          <div className="pointer-events-auto"><RightPanel /></div>
+        </div>
+      ) : (
+        <div className="absolute inset-x-0 bottom-0 z-30">
+          <div className="px-3 pb-2"><AskBar /></div>
+          <div className="panel flex max-h-[54vh] flex-col">
+            <div className="grid shrink-0 grid-cols-4 border-b border-line" role="tablist">
+              {([["tools", "Map"], ["score", "Score"], ["agent", "Agent"], ["plant", "Plant"]] as const).map(([k, l]) => (
+                <button key={k} role="tab" aria-selected={sheet === k} disabled={(k === "plant" && !plant) || (k === "agent" && !audit.events.length && !audit.running)}
+                  onClick={() => { setSheet(k); if (k !== "tools") setPanel(k); }} className={cx("eyebrow py-2.5 disabled:opacity-30", sheet === k && "!text-ink")}>{l}</button>
+              ))}
+            </div>
+            <div className="min-h-0 flex-1 overflow-y-auto">
+              {sheet === "tools" && <div className="h-[46vh] [&>aside]:w-full [&>aside]:border-0"><LeftRail /></div>}
+              {sheet === "score" && <ScorecardPanel />}
+              {sheet === "agent" && <div className="h-[46vh]"><AgentConsole /></div>}
+              {sheet === "plant" && <PlantDrawer />}
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

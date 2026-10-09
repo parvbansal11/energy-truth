@@ -32,3 +32,11 @@
 - **The basemap is Esri Canvas / World Imagery.** It needs no key. Amazon Location remains an optional configuration (`VITE_LOCATION_*`).
 - **No OpenSearch by default.** Entity resolution at 5-company scale runs in memory (trigram cosine, or Titan when Bedrock is available). The plan's OpenSearch vector path is behind `deployOpenSearch=true`.
 - **No VIIRS thermal layer.** The GIBS MVT URL is unconfirmed and FIRMS needs a MAP_KEY; this is the plan §15 fallback. NO₂ and night lights ship.
+
+## UI redesign (2026-10-10, user request)
+- Replaced the first UI with an analyst-console design: a landing page (3D terrain hero + sign-in), then a console with a workflow stepper (Company · Audit · Review · Plant · Report), a left tool rail, an "Ask" bar and a tabbed right panel. The reference product's interaction model was used as inspiration, not copied.
+- Fonts: Geist (UI) and Geist Mono (labels, data chips). The theme is dark only, with amber for priority/selection and green for system status. Data colours are unchanged (validated palette).
+- Terrain: AWS Open Data Terrain Tiles (terrarium DEM, no key) for hillshade and 3D. Selecting a plant flies the camera to ground level with imagery draped and terrain-pinned markers. deck.gl layers are hidden in that mode because non-interleaved deck points do not follow terrain.
+- Landing hero = the Singrauli coalfield (NTPC Vindhyachal, Singrauli, Rihand), with the real CT 2024 figures pinned on the plants.
+- Sign-in: Cognito SRP when `VITE_COGNITO_*` is set; the SDK is lazy-loaded. Otherwise an explicitly labelled demo session (sessionStorage). The email/password form is disabled with a note when no pool is configured.
+- Copy: em dashes removed from every UI and API string (verdict label is now "Inconclusive: low coverage"); auditor note shortened to seven cited lines; long explanations moved into tooltips and disclosures.

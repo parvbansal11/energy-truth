@@ -9,7 +9,7 @@
 | Company | Reported S1 (BRSR) | Independent rebuild | z | Verdict | Coverage |
 |---|---|---|---|---|---|
 | NTPC (standalone) | **327.0 Mt** (p.17) | 361.1 ± 21.8 Mt | +1.43 | Watch | 41 CT-linked / 308 GEM units; 97% of in-boundary emitters |
-| Tata Steel (consolidated) | **78.0 Mt** (p.47) | 30.8 ± 9.1 Mt | −4.42 | **Inconclusive — low coverage** | 20 / 109; IJmuiden, NINL, Thailand plants missing from CT |
+| Tata Steel (consolidated) | **78.0 Mt** (p.47) | 30.8 ± 9.1 Mt | −4.42 | **Inconclusive: low coverage** | 20 / 109; IJmuiden, NINL, Thailand plants missing from CT |
 
 - NTPC's Climate TRACE owner-sum for CY2024 is **368.43 Mt** (unweighted). The rebuild above is FY-aligned and ownership-weighted.
 - NTPC Scope 2 rebuild (89,381 MWh × CEA 0.727) = **64,979.66 t**, identical to the filing.
@@ -65,7 +65,7 @@ flowchart LR
 **Agent graph (LangGraph, plan §8.2):** Resolver → {DisclosureExtractor, AssetEnergyEstimator} → GridScope2Agent / SatelliteEnergyVerifier → ChronosForecaster → FusionUncertainty → AuditorExplainer (citation lock) → ReportGenerator. The Resolver pauses for human review when an entity match scores below 0.75. A **Strands Agents SDK** judge agent wraps the same tools.
 
 ```
-apps/web            React 19 + Vite + Tailwind v4 + MapLibre + deck.gl (CSS keyframe animations)
+apps/web            React 19 + Vite + Tailwind v4 + MapLibre (AWS terrain tiles) + deck.gl · Geist fonts · landing + sign-in + analyst console
 apps/api            FastAPI app (HTTP + WebSocket) · Lambda handlers via Mangum
 packages/core       config, evidence ledger, cached fetch, S3/DynamoDB store
 packages/connectors Climate TRACE, GEM, Robbie Andrew, CEA, GIBS, STAC, BRSR, entity resolution

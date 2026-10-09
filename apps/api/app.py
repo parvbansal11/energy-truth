@@ -23,7 +23,7 @@ app.add_middleware(CORSMiddleware, allow_origins=origins, allow_methods=["*"], a
 def _need(name: str):
     doc = store.read(name)
     if doc is None:
-        raise HTTPException(503, f"curated table '{name}' missing — run `make pipeline`")
+        raise HTTPException(503, f"curated table '{name}' missing · run `make pipeline`")
     return doc
 
 
@@ -131,7 +131,7 @@ def eval_chronos():
     p = Path(__file__).resolve().parents[2] / "energy_truth_eval" / "chronos_backtest_posoco_result.json"
     doc = store.read("chronos_backtest") or (json.loads(p.read_text()) if p.exists() else None)
     if not doc:
-        raise HTTPException(503, "backtest not run — `make backtest`")
+        raise HTTPException(503, "backtest not run · `make backtest`")
     clusters = (store.read("forecasts") or {}).get("clusters", {})
     return {"backtest": doc, "clusters": clusters}
 

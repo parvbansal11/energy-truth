@@ -19,21 +19,21 @@ export function WhatIf({ company }: { company?: string }) {
   }, [sym, re, shift, region]);
   const withS2 = companies.filter((c) => c.has_disclosure);
   return (
-    <PageShell title="What-if Energy Switch" kicker="Scope 2 scenarios on the Chronos-2 grid forecast">
+    <PageShell title="What-if Energy Switch" kicker="Scope 2 scenarios · Chronos-2 grid path">
       <div className="flex flex-wrap gap-1.5">
         {companies.map((c) => (
           <button key={c.symbol} onClick={() => { select(c.symbol); go("whatif", c.symbol); }} disabled={!withS2.includes(c)}
             className={cx("rounded-full px-3 py-1 text-[12.5px] font-medium disabled:opacity-35", sym === c.symbol ? "bg-ink text-bg" : "border border-line-2 text-ink-2")}>{c.short}</button>
         ))}
       </div>
-      {r && !r.available ? <Empty>{r.reason}</Empty> : !r ? <div className="skeleton h-60 rounded-2xl" /> : (
+      {r && !r.available ? <Empty>{r.reason}</Empty> : !r ? <div className="skeleton h-60 rounded-[3px]" /> : (
         <>
           <div className="grid gap-4 lg:grid-cols-[340px_1fr]">
             <Panel title="Levers">
               <label className="block text-[13px]">
                 <div className="flex justify-between"><span>Renewable supply share</span><b className="tnum">{re}%</b></div>
                 <input type="range" min={0} max={100} value={re} onChange={(e) => setRe(+e.target.value)} className="mt-2 w-full accent-[var(--accent)]" aria-label="Renewable supply share" />
-                <p className="text-[11.5px] text-muted">Share of purchased grid electricity replaced by RE (PPA / open access).</p>
+
               </label>
               <label className="mt-4 block text-[13px]">
                 <div className="flex justify-between"><span>Load shifted to cleaner months</span><b className="tnum">{shift}%</b></div>
@@ -54,7 +54,7 @@ export function WhatIf({ company }: { company?: string }) {
                 <Stat label="Scenario" value={qty(r.scenario_t)} sub={<span className={(r.delta_vs_baseline_pct ?? 0) <= 0 ? "text-good" : "text-crit"}>{pct(r.delta_vs_baseline_pct)} vs baseline</span>} />
               </div>
               <Waterfall r={r} />
-              <p className="mt-3 text-[11.5px] text-muted">{r.method}</p>
+
             </Panel>
           </div>
         </>

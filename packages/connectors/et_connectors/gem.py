@@ -7,14 +7,14 @@ from et_core.evidence import Evidence
 from et_core.http import fetch
 
 PUBLISHER = "Global Energy Monitor"
-LICENSE = "GEM Ownership Tracker — CC BY 4.0 attribution to Global Energy Monitor"
+LICENSE = "GEM Ownership Tracker · CC BY 4.0 attribution to Global Energy Monitor"
 
 
 def entity(entity_id: str, *, refresh: bool = False) -> tuple[dict, Evidence]:
     url = f"{settings.gem_api}/entities/{entity_id}"
     r = fetch(url, settings.raw_dir / "gem" / f"entity_{entity_id}.json", refresh=refresh)
     d = r.json()
-    return d, r.evidence(f"GEM entity {entity_id} — {d.get('full_name', '')}", PUBLISHER, license=LICENSE)
+    return d, r.evidence(f"GEM entity {entity_id} · {d.get('full_name', '')}", PUBLISHER, license=LICENSE)
 
 
 def assets(entity_id: str, *, refresh: bool = False, page: int = 200) -> tuple[list[dict], Evidence]:

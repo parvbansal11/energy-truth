@@ -7,7 +7,7 @@ from et_core.evidence import Evidence
 from et_core.http import fetch
 
 PUBLISHER = "Climate TRACE"
-LICENSE = "Climate TRACE terms (attribution required) — https://climatetrace.org/terms"
+LICENSE = "Climate TRACE terms (attribution required) · https://climatetrace.org/terms"
 
 
 def sources_by_owner(owner_id: str, year: int, *, refresh: bool = False) -> tuple[list[dict], Evidence]:
@@ -22,7 +22,7 @@ def source_detail(source_id: int, *, refresh: bool = False) -> tuple[dict, Evide
     url = f"{settings.climatetrace_api}/sources/{source_id}"
     r = fetch(url, settings.raw_dir / "climatetrace" / "detail" / f"{source_id}.json", refresh=refresh)
     d = r.json()
-    ev = r.evidence(f"Climate TRACE v7 source {source_id} — {d.get('name', '')}", PUBLISHER, license=LICENSE, source_id=source_id)
+    ev = r.evidence(f"Climate TRACE v7 source {source_id} · {d.get('name', '')}", PUBLISHER, license=LICENSE, source_id=source_id)
     return d, ev
 
 

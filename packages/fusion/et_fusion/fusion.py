@@ -25,7 +25,7 @@ def discrepancy_z(x_ind: float, s_ind: float, x_rep: float, s_rep: float) -> flo
 def verdict(z: float, low_coverage: bool) -> dict:
     """Plain-language reading of z. Low coverage overrides: a gap from a partial inventory proves nothing."""
     if low_coverage:
-        return {"code": "inconclusive_low_coverage", "label": "Inconclusive — low coverage", "tone": "amber",
+        return {"code": "inconclusive_low_coverage", "label": "Inconclusive: low coverage", "tone": "amber",
                 "text": "The independent inventory misses owned assets, so the gap cannot be read as misreporting."}
     a = abs(z)
     if a < 1:

@@ -36,7 +36,7 @@ export function EvidenceDrawer() {
         </header>
         <div className="stagger min-h-0 flex-1 space-y-3 overflow-y-auto p-4">
           {err && <div className="text-sm text-crit">{err}</div>}
-          {!rows && !err && [1, 2, 3].map((i) => <div key={i} className="skeleton h-28 rounded-xl" />)}
+          {!rows && !err && [1, 2, 3].map((i) => <div key={i} className="skeleton h-28 rounded-[3px]" />)}
           {rows?.map((e) => <EvidenceCard key={e.id} e={e} />)}
           {rows && rows.length === 0 && <div className="text-sm text-muted">No evidence records found for these ids.</div>}
         </div>
@@ -51,7 +51,7 @@ function EvidenceCard({ e }: { e: Evidence }) {
   const cite = `${e.publisher}. ${e.title}. ${e.url}${e.retrieved_at ? ` (retrieved ${e.retrieved_at.slice(0, 10)})` : ""}${e.sha256 ? ` sha256:${e.sha256.slice(0, 16)}` : ""}`;
   const thumb = (e.meta as { thumbnail?: string })?.thumbnail;
   return (
-    <article className="rounded-xl border border-line bg-surface-2/50 p-3.5">
+    <article className="rounded-[3px] border border-line bg-surface-2/50 p-3.5">
       <div className="flex items-start gap-2.5">
         <span className="grid h-8 w-8 shrink-0 place-items-center rounded-lg bg-accent/12 text-accent"><Icon size={16} /></span>
         <div className="min-w-0 flex-1">

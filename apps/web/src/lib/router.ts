@@ -1,15 +1,16 @@
 import { useEffect, useState } from "react";
 
-export type Route = { page: "map" | "grid" | "alerts" | "reports" | "methodology" | "eval" | "whatif"; company?: string };
+export type Page = "landing" | "map" | "grid" | "alerts" | "reports" | "methodology" | "eval" | "whatif";
+export type Route = { page: Page; company?: string };
+const PAGES: Page[] = ["map", "grid", "alerts", "reports", "methodology", "eval", "whatif"];
 
 export function parse(hash = location.hash): Route {
-  const [, page = "map", company] = hash.replace(/^#/, "").split("/");
-  const p = (["map", "grid", "alerts", "reports", "methodology", "eval", "whatif"].includes(page) ? page : "map") as Route["page"];
-  return { page: p, company: company?.toUpperCase() };
+  const [, page = "", company] = hash.replace(/^#/, "").split("/");
+  return { page: (PAGES as string[]).includes(page) ? (page as Page) : "landing", company: company?.toUpperCase() };
 }
 
-export function go(page: Route["page"], company?: string) {
-  location.hash = `/${page}${company ? `/${company}` : ""}`;
+export function go(page: Page, company?: string) {
+  location.hash = page === "landing" ? "/" : `/${page}${company ? `/${company}` : ""}`;
 }
 
 export function useRoute(): Route {
