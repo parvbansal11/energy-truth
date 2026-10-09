@@ -9,6 +9,7 @@ api:
 dev:
 	npm run dev
 test:
+	node --import tsx tests/review.test.ts
 	$(PYTHON) -m unittest discover -s tests -v
 	npm run typecheck
 	npm run build

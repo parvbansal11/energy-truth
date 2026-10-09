@@ -8,3 +8,6 @@ UNIFIED_COMPANY_CARBON_MODEL.md, carbon_coverage.csv, source BRSR PDFs and the e
 
 ## Remaining P0 checks
 CDK deployment, real API Gateway GET /health, Amplify hosting and outputs-to-.env are pending. WebSocket API, orchestration/monitoring and auth UI remain unimplemented. Current API serves only public metadata and readiness, no private data.
+
+## Interactive demo status
+The map/review/brief browser demo now runs without AWS. Cloud auth, live agent orchestration, BRSR reconciliation and Chronos forecasts remain outside this demo. Satellite basemap tiles are context imagery, not emissions evidence. Original cached source files and hashes ship with the frontend.

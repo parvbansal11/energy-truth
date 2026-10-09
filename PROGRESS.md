@@ -1,5 +1,23 @@
 # Progress
 
+## Interactive demo rebuild — locally verified
+
+The user now explicitly requests the full interactive map/review/brief experience. This supersedes the earlier map deferral and authorizes demo UI work before AWS deployment.
+
+Plan: obtain a sourced facility snapshot; build a MapLibre research workspace with company switching, map/list selection, search/fuel filters, source drawer, reproducible local evidence checks, findings, persistent notes and downloadable brief; verify build, data contracts and browser interactions. Preserve production P0 blockers. Do not fabricate emissions, ownership weights, verification scores or AI execution.
+
+Completed the interactive local demo: company/year switching, real facility map and imagery toggle, linked searchable inventory, facility inspector, source drawer, guided tour, deterministic evidence review, selectable findings, persistent company/year notes, and Markdown export/print view. Mobile navigation includes a direct jump from a selected map point to its details.
+
+Verification:
+- `npm run build` and `npm run typecheck` passed.
+- Python unittest suite: 4 tests passed, including raw snapshot fingerprint/data contracts.
+- `node --import tsx tests/review.test.ts`: calculations and exports passed for both companies across 2023–2025.
+- Browser walkthrough passed: map selection, search, activity filter, company/year switching, source record inspection, satellite toggle, review → finding → brief → actual Markdown download, note persistence after reload, and company/year isolation.
+- Responsive checks at desktop and 390px; no horizontal document overflow at the tested narrow viewport. Print dialog was not exercised.
+- Local preview remains available at http://localhost:5173/ . No AWS deployment or live AI is claimed. Cached source snapshots power this demo; ownership reconciliation, BRSR extraction and live AWS agent work remain pending.
+
+The historical P0 notes below describe the earlier scaffold; the current demo supersedes their UI and browser limitations.
+
 ## P0 — foundation in progress
 
 User authorized starting the build while deferring map implementation.

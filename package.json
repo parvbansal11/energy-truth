@@ -11,5 +11,8 @@
     "build": "npm run build -w apps/web",
     "synth": "npm run synth -w infra",
     "typecheck": "npm run typecheck -w apps/web && npm run typecheck -w infra"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.9"
   }
 }

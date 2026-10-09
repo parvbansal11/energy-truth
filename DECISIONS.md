@@ -9,3 +9,9 @@
 - Uniform DynamoDB pk/sk attribute names map to logical keys in the plan; table names come from outputs rather than an assumed prefix.
 - No Sites hosting provisioned: retain the expressly selected AWS Amplify architecture. Local frontend shell only in this increment.
 - Map design correction: company BRSR discrepancy is not evidence of any individual factory's discrepancy. Use evidence-availability colors until plant-level comparisons exist.
+
+- User explicitly approved the full interactive demo and map, overriding the earlier deferral/phase ordering for UI work. AWS deployment acceptance remains separate.
+- Demo uses cached Climate TRACE owner-filtered responses for 2023–2025, not fabricated fixtures. Company disclosure figures remain absent until source verification.
+- Browser runs deterministic integrity/research checks and presents them as local checks, not a live agent stream. Briefs are stored per company and year on this device.
+- MapLibre v6 worker is bundled explicitly through Vite. OpenStreetMap replaces the original CARTO raster URL after browser testing found an API-key watermark. Cached Natural Earth geometry provides a geographic fallback.
+- Factory-map colour indicates source activity, never a company-level discrepancy attributed to a plant.

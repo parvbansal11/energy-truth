@@ -1,3 +1,5 @@
+> Update: the user subsequently authorized the interactive demo. MapLibre facility selection, OSM basemap and optional Esri imagery are now implemented locally. The proposal below records the earlier design; atmospheric overlays and reconciled company estimates remain future work. See DATA_ATTRIBUTION.md for implemented sources.
+
 # Company factory map — proposal only
 
 User requested thinking through a factory map and deferring implementation.
