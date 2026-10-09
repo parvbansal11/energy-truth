@@ -1,0 +1,2953 @@
+{
+  "total": 109,
+  "total_asset_count": 109,
+  "total_location_count": 30,
+  "limit": 200,
+  "offset": 0,
+  "count": 109,
+  "results": [
+    {
+      "asset_id": "M0738_Base",
+      "location_id": "M0738",
+      "asset_name": "Benga Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.8,
+      "capacity_unit": "Mtpa",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -16.167428,
+      "longitude": 33.661022,
+      "wiki_url": "https://www.gem.wiki/Benga_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0738_Base",
+      "upstream_entity_count": 18,
+      "owners": [
+        {
+          "entity_id": "E100001013473",
+          "name": "Minas De Benga Lda",
+          "ownership_share": 100.0,
+          "hq_country": "Mozambique"
+        }
+      ],
+      "project_name": "Benga Coal Mine"
+    },
+    {
+      "asset_id": "L100000102452_G100000100829",
+      "location_id": "L100000102452",
+      "asset_name": "Bhubaneshwar Jasper power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.479398,
+      "longitude": 85.74492,
+      "wiki_url": "https://www.gem.wiki/Bhubaneshwar_Jasper_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102452_G100000100829",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhubaneshwar Jasper power station"
+    },
+    {
+      "asset_id": "L100000102452_G100000100830",
+      "location_id": "L100000102452",
+      "asset_name": "Bhubaneshwar Jasper power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.479398,
+      "longitude": 85.74492,
+      "wiki_url": "https://www.gem.wiki/Bhubaneshwar_Jasper_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102452_G100000100830",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhubaneshwar Jasper power station"
+    },
+    {
+      "asset_id": "L100000102664_G100000100839",
+      "location_id": "L100000102664",
+      "asset_name": "Bhushan Steel West Bengal project --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.986757,
+      "longitude": 87.854975,
+      "wiki_url": "https://www.gem.wiki/Bhushan_Steel_West_Bengal_project",
+      "unit_name": "--",
+      "url": "/assets/L100000102664_G100000100839",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhushan Steel West Bengal project"
+    },
+    {
+      "asset_id": "L100000102265_G100000104960",
+      "location_id": "L100000102265",
+      "asset_name": "Jamshedpur Works power station Phase 3 Unit 12",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.787368,
+      "longitude": 86.200088,
+      "wiki_url": "https://www.gem.wiki/Jamshedpur_Works_power_station",
+      "unit_name": "Phase 3 Unit 12",
+      "url": "/assets/L100000102265_G100000104960",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jamshedpur Works power station"
+    },
+    {
+      "asset_id": "L100000102265_G100000104961",
+      "location_id": "L100000102265",
+      "asset_name": "Jamshedpur Works power station Phase 3 Unit 13",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.787368,
+      "longitude": 86.200088,
+      "wiki_url": "https://www.gem.wiki/Jamshedpur_Works_power_station",
+      "unit_name": "Phase 3 Unit 13",
+      "url": "/assets/L100000102265_G100000104961",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jamshedpur Works power station"
+    },
+    {
+      "asset_id": "L100000102265_G100000104962",
+      "location_id": "L100000102265",
+      "asset_name": "Jamshedpur Works power station Phase 3 Unit 14",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.787368,
+      "longitude": 86.200088,
+      "wiki_url": "https://www.gem.wiki/Jamshedpur_Works_power_station",
+      "unit_name": "Phase 3 Unit 14",
+      "url": "/assets/L100000102265_G100000104962",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jamshedpur Works power station"
+    },
+    {
+      "asset_id": "M1686",
+      "location_id": "M1686",
+      "asset_name": "Jharia Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.708161,
+      "longitude": 86.400024,
+      "wiki_url": "https://www.gem.wiki/Jharia_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M1686",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jharia Coal Mine"
+    },
+    {
+      "asset_id": "L100000102481_G100000106868",
+      "location_id": "L100000102481",
+      "asset_name": "Meramandali power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8072919,
+      "longitude": 85.2531512,
+      "wiki_url": "https://www.gem.wiki/Meramandali_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102481_G100000106868",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meramandali power station"
+    },
+    {
+      "asset_id": "L100000102481_G100000106869",
+      "location_id": "L100000102481",
+      "asset_name": "Meramandali power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8072919,
+      "longitude": 85.2531512,
+      "wiki_url": "https://www.gem.wiki/Meramandali_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102481_G100000106869",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meramandali power station"
+    },
+    {
+      "asset_id": "L100000102481_G100000106866",
+      "location_id": "L100000102481",
+      "asset_name": "Meramandali power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 256.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8082137,
+      "longitude": 85.2590239,
+      "wiki_url": "https://www.gem.wiki/Meramandali_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102481_G100000106866",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meramandali power station"
+    },
+    {
+      "asset_id": "L100000102481_G100000114511",
+      "location_id": "L100000102481",
+      "asset_name": "Meramandali power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 185.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8082137,
+      "longitude": 85.2590239,
+      "wiki_url": "https://www.gem.wiki/Meramandali_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102481_G100000114511",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meramandali power station"
+    },
+    {
+      "asset_id": "P100000128488",
+      "location_id": "P100000128488",
+      "asset_name": "NINL Koira Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1286.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.853172,
+      "longitude": 85.337922,
+      "wiki_url": "https://www.gem.wiki/NINL_Koira_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128488",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100001010157",
+          "name": "Neelachal Ispat Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "NINL Koira Mine"
+    },
+    {
+      "asset_id": "P100000120540_U100000141068",
+      "location_id": "P100000120540",
+      "asset_name": "Neelachal Ispat Nigam steel plant BF Brahmani",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "unit_name": "BF Brahmani",
+      "url": "/assets/P100000120540_U100000141068",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100001010157",
+          "name": "Neelachal Ispat Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neelachal Ispat Nigam steel plant"
+    },
+    {
+      "asset_id": "P100000120540_U100000144932",
+      "location_id": "P100000120540",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4630.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100000120540_U100000144932",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100001010157",
+          "name": "Neelachal Ispat Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neelachal Ispat Nigam steel plant"
+    },
+    {
+      "asset_id": "P100000120540_U100000144936",
+      "location_id": "P100000120540",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "unit_name": "unknown BF (2)",
+      "url": "/assets/P100000120540_U100000144936",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100001010157",
+          "name": "Neelachal Ispat Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neelachal Ispat Nigam steel plant"
+    },
+    {
+      "asset_id": "P100000120540_U100000143638",
+      "location_id": "P100000120540",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120540_U100000143638",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100001010157",
+          "name": "Neelachal Ispat Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neelachal Ispat Nigam steel plant"
+    },
+    {
+      "asset_id": "P100000120540_U100000145063",
+      "location_id": "P100000120540",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 1038.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120540_U100000145063",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100001010157",
+          "name": "Neelachal Ispat Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neelachal Ispat Nigam steel plant"
+    },
+    {
+      "asset_id": "P100000120540_U100000145446",
+      "location_id": "P100000120540",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 2454.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120540_U100000145446",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100001010157",
+          "name": "Neelachal Ispat Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neelachal Ispat Nigam steel plant"
+    },
+    {
+      "asset_id": "P100000120540_U100001030748",
+      "location_id": "P100000120540",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2454.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120540_U100001030748",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100001010157",
+          "name": "Neelachal Ispat Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neelachal Ispat Nigam steel plant"
+    },
+    {
+      "asset_id": "P100000120540_U100001030749",
+      "location_id": "P100000120540",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2454.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120540_U100001030749",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100001010157",
+          "name": "Neelachal Ispat Nigam Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neelachal Ispat Nigam steel plant"
+    },
+    {
+      "asset_id": "L100000408853_G100000412954",
+      "location_id": "L100000408853",
+      "asset_name": "Port Talbot Steelworks power station 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "United Kingdom",
+      "state_province": "Glamorgan",
+      "latitude": 51.567888,
+      "longitude": -3.759002,
+      "wiki_url": "https://www.gem.wiki/Port_Talbot_Steelworks_power_station",
+      "unit_name": "1.0",
+      "url": "/assets/L100000408853_G100000412954",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Port Talbot Steelworks power station"
+    },
+    {
+      "asset_id": "L100000102453_G100000101206",
+      "location_id": "L100000102453",
+      "asset_name": "Srirampur Coal-to-Liquids Project Phase 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1080.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.71623,
+      "longitude": 85.28414,
+      "wiki_url": "https://www.gem.wiki/Srirampur_Coal-to-Liquids_Project",
+      "unit_name": "Phase 1",
+      "url": "/assets/L100000102453_G100000101206",
+      "upstream_entity_count": 17,
+      "owners": [
+        {
+          "entity_id": "E100000121340",
+          "name": "Strategic Energy Technology Systems Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Srirampur Coal-to-Liquids Project"
+    },
+    {
+      "asset_id": "P100000129437",
+      "location_id": "P100000129437",
+      "asset_name": "TSCI Mont Gao Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "Côte d'Ivoire",
+      "state_province": "Montagnes",
+      "latitude": 6.904865,
+      "longitude": -7.713028,
+      "wiki_url": "https://www.gem.wiki/TSCI_Mont_Gao_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129437",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100002017315",
+          "name": "Tata Steel Cote D' Ivoire SA",
+          "ownership_share": 100.0,
+          "hq_country": "Côte d'Ivoire"
+        }
+      ],
+      "project_name": "TSCI Mont Gao Mine"
+    },
+    {
+      "asset_id": "P100000129015",
+      "location_id": "P100000129015",
+      "asset_name": "Tata Steel Bamebari Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.906803,
+      "longitude": 85.428329,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Bamebari_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129015",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Bamebari Mine"
+    },
+    {
+      "asset_id": "P100000120862_U100000145022",
+      "location_id": "P100000120862",
+      "asset_name": "Tata Steel Chonburi steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "ttpa",
+      "country": "Thailand",
+      "state_province": "Chonburi",
+      "latitude": 13.052398,
+      "longitude": 101.086795,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Chonburi_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120862_U100000145022",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010159",
+          "name": "Tata Steel (Thailand) PCL",
+          "ownership_share": 100.0,
+          "hq_country": "Thailand"
+        }
+      ],
+      "project_name": "Tata Steel Chonburi steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000141063",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 276.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120535_U100000141063",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000141064",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 374.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120535_U100000141064",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000143331",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "DRI 1",
+      "url": "/assets/P100000120535_U100000143331",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000144275",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "DRI 2",
+      "url": "/assets/P100000120535_U100000144275",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000144276",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "DRI 3",
+      "url": "/assets/P100000120535_U100000144276",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000144277",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "DRI 4",
+      "url": "/assets/P100000120535_U100000144277",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000144278",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 5",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "DRI 5",
+      "url": "/assets/P100000120535_U100000144278",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000141911",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 320.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120535_U100000141911",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000141912",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant unknown EAF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 320.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "unknown EAF (2)",
+      "url": "/assets/P100000120535_U100000141912",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120535_U100000141913",
+      "location_id": "P100000120535",
+      "asset_name": "Tata Steel Gamharia steel plant unknown EAF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 560.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "unit_name": "unknown EAF (3)",
+      "url": "/assets/P100000120535_U100000141913",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Gamharia steel plant"
+    },
+    {
+      "asset_id": "P100000120758_U100000141162",
+      "location_id": "P100000120758",
+      "asset_name": "Tata Steel IJmuiden steel plant BF 6",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "unit_name": "BF 6",
+      "url": "/assets/P100000120758_U100000141162",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010177",
+          "name": "Tata Steel Ijmuiden BV",
+          "ownership_share": 100.0,
+          "hq_country": "Netherlands"
+        }
+      ],
+      "project_name": "Tata Steel IJmuiden steel plant"
+    },
+    {
+      "asset_id": "P100000120758_U100000141161",
+      "location_id": "P100000120758",
+      "asset_name": "Tata Steel IJmuiden steel plant BF 7",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "capacity_value": 4000.0,
+      "capacity_unit": "ttpa",
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "unit_name": "BF 7",
+      "url": "/assets/P100000120758_U100000141161",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010177",
+          "name": "Tata Steel Ijmuiden BV",
+          "ownership_share": 100.0,
+          "hq_country": "Netherlands"
+        }
+      ],
+      "project_name": "Tata Steel IJmuiden steel plant"
+    },
+    {
+      "asset_id": "P100000120758_U100000143720",
+      "location_id": "P100000120758",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "capacity_value": 3750.0,
+      "capacity_unit": "ttpa",
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120758_U100000143720",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010177",
+          "name": "Tata Steel Ijmuiden BV",
+          "ownership_share": 100.0,
+          "hq_country": "Netherlands"
+        }
+      ],
+      "project_name": "Tata Steel IJmuiden steel plant"
+    },
+    {
+      "asset_id": "P100000120758_U100000143798",
+      "location_id": "P100000120758",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "capacity_value": 3750.0,
+      "capacity_unit": "ttpa",
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120758_U100000143798",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010177",
+          "name": "Tata Steel Ijmuiden BV",
+          "ownership_share": 100.0,
+          "hq_country": "Netherlands"
+        }
+      ],
+      "project_name": "Tata Steel IJmuiden steel plant"
+    },
+    {
+      "asset_id": "P100000120758_U100000143471",
+      "location_id": "P100000120758",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100000120758_U100000143471",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010177",
+          "name": "Tata Steel Ijmuiden BV",
+          "ownership_share": 100.0,
+          "hq_country": "Netherlands"
+        }
+      ],
+      "project_name": "Tata Steel IJmuiden steel plant"
+    },
+    {
+      "asset_id": "P100000120758_U100000143470",
+      "location_id": "P100000120758",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown DRI (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3155.0,
+      "capacity_unit": "ttpa",
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "unit_name": "unknown DRI (2)",
+      "url": "/assets/P100000120758_U100000143470",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010177",
+          "name": "Tata Steel Ijmuiden BV",
+          "ownership_share": 100.0,
+          "hq_country": "Netherlands"
+        }
+      ],
+      "project_name": "Tata Steel IJmuiden steel plant"
+    },
+    {
+      "asset_id": "P100000120758_U100000144854",
+      "location_id": "P100000120758",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120758_U100000144854",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010177",
+          "name": "Tata Steel Ijmuiden BV",
+          "ownership_share": 100.0,
+          "hq_country": "Netherlands"
+        }
+      ],
+      "project_name": "Tata Steel IJmuiden steel plant"
+    },
+    {
+      "asset_id": "P100000120758_U100000144855",
+      "location_id": "P100000120758",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown EAF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "unit_name": "unknown EAF (2)",
+      "url": "/assets/P100000120758_U100000144855",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010177",
+          "name": "Tata Steel Ijmuiden BV",
+          "ownership_share": 100.0,
+          "hq_country": "Netherlands"
+        }
+      ],
+      "project_name": "Tata Steel IJmuiden steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000141321",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF C",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 700.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "BF C",
+      "url": "/assets/P100000120529_U100000141321",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000141322",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF D",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 975.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "BF D",
+      "url": "/assets/P100000120529_U100000141322",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000141323",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF E",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 975.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "BF E",
+      "url": "/assets/P100000120529_U100000141323",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000141057",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF F",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1570.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "BF F",
+      "url": "/assets/P100000120529_U100000141057",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000141324",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF G",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "BF G",
+      "url": "/assets/P100000120529_U100000141324",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000141325",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF H",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "BF H",
+      "url": "/assets/P100000120529_U100000141325",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000141326",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF I",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "BF I",
+      "url": "/assets/P100000120529_U100000141326",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000144290",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1750.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120529_U100000144290",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000144291",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1750.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120529_U100000144291",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000144292",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120529_U100000144292",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000144293",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120529_U100000144293",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000144294",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120529_U100000144294",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000144295",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "unknown BOF (6)",
+      "url": "/assets/P100000120529_U100000144295",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000120529_U100000144296",
+      "location_id": "P100000120529",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (7)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "unit_name": "unknown BOF (7)",
+      "url": "/assets/P100000120529_U100000144296",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jamshedpur steel plant"
+    },
+    {
+      "asset_id": "P100000128477",
+      "location_id": "P100000128477",
+      "asset_name": "Tata Steel Joda East Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 12000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.010132,
+      "longitude": 85.437204,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Joda_East_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128477",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Joda East Mine"
+    },
+    {
+      "asset_id": "P100000128520",
+      "location_id": "P100000128520",
+      "asset_name": "Tata Steel Joda West Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.028505,
+      "longitude": 85.397262,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Joda_West_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128520",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Joda West Mine"
+    },
+    {
+      "asset_id": "P100000120852_U100000142180",
+      "location_id": "P100000120852",
+      "asset_name": "Tata Steel Jurong steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 750.0,
+      "capacity_unit": "ttpa",
+      "country": "Singapore",
+      "state_province": "Jurong",
+      "latitude": 1.306741,
+      "longitude": 103.7003,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jurong_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120852_U100000142180",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Jurong steel plant"
+    },
+    {
+      "asset_id": "P100000120530_U100000141058",
+      "location_id": "P100000120530",
+      "asset_name": "Tata Steel Kalinganagar steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120530_U100000141058",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Kalinganagar steel plant"
+    },
+    {
+      "asset_id": "P100000120530_U100000141327",
+      "location_id": "P100000120530",
+      "asset_name": "Tata Steel Kalinganagar steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120530_U100000141327",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Kalinganagar steel plant"
+    },
+    {
+      "asset_id": "P100000120530_U100000144287",
+      "location_id": "P100000120530",
+      "asset_name": "Tata Steel Kalinganagar steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120530_U100000144287",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Kalinganagar steel plant"
+    },
+    {
+      "asset_id": "P100000120530_U100000144288",
+      "location_id": "P100000120530",
+      "asset_name": "Tata Steel Kalinganagar steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120530_U100000144288",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Kalinganagar steel plant"
+    },
+    {
+      "asset_id": "P100000120530_U100000144289",
+      "location_id": "P100000120530",
+      "asset_name": "Tata Steel Kalinganagar steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120530_U100000144289",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Kalinganagar steel plant"
+    },
+    {
+      "asset_id": "P100000128979",
+      "location_id": "P100000128979",
+      "asset_name": "Tata Steel Katamati Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 7582.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.119436,
+      "longitude": 85.486642,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Katamati_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128979",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Katamati Mine"
+    },
+    {
+      "asset_id": "P100000128899",
+      "location_id": "P100000128899",
+      "asset_name": "Tata Steel Khondbond Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 7523.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.930904,
+      "longitude": 85.381083,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Khondbond_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128899",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Khondbond Mine"
+    },
+    {
+      "asset_id": "P100000120576_U100000144737",
+      "location_id": "P100000120576",
+      "asset_name": "Tata Steel Ludhiana steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 750.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": 30.946888,
+      "longitude": 75.987521,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Ludhiana_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120576_U100000144737",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Ludhiana steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000141019",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120511_U100000141019",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000141020",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120511_U100000141020",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000144141",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant BF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "BF 3",
+      "url": "/assets/P100000120511_U100000144141",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000145127",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant other/unspecified steel (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "other/unspecified steel (1)",
+      "url": "/assets/P100000120511_U100000145127",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000144145",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120511_U100000144145",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000144144",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120511_U100000144144",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000143595",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1485.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120511_U100000143595",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000144146",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1485.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120511_U100000144146",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000144147",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1550.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120511_U100000144147",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000144148",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1550.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown BOF (6)",
+      "url": "/assets/P100000120511_U100000144148",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000143316",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100000120511_U100000143316",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100001031057",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (10)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (10)",
+      "url": "/assets/P100000120511_U100001031057",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000144149",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (11)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1600.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (11)",
+      "url": "/assets/P100000120511_U100000144149",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100001031050",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (2)",
+      "url": "/assets/P100000120511_U100001031050",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100001031049",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (3)",
+      "url": "/assets/P100000120511_U100001031049",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100001031051",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (4)",
+      "url": "/assets/P100000120511_U100001031051",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100001031052",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (5)",
+      "url": "/assets/P100000120511_U100001031052",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100001031053",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (6)",
+      "url": "/assets/P100000120511_U100001031053",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100001031054",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (7)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (7)",
+      "url": "/assets/P100000120511_U100001031054",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100001031055",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (8)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (8)",
+      "url": "/assets/P100000120511_U100001031055",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100001031056",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (9)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown DRI (9)",
+      "url": "/assets/P100000120511_U100001031056",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000141902",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 422.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120511_U100000141902",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000144142",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown EAF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 775.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown EAF (2)",
+      "url": "/assets/P100000120511_U100000144142",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000144143",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown EAF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 775.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown EAF (3)",
+      "url": "/assets/P100000120511_U100000144143",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000145128",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown IF (1)",
+      "url": "/assets/P100000120511_U100000145128",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000145129",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown IF (2)",
+      "url": "/assets/P100000120511_U100000145129",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000145130",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown IF (3)",
+      "url": "/assets/P100000120511_U100000145130",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000145131",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown IF (4)",
+      "url": "/assets/P100000120511_U100000145131",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000145132",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown IF (5)",
+      "url": "/assets/P100000120511_U100000145132",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000120511_U100000145133",
+      "location_id": "P100000120511",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "unit_name": "unknown IF (6)",
+      "url": "/assets/P100000120511_U100000145133",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Meramandali steel plant"
+    },
+    {
+      "asset_id": "P100000128489",
+      "location_id": "P100000128489",
+      "asset_name": "Tata Steel Noamundi Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 9448.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.13467,
+      "longitude": 85.498309,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Noamundi_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128489",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Noamundi Mine"
+    },
+    {
+      "asset_id": "P100000120482_U100000140998",
+      "location_id": "P100000120482",
+      "asset_name": "Tata Steel Port Talbot steel plant BF 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 2580.0,
+      "capacity_unit": "ttpa",
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "unit_name": "BF 4",
+      "url": "/assets/P100000120482_U100000140998",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001010180",
+          "name": "Tata Steel UK Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "United Kingdom"
+        }
+      ],
+      "project_name": "Tata Steel Port Talbot steel plant"
+    },
+    {
+      "asset_id": "P100000120482_U100000140997",
+      "location_id": "P100000120482",
+      "asset_name": "Tata Steel Port Talbot steel plant BF 5",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 2190.0,
+      "capacity_unit": "ttpa",
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "unit_name": "BF 5",
+      "url": "/assets/P100000120482_U100000140997",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001010180",
+          "name": "Tata Steel UK Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "United Kingdom"
+        }
+      ],
+      "project_name": "Tata Steel Port Talbot steel plant"
+    },
+    {
+      "asset_id": "P100000120482_U100000143584",
+      "location_id": "P100000120482",
+      "asset_name": "Tata Steel Port Talbot steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120482_U100000143584",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001010180",
+          "name": "Tata Steel UK Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "United Kingdom"
+        }
+      ],
+      "project_name": "Tata Steel Port Talbot steel plant"
+    },
+    {
+      "asset_id": "P100000120482_U100000143585",
+      "location_id": "P100000120482",
+      "asset_name": "Tata Steel Port Talbot steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120482_U100000143585",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001010180",
+          "name": "Tata Steel UK Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "United Kingdom"
+        }
+      ],
+      "project_name": "Tata Steel Port Talbot steel plant"
+    },
+    {
+      "asset_id": "P100000120482_U100000144394",
+      "location_id": "P100000120482",
+      "asset_name": "Tata Steel Port Talbot steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120482_U100000144394",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001010180",
+          "name": "Tata Steel UK Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "United Kingdom"
+        }
+      ],
+      "project_name": "Tata Steel Port Talbot steel plant"
+    },
+    {
+      "asset_id": "P100000120863_U100000145023",
+      "location_id": "P100000120863",
+      "asset_name": "Tata Steel Rayong steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 550.0,
+      "capacity_unit": "ttpa",
+      "country": "Thailand",
+      "state_province": "Rayong",
+      "latitude": 12.677582,
+      "longitude": 101.149401,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Rayong_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120863_U100000145023",
+      "upstream_entity_count": 14,
+      "owners": [
+        {
+          "entity_id": "E100001010159",
+          "name": "Tata Steel (Thailand) PCL",
+          "ownership_share": 100.0,
+          "hq_country": "Thailand"
+        }
+      ],
+      "project_name": "Tata Steel Rayong steel plant"
+    },
+    {
+      "asset_id": "P100000128478",
+      "location_id": "P100000128478",
+      "asset_name": "Tata Steel Tiring Pahar Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 108.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.930605,
+      "longitude": 85.401295,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Tiring_Pahar_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128478",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Tiring Pahar Mine"
+    },
+    {
+      "asset_id": "P100000129405",
+      "location_id": "P100000129405",
+      "asset_name": "Tata Steel Vijay-II Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2251.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.184829,
+      "longitude": 85.354648,
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Vijay-II_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129405",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Steel Vijay-II Mine"
+    },
+    {
+      "asset_id": "M0649",
+      "location_id": "M0649",
+      "asset_name": "West Bokaro Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 10.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.7927473,
+      "longitude": 85.55423096,
+      "wiki_url": "https://www.gem.wiki/West_Bokaro_coal_mine_(Tata)",
+      "unit_name": null,
+      "url": "/assets/M0649",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010018",
+          "name": "Tata Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "West Bokaro Coal Mine"
+    }
+  ]
+}

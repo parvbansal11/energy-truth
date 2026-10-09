@@ -2,18 +2,17 @@ version: 1
 applications:
   - appRoot: apps/web
     frontend:
-      buildPath: /
       phases:
         preBuild:
           commands:
-            - npm ci
+            - cd ../.. && npm ci
         build:
           commands:
             - npm run build
       artifacts:
-        baseDirectory: apps/web/dist
+        baseDirectory: dist
         files:
-          - '**/*'
+          - "**/*"
       cache:
         paths:
-          - node_modules/**/*
+          - ../../node_modules/**/*

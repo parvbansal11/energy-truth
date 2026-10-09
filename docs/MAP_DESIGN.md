@@ -1,4 +1,5 @@
-> Update: the user subsequently authorized the interactive demo. MapLibre facility selection, OSM basemap and optional Esri imagery are now implemented locally. The proposal below records the earlier design; atmospheric overlays and reconciled company estimates remain future work. See DATA_ATTRIBUTION.md for implemented sources.
+> **Implemented.** The map ships in `apps/web/src/components/MapView.tsx`. Colour = company-level gap z (or fuel), size = CY2024 CO₂e, ring = coverage ρ_eff, hollow = owned GEM asset with no CT estimate, plus 3D columns, GIBS NO₂ / VIIRS layers, the grid-intensity choropleth and the Sentinel-2 preview. The proposal below is kept for history.
+
 
 # Company factory map — proposal only
 

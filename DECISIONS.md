@@ -1,17 +1,34 @@
-# Decisions
+# Decisions (deviations and modelling choices)
 
-- 2026-10-09: Start local P0 in this fresh workspace; AWS access is not established. Do not mark deployment acceptance checks complete.
-- User deferred map implementation. Record design only; prioritize factory ownership and evidence contracts in P1.
-- PROJECT_CONTEXT.md and AGENTS.md override the older plan's endpoint default: local CPU Chronos, no idle compute.
-- Foundation uses one CDK stack for retained data, Cognito and public read-only status routes. Split stacks, WebSocket orchestration, schedules, alarms and frontend provisioning remain P0 follow-ups.
-- Company names are configured demo targets, not ingested corporate identities. Scorecards contain no emissions or evidence until ingestion.
-- Source documents' numerical claims are not loaded as production data. Referenced source PDFs/backtest artifacts were not attached.
-- Uniform DynamoDB pk/sk attribute names map to logical keys in the plan; table names come from outputs rather than an assumed prefix.
-- No Sites hosting provisioned: retain the expressly selected AWS Amplify architecture. Local frontend shell only in this increment.
-- Map design correction: company BRSR discrepancy is not evidence of any individual factory's discrepancy. Use evidence-availability colors until plant-level comparisons exist.
+## Scope and process
+- **All phases were built locally before any AWS deploy.** No AWS CLI, credentials or `.env` exist on this machine, so P0's deployed checks wait for the human Step 1. Each phase still has passing local checks. Commits use phase-prefixed messages on one branch (`build/plan-end-to-end`) rather than a branch per phase.
+- **The previous demo UI (GPT session, commit `7c64bd1`) was replaced** by a Tailwind v4 + MapLibre + deck.gl app that implements every plan §4 surface. The user asked for CSS animations and Tailwind. 3D uses deck.gl ColumnLayer, which plan §7.3 ships; photoreal 3D and particles stay out, as the plan rules.
+- **Two of the plan's companion files were not supplied.** For the Chronos backtest script, `et_chronos/backtest.py` was rebuilt from the plan §6.5 protocol and reproduces the verified table exactly. `UNIFIED_COMPANY_CARBON_MODEL.md` and `carbon_coverage.csv` are absent and nothing depends on them.
 
-- User explicitly approved the full interactive demo and map, overriding the earlier deferral/phase ordering for UI work. AWS deployment acceptance remains separate.
-- Demo uses cached Climate TRACE owner-filtered responses for 2023–2025, not fabricated fixtures. Company disclosure figures remain absent until source verification.
-- Browser runs deterministic integrity/research checks and presents them as local checks, not a live agent stream. Briefs are stored per company and year on this device.
-- MapLibre v6 worker is bundled explicitly through Vite. OpenStreetMap replaces the original CARTO raster URL after browser testing found an API-key watermark. Cached Natural Earth geometry provides a geographic fallback.
-- Factory-map colour indicates source activity, never a company-level discrepancy attributed to a plant.
+## Numbers listed as verified in the plan
+- **Tata Steel 78 Mt** = consolidated Scope 1, FY2024-25 (BRSR, PDF page 47). The same filing restates FY2023-24 as 77 Mt.
+- **NTPC 327 Mt** = standalone Scope 1, FY2024-25: 32,69,59,946.44 t (PDF page 17). NTPC's FY2025-26 BRSR reports 309.0 Mt; it feeds the band-breach rule.
+- **NTPC "~368 Mt"** = the Climate TRACE CY2024 owner-sum, unweighted: 368.43 Mt, shown as `ct_owner_sum_cy_t`. The fused independent value (361.1 Mt) is FY-aligned and boundary-weighted, so it is a different quantity. The verified number is not altered.
+- **CEA 0.727** is pinned from V20. Cross-check: NTPC's printed Scope 2 equals its electricity × 0.727 exactly.
+
+## Method choices (recorded so a reviewer can disagree)
+- **Boundary-matched weights.** The *standalone* boundary uses GEM direct share. The *consolidated* boundary uses an operational-control proxy: effective share ≥ 50% counts 100%, and JVs are excluded, matching Tata's stated basis of JVs in Scope 3 cat. 15. Equity share is stored as an alternative. Unmatched CT sources get w = 1 with an `OWNERSHIP_WEIGHT_ASSUMED` flag.
+- **Coverage.** ρ = CT-linked assets / GEM units, as the plan defines it. ρ_eff = in-boundary operating emitting GEM locations matched to a CT source / all such locations. ρ_eff drives σ widening, the LOW_COVERAGE flag (< 0.8), and the "inconclusive" verdict override.
+- **σ_ind** = per-asset CT confidence (very high 5%, high 10%, medium 20%, low 35%, very low 50%) ⊕ a 5% method floor ⊕ (1 − ρ_eff)·E.
+- **σ_rep** = assurance level (reasonable 3%, limited/unspecified 7%, none 15%) ⊕ printed rounding. Limited-level σ applies when assurance covers another boundary.
+- **FY alignment.** CT calendar-year totals are spread monthly with activity profiles (POSOCO regional coal/gas; India steel/cement/coal indices). The FY value is the Apr–Mar sum. Tag: `target_construction=calibrated_capacity_mix:*`.
+- **Grid intensity (T3)** = CEA EF × monthly fossil share / FY2023-24 mean fossil share. It is an index, labelled as such. Regional series use the national calibration.
+- **Band-breach "scaled" band** = observed months plus forecast quantile sums, multiplied by the previous FY's reported/independent ratio. This removes a constant boundary offset before checking year-over-year consistency.
+- **Scope 2 MWh** comes from BRSR P6 Q1 row D ("total non-renewable electricity") as the purchased-power proxy, flagged `MWH_FROM_TOTAL_CONSUMPTION`. Consolidated boundaries with non-Indian operations add `EF_GEOGRAPHY_MISMATCH`.
+- **Map colour = company-level gap z**, the same for all of a company's plants. BRSR is filed per company, so no plant-level gap is invented. The legend says so.
+
+## Engineering
+- **BRSR extraction defaults to the deterministic rules engine.** Bedrock Nova runs as a second engine when credentials exist. Its values must literally appear on the cited page, and any disagreement is surfaced.
+- **Narrator.** Without Bedrock, a template renders the same cited facts. In both cases the citation lock drops sentences with uncited or unknown evidence, or numbers absent from the facts.
+- **The Strands judge agent needs Bedrock.** Without it the API says so rather than faking an answer.
+- **HITL on AWS.** Lambda has no cross-invocation checkpoint, so a WebSocket "resume" re-runs the deterministic graph with the analyst's decision supplied up front. Locally, LangGraph `interrupt()` uses InMemorySaver.
+- **The Lambda is a zip built from manylinux wheels**, with no Docker; it is 211 MB. torch/Chronos are excluded from Lambda: the API serves stored forecast runs or calls the SageMaker endpoint when `CHRONOS_ENDPOINT_NAME` is set.
+- **fpdf2 replaces WeasyPrint** because Pango/Cairo native libraries aren't available in Lambda.
+- **The basemap is Esri Canvas / World Imagery.** It needs no key. Amazon Location remains an optional configuration (`VITE_LOCATION_*`).
+- **No OpenSearch by default.** Entity resolution at 5-company scale runs in memory (trigram cosine, or Titan when Bedrock is available). The plan's OpenSearch vector path is behind `deployOpenSearch=true`.
+- **No VIIRS thermal layer.** The GIBS MVT URL is unconfirmed and FIRMS needs a MAP_KEY; this is the plan §15 fallback. NO₂ and night lights ship.

@@ -30,9 +30,10 @@ def env(key: str, default: str = "") -> str:
 @dataclass(frozen=True)
 class Settings:
     region: str = field(default_factory=lambda: env("AWS_REGION", "us-east-1"))
-    raw_dir: Path = ROOT / "data" / "raw"
-    curated_dir: Path = ROOT / "data" / "curated"
-    reports_dir: Path = ROOT / "data" / "reports"
+    # DATA_DIR lets Lambda point at /tmp (its only writable path); curated tables then come from S3
+    raw_dir: Path = field(default_factory=lambda: Path(env("DATA_DIR", str(ROOT / "data"))) / "raw")
+    curated_dir: Path = field(default_factory=lambda: Path(env("DATA_DIR", str(ROOT / "data"))) / "curated")
+    reports_dir: Path = field(default_factory=lambda: Path(env("DATA_DIR", str(ROOT / "data"))) / "reports")
     s3_raw_bucket: str = field(default_factory=lambda: env("S3_RAW_BUCKET"))
     s3_curated_bucket: str = field(default_factory=lambda: env("S3_CURATED_BUCKET"))
     s3_reports_bucket: str = field(default_factory=lambda: env("S3_REPORTS_BUCKET"))

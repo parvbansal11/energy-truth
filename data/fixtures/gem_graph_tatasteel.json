@@ -1,0 +1,5406 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100001010018",
+    "full_name": "Tata Steel Ltd",
+    "name": "Tata Steel",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": null,
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.tatasteel.com/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Mahārāshtra",
+    "gem_parents": "Tata Steel Ltd [100%]",
+    "gem_parents_ids": "E100001010018 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800E6C75YGSGD5T66",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+    "permid_refinitiv_permanent_identifier": "4295872420",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010018",
+      "full_name": "Tata Steel Ltd",
+      "name": "Tata Steel",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.tatasteel.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Mahārāshtra",
+      "gem_parents": "Tata Steel Ltd [100%]",
+      "gem_parents_ids": "E100001010018 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800E6C75YGSGD5T66",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4295872420",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000121340",
+      "full_name": "Strategic Energy Technology Systems Pvt Ltd",
+      "name": "Strategic Energy Technology Systems",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pvt Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": null,
+      "gem_parents": "Sasol Ltd [50.0%]; Tata Steel Ltd [25.0%]; unknown [25.0%]",
+      "gem_parents_ids": "E100000000927 [50.0%]; E100001010018 [25.0%]; E100000132388 [25.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036771692",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010157",
+      "full_name": "Neelachal Ispat Nigam Ltd",
+      "name": "Neelachal Ispat Nigam",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "http://ninl.in/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Odisha",
+      "gem_parents": "Tata Steel Long Products Ltd [92.7%]; Tata Steel Ltd [5.2%]; small shareholder(s) [2.1%]",
+      "gem_parents_ids": "E100000121408 [92.7%]; E100001010018 [5.2%]; E100001015587 [2.1%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "3358008ZXLAB9J3SAR65",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4296902087",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010180",
+      "full_name": "Tata Steel UK Ltd",
+      "name": "Tata Steel UK",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "TSUK",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.tatasteeluk.com/",
+      "registration_country": "United Kingdom",
+      "registration_subdivision": null,
+      "headquarters_country": "United Kingdom",
+      "headquarters_subdivision": "London, City of",
+      "gem_parents": "Tata Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001010018 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "213800TR86P337IE8605",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4296714310",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": "02280000",
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001016146",
+      "full_name": "T Steel Holdings Pte Ltd",
+      "name": "T Steel Holdings",
+      "name_local": null,
+      "name_other": "Tata Steel Holdings",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pte Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Singapore",
+      "registration_subdivision": null,
+      "headquarters_country": "Singapore",
+      "headquarters_subdivision": null,
+      "gem_parents": "Tata Steel Ltd",
+      "gem_parents_ids": "E100001010018",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "254900055IIDVRM3FL88",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036715647",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001016150",
+      "full_name": "Tata Steel Netherlands Holdings BV",
+      "name": "Tata Steel Netherlands Holdings",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "BV",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Netherlands",
+      "registration_subdivision": null,
+      "headquarters_country": "Netherlands",
+      "headquarters_subdivision": "Noord-Holland",
+      "gem_parents": "Tata Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001010018 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "5493007E6RJ15L1KVX42",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036772274",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002016077",
+      "full_name": "Minas De Benga (Mauritius) Ltd",
+      "name": "Minas De Benga (Mauritius)",
+      "name_local": null,
+      "name_other": "Minas De Benga (Mauritius) Lda",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Mauritius",
+      "registration_subdivision": null,
+      "headquarters_country": "Mauritius",
+      "headquarters_subdivision": null,
+      "gem_parents": "Tata Steel Ltd [35.0%]; Steel Authority of India Ltd [31.1%]; National Mineral Development Corp Ltd [16.9%]; Rashtriya Ispat Nigam Ltd [16.9%]; small shareholder(s) [0.2%]",
+      "gem_parents_ids": "E100001010018 [35.0%]; E100001000703 [31.1%]; E100001000686 [16.9%]; E100000001935 [16.9%]; E100001015587 [0.2%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5074083363",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102452_G100000100829",
+      "location_id": "L100000102452",
+      "unit_id": "G100000100829",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhubaneshwar Jasper power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.479398,
+      "longitude": 85.74492,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhubaneshwar_Jasper_power_station",
+      "source_id": 2,
+      "project_name": "Bhubaneshwar Jasper power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102452_G100000100830",
+      "location_id": "L100000102452",
+      "unit_id": "G100000100830",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhubaneshwar Jasper power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.479398,
+      "longitude": 85.74492,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhubaneshwar_Jasper_power_station",
+      "source_id": 2,
+      "project_name": "Bhubaneshwar Jasper power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102664_G100000100839",
+      "location_id": "L100000102664",
+      "unit_id": "G100000100839",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhushan Steel West Bengal project --",
+      "unit_name": "--",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.986757,
+      "longitude": 87.854975,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhushan_Steel_West_Bengal_project",
+      "source_id": 2,
+      "project_name": "Bhushan Steel West Bengal project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102265_G100000104960",
+      "location_id": "L100000102265",
+      "unit_id": "G100000104960",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jamshedpur Works power station Phase 3 Unit 12",
+      "unit_name": "Phase 3 Unit 12",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.787368,
+      "longitude": 86.200088,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jamshedpur_Works_power_station",
+      "source_id": 2,
+      "project_name": "Jamshedpur Works power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102265_G100000104961",
+      "location_id": "L100000102265",
+      "unit_id": "G100000104961",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jamshedpur Works power station Phase 3 Unit 13",
+      "unit_name": "Phase 3 Unit 13",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.787368,
+      "longitude": 86.200088,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jamshedpur_Works_power_station",
+      "source_id": 2,
+      "project_name": "Jamshedpur Works power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102265_G100000104962",
+      "location_id": "L100000102265",
+      "unit_id": "G100000104962",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jamshedpur Works power station Phase 3 Unit 14",
+      "unit_name": "Phase 3 Unit 14",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.787368,
+      "longitude": 86.200088,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jamshedpur_Works_power_station",
+      "source_id": 2,
+      "project_name": "Jamshedpur Works power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102481_G100000106868",
+      "location_id": "L100000102481",
+      "unit_id": "G100000106868",
+      "asset_type": "Coal Plant",
+      "asset_name": "Meramandali power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8072919,
+      "longitude": 85.2531512,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Meramandali_power_station",
+      "source_id": 2,
+      "project_name": "Meramandali power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102481_G100000106869",
+      "location_id": "L100000102481",
+      "unit_id": "G100000106869",
+      "asset_type": "Coal Plant",
+      "asset_name": "Meramandali power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8072919,
+      "longitude": 85.2531512,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Meramandali_power_station",
+      "source_id": 2,
+      "project_name": "Meramandali power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102481_G100000106866",
+      "location_id": "L100000102481",
+      "unit_id": "G100000106866",
+      "asset_type": "Coal Plant",
+      "asset_name": "Meramandali power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.8082137,
+      "longitude": 85.2590239,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 256.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Meramandali_power_station",
+      "source_id": 2,
+      "project_name": "Meramandali power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102481_G100000114511",
+      "location_id": "L100000102481",
+      "unit_id": "G100000114511",
+      "asset_type": "Coal Plant",
+      "asset_name": "Meramandali power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.8082137,
+      "longitude": 85.2590239,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 185.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Meramandali_power_station",
+      "source_id": 2,
+      "project_name": "Meramandali power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000408853_G100000412954",
+      "location_id": "L100000408853",
+      "unit_id": "G100000412954",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "Port Talbot Steelworks power station 1.0",
+      "unit_name": "1.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 51.567888,
+      "longitude": -3.759002,
+      "country": "United Kingdom",
+      "state_province": "Glamorgan",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Port_Talbot_Steelworks_power_station",
+      "source_id": 4,
+      "project_name": "Port Talbot Steelworks power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000129015",
+      "location_id": "P100000129015",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Tata Steel Bamebari Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.906803,
+      "longitude": 85.428329,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Bamebari_Mine",
+      "source_id": 3,
+      "project_name": "Tata Steel Bamebari Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128477",
+      "location_id": "P100000128477",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Tata Steel Joda East Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.010132,
+      "longitude": 85.437204,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 12000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Joda_East_Mine",
+      "source_id": 3,
+      "project_name": "Tata Steel Joda East Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128520",
+      "location_id": "P100000128520",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Tata Steel Joda West Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.028505,
+      "longitude": 85.397262,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Joda_West_Mine",
+      "source_id": 3,
+      "project_name": "Tata Steel Joda West Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128979",
+      "location_id": "P100000128979",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Tata Steel Katamati Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.119436,
+      "longitude": 85.486642,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 7582.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Katamati_Mine",
+      "source_id": 3,
+      "project_name": "Tata Steel Katamati Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128899",
+      "location_id": "P100000128899",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Tata Steel Khondbond Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.930904,
+      "longitude": 85.381083,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 7523.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Khondbond_Mine",
+      "source_id": 3,
+      "project_name": "Tata Steel Khondbond Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128489",
+      "location_id": "P100000128489",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Tata Steel Noamundi Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.13467,
+      "longitude": 85.498309,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 9448.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Noamundi_Mine",
+      "source_id": 3,
+      "project_name": "Tata Steel Noamundi Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128478",
+      "location_id": "P100000128478",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Tata Steel Tiring Pahar Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.930605,
+      "longitude": 85.401295,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 108.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Tiring_Pahar_Mine",
+      "source_id": 3,
+      "project_name": "Tata Steel Tiring Pahar Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000129405",
+      "location_id": "P100000129405",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Tata Steel Vijay-II Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.184829,
+      "longitude": 85.354648,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 2251.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Vijay-II_Mine",
+      "source_id": 3,
+      "project_name": "Tata Steel Vijay-II Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M1686",
+      "location_id": "M1686",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Jharia Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.708161,
+      "longitude": 86.400024,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 0.6,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Jharia_coal_mine",
+      "source_id": 9,
+      "project_name": "Jharia Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M0649",
+      "location_id": "M0649",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "West Bokaro Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.7927473,
+      "longitude": 85.55423096,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 10.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/West_Bokaro_coal_mine_(Tata)",
+      "source_id": 9,
+      "project_name": "West Bokaro Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000141063",
+      "location_id": "P100000120535",
+      "unit_id": "U100000141063",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant BF 1",
+      "unit_name": "BF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 276.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000141064",
+      "location_id": "P100000120535",
+      "unit_id": "U100000141064",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant BF 2",
+      "unit_name": "BF 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 374.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000143331",
+      "location_id": "P100000120535",
+      "unit_id": "U100000143331",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 1",
+      "unit_name": "DRI 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000144275",
+      "location_id": "P100000120535",
+      "unit_id": "U100000144275",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 2",
+      "unit_name": "DRI 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000144276",
+      "location_id": "P100000120535",
+      "unit_id": "U100000144276",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 3",
+      "unit_name": "DRI 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000144277",
+      "location_id": "P100000120535",
+      "unit_id": "U100000144277",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 4",
+      "unit_name": "DRI 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000144278",
+      "location_id": "P100000120535",
+      "unit_id": "U100000144278",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant DRI 5",
+      "unit_name": "DRI 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 129.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000141911",
+      "location_id": "P100000120535",
+      "unit_id": "U100000141911",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 320.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000141912",
+      "location_id": "P100000120535",
+      "unit_id": "U100000141912",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant unknown EAF (2)",
+      "unit_name": "unknown EAF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 320.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120535_U100000141913",
+      "location_id": "P100000120535",
+      "unit_id": "U100000141913",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Gamharia steel plant unknown EAF (3)",
+      "unit_name": "unknown EAF (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.812895,
+      "longitude": 86.084022,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 560.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Gamharia_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Gamharia steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000141321",
+      "location_id": "P100000120529",
+      "unit_id": "U100000141321",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF C",
+      "unit_name": "BF C",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 700.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000141322",
+      "location_id": "P100000120529",
+      "unit_id": "U100000141322",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF D",
+      "unit_name": "BF D",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 975.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000141323",
+      "location_id": "P100000120529",
+      "unit_id": "U100000141323",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF E",
+      "unit_name": "BF E",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 975.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000141057",
+      "location_id": "P100000120529",
+      "unit_id": "U100000141057",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF F",
+      "unit_name": "BF F",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1570.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000141324",
+      "location_id": "P100000120529",
+      "unit_id": "U100000141324",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF G",
+      "unit_name": "BF G",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000141325",
+      "location_id": "P100000120529",
+      "unit_id": "U100000141325",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF H",
+      "unit_name": "BF H",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000141326",
+      "location_id": "P100000120529",
+      "unit_id": "U100000141326",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant BF I",
+      "unit_name": "BF I",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000144290",
+      "location_id": "P100000120529",
+      "unit_id": "U100000144290",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1750.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000144291",
+      "location_id": "P100000120529",
+      "unit_id": "U100000144291",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1750.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000144292",
+      "location_id": "P100000120529",
+      "unit_id": "U100000144292",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000144293",
+      "location_id": "P100000120529",
+      "unit_id": "U100000144293",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000144294",
+      "location_id": "P100000120529",
+      "unit_id": "U100000144294",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (5)",
+      "unit_name": "unknown BOF (5)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000144295",
+      "location_id": "P100000120529",
+      "unit_id": "U100000144295",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (6)",
+      "unit_name": "unknown BOF (6)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120529_U100000144296",
+      "location_id": "P100000120529",
+      "unit_id": "U100000144296",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jamshedpur steel plant unknown BOF (7)",
+      "unit_name": "unknown BOF (7)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.788598,
+      "longitude": 86.1996,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jamshedpur_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jamshedpur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120852_U100000142180",
+      "location_id": "P100000120852",
+      "unit_id": "U100000142180",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Jurong steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 1.306741,
+      "longitude": 103.7003,
+      "country": "Singapore",
+      "state_province": "Jurong",
+      "capacity_value": 750.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Jurong_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Jurong steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120530_U100000141058",
+      "location_id": "P100000120530",
+      "unit_id": "U100000141058",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Kalinganagar steel plant BF 1",
+      "unit_name": "BF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3300.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Kalinganagar steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120530_U100000141327",
+      "location_id": "P100000120530",
+      "unit_id": "U100000141327",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Kalinganagar steel plant BF 2",
+      "unit_name": "BF 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Kalinganagar steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120530_U100000144287",
+      "location_id": "P100000120530",
+      "unit_id": "U100000144287",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Kalinganagar steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Kalinganagar steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120530_U100000144288",
+      "location_id": "P100000120530",
+      "unit_id": "U100000144288",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Kalinganagar steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Kalinganagar steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120530_U100000144289",
+      "location_id": "P100000120530",
+      "unit_id": "U100000144289",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Kalinganagar steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.970411,
+      "longitude": 86.015211,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 5000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Kalinganagar_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Kalinganagar steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120576_U100000144737",
+      "location_id": "P100000120576",
+      "unit_id": "U100000144737",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Ludhiana steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 30.946888,
+      "longitude": 75.987521,
+      "country": "India",
+      "state_province": "Punjab",
+      "capacity_value": 750.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Ludhiana_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Ludhiana steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000141019",
+      "location_id": "P100000120511",
+      "unit_id": "U100000141019",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant BF 1",
+      "unit_name": "BF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000141020",
+      "location_id": "P100000120511",
+      "unit_id": "U100000141020",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant BF 2",
+      "unit_name": "BF 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000144141",
+      "location_id": "P100000120511",
+      "unit_id": "U100000144141",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant BF 3",
+      "unit_name": "BF 3",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 4300.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000143316",
+      "location_id": "P100000120511",
+      "unit_id": "U100000143316",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (1)",
+      "unit_name": "unknown DRI (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100001031057",
+      "location_id": "P100000120511",
+      "unit_id": "U100001031057",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (10)",
+      "unit_name": "unknown DRI (10)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000144149",
+      "location_id": "P100000120511",
+      "unit_id": "U100000144149",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (11)",
+      "unit_name": "unknown DRI (11)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1600.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100001031050",
+      "location_id": "P100000120511",
+      "unit_id": "U100001031050",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (2)",
+      "unit_name": "unknown DRI (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100001031049",
+      "location_id": "P100000120511",
+      "unit_id": "U100001031049",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (3)",
+      "unit_name": "unknown DRI (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100001031051",
+      "location_id": "P100000120511",
+      "unit_id": "U100001031051",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (4)",
+      "unit_name": "unknown DRI (4)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100001031052",
+      "location_id": "P100000120511",
+      "unit_id": "U100001031052",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (5)",
+      "unit_name": "unknown DRI (5)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100001031053",
+      "location_id": "P100000120511",
+      "unit_id": "U100001031053",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (6)",
+      "unit_name": "unknown DRI (6)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100001031054",
+      "location_id": "P100000120511",
+      "unit_id": "U100001031054",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (7)",
+      "unit_name": "unknown DRI (7)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100001031055",
+      "location_id": "P100000120511",
+      "unit_id": "U100001031055",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (8)",
+      "unit_name": "unknown DRI (8)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100001031056",
+      "location_id": "P100000120511",
+      "unit_id": "U100001031056",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown DRI (9)",
+      "unit_name": "unknown DRI (9)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000141902",
+      "location_id": "P100000120511",
+      "unit_id": "U100000141902",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 422.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000144142",
+      "location_id": "P100000120511",
+      "unit_id": "U100000144142",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown EAF (2)",
+      "unit_name": "unknown EAF (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 775.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000144143",
+      "location_id": "P100000120511",
+      "unit_id": "U100000144143",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown EAF (3)",
+      "unit_name": "unknown EAF (3)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 775.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000144145",
+      "location_id": "P100000120511",
+      "unit_id": "U100000144145",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000144144",
+      "location_id": "P100000120511",
+      "unit_id": "U100000144144",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000143595",
+      "location_id": "P100000120511",
+      "unit_id": "U100000143595",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1485.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000144146",
+      "location_id": "P100000120511",
+      "unit_id": "U100000144146",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1485.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000144147",
+      "location_id": "P100000120511",
+      "unit_id": "U100000144147",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (5)",
+      "unit_name": "unknown BOF (5)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1550.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000144148",
+      "location_id": "P100000120511",
+      "unit_id": "U100000144148",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown BOF (6)",
+      "unit_name": "unknown BOF (6)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1550.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000145128",
+      "location_id": "P100000120511",
+      "unit_id": "U100000145128",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (1)",
+      "unit_name": "unknown IF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000145129",
+      "location_id": "P100000120511",
+      "unit_id": "U100000145129",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (2)",
+      "unit_name": "unknown IF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000145130",
+      "location_id": "P100000120511",
+      "unit_id": "U100000145130",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (3)",
+      "unit_name": "unknown IF (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000145131",
+      "location_id": "P100000120511",
+      "unit_id": "U100000145131",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (4)",
+      "unit_name": "unknown IF (4)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000145132",
+      "location_id": "P100000120511",
+      "unit_id": "U100000145132",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (5)",
+      "unit_name": "unknown IF (5)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000145133",
+      "location_id": "P100000120511",
+      "unit_id": "U100000145133",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant unknown IF (6)",
+      "unit_name": "unknown IF (6)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 48.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120511_U100000145127",
+      "location_id": "P100000120511",
+      "unit_id": "U100000145127",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Meramandali steel plant other/unspecified steel (1)",
+      "unit_name": "other/unspecified steel (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.796053,
+      "longitude": 85.260382,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Meramandali_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Meramandali steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102453_G100000101206",
+      "location_id": "L100000102453",
+      "unit_id": "G100000101206",
+      "asset_type": "Coal Plant",
+      "asset_name": "Srirampur Coal-to-Liquids Project Phase 1",
+      "unit_name": "Phase 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.71623,
+      "longitude": 85.28414,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1080.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Srirampur_Coal-to-Liquids_Project",
+      "source_id": 2,
+      "project_name": "Srirampur Coal-to-Liquids Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128488",
+      "location_id": "P100000128488",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "NINL Koira Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.853172,
+      "longitude": 85.337922,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1286.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/NINL_Koira_Mine",
+      "source_id": 3,
+      "project_name": "NINL Koira Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120540_U100000141068",
+      "location_id": "P100000120540",
+      "unit_id": "U100000141068",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Neelachal Ispat Nigam steel plant BF Brahmani",
+      "unit_name": "BF Brahmani",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1100.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "source_id": 10,
+      "project_name": "Neelachal Ispat Nigam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120540_U100000144932",
+      "location_id": "P100000120540",
+      "unit_id": "U100000144932",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BF (1)",
+      "unit_name": "unknown BF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 4630.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "source_id": 10,
+      "project_name": "Neelachal Ispat Nigam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120540_U100000144936",
+      "location_id": "P100000120540",
+      "unit_id": "U100000144936",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BF (2)",
+      "unit_name": "unknown BF (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "source_id": 10,
+      "project_name": "Neelachal Ispat Nigam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120540_U100000143638",
+      "location_id": "P100000120540",
+      "unit_id": "U100000143638",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1100.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "source_id": 10,
+      "project_name": "Neelachal Ispat Nigam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120540_U100000145063",
+      "location_id": "P100000120540",
+      "unit_id": "U100000145063",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1038.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "source_id": 10,
+      "project_name": "Neelachal Ispat Nigam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120540_U100000145446",
+      "location_id": "P100000120540",
+      "unit_id": "U100000145446",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2454.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "source_id": 10,
+      "project_name": "Neelachal Ispat Nigam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120540_U100001030748",
+      "location_id": "P100000120540",
+      "unit_id": "U100001030748",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2454.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "source_id": 10,
+      "project_name": "Neelachal Ispat Nigam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120540_U100001030749",
+      "location_id": "P100000120540",
+      "unit_id": "U100001030749",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Neelachal Ispat Nigam steel plant unknown BOF (5)",
+      "unit_name": "unknown BOF (5)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.998641,
+      "longitude": 86.019102,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2454.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Neelachal_Ispat_Nigam_steel_plant",
+      "source_id": 10,
+      "project_name": "Neelachal Ispat Nigam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120482_U100000140998",
+      "location_id": "P100000120482",
+      "unit_id": "U100000140998",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Port Talbot steel plant BF 4",
+      "unit_name": "BF 4",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "capacity_value": 2580.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Port Talbot steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120482_U100000140997",
+      "location_id": "P100000120482",
+      "unit_id": "U100000140997",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Port Talbot steel plant BF 5",
+      "unit_name": "BF 5",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "capacity_value": 2190.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Port Talbot steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120482_U100000144394",
+      "location_id": "P100000120482",
+      "unit_id": "U100000144394",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Port Talbot steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Port Talbot steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120482_U100000143584",
+      "location_id": "P100000120482",
+      "unit_id": "U100000143584",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Port Talbot steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Port Talbot steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120482_U100000143585",
+      "location_id": "P100000120482",
+      "unit_id": "U100000143585",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Port Talbot steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "latitude": 51.577368,
+      "longitude": -3.783013,
+      "country": "United Kingdom",
+      "state_province": "Wales",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Port_Talbot_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Port Talbot steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010162",
+      "full_name": "T S Global Holding Pte Ltd",
+      "name": "T S Global Holding",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pte Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Singapore",
+      "registration_subdivision": null,
+      "headquarters_country": "Singapore",
+      "headquarters_subdivision": "Central Singapore",
+      "gem_parents": "Tata Steel Ltd",
+      "gem_parents_ids": "E100001010018",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "254900DNFZOVXQPQQI23",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4298517841",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010179",
+      "full_name": "Tata Steel Europe Ltd",
+      "name": "Tata Steel Europe",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.tatasteeleurope.com/",
+      "registration_country": "United Kingdom",
+      "registration_subdivision": null,
+      "headquarters_country": "United Kingdom",
+      "headquarters_subdivision": "London, City of",
+      "gem_parents": "Tata Steel Ltd",
+      "gem_parents_ids": "E100001010018",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "213800CU5B4QI4YRQS86",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4298344453",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": "05957565",
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010178",
+      "full_name": "Tata Steel Nederland BV",
+      "name": "Tata Steel Nederland",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "BV",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Netherlands",
+      "registration_subdivision": null,
+      "headquarters_country": "Netherlands",
+      "headquarters_subdivision": "Noord-Holland",
+      "gem_parents": "Tata Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001010018 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "549300TXQRELZPLULH78",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4295884699",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001013473",
+      "full_name": "Minas De Benga Lda",
+      "name": "Minas De Benga",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Lda",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Mozambique",
+      "registration_subdivision": null,
+      "headquarters_country": "Mozambique",
+      "headquarters_subdivision": "Maputo",
+      "gem_parents": "Tata Steel Ltd [35.0%]; Steel Authority of India Ltd [31.1%]; National Mineral Development Corp Ltd [16.9%]; Rashtriya Ispat Nigam Ltd [16.9%]; small shareholder(s) [0.2%]",
+      "gem_parents_ids": "E100001010018 [35.0%]; E100001000703 [31.1%]; E100001000686 [16.9%]; E100000001935 [16.9%]; E100001015587 [0.2%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "not found",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010159",
+      "full_name": "Tata Steel (Thailand) PCL",
+      "name": "Tata Steel (Thailand)",
+      "name_local": "บริษัท ทาทา สตีล (ประเทศไทย) จำกัด (มหาชน)",
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "PCL",
+      "publiclylisted": "1",
+      "home_page": "https://www.tatasteelthailand.com",
+      "registration_country": "Thailand",
+      "registration_subdivision": null,
+      "headquarters_country": "Thailand",
+      "headquarters_subdivision": "Krung Thep Maha Nakhon [Bangkok]",
+      "gem_parents": "Tata Steel (Thailand) PCL [100%]",
+      "gem_parents_ids": "E100001010159 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "5299008R3EJDUN4VS893",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4295893433",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002017316",
+      "full_name": "T S Global Minerals Holdings Pte Ltd",
+      "name": "T S Global Minerals Holdings",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pte Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Singapore",
+      "registration_subdivision": null,
+      "headquarters_country": "Singapore",
+      "headquarters_subdivision": "Central Singapore",
+      "gem_parents": "Tata Steel Ltd",
+      "gem_parents_ids": "E100001010018",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "25490064KHR4JII1LR90",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5035507213",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002007680",
+      "full_name": "Corus Group Ltd",
+      "name": "Corus Group",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "United Kingdom",
+      "registration_subdivision": null,
+      "headquarters_country": "United Kingdom",
+      "headquarters_subdivision": "London, City of",
+      "gem_parents": "Tata Steel Ltd",
+      "gem_parents_ids": "E100001010018",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": null,
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5000060598",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": "03811373",
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010177",
+      "full_name": "Tata Steel Ijmuiden BV",
+      "name": "Tata Steel Ijmuiden",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "BV",
+      "publiclylisted": "0",
+      "home_page": "http://www.tatasteel.nl/",
+      "registration_country": "Netherlands",
+      "registration_subdivision": null,
+      "headquarters_country": "Netherlands",
+      "headquarters_subdivision": "Noord-Holland",
+      "gem_parents": "Tata Steel Ltd",
+      "gem_parents_ids": "E100001010018",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "213800HIJAY56D7OM657",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5001198194",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M0738_Base",
+      "location_id": "M0738",
+      "unit_id": "Base",
+      "asset_type": "Coal Mine",
+      "asset_name": "Benga Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": -16.167428,
+      "longitude": 33.661022,
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "capacity_value": 1.8,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Benga_coal_mine",
+      "source_id": 9,
+      "project_name": "Benga Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120862_U100000145022",
+      "location_id": "P100000120862",
+      "unit_id": "U100000145022",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Chonburi steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 13.052398,
+      "longitude": 101.086795,
+      "country": "Thailand",
+      "state_province": "Chonburi",
+      "capacity_value": 800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Chonburi_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Chonburi steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120863_U100000145023",
+      "location_id": "P100000120863",
+      "unit_id": "U100000145023",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel Rayong steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 12.677582,
+      "longitude": 101.149401,
+      "country": "Thailand",
+      "state_province": "Rayong",
+      "capacity_value": 550.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_Rayong_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel Rayong steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002017315",
+      "full_name": "Tata Steel Cote D' Ivoire SA",
+      "name": "Tata Steel Cote D' Ivoire",
+      "name_local": null,
+      "name_other": "Tata Steel Cote D Ivoire; Tata Steel Cote D‟Ivoire",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "SA",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Côte d'Ivoire",
+      "registration_subdivision": null,
+      "headquarters_country": "Côte d'Ivoire",
+      "headquarters_subdivision": null,
+      "gem_parents": "Tata Steel Ltd",
+      "gem_parents_ids": "E100001010018",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036768919",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120758_U100000141162",
+      "location_id": "P100000120758",
+      "unit_id": "U100000141162",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel IJmuiden steel plant BF 6",
+      "unit_name": "BF 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel IJmuiden steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120758_U100000141161",
+      "location_id": "P100000120758",
+      "unit_id": "U100000141161",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel IJmuiden steel plant BF 7",
+      "unit_name": "BF 7",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "capacity_value": 4000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel IJmuiden steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120758_U100000143471",
+      "location_id": "P100000120758",
+      "unit_id": "U100000143471",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown DRI (1)",
+      "unit_name": "unknown DRI (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel IJmuiden steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120758_U100000143470",
+      "location_id": "P100000120758",
+      "unit_id": "U100000143470",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown DRI (2)",
+      "unit_name": "unknown DRI (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "capacity_value": 3155.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel IJmuiden steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120758_U100000144854",
+      "location_id": "P100000120758",
+      "unit_id": "U100000144854",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel IJmuiden steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120758_U100000144855",
+      "location_id": "P100000120758",
+      "unit_id": "U100000144855",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown EAF (2)",
+      "unit_name": "unknown EAF (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel IJmuiden steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120758_U100000143720",
+      "location_id": "P100000120758",
+      "unit_id": "U100000143720",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "capacity_value": 3750.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel IJmuiden steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120758_U100000143798",
+      "location_id": "P100000120758",
+      "unit_id": "U100000143798",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Tata Steel IJmuiden steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "latitude": 52.484118,
+      "longitude": 4.615584,
+      "country": "Netherlands",
+      "state_province": "North Holland",
+      "capacity_value": 3750.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Tata_Steel_IJmuiden_steel_plant",
+      "source_id": 10,
+      "project_name": "Tata Steel IJmuiden steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000129437",
+      "location_id": "P100000129437",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "TSCI Mont Gao Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 6.904865,
+      "longitude": -7.713028,
+      "country": "Côte d'Ivoire",
+      "state_province": "Montagnes",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/TSCI_Mont_Gao_Mine",
+      "source_id": 3,
+      "project_name": "TSCI Mont Gao Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100001010018",
+      "target": "E100000121340",
+      "value": 25.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "E100001010157",
+      "value": 5.2,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "E100001010180",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "E100001016146",
+      "value": 100.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "E100001016150",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "E100002016077",
+      "value": 35.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102452_G100000100829",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102452_G100000100830",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102664_G100000100839",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102265_G100000104960",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102265_G100000104961",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102265_G100000104962",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102481_G100000106868",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102481_G100000106869",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102481_G100000106866",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000102481_G100000114511",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "L100000408853_G100000412954",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000129015",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000128477",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000128520",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000128979",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000128899",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000128489",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000128478",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000129405",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "M1686",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "M0649",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000141063",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000141064",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000143331",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000144275",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000144276",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000144277",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000144278",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000141911",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000141912",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120535_U100000141913",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000141321",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000141322",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000141323",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000141057",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000141324",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000141325",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000141326",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000144290",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000144291",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000144292",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000144293",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000144294",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000144295",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120529_U100000144296",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120852_U100000142180",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120530_U100000141058",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120530_U100000141327",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120530_U100000144287",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120530_U100000144288",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120530_U100000144289",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120576_U100000144737",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000141019",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000141020",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000144141",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000143316",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100001031057",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000144149",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100001031050",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100001031049",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100001031051",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100001031052",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100001031053",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100001031054",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100001031055",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100001031056",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000141902",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000144142",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000144143",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000144145",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000144144",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000143595",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000144146",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000144147",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000144148",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000145128",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000145129",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000145130",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000145131",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000145132",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000145133",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010018",
+      "target": "P100000120511_U100000145127",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121340",
+      "target": "L100000102453_G100000101206",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010157",
+      "target": "P100000128488",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010157",
+      "target": "P100000120540_U100000141068",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010157",
+      "target": "P100000120540_U100000144932",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010157",
+      "target": "P100000120540_U100000144936",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010157",
+      "target": "P100000120540_U100000143638",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010157",
+      "target": "P100000120540_U100000145063",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010157",
+      "target": "P100000120540_U100000145446",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010157",
+      "target": "P100000120540_U100001030748",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010157",
+      "target": "P100000120540_U100001030749",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010180",
+      "target": "P100000120482_U100000140998",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010180",
+      "target": "P100000120482_U100000140997",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010180",
+      "target": "P100000120482_U100000144394",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010180",
+      "target": "P100000120482_U100000143584",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010180",
+      "target": "P100000120482_U100000143585",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001016146",
+      "target": "E100001010162",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001016146",
+      "target": "E100001010179",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001016150",
+      "target": "E100001010178",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002016077",
+      "target": "E100001013473",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010162",
+      "target": "E100001010159",
+      "value": 67.9,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001010162",
+      "target": "E100002017316",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001010179",
+      "target": "E100002007680",
+      "value": 100.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001010178",
+      "target": "E100001010177",
+      "value": 100.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001013473",
+      "target": "M0738_Base",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001010159",
+      "target": "P100000120862_U100000145022",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100001010159",
+      "target": "P100000120863_U100000145023",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100002017316",
+      "target": "E100002017315",
+      "value": 85.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100002007680",
+      "target": "E100001010180",
+      "value": 0.0,
+      "imputed_share": true,
+      "closes_cycle": true,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001010177",
+      "target": "P100000120758_U100000141162",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100001010177",
+      "target": "P100000120758_U100000141161",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100001010177",
+      "target": "P100000120758_U100000143471",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100001010177",
+      "target": "P100000120758_U100000143470",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100001010177",
+      "target": "P100000120758_U100000144854",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100001010177",
+      "target": "P100000120758_U100000144855",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100001010177",
+      "target": "P100000120758_U100000143720",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100001010177",
+      "target": "P100000120758_U100000143798",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100002017315",
+      "target": "P100000129437",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 5
+    }
+  ],
+  "paths": {
+    "E100001010018": [
+      {
+        "route": [
+          "E100001010018"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000121340": [
+      {
+        "route": [
+          "E100001010018",
+          "E100000121340"
+        ],
+        "cumulative_pct": 25.0
+      }
+    ],
+    "L100000102453_G100000101206": [
+      {
+        "route": [
+          "E100001010018",
+          "E100000121340",
+          "L100000102453_G100000101206"
+        ],
+        "cumulative_pct": 25.0
+      }
+    ],
+    "E100001010157": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "P100000128488": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157",
+          "P100000128488"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "P100000120540_U100000141068": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157",
+          "P100000120540_U100000141068"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "P100000120540_U100000144932": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157",
+          "P100000120540_U100000144932"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "P100000120540_U100000144936": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157",
+          "P100000120540_U100000144936"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "P100000120540_U100000143638": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157",
+          "P100000120540_U100000143638"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "P100000120540_U100000145063": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157",
+          "P100000120540_U100000145063"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "P100000120540_U100000145446": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157",
+          "P100000120540_U100000145446"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "P100000120540_U100001030748": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157",
+          "P100000120540_U100001030748"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "P100000120540_U100001030749": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010157",
+          "P100000120540_U100001030749"
+        ],
+        "cumulative_pct": 5.2
+      }
+    ],
+    "E100001010180": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010180"
+        ],
+        "cumulative_pct": 100.0
+      },
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010179",
+          "E100002007680",
+          "E100001010180"
+        ],
+        "cumulative_pct": 0.0
+      }
+    ],
+    "P100000120482_U100000140998": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010180",
+          "P100000120482_U100000140998"
+        ],
+        "cumulative_pct": 100.0
+      },
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010179",
+          "E100002007680",
+          "E100001010180",
+          "P100000120482_U100000140998"
+        ],
+        "cumulative_pct": 0.0
+      }
+    ],
+    "P100000120482_U100000140997": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010180",
+          "P100000120482_U100000140997"
+        ],
+        "cumulative_pct": 100.0
+      },
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010179",
+          "E100002007680",
+          "E100001010180",
+          "P100000120482_U100000140997"
+        ],
+        "cumulative_pct": 0.0
+      }
+    ],
+    "P100000120482_U100000144394": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010180",
+          "P100000120482_U100000144394"
+        ],
+        "cumulative_pct": 100.0
+      },
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010179",
+          "E100002007680",
+          "E100001010180",
+          "P100000120482_U100000144394"
+        ],
+        "cumulative_pct": 0.0
+      }
+    ],
+    "P100000120482_U100000143584": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010180",
+          "P100000120482_U100000143584"
+        ],
+        "cumulative_pct": 100.0
+      },
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010179",
+          "E100002007680",
+          "E100001010180",
+          "P100000120482_U100000143584"
+        ],
+        "cumulative_pct": 0.0
+      }
+    ],
+    "P100000120482_U100000143585": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001010180",
+          "P100000120482_U100000143585"
+        ],
+        "cumulative_pct": 100.0
+      },
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010179",
+          "E100002007680",
+          "E100001010180",
+          "P100000120482_U100000143585"
+        ],
+        "cumulative_pct": 0.0
+      }
+    ],
+    "E100001016146": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001010162": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010162"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001010159": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010162",
+          "E100001010159"
+        ],
+        "cumulative_pct": 67.9
+      }
+    ],
+    "P100000120862_U100000145022": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010162",
+          "E100001010159",
+          "P100000120862_U100000145022"
+        ],
+        "cumulative_pct": 67.9
+      }
+    ],
+    "P100000120863_U100000145023": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010162",
+          "E100001010159",
+          "P100000120863_U100000145023"
+        ],
+        "cumulative_pct": 67.9
+      }
+    ],
+    "E100002017316": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010162",
+          "E100002017316"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002017315": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010162",
+          "E100002017316",
+          "E100002017315"
+        ],
+        "cumulative_pct": 85.0
+      }
+    ],
+    "P100000129437": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010162",
+          "E100002017316",
+          "E100002017315",
+          "P100000129437"
+        ],
+        "cumulative_pct": 85.0
+      }
+    ],
+    "E100001010179": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010179"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002007680": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016146",
+          "E100001010179",
+          "E100002007680"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001016150": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001010178": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001010177": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178",
+          "E100001010177"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120758_U100000141162": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178",
+          "E100001010177",
+          "P100000120758_U100000141162"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120758_U100000141161": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178",
+          "E100001010177",
+          "P100000120758_U100000141161"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120758_U100000143471": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178",
+          "E100001010177",
+          "P100000120758_U100000143471"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120758_U100000143470": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178",
+          "E100001010177",
+          "P100000120758_U100000143470"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120758_U100000144854": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178",
+          "E100001010177",
+          "P100000120758_U100000144854"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120758_U100000144855": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178",
+          "E100001010177",
+          "P100000120758_U100000144855"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120758_U100000143720": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178",
+          "E100001010177",
+          "P100000120758_U100000143720"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120758_U100000143798": [
+      {
+        "route": [
+          "E100001010018",
+          "E100001016150",
+          "E100001010178",
+          "E100001010177",
+          "P100000120758_U100000143798"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002016077": [
+      {
+        "route": [
+          "E100001010018",
+          "E100002016077"
+        ],
+        "cumulative_pct": 35.0
+      }
+    ],
+    "E100001013473": [
+      {
+        "route": [
+          "E100001010018",
+          "E100002016077",
+          "E100001013473"
+        ],
+        "cumulative_pct": 35.0
+      }
+    ],
+    "M0738_Base": [
+      {
+        "route": [
+          "E100001010018",
+          "E100002016077",
+          "E100001013473",
+          "M0738_Base"
+        ],
+        "cumulative_pct": 35.0
+      }
+    ],
+    "L100000102452_G100000100829": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102452_G100000100829"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102452_G100000100830": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102452_G100000100830"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102664_G100000100839": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102664_G100000100839"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102265_G100000104960": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102265_G100000104960"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102265_G100000104961": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102265_G100000104961"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102265_G100000104962": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102265_G100000104962"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102481_G100000106868": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102481_G100000106868"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102481_G100000106869": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102481_G100000106869"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102481_G100000106866": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102481_G100000106866"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102481_G100000114511": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000102481_G100000114511"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000408853_G100000412954": [
+      {
+        "route": [
+          "E100001010018",
+          "L100000408853_G100000412954"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000129015": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000129015"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128477": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000128477"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128520": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000128520"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128979": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000128979"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128899": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000128899"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128489": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000128489"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128478": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000128478"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000129405": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000129405"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M1686": [
+      {
+        "route": [
+          "E100001010018",
+          "M1686"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M0649": [
+      {
+        "route": [
+          "E100001010018",
+          "M0649"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000141063": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000141063"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000141064": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000141064"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000143331": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000143331"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000144275": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000144275"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000144276": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000144276"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000144277": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000144277"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000144278": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000144278"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000141911": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000141911"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000141912": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000141912"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120535_U100000141913": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120535_U100000141913"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000141321": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000141321"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000141322": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000141322"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000141323": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000141323"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000141057": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000141057"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000141324": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000141324"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000141325": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000141325"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000141326": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000141326"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000144290": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000144290"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000144291": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000144291"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000144292": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000144292"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000144293": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000144293"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000144294": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000144294"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000144295": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000144295"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120529_U100000144296": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120529_U100000144296"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120852_U100000142180": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120852_U100000142180"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120530_U100000141058": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120530_U100000141058"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120530_U100000141327": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120530_U100000141327"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120530_U100000144287": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120530_U100000144287"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120530_U100000144288": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120530_U100000144288"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120530_U100000144289": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120530_U100000144289"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120576_U100000144737": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120576_U100000144737"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000141019": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000141019"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000141020": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000141020"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000144141": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000144141"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000143316": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000143316"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100001031057": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100001031057"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000144149": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000144149"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100001031050": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100001031050"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100001031049": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100001031049"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100001031051": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100001031051"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100001031052": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100001031052"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100001031053": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100001031053"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100001031054": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100001031054"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100001031055": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100001031055"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100001031056": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100001031056"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000141902": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000141902"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000144142": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000144142"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000144143": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000144143"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000144145": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000144145"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000144144": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000144144"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000143595": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000143595"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000144146": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000144146"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000144147": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000144147"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000144148": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000144148"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000145128": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000145128"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000145129": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000145129"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000145130": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000145130"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000145131": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000145131"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000145132": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000145132"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000145133": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000145133"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120511_U100000145127": [
+      {
+        "route": [
+          "E100001010018",
+          "P100000120511_U100000145127"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "P100000128489",
+    "P100000120511_U100000145133",
+    "P100000120758_U100000141162",
+    "L100000408853_G100000412954",
+    "P100000120511_U100001031055",
+    "P100000120511_U100000141019",
+    "P100000120540_U100000141068",
+    "P100000120576_U100000144737",
+    "P100000120529_U100000144292",
+    "P100000120529_U100000141322",
+    "P100000120511_U100000144148",
+    "P100000120535_U100000141063",
+    "M0738_Base",
+    "P100000120529_U100000141323",
+    "P100000120511_U100000145127",
+    "P100000120758_U100000143471",
+    "P100000120535_U100000144276",
+    "P100000120530_U100000144288",
+    "P100000128477",
+    "P100000120530_U100000141327",
+    "P100000120535_U100000144277",
+    "M1686",
+    "P100000120529_U100000144294",
+    "P100000120529_U100000141325",
+    "P100000120511_U100000144143",
+    "P100000120511_U100001031056",
+    "P100000128520",
+    "P100000120511_U100000143595",
+    "P100000120482_U100000143585",
+    "P100000120758_U100000143798",
+    "L100000102265_G100000104961",
+    "L100000102265_G100000104960",
+    "P100000120535_U100000144275",
+    "P100000129405",
+    "P100000120530_U100000141058",
+    "P100000120511_U100000141020",
+    "L100000102452_G100000100830",
+    "P100000120530_U100000144289",
+    "P100000120529_U100000141324",
+    "P100000120540_U100001030749",
+    "P100000120511_U100000144142",
+    "P100000120511_U100000145128",
+    "L100000102265_G100000104962",
+    "P100000120540_U100000144936",
+    "P100000120758_U100000143470",
+    "P100000120511_U100001031051",
+    "P100000120511_U100001031050",
+    "P100000120540_U100000145446",
+    "P100000128899",
+    "P100000120758_U100000144855",
+    "P100000120540_U100000144932",
+    "P100000120530_U100000144287",
+    "P100000120535_U100000143331",
+    "L100000102481_G100000106869",
+    "P100000120529_U100000144293",
+    "P100000120511_U100000144149",
+    "P100000120863_U100000145023",
+    "P100000120511_U100000144145",
+    "P100000120540_U100000145063",
+    "P100000120535_U100000141912",
+    "P100000120511_U100001031053",
+    "P100000120529_U100000144291",
+    "P100000120511_U100001031049",
+    "P100000120482_U100000140998",
+    "P100000120511_U100000145130",
+    "P100000129437",
+    "P100000120511_U100000143316",
+    "P100000120529_U100000144290",
+    "L100000102664_G100000100839",
+    "P100000120511_U100000144147",
+    "P100000120529_U100000144296",
+    "P100000120540_U100001030748",
+    "P100000120511_U100000144144",
+    "P100000120511_U100001031057",
+    "P100000120852_U100000142180",
+    "P100000120482_U100000144394",
+    "P100000120482_U100000143584",
+    "P100000120758_U100000143720",
+    "P100000120862_U100000145022",
+    "P100000120758_U100000141161",
+    "P100000120535_U100000144278",
+    "L100000102481_G100000106866",
+    "P100000120511_U100000144141",
+    "P100000120511_U100000145129",
+    "L100000102453_G100000101206",
+    "P100000120511_U100000145132",
+    "M0649",
+    "P100000128478",
+    "P100000128488",
+    "L100000102452_G100000100829",
+    "P100000120535_U100000141913",
+    "P100000120540_U100000143638",
+    "P100000128979",
+    "P100000120535_U100000141064",
+    "P100000120511_U100000141902",
+    "P100000120511_U100000144146",
+    "L100000102481_G100000106868",
+    "P100000120511_U100001031052",
+    "P100000120529_U100000144295",
+    "L100000102481_G100000114511",
+    "P100000120758_U100000144854",
+    "P100000120482_U100000140997",
+    "P100000120511_U100000145131",
+    "P100000120529_U100000141321",
+    "P100000120529_U100000141057",
+    "P100000129015",
+    "P100000120511_U100001031054",
+    "P100000120535_U100000141911",
+    "P100000120529_U100000141326"
+  ],
+  "truncated_node_ids": []
+}

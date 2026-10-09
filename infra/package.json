@@ -1,10 +1,10 @@
 {
   "name": "@energy-truth/infra",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "synth": "cdk synth",
-    "deploy": "cdk deploy",
+    "synth": "cdk synth --quiet",
+    "deploy": "cdk deploy --all",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

@@ -37,7 +37,7 @@ class FetchResult:
             url=self.url,
             retrieved_at=self.retrieved_at,
             sha256=self.sha256,
-            local_path=str(self.path.relative_to(settings.raw_dir.parent.parent)),
+            local_path=str(self.path.relative_to(settings.raw_dir.parent.parent)) if self.path.is_relative_to(settings.raw_dir.parent.parent) else str(self.path),
             license=license,
             meta=meta,
         )
@@ -52,7 +52,9 @@ def fetch(url: str, dest: Path, *, refresh: bool = False, browser: bool = False,
     dest.parent.mkdir(parents=True, exist_ok=True)
     meta = _meta_path(dest)
     if dest.exists() and not refresh:
-        m = json.loads(meta.read_text()) if meta.exists() else {"url": url, "retrieved_at": now_iso()}
+        if not meta.exists():  # file cached by hand (e.g. curl): record provenance once so it stays stable
+            meta.write_text(json.dumps({"url": url, "retrieved_at": now_iso(), "sha256": sha256_bytes(dest.read_bytes()), "status": "cached"}))
+        m = json.loads(meta.read_text())
         return FetchResult(dest, dest.read_bytes(), m.get("url", url), m.get("retrieved_at", ""), True)
     last: Exception | None = None
     for attempt in range(retries):

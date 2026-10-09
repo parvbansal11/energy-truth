@@ -1,22 +1,25 @@
-# Demo data and interpretation
+# Data sources, transformations and attribution
 
-Climate TRACE owner-filtered facility responses were retrieved on 9 October 2026. The browser ships the original responses for calendar years 2023, 2024 and 2025, plus a derived combined snapshot. Each response retains its request URL, retrieval timestamp and SHA-256 fingerprint.
+Every curated number carries `evidence_ids`. Each evidence record holds the URL, retrieval timestamp, SHA-256 of the cached payload, and the local cache path; PDF evidence also holds the page and quote. Raw payloads live in `data/raw/**` with `*.meta.json` provenance and are mirrored to `S3_RAW_BUCKET` when deployed.
 
-- NTPC Ltd: E100000001926 — 41 returned facilities per loaded year.
-- Tata Steel Ltd: E100001010018 — 20 returned facilities per loaded year.
-- Publisher: [Climate TRACE](https://climatetrace.org).
-- API: [Climate TRACE API v7](https://api.climatetrace.org/v7/sources).
-- Terms: [Climate TRACE terms](https://climatetrace.org/terms). Retain all source attribution; confirm applicable sector-specific restrictions before redistributing beyond the demo.
+| Source | Endpoint / file | Used for | Licence / terms |
+|---|---|---|---|
+| Company BRSR filings | NTPC FY2024-25 & FY2025-26; Tata Steel FY2023-24 & FY2024-25 (`data/raw/brsr/*.pdf`) | Scope 1/2, electricity, assurance — page-cited | Public statutory disclosure (SEBI LODR 34(2)(f)) |
+| Climate TRACE API v7 | `/v7/sources?ownerIds=…&year=…`, `/v7/sources/{id}` | Plant annual CO₂e (100-yr), activity, capacity, confidence | Climate TRACE terms — attribution required (climatetrace.org/terms) |
+| Global Energy Monitor Ownership API | `/entities/{id}`, `/assets?owner_entity_id=`, `/ownership/graph` | Owned units, status, capacity, ownership shares, coverage denominator | CC BY 4.0 — Global Energy Monitor |
+| Robbie M. Andrew — India energy data | `POSOCO_data.csv`, `CEA_DGR_data.csv`, `India_monthly_data.csv` | Regional fuel mix, demand, steel/cement/coal indices, Chronos covariates | CC BY 4.0 — cite Andrew (2020), ESSD; derived from Grid-India & CEA reports |
+| CEA CO₂ Baseline Database V20 | pinned constant 0.727 tCO₂/MWh (FY2023-24) | Scope 2 grid factor, intensity calibration | Government of India |
+| NASA EOSDIS GIBS | WMTS `TROPOMI_L2_Nitrogen_Dioxide_Tropospheric_Column`, `VIIRS_SNPP_DayNightBand_At_Sensor_Radiance` | Energy-activity proxy layers (dated) | NASA open data — attribution requested |
+| Copernicus Sentinel-2 L2A (Element84 Earth Search) | STAC `/v1/search` | Latest low-cloud scene over a focused plant | Copernicus Sentinel data, free & open |
+| geoBoundaries IND ADM1 | simplified GeoJSON | State outlines for the grid-region choropleth | CC BY 2.5 IN (DataMeet India / ECI) |
+| Esri | Canvas Dark/Light Gray, World Imagery tiles | Basemap context only | Esri terms of use; attribution shown on map |
 
-Derived transformations: convert tonnes to millions of tonnes for display; classify source activity strings into Coal, Gas, Mixed fossil, Steel or other sector labels; sum full-facility estimates; sort/filter; compute the largest facility's share of the loaded sum. No ownership percentages or uncertainty intervals are inferred. Source-restricted activity/capacity fields display 'Not available'.
+## Transformations
+- Units normalised to tCO₂e and MWh, with Indian digit grouping parsed (32,69,59,946.44).
+- Calendar-year CT totals are spread to months with activity profiles. The FY value is the Apr–Mar sum.
+- Ownership weights come from the GEM graph (direct / effective shares), matched to the disclosure boundary.
+- Grid intensity is the CEA-calibrated fossil-share index.
+- Satellite imagery is context or an activity proxy. **It never measures CO₂** and is never used as a number in an estimate.
 
-These sums are not equity-weighted corporate Scope 1 and do not establish complete company coverage. Company disclosure extraction, boundary/period reconciliation and assurance are not implemented. No claims of under-reporting are made. The older plan's reference numbers are not used as substitutes for disclosures.
-
-The evidence review runs deterministic local validation of source IDs, coordinates, selected year, gas and non-negative finite emissions, and derives research priorities. Its animated sequence presents those checks; it is not a live agent or satellite verification run.
-
-Map context:
-- [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors: default basemap tiles; live requests, no tile bulk cache.
-- Esri World Imagery: optional satellite basemap; capture dates vary. Imagery is not a CO₂ measurement.
-- [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/): cached public-domain country geometry as fallback. Geometry is reduced to the name property.
-
-The WRI dataset was investigated but is not included in the browser demo. The app does not use its dated ownership data.
+## Limitations
+The independent rebuild covers only owned assets with a Climate TRACE estimate (see coverage ρ_eff). Process emissions and combustion are both inside CT's facility totals. A reported-vs-independent gap is a research lead, not proof of misreporting. The app marks low-coverage gaps "inconclusive".

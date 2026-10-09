@@ -5,9 +5,9 @@
   "max_zoom": 6,
   "title": "TROPOMI tropospheric NO2 (Sentinel-5P)",
   "why": "Combustion proxy over coal plants and steel works; not a CO2 measurement",
-  "date": "2026-10-08",
-  "template": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/TROPOMI_L2_Nitrogen_Dioxide_Tropospheric_Column/default/2026-10-08/GoogleMapsCompatible_Level6/{z}/{y}/{x}.png",
-  "evidence_id": "ev_tile_5c7e5d7d2a"
+  "date": "2026-10-09",
+  "template": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/TROPOMI_L2_Nitrogen_Dioxide_Tropospheric_Column/default/2026-10-09/GoogleMapsCompatible_Level6/{z}/{y}/{x}.png",
+  "evidence_id": "ev_tile_0fb3b5c161"
  },
  "dnb": {
   "id": "VIIRS_SNPP_DayNightBand_At_Sensor_Radiance",

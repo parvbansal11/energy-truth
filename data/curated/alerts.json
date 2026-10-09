@@ -4,7 +4,7 @@
   "company": "NTPC",
   "type": "FORECAST_BAND_BREACH",
   "severity": "high",
-  "ts": "2026-10-09T19:21:20+00:00",
+  "ts": "2026-10-09T19:51:14+00:00",
   "title": "NTPC FY2025-26 Scope 1 outside the scaled Chronos band",
   "detail": "Reported 309.0 Mt vs scaled band 311.5\u2013316.3 Mt (median 313.8).",
   "evidence_ids": [
@@ -17,7 +17,7 @@
   "company": "TATASTEEL",
   "type": "DISCREPANCY_Z",
   "severity": "high",
-  "ts": "2026-10-09T19:21:20+00:00",
+  "ts": "2026-10-09T19:51:14+00:00",
   "title": "Tata Steel Scope 1 discrepancy |z| = 4.4",
   "detail": "The independent inventory misses owned assets, so the gap cannot be read as misreporting.",
   "evidence_ids": [
@@ -29,7 +29,7 @@
   "company": "TATASTEEL",
   "type": "LOW_COVERAGE",
   "severity": "medium",
-  "ts": "2026-10-09T19:21:20+00:00",
+  "ts": "2026-10-09T19:51:14+00:00",
   "title": "Tata Steel: 6 owned emitters lack an independent estimate",
   "detail": "Tata Steel Chonburi steel plant, Tata Steel Gamharia steel plant, Tata Steel IJmuiden steel plant, Tata Steel Katamati Mine, Tata Steel Rayong steel plant, Tata Steel Vijay-II Mine",
   "evidence_ids": [
@@ -45,7 +45,7 @@
   "company": "ULTRACEMCO",
   "type": "LOW_COVERAGE",
   "severity": "medium",
-  "ts": "2026-10-09T19:21:20+00:00",
+  "ts": "2026-10-09T19:51:14+00:00",
   "title": "UltraTech: 28 owned emitters lack an independent estimate",
   "detail": "UltraTech Cement Ambedkar Nagar Cement Plant, UltraTech Cement Arakkonam Cement Plant, UltraTech Cement Bagheri Cement Plant, UltraTech Cement Bara Cement Plant, UltraTech Cement Bathinda Cement Plant, UltraTech Cement Cuttack Cement Plant",
   "evidence_ids": [

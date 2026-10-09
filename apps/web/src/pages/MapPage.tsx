@@ -8,8 +8,21 @@ import { ScorecardPanel } from "../components/ScorecardPanel";
 import { Button, cx } from "../components/ui";
 import { useApp } from "../lib/store";
 
+function useDesktop() {
+  const q = "(min-width: 1024px)";
+  const [d, setD] = useState(() => matchMedia(q).matches);
+  useEffect(() => {
+    const m = matchMedia(q);
+    const on = () => setD(m.matches);
+    m.addEventListener("change", on);
+    return () => m.removeEventListener("change", on);
+  }, []);
+  return d;
+}
+
 export function MapPage() {
   const { plant, audit, startAudit, companies, loadError } = useApp();
+  const desktop = useDesktop();
   const [intro, setIntro] = useState(() => { try { return localStorage.getItem("et-intro") !== "seen"; } catch { return true; } });
   const [sheet, setSheet] = useState<"score" | "agent" | "plant">("score");
   useEffect(() => { if (audit.open) setSheet("agent"); }, [audit.open]);
@@ -28,17 +41,17 @@ export function MapPage() {
       )}
 
       {/* desktop */}
-      <div className="pointer-events-none absolute inset-x-3 top-[68px] bottom-3 z-10 hidden gap-3 lg:flex">
+      {desktop && <div className="pointer-events-none absolute inset-x-3 top-[68px] bottom-3 z-10 flex gap-3">
         <div className="glass animate-slide-in-left pointer-events-auto w-[400px] shrink-0 overflow-y-auto rounded-2xl"><ScorecardPanel /></div>
         <div className="flex min-w-0 flex-1 flex-col items-start gap-3">
           <div className="pointer-events-auto"><MapControls /></div>
           {intro && !audit.open && companies.length > 0 && <Intro onClose={dismiss} onAudit={(s) => { dismiss(); startAudit(s); }} />}
         </div>
         {right && <div className="pointer-events-auto w-[420px] shrink-0">{right}</div>}
-      </div>
+      </div>}
 
       {/* mobile / tablet: bottom sheet */}
-      <div className="absolute inset-x-0 bottom-0 z-30 lg:hidden">
+      {!desktop && <div className="absolute inset-x-0 bottom-0 z-30">
         {intro && !audit.open && companies.length > 0 && <div className="px-3 pb-2"><Intro onClose={dismiss} onAudit={(s) => { dismiss(); startAudit(s); }} /></div>}
         <div className="px-3 pb-2"><div className="pointer-events-auto inline-block"><MapControls /></div></div>
         <div className="glass flex max-h-[52vh] flex-col rounded-t-2xl">
@@ -54,7 +67,7 @@ export function MapPage() {
             {sheet === "plant" && plant && <PlantDrawer />}
           </div>
         </div>
-      </div>
+      </div>}
     </div>
   );
 }

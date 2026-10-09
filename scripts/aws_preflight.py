@@ -1,14 +1,37 @@
-"""Read-only identity preflight; does not validate budgets or model invocation."""
-import os, shutil, subprocess, sys
-if not shutil.which("aws"):
-    sys.exit("AWS CLI missing. Install/configure it before deployment.")
-required = ["AWS_ACCOUNT_ID", "CDK_DEFAULT_ACCOUNT", "BEDROCK_TEXT_MODEL_ID", "BEDROCK_FAST_MODEL_ID", "BEDROCK_EMBED_MODEL_ID"]
-missing = [key for key in required if not os.getenv(key)]
-if missing:
-    sys.exit("Missing environment keys: " + ", ".join(missing) + ". Export .env before running.")
-result = subprocess.run(["aws", "sts", "get-caller-identity", "--profile", os.getenv("AWS_PROFILE", "energy-truth"), "--query", "Account", "--output", "text"], capture_output=True, text=True)
-if result.returncode:
-    sys.exit("AWS identity check failed; verify your named profile.")
-if result.stdout.strip() != os.environ["AWS_ACCOUNT_ID"] or os.environ["CDK_DEFAULT_ACCOUNT"] != os.environ["AWS_ACCOUNT_ID"]:
-    sys.exit("AWS profile and deployment account do not match.")
-print("AWS identity matches deployment account. Bedrock invocation, budget and Amplify checks remain manual P0 prerequisites.")
+"""AGENTS.md Step 1 checks with boto3 (no AWS CLI needed): identity, Bedrock text + embedding call, budget, quota."""
+import json
+import os
+import sys
+
+sys.path[:0] = ["packages/core"]
+from et_core.config import settings  # noqa: E402  (loads .env)
+
+ok = True
+
+
+def check(name, fn):
+    global ok
+    try:
+        print(f"✓ {name}: {fn()}")
+    except Exception as e:  # report every failure, keep going
+        ok = False
+        print(f"✗ {name}: {type(e).__name__}: {str(e)[:200]}")
+
+
+import boto3  # noqa: E402
+
+session = boto3.Session(profile_name=os.environ.get("AWS_PROFILE") or None, region_name=settings.region)
+check("identity", lambda: session.client("sts").get_caller_identity()["Account"])
+def account_matches():
+    a = session.client("sts").get_caller_identity()["Account"]
+    if a != os.environ.get("AWS_ACCOUNT_ID"):
+        raise ValueError(f"profile account {a} != AWS_ACCOUNT_ID in .env")
+    return a
+
+
+check("account matches .env", account_matches)
+check("bedrock text", lambda: session.client("bedrock-runtime").converse(modelId=settings.bedrock_fast_model, messages=[{"role": "user", "content": [{"text": "Reply with OK"}]}], inferenceConfig={"maxTokens": 5})["output"]["message"]["content"][0]["text"])
+check("bedrock embed", lambda: len(json.loads(session.client("bedrock-runtime").invoke_model(modelId=settings.bedrock_embed_model, body=json.dumps({"inputText": "NTPC"}))["body"].read())["embedding"]))
+check("budgets", lambda: [b["BudgetName"] for b in session.client("budgets").describe_budgets(AccountId=session.client("sts").get_caller_identity()["Account"]).get("Budgets", [])] or "none — create the $50 budget (Step 1.A)")
+check("sagemaker g5 quota", lambda: next((q["Value"] for q in session.client("service-quotas").list_service_quotas(ServiceCode="sagemaker", MaxResults=100)["Quotas"] if "ml.g5.xlarge for endpoint usage" in q["QuotaName"]), "not listed in first page"))
+sys.exit(0 if ok else 1)
