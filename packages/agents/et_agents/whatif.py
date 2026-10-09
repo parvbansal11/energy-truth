@@ -49,6 +49,7 @@ def scope2_whatif(symbol: str, re_share_pct: float, shift_pct: float, region: st
         "ef_version": ind["ef_version"],
         "forecast_grid_t": grid_t,
         "forecast_grid_band_t": [lo_t, hi_t],
+        "after_shift_t": grid_t + delta_shift,
         "scenario_t": scen,
         "delta_vs_baseline_t": scen - ind["value_t"],
         "delta_vs_baseline_pct": (scen - ind["value_t"]) / ind["value_t"] * 100,
