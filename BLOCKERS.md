@@ -29,3 +29,13 @@
 - Every Nova/Titan call returns `ValidationException: Operation not allowed`; `get_foundation_model_availability` says `authorizationStatus: NOT_AUTHORIZED` although IAM (AdministratorAccess) allows `bedrock:InvokeModel`. This is AWS's new-account restriction.
 - Fallback in use: rules-based BRSR extraction, trigram entity resolution, template narrator. Bedrock turns on automatically (`BEDROCK_ENABLED=auto`) once lifted.
 - Human: open AWS Support → Account and billing → "Bedrock: Operation not allowed on new account 950177940759, please enable model access".
+
+## 2026-10-11 · CloudFront blocked until account verification
+- `CREATE_FAILED AWS::CloudFront::Distribution: Your account must be verified before you can add new CloudFront resources.`
+- Fallback in use: Caddy on the EC2 box with a Let's Encrypt certificate for `<elastic-ip>.sslip.io`. Human (optional): ask AWS Support to verify the account; then CloudFront can front the EC2 origin.
+
+## 2026-10-11 · SageMaker endpoint quotas still 0
+- `ml.g5.xlarge` / `ml.c5.2xlarge` endpoint quotas are 0 in us-east-1 and ap-south-1 (requests were filed in ap-south-1, still "Case Opened"). Chronos-2 runs on CPU on the EC2 box instead; the SageMaker path stays behind `deployChronos=true`.
+
+## 2026-10-11 · Gemini free-tier limits
+- `gemini-flash-latest` returned 429 after the 26-company extraction run. The chain now uses `gemini-3.5-flash` (thinking off) first and rotates models on 429/503; the local Ollama model and templates remain behind it.

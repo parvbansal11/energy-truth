@@ -1,5 +1,12 @@
 # Progress
 
+## 2026-10-11 · Deployed on AWS, 25 companies, live add, interactive analysis
+- **Live:** site on Amplify (`https://main.d3txtcxpzzsi8p.amplifyapp.com`) calling the EC2 backend (`https://52-203-18-31.sslip.io`, t3.xlarge, Caddy TLS). The Lambda + API Gateway API (`https://3n5w9upgdd.execute-api.us-east-1.amazonaws.com`) stays as fallback. S3/DynamoDB/Cognito/Secrets Manager/EventBridge/SNS/CloudWatch deployed by CDK.
+- **Golden path on EC2:** `wss://52-203-18-31.sslip.io/ws` audit of NTPC → 9/9 nodes, PDF report.
+- **AI:** Bedrock quota is 0 (support case open), so Gemini (`gemini-3.5-flash`) answers; local Ollama and templates behind it. Strands judge verified on Gemini with tool calls.
+- **Data:** 25 companies, 717 plants; reported Scope 1 now for 8 companies (NTPC, Tata Steel, Tata Power, Reliance, Jindal Steel, IOC, JSW Energy, ACC). Verified numbers unchanged (NTPC 327.0 / 361.1 / z 1.43; Tata 78.0 / 30.8 / −4.42).
+- **Tests:** pytest 34 passed, 5 skipped; Playwright 4/4 against local dev.
+
 Branch `build/plan-end-to-end` implements plan phases P0–P8 on real data, locally verified (2026-10-10 IST).
 AWS deployment is blocked on the human Step 1 (no AWS CLI, credentials or `.env` on this machine; see BLOCKERS.md).
 The earlier GPT session's demo (commit `7c64bd1`) was a browser-only Climate TRACE viewer; this branch replaces it with the full plan.
