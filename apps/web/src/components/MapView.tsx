@@ -144,6 +144,7 @@ export function MapView() {
         markers.push(new maplibregl.Marker({ element: node }).setLngLat(at).addTo(m));
       }
     }
+    const pins: { el: HTMLElement; at: [number, number]; w: number; pri: number }[] = [];
     for (const sym of Object.keys(app.assetsBy)) {
       const pts = app.assetsBy[sym].filter((a) => a.ct && isIndia(a) && a.lat != null);
       const tot = pts.reduce((t, a) => t + (E(a) || 0), 0);
@@ -160,8 +161,22 @@ export function MapView() {
       node.innerHTML = `<span class="grid h-5 w-5 place-items-center rounded-full text-[9px] font-semibold ${active ? "bg-white/15" : "bg-[#f0eee8]"}">${sc.short.slice(0, 2).toUpperCase()}</span>${sc.short}<span class="ml-0.5 inline-flex items-center gap-1 ${active ? "text-white/70" : "text-[#77736a]"}"><span class="h-1.5 w-1.5 rounded-full" style="background:${dot}"></span>${z != null ? signed(z, 1) : "no filing"}</span>`;
       node.onclick = (e) => { e.stopPropagation(); select(sym); };
       markers.push(new maplibregl.Marker({ element: node, anchor: "bottom", offset: [0, -14] }).setLngLat([lon, lat]).addTo(m));
+      pins.push({ el: node, at: [lon, lat], w: 64 + sc.short.length * 7, pri: active ? Infinity : (z != null ? 1e12 : 0) + tot });
     }
-    return () => markers.forEach((k) => k.remove());
+    // declutter: selected company first, then by emissions; hide any pin that would overlap one already shown
+    pins.sort((a, b) => b.pri - a.pri);
+    const declutter = () => {
+      const placed: { x: number; y: number; w: number }[] = [];
+      for (const p of pins) {
+        const { x, y } = m.project(p.at);
+        const hit = placed.some((q) => Math.abs(q.x - x) < (q.w + p.w) / 2 + 6 && Math.abs(q.y - y) < 32);
+        p.el.style.visibility = hit ? "hidden" : "visible";
+        if (!hit) placed.push({ x, y, w: p.w });
+      }
+    };
+    declutter();
+    m.on("moveend", declutter);
+    return () => { m.off("moveend", declutter); markers.forEach((k) => k.remove()); };
   }, [ready, focus, grid, layers.grid, app.assetsBy, scorecards, selected]);
 
   // ---------------------------------------------------------------- focus mode: terrain-pinned plant markers

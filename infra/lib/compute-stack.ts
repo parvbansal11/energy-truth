@@ -101,7 +101,7 @@ EOF`,
       // free local model for summaries when neither Bedrock nor Gemini answers
       "curl -fsSL https://ollama.com/install.sh | sh || true",
       "systemctl enable --now ollama || true",
-      "(sleep 5; ollama pull qwen2.5:3b) > /var/log/ollama-pull.log 2>&1 &",
+      "(sleep 5; HOME=/root ollama pull qwen2.5:3b) > /var/log/ollama-pull.log 2>&1 &",
       // the first release may not be uploaded yet; scripts/ec2_release.py runs et-release again via SSM
       "/usr/local/bin/et-release || echo 'release not available yet'",
     );
