@@ -203,5 +203,21 @@
   "evidence_ids": [
    "est:JSWENERGY:S1:FY2024-25:independent"
   ]
+ },
+ {
+  "alert_id": "alert:INDIACEMENTS:LOW_COVERAGE",
+  "company": "INDIACEMENTS",
+  "type": "LOW_COVERAGE",
+  "severity": "medium",
+  "ts": "2026-10-11T08:49:42+00:00",
+  "title": "India Cements: 2 owned emitters lack an independent estimate",
+  "detail": "India Cements Athipatttu Cement Plant, India Cements Parli Cement Plant",
+  "evidence_ids": [
+   "ev_api_payload_ed231ed025",
+   "ev_api_payload_1d00224248",
+   "ev_api_payload_e6d100875d",
+   "ev_api_payload_28b8d99fd4",
+   "ev_api_payload_aab3146f74"
+  ]
  }
 ]

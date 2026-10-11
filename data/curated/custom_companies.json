@@ -1,0 +1,13 @@
+[
+ {
+  "symbol": "INDIACEMENTS",
+  "name": "India Cements Ltd",
+  "short": "India Cements",
+  "entity_id": "E100002002166",
+  "cin": null,
+  "sector": "Cement",
+  "boundary": "standalone",
+  "custom": true,
+  "brsr": []
+ }
+]

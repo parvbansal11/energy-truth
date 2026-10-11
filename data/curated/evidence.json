@@ -9054,5 +9054,216 @@
    "pdf_evidence_id": "ev_pdf_ddead0ebe6",
    "engine": "gemini:gemini-flash-lite-latest"
   }
+ },
+ {
+  "id": "ev_api_payload_4c50c5f2c2",
+  "kind": "api_payload",
+  "title": "GEM entity E100002002166 \u00b7 India Cements Ltd",
+  "publisher": "Global Energy Monitor",
+  "url": "https://api.globalenergymonitor.org/entities/E100002002166",
+  "retrieved_at": "2026-10-11T08:49:38+00:00",
+  "sha256": "aa9367d12efa7b03f1f8dc5aa532df4aadebfbc1ca391e98d0c6d095a47da903",
+  "local_path": "data/raw/gem/entity_E100002002166.json",
+  "page": null,
+  "quote": "",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
+  "meta": {}
+ },
+ {
+  "id": "ev_api_payload_ed231ed025",
+  "kind": "api_payload",
+  "title": "GEM assets eventually owned by E100002002166 (11 units)",
+  "publisher": "Global Energy Monitor",
+  "url": "https://api.globalenergymonitor.org/assets?owner_entity_id=E100002002166&limit=200&offset=0",
+  "retrieved_at": "2026-10-11T08:49:38+00:00",
+  "sha256": "ff4a321167f1aab3252f53e3a5bcfb66bdcec7f72a861d97bba6193a5e0c35d1",
+  "local_path": "data/raw/gem/assets_E100002002166_0.json",
+  "page": null,
+  "quote": "",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
+  "meta": {
+   "total": 11,
+   "locations": 11
+  }
+ },
+ {
+  "id": "ev_api_payload_1d00224248",
+  "kind": "api_payload",
+  "title": "GEM ownership graph (down) from E100002002166",
+  "publisher": "Global Energy Monitor",
+  "url": "https://api.globalenergymonitor.org/ownership/graph?root=E100002002166&direction=down&max_depth=10",
+  "retrieved_at": "2026-10-11T08:49:38+00:00",
+  "sha256": "caf58bda86a130006bd5fc66fe3ef5d7029c845e727acc6d973083e0da11da44",
+  "local_path": "data/raw/gem/graph_E100002002166.json",
+  "page": null,
+  "quote": "",
+  "license": "GEM Ownership Tracker \u00b7 CC BY 4.0 attribution to Global Energy Monitor",
+  "meta": {}
+ },
+ {
+  "id": "ev_api_payload_e6d100875d",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 sources owned by E100002002166, CY2023",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources?ownerIds=E100002002166&year=2023&gas=co2e_100yr&limit=1000",
+  "retrieved_at": "2026-10-11T08:49:38+00:00",
+  "sha256": "caac196c6b0a1cc3fe67fa79d6b38ec7311786cc41e14c1c6d3a535be765cc5b",
+  "local_path": "data/raw/climatetrace/sources_E100002002166_2023.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "owner_id": "E100002002166",
+   "year": 2023,
+   "count": 7
+  }
+ },
+ {
+  "id": "ev_api_payload_28b8d99fd4",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 sources owned by E100002002166, CY2024",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources?ownerIds=E100002002166&year=2024&gas=co2e_100yr&limit=1000",
+  "retrieved_at": "2026-10-11T08:49:39+00:00",
+  "sha256": "be7b706cc6fd6db5ad27ac51b0dc1aaa59b82d1d434237f07ddb246160c5a0dc",
+  "local_path": "data/raw/climatetrace/sources_E100002002166_2024.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "owner_id": "E100002002166",
+   "year": 2024,
+   "count": 7
+  }
+ },
+ {
+  "id": "ev_api_payload_aab3146f74",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 sources owned by E100002002166, CY2025",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources?ownerIds=E100002002166&year=2025&gas=co2e_100yr&limit=1000",
+  "retrieved_at": "2026-10-11T08:49:39+00:00",
+  "sha256": "f9041b1cff054c2cd7536d821d123ecda12cc53e0a004a503610431ac2f26913",
+  "local_path": "data/raw/climatetrace/sources_E100002002166_2025.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "owner_id": "E100002002166",
+   "year": 2025,
+   "count": 7
+  }
+ },
+ {
+  "id": "ev_api_payload_3a760e23b0",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 source 1896947 \u00b7 India Cements Alathiyur Cement Plant",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources/1896947",
+  "retrieved_at": "2026-10-11T08:49:39+00:00",
+  "sha256": "7b8817e6514b90ad41e9f40e4344160d280c314b2098c1d10e1a314b6053fd13",
+  "local_path": "data/raw/climatetrace/detail/1896947.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "source_id": 1896947
+  }
+ },
+ {
+  "id": "ev_api_payload_b7d6d313ab",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 source 1896949 \u00b7 India Cements Malkapur Cement Plant",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources/1896949",
+  "retrieved_at": "2026-10-11T08:49:39+00:00",
+  "sha256": "8141713365924cc908d7561d6333c9dcf7d8a2bcf33a5799ec2bbe232a971769",
+  "local_path": "data/raw/climatetrace/detail/1896949.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "source_id": 1896949
+  }
+ },
+ {
+  "id": "ev_api_payload_3cec1437dd",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 source 32438546 \u00b7 India Cements Wadapally Cement Plant",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources/32438546",
+  "retrieved_at": "2026-10-11T08:49:40+00:00",
+  "sha256": "2355e36c864e24f83bc5e4c6c2b6390b1c7b5570f330f1842aa99ec19df71e3a",
+  "local_path": "data/raw/climatetrace/detail/32438546.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "source_id": 32438546
+  }
+ },
+ {
+  "id": "ev_api_payload_5d288c058f",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 source 1896948 \u00b7 India Cements Chilamakuru Cement Plant",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources/1896948",
+  "retrieved_at": "2026-10-11T08:49:40+00:00",
+  "sha256": "66410783858dcfbc62fa823f2048e7278319d199c418427d2558536d7d2d6738",
+  "local_path": "data/raw/climatetrace/detail/1896948.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "source_id": 1896948
+  }
+ },
+ {
+  "id": "ev_api_payload_9411cd69bf",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 source 1896950 \u00b7 India Cements Sankari West Cement Plant",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources/1896950",
+  "retrieved_at": "2026-10-11T08:49:40+00:00",
+  "sha256": "eff5084d7bf8c9da53f3fa7a18954719648956c83e24349769e80234ae31aa0e",
+  "local_path": "data/raw/climatetrace/detail/1896950.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "source_id": 1896950
+  }
+ },
+ {
+  "id": "ev_api_payload_9442484a1c",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 source 32438547 \u00b7 India Cements YSR District Cement Plant",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources/32438547",
+  "retrieved_at": "2026-10-11T08:49:40+00:00",
+  "sha256": "d31c7ad139503bd0d1afa4072e4eaaadd6fd28d9a3ea3c1f7fd167089244fcbf",
+  "local_path": "data/raw/climatetrace/detail/32438547.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "source_id": 32438547
+  }
+ },
+ {
+  "id": "ev_api_payload_2b11717757",
+  "kind": "api_payload",
+  "title": "Climate TRACE v7 source 1896951 \u00b7 India Cements Sankarnagar Cement Plant",
+  "publisher": "Climate TRACE",
+  "url": "https://api.climatetrace.org/v7/sources/1896951",
+  "retrieved_at": "2026-10-11T08:49:41+00:00",
+  "sha256": "fb072df5862001629b45095bb49b12bf001f5f88a02a06b225c1b450dbc61173",
+  "local_path": "data/raw/climatetrace/detail/1896951.json",
+  "page": null,
+  "quote": "",
+  "license": "Climate TRACE terms (attribution required) \u00b7 https://climatetrace.org/terms",
+  "meta": {
+   "source_id": 1896951
+  }
  }
 ]

@@ -103,9 +103,13 @@ def build(state: dict, out_dir: Path | None = None) -> Path:
         pdf.set_font("Helvetica", "B", 11)
         pdf.cell(0, 7, "Coverage", new_x="LMARGIN", new_y="NEXT")
         pdf.set_font("Helvetica", "", 9)
-        pdf.multi_cell(0, 5, _t(f"{cov['ct_linked_assets']} Climate TRACE-linked assets vs {cov['gem_assets']} GEM units (rho = {cov['rho']:.3f}). "
-                                f"{cov['operating_emitting_matched']} of {cov['operating_emitting_locations']} operating emitting locations inside the {cov.get('boundary', '')} boundary have an independent estimate "
-                                f"(rho_eff = {cov['rho_effective']:.2f}) {cite(cov['evidence_ids'][0])}. Missing: {', '.join(cov.get('unmatched_emitting', [])[:10]) or 'none'}."))
+        n_ct, n_gem = cov["ct_linked_assets"], cov["gem_assets"]
+        m, t = cov["operating_emitting_matched"], cov["operating_emitting_locations"]
+        pdf.multi_cell(0, 5, _t(f"{m} of {t} operating emitting {'plant' if t == 1 else 'plants'} inside the {cov.get('boundary', '')} boundary "
+                                f"{'has' if m == 1 else 'have'} an independent estimate: {cov['rho_effective']:.0%} effective coverage {cite(cov['evidence_ids'][0])}. "
+                                f"Across all {n_gem} GEM-listed {'unit' if n_gem == 1 else 'units'} (including non-emitting, non-operating and out-of-boundary ones), "
+                                f"{n_ct} {'has' if n_ct == 1 else 'have'} a Climate TRACE estimate ({cov['rho']:.0%}). "
+                                f"Owned emitters with no estimate: {', '.join(cov.get('unmatched_emitting', [])[:10]) or 'none'}."))
         pdf.ln(2)
 
     band = (state.get("forecast") or {}).get("band")
@@ -114,7 +118,7 @@ def build(state: dict, out_dir: Path | None = None) -> Path:
         pdf.cell(0, 7, "Chronos-2 forecast band", new_x="LMARGIN", new_y="NEXT")
         pdf.set_font("Helvetica", "", 9)
         pdf.multi_cell(0, 5, _t(f"{band['fy']}: scaled band {band['q10_t'] / 1e6:,.1f} - {band['q90_t'] / 1e6:,.1f} Mt (median {band['q50_t'] / 1e6:,.1f}); "
-                                f"BRSR {band['reported_t'] / 1e6:,.1f} Mt {cite(band['reported_evidence_id'])} -> {'FORECAST_BAND_BREACH' if band['breach'] else 'within band'}. "
+                                f"BRSR {band['reported_t'] / 1e6:,.1f} Mt {cite(band['reported_evidence_id'])} is {'OUTSIDE the expected range' if band['breach'] else 'inside the expected range'}. "
                                 f"Band = {band['history_months']} observed + {band['forecast_months']} forecast months, scaled by {band['scale_rule']} ({band['scale']:.3f})."))
         pdf.ln(2)
 
@@ -123,11 +127,15 @@ def build(state: dict, out_dir: Path | None = None) -> Path:
     if assets:
         pdf.set_font("Helvetica", "B", 11)
         pdf.cell(0, 7, "Largest plants (Climate TRACE, CY2024)", new_x="LMARGIN", new_y="NEXT")
+        pdf.set_font("Helvetica", "B", 7.5)
+        for w, h in [(95, "Plant"), (25, "CY2024 CO2e"), (25, "Owned share"), (25, "CT confidence"), (20, "Source")]:
+            pdf.cell(w, 5.5, h, border="B")
+        pdf.ln()
         pdf.set_font("Helvetica", "", 8)
         for a in assets:
             pdf.cell(95, 5.5, _t(a["name"][:55]), border="B")
             pdf.cell(25, 5.5, _t(f"{a['ct']['emissions_t'].get('2024', 0) / 1e6:,.2f} Mt"), border="B")
-            pdf.cell(25, 5.5, _t(f"w={a['ownership_weight']:.2f}"), border="B")
+            pdf.cell(25, 5.5, _t(f"{a['ownership_weight']:.0%}"), border="B")
             pdf.cell(25, 5.5, _t(a["ct"].get("confidence", "")), border="B")
             pdf.cell(20, 5.5, _t(cite(a["evidence_ids"][-1] if a.get("evidence_ids") else None)), border="B", new_x="LMARGIN", new_y="NEXT")
         pdf.ln(3)
@@ -136,7 +144,13 @@ def build(state: dict, out_dir: Path | None = None) -> Path:
     nar = state.get("narrative") or {}
     if nar.get("narrative"):
         pdf.set_font("Helvetica", "B", 11)
-        pdf.cell(0, 7, _t(f"Auditor note ({nar.get('engine')})"), new_x="LMARGIN", new_y="NEXT")
+        pdf.cell(0, 7, "Auditor's note", new_x="LMARGIN", new_y="NEXT")
+        eng = str(nar.get("engine") or "template")
+        who = "a deterministic template" if eng.startswith("template") else eng.split(" ")[0].split(":", 1)[-1]
+        pdf.set_font("Helvetica", "I", 7.5)
+        pdf.set_text_color(*MUTED)
+        pdf.multi_cell(0, 4, _t(f"Written by {who}. Each sentence restates one cited fact; any sentence that changed a number or added a claim was replaced by the checked template."), new_x="LMARGIN", new_y="NEXT")
+        pdf.set_text_color(*INK)
         pdf.set_font("Helvetica", "", 9)
         import re
 

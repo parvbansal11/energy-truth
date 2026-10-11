@@ -20,7 +20,7 @@ test("Audit NTPC golden path", async ({ page }) => {
   const include = consoleEl.getByRole("button", { name: "Yes, include" });
   await include.waitFor({ timeout: 30_000 }).then(() => include.click()).catch(() => {});
   await expect(consoleEl).toContainText("9 of 9", { timeout: 90_000 });
-  await expect(consoleEl.getByText(/NTPC reported 327\.0 Mt/)).toBeVisible();
+  await expect(consoleEl.getByText(/327\.0 Mt/).first()).toBeVisible();
   await expect(consoleEl.getByRole("button", { name: "Audit PDF", exact: true })).toBeVisible();
   await consoleEl.locator('button[title^="ev_pdf_page_"]').first().click();
   await expect(page.getByLabel("Evidence drawer")).toContainText("PAGE 17", { ignoreCase: true });

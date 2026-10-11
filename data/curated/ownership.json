@@ -2491,5 +2491,68 @@
   "match_method": "unmatched",
   "match_score": 0.0,
   "review_status": "unmatched"
+ },
+ {
+  "company": "INDIACEMENTS",
+  "asset_id": "ct:1896947",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.985,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "INDIACEMENTS",
+  "asset_id": "ct:1896949",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.853,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "INDIACEMENTS",
+  "asset_id": "ct:32438546",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "INDIACEMENTS",
+  "asset_id": "ct:1896948",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "INDIACEMENTS",
+  "asset_id": "ct:1896950",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "INDIACEMENTS",
+  "asset_id": "ct:32438547",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "INDIACEMENTS",
+  "asset_id": "ct:1896951",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
  }
 ]

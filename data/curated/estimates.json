@@ -2054,5 +2054,66 @@
    "ev_pdf_page_b372b53dc2",
    "ev_constant_d1e09d4c7a"
   ]
+ },
+ {
+  "estimate_id": "est:INDIACEMENTS:S1:FY2024-25:independent",
+  "company": "INDIACEMENTS",
+  "scope": "S1",
+  "period": "FY2024-25",
+  "method": "ct_ownership_weighted_fy_aligned",
+  "value_t": 6669582.357996748,
+  "sigma_t": 1626414.767789432,
+  "components": {
+   "assets_t": 581161.2494070067,
+   "systematic_t": 333479.11789983744,
+   "coverage_t": 1481981.199946877
+  },
+  "flags": [
+   "LOW_COVERAGE"
+  ],
+  "evidence_ids": [
+   "ev_api_payload_1d00224248",
+   "ev_api_payload_28b8d99fd4",
+   "ev_api_payload_2b11717757",
+   "ev_api_payload_3a760e23b0",
+   "ev_api_payload_3cec1437dd",
+   "ev_api_payload_5d288c058f",
+   "ev_api_payload_9411cd69bf",
+   "ev_api_payload_9442484a1c",
+   "ev_api_payload_aab3146f74",
+   "ev_api_payload_b7d6d313ab",
+   "ev_api_payload_e6d100875d",
+   "ev_api_payload_ed231ed025"
+  ],
+  "contributors": [
+   {
+    "asset_id": "ct:1896947",
+    "value_t": 2217657.1508872434
+   },
+   {
+    "asset_id": "ct:1896949",
+    "value_t": 1008745.4184825174
+   },
+   {
+    "asset_id": "ct:32438546",
+    "value_t": 1000572.906123472
+   },
+   {
+    "asset_id": "ct:1896950",
+    "value_t": 682988.323760665
+   },
+   {
+    "asset_id": "ct:1896948",
+    "value_t": 655767.8312417015
+   },
+   {
+    "asset_id": "ct:1896951",
+    "value_t": 576880.6583932163
+   },
+   {
+    "asset_id": "ct:32438547",
+    "value_t": 526970.0691079325
+   }
+  ]
  }
 ]

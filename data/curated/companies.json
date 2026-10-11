@@ -1446,5 +1446,44 @@
   "evidence_ids": [
    "ev_api_payload_8355b00fde"
   ]
+ },
+ {
+  "symbol": "INDIACEMENTS",
+  "name": "India Cements Ltd",
+  "short": "India Cements",
+  "sector": "Cement",
+  "entity_id": "E100002002166",
+  "ct_owner_id": "E100002002166",
+  "gem_entity_id": "E100002002166",
+  "cin": null,
+  "lei": "335800NXO131RZADZW42",
+  "home_page": "https://www.indiacements.co.in/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 7,
+   "gem_assets": 11,
+   "gem_locations": 11,
+   "rho": 0.6364,
+   "operating_emitting_locations": 9,
+   "operating_emitting_matched": 7,
+   "rho_effective": 0.7778,
+   "unmatched_emitting": [
+    "India Cements Athipatttu Cement Plant",
+    "India Cements Parli Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_ed231ed025",
+    "ev_api_payload_1d00224248",
+    "ev_api_payload_e6d100875d",
+    "ev_api_payload_28b8d99fd4",
+    "ev_api_payload_aab3146f74"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_4c50c5f2c2"
+  ]
  }
 ]

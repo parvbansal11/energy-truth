@@ -225,7 +225,7 @@ def run(refresh: bool = False, skip_forecast: bool = False, only: list[str] | No
                 estimates.append({"estimate_id": f"est:{sym}:S1:{COMPARE_FY}:{kind}", "company": sym, "scope": "S1", "period": COMPARE_FY, "method": kind, "value_t": v, "sigma_t": s, "evidence_ids": eids})
         else:
             scope1["reported"] = None
-            scope1["verdict"] = {"code": "no_disclosure", "label": "No disclosure ingested", "tone": "slate", "text": "BRSR not yet extracted for this company; independent rebuild only."}
+            scope1["verdict"] = {"code": "no_disclosure", "label": "No BRSR filing yet", "tone": "slate", "text": "We have not ingested a BRSR filing for this company yet, so there is no reported figure to compare. The independent rebuild is shown on its own."}
         sc["scopes"]["S1"] = scope1
 
         # --- Scope 2: BRSR MWh x CEA EF

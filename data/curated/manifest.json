@@ -33,13 +33,14 @@
   "HINDPETRO",
   "GAIL",
   "JSWENERGY",
-  "IOC"
+  "IOC",
+  "INDIACEMENTS"
  ],
  "counts": {
-  "assets": 762,
-  "evidence": 551,
+  "assets": 728,
+  "evidence": 564,
   "estimates": 46,
   "alerts": 13
  },
- "updated_at": "2026-10-11T08:32:15+00:00"
+ "updated_at": "2026-10-11T08:49:43+00:00"
 }
