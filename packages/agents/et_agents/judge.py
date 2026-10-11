@@ -6,7 +6,7 @@ from __future__ import annotations
 
 import json
 
-from strands import Agent, tool
+from strands import Agent, ModelRetryStrategy, tool
 
 from et_core.config import settings
 
@@ -55,10 +55,10 @@ def evidence_lookup(evidence_id: str) -> str:
 def _models():
     """Strands models in the shared chain's order (et_core.llm): Bedrock, then each Gemini model."""
     from et_core.config import env
-    from et_core.llm import GEMINI_FALLBACK_MODELS, _secret, providers
+    from et_core.llm import GEMINI_FALLBACK_MODELS, _model_down, _secret, bedrock_usable, providers, thinking_knob
 
     for p in providers():
-        if p == "bedrock":
+        if p == "bedrock" and bedrock_usable():  # Strands' own retries are slow on a zero-quota account
             from strands.models import BedrockModel
 
             yield BedrockModel(model_id=settings.bedrock_text_model, region_name=settings.region, temperature=0.1), f"bedrock:{settings.bedrock_text_model}"
@@ -66,7 +66,17 @@ def _models():
             from strands.models.gemini import GeminiModel
 
             for mid in dict.fromkeys((env("GEMINI_MODEL", "gemini-3.5-flash"), *GEMINI_FALLBACK_MODELS)):
-                yield GeminiModel(client_args={"api_key": _secret("GEMINI_API_KEY")}, model_id=mid, params={"temperature": 0.1}), f"gemini:{mid}"
+                if __import__("time").time() - _model_down.get(mid, 0) <= 600:
+                    continue
+                params = {"temperature": 0.1, **({"thinking_config": {"thinking_budget": 0}} if thinking_knob(mid) else {})}
+                yield GeminiModel(client_args={"api_key": _secret("GEMINI_API_KEY")}, model_id=mid, params=params), f"gemini:{mid}"
+        elif p == "ollama":
+            try:
+                from strands.models.ollama import OllamaModel
+            except ImportError:  # the `ollama` client is installed on the EC2 box only
+                continue
+            mid = env("OLLAMA_MODEL", "qwen2.5:3b")
+            yield OllamaModel(host=env("OLLAMA_URL", "http://127.0.0.1:11434"), model_id=mid, temperature=0.1), f"ollama:{mid}"
 
 
 def ask(question: str) -> dict:
@@ -76,11 +86,15 @@ def ask(question: str) -> dict:
 
     errors = []
     for model, name in _models():
-        agent = Agent(model=model, system_prompt=SYSTEM, tools=[list_scorecards, company_plants, grid_intensity_latest, evidence_lookup], callback_handler=None)
+        # fail fast on throttling (free-tier Gemini) and move to the next model instead of backing off for minutes
+        agent = Agent(model=model, system_prompt=SYSTEM, tools=[list_scorecards, company_plants, grid_intensity_latest, evidence_lookup], callback_handler=None,
+                      retry_strategy=ModelRetryStrategy(max_attempts=2, initial_delay=2, max_delay=4))
         try:
             return {"available": True, "answer": str(agent(question)), "model": name}
         except Exception as e:  # throttled / busy model: move on to the next one
             errors.append(f"{name}: {type(e).__name__}")
             if name.startswith("bedrock"):
                 llm._down["bedrock"] = time.time()
+            if name.startswith("gemini") and "Throttl" in type(e).__name__:
+                llm._model_down[name.split(":", 1)[1]] = time.time()
     return {"available": False, "reason": "No AI provider answered: " + "; ".join(errors) if errors else "No AI provider is configured."}

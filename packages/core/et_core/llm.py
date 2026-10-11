@@ -18,7 +18,8 @@ import urllib.request
 from .config import env, settings
 
 COOLDOWN_S = 300
-GEMINI_FALLBACK_MODELS = ("gemini-flash-latest", "gemini-3.5-flash-lite", "gemini-flash-lite-latest")
+GEMINI_FALLBACK_MODELS = ("gemini-flash-latest", "gemini-3.1-flash-lite", "gemini-3.5-flash-lite", "gemini-flash-lite-latest")
+_model_down: dict[str, float] = {}  # Gemini models out of free quota (429) are skipped for a while
 _down: dict[str, float] = {}
 _secret_cache: dict[str, str] | None = None
 
@@ -44,6 +45,18 @@ def _secret(key: str) -> str:
             except Exception:
                 pass
     return _secret_cache.get(key, "")
+
+
+def bedrock_usable() -> bool:
+    """One-token probe (fails in <1 s on a zero-quota account), cached via the shared cooldown."""
+    if not settings.bedrock_enabled or time.time() - _down.get("bedrock", 0) <= COOLDOWN_S:
+        return False
+    try:
+        _bedrock("ping", None, 1, 0.0, False)
+        return True
+    except Exception:
+        _down["bedrock"] = time.time()
+        return False
 
 
 def providers() -> list[str]:
@@ -74,7 +87,7 @@ def _bedrock(prompt: str, system: str | None, max_tokens: int, temperature: floa
 def _gemini(prompt: str, system: str | None, max_tokens: int, temperature: float, json_mode: bool) -> tuple[str, str]:
     key = _secret("GEMINI_API_KEY")
     # thinking off: these are short, fully-specified tasks, and thinking tokens count against maxOutputTokens
-    cfg: dict = {"temperature": temperature, "maxOutputTokens": max_tokens, "thinkingConfig": {"thinkingBudget": 0}}
+    cfg: dict = {"temperature": temperature, "maxOutputTokens": max_tokens}
     if json_mode:
         cfg["responseMimeType"] = "application/json"
     body: dict = {"contents": [{"role": "user", "parts": [{"text": prompt}]}], "generationConfig": cfg}
@@ -82,10 +95,11 @@ def _gemini(prompt: str, system: str | None, max_tokens: int, temperature: float
         body["systemInstruction"] = {"parts": [{"text": system}]}
     last: Exception | None = None
     primary = env("GEMINI_MODEL", "gemini-3.5-flash")
-    order = [primary, *[m for m in GEMINI_FALLBACK_MODELS if m != primary], primary]
+    order = [m for m in dict.fromkeys([primary, *GEMINI_FALLBACK_MODELS]) if time.time() - _model_down.get(m, 0) > 600]
     for attempt, model in enumerate(order):
         if attempt:
-            time.sleep(min(2 * attempt, 6))  # busy models usually recover within seconds
+            time.sleep(1)
+        body["generationConfig"] = {**cfg, **({"thinkingConfig": {"thinkingBudget": 0}} if thinking_knob(model) else {})}
         try:
             r = _post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", body, {"x-goog-api-key": key}, 150)
             parts = r["candidates"][0]["content"].get("parts", [])
@@ -95,12 +109,16 @@ def _gemini(prompt: str, system: str | None, max_tokens: int, temperature: float
             last = LLMUnavailable(f"{model} returned no text ({r['candidates'][0].get('finishReason')})")
         except urllib.error.HTTPError as e:  # 429/503 = busy or out of free quota: try the next model
             last = e
-            if e.code == 400 and "thinkingConfig" in body["generationConfig"]:  # model without a thinking budget knob
-                body["generationConfig"].pop("thinkingConfig")
-                continue
-            if e.code not in (404, 429, 500, 503):
+            if e.code in (404, 429):
+                _model_down[model] = time.time()
+            if e.code not in (400, 404, 429, 500, 503):
                 break
     raise last or LLMUnavailable("gemini failed")
+
+
+def thinking_knob(model: str) -> bool:
+    """Models that accept thinkingConfig.thinkingBudget (the -lite aliases reject it except 3.1)."""
+    return "lite" not in model or model.startswith("gemini-3.1")
 
 
 def _ollama(prompt: str, system: str | None, max_tokens: int, temperature: float, json_mode: bool) -> tuple[str, str]:
