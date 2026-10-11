@@ -15,9 +15,9 @@
   "max_zoom": 8,
   "title": "VIIRS Day/Night Band radiance (Suomi NPP)",
   "why": "Industrial night-time energy activity proxy",
-  "date": "2026-10-09",
-  "template": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_SNPP_DayNightBand_At_Sensor_Radiance/default/2026-10-09/GoogleMapsCompatible_Level8/{z}/{y}/{x}.png",
-  "evidence_id": "ev_tile_31cf16c103"
+  "date": "2026-10-10",
+  "template": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_SNPP_DayNightBand_At_Sensor_Radiance/default/2026-10-10/GoogleMapsCompatible_Level8/{z}/{y}/{x}.png",
+  "evidence_id": "ev_tile_bac826b977"
  },
  "truecolor": {
   "id": "VIIRS_SNPP_CorrectedReflectance_TrueColor",
@@ -25,8 +25,8 @@
   "max_zoom": 9,
   "title": "VIIRS corrected reflectance true colour",
   "why": "Daily cloud/haze context",
-  "date": "2026-10-09",
-  "template": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_SNPP_CorrectedReflectance_TrueColor/default/2026-10-09/GoogleMapsCompatible_Level9/{z}/{y}/{x}.png",
-  "evidence_id": "ev_tile_1f2a772939"
+  "date": "2026-10-10",
+  "template": "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_SNPP_CorrectedReflectance_TrueColor/default/2026-10-10/GoogleMapsCompatible_Level9/{z}/{y}/{x}.png",
+  "evidence_id": "ev_tile_f407ad452a"
  }
 }

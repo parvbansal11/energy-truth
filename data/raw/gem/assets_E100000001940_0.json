@@ -1,0 +1,988 @@
+{
+  "total": 36,
+  "total_asset_count": 36,
+  "total_location_count": 14,
+  "limit": 200,
+  "offset": 0,
+  "count": 36,
+  "results": [
+    {
+      "asset_id": "L100000102390_G100000101628",
+      "location_id": "L100000102390",
+      "asset_name": "Coastal Maharashtra Project Phase I",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.75,
+      "longitude": 72.9583,
+      "wiki_url": "https://www.gem.wiki/Coastal_Maharashtra_Project",
+      "unit_name": "Phase I",
+      "url": "/assets/L100000102390_G100000101628",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Coastal Maharashtra Project"
+    },
+    {
+      "asset_id": "L100000102390_G100000101629",
+      "location_id": "L100000102390",
+      "asset_name": "Coastal Maharashtra Project Phase II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.75,
+      "longitude": 72.9583,
+      "wiki_url": "https://www.gem.wiki/Coastal_Maharashtra_Project",
+      "unit_name": "Phase II",
+      "url": "/assets/L100000102390_G100000101629",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Coastal Maharashtra Project"
+    },
+    {
+      "asset_id": "L100000102256_G100000101946",
+      "location_id": "L100000102256",
+      "asset_name": "Danbhum power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.78,
+      "longitude": 86.72,
+      "wiki_url": "https://www.gem.wiki/Danbhum_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102256_G100000101946",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Danbhum power station"
+    },
+    {
+      "asset_id": "L100000102256_G100000101947",
+      "location_id": "L100000102256",
+      "asset_name": "Danbhum power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.78,
+      "longitude": 86.72,
+      "wiki_url": "https://www.gem.wiki/Danbhum_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102256_G100000101947",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Danbhum power station"
+    },
+    {
+      "asset_id": "L100000102268_G100000105333",
+      "location_id": "L100000102268",
+      "asset_name": "Jojobera Power Plant Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.7554,
+      "longitude": 86.2491,
+      "wiki_url": "https://www.gem.wiki/Jojobera_Power_Plant",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102268_G100000105333",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jojobera Power Plant"
+    },
+    {
+      "asset_id": "L100000102268_G100000105334",
+      "location_id": "L100000102268",
+      "asset_name": "Jojobera Power Plant Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.7554,
+      "longitude": 86.2491,
+      "wiki_url": "https://www.gem.wiki/Jojobera_Power_Plant",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102268_G100000105334",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jojobera Power Plant"
+    },
+    {
+      "asset_id": "L100000102268_G100000105335",
+      "location_id": "L100000102268",
+      "asset_name": "Jojobera Power Plant Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.7554,
+      "longitude": 86.2491,
+      "wiki_url": "https://www.gem.wiki/Jojobera_Power_Plant",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102268_G100000105335",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jojobera Power Plant"
+    },
+    {
+      "asset_id": "L100000102268_G100000105336",
+      "location_id": "L100000102268",
+      "asset_name": "Jojobera Power Plant Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.7554,
+      "longitude": 86.2491,
+      "wiki_url": "https://www.gem.wiki/Jojobera_Power_Plant",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102268_G100000105336",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jojobera Power Plant"
+    },
+    {
+      "asset_id": "L100000102268_G100000105337",
+      "location_id": "L100000102268",
+      "asset_name": "Jojobera Power Plant Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.7554,
+      "longitude": 86.2491,
+      "wiki_url": "https://www.gem.wiki/Jojobera_Power_Plant",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102268_G100000105337",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jojobera Power Plant"
+    },
+    {
+      "asset_id": "M0678",
+      "location_id": "M0678",
+      "asset_name": "KPC Operation Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 50.0,
+      "capacity_unit": "Mtpa",
+      "country": "Indonesia",
+      "state_province": "East Kalimantan",
+      "latitude": 0.823979,
+      "longitude": 117.599032,
+      "wiki_url": "https://www.gem.wiki/KPC_Operation",
+      "unit_name": null,
+      "url": "/assets/M0678",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100001000864",
+          "name": "PT Kaltim Prima Coal",
+          "ownership_share": 100.0,
+          "hq_country": "Indonesia"
+        }
+      ],
+      "project_name": "KPC Operation Coal Mine"
+    },
+    {
+      "asset_id": "L100000102274_G100000106187",
+      "location_id": "L100000102274",
+      "asset_name": "Latehar power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.73,
+      "longitude": 84.47,
+      "wiki_url": "https://www.gem.wiki/Latehar_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102274_G100000106187",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Latehar power station"
+    },
+    {
+      "asset_id": "L100000102274_G100000106188",
+      "location_id": "L100000102274",
+      "asset_name": "Latehar power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.73,
+      "longitude": 84.47,
+      "wiki_url": "https://www.gem.wiki/Latehar_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102274_G100000106188",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Latehar power station"
+    },
+    {
+      "asset_id": "L100000104340_G100000106397",
+      "location_id": "L100000104340",
+      "asset_name": "Long Phu Power Centre Unit 2-1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "Vietnam",
+      "state_province": "Soc Trang",
+      "latitude": 9.70894,
+      "longitude": 106.08183,
+      "wiki_url": "https://www.gem.wiki/Long_Phu_Power_Centre",
+      "unit_name": "Unit 2-1",
+      "url": "/assets/L100000104340_G100000106397",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Long Phu Power Centre"
+    },
+    {
+      "asset_id": "L100000104340_G100000106398",
+      "location_id": "L100000104340",
+      "asset_name": "Long Phu Power Centre Unit 2-2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "Vietnam",
+      "state_province": "Soc Trang",
+      "latitude": 9.70894,
+      "longitude": 106.08183,
+      "wiki_url": "https://www.gem.wiki/Long_Phu_Power_Centre",
+      "unit_name": "Unit 2-2",
+      "url": "/assets/L100000104340_G100000106398",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Long Phu Power Centre"
+    },
+    {
+      "asset_id": "L100000102276_G100000106595",
+      "location_id": "L100000102276",
+      "asset_name": "Maithon Right Bank Thermal Power Station Phase II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1320.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.8209,
+      "longitude": 86.76,
+      "wiki_url": "https://www.gem.wiki/Maithon_Right_Bank_Thermal_Power_Station",
+      "unit_name": "Phase II",
+      "url": "/assets/L100000102276_G100000106595",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100000120811",
+          "name": "Maithon Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Maithon Right Bank Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102276_G100000106596",
+      "location_id": "L100000102276",
+      "asset_name": "Maithon Right Bank Thermal Power Station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 525.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.8209,
+      "longitude": 86.76,
+      "wiki_url": "https://www.gem.wiki/Maithon_Right_Bank_Thermal_Power_Station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102276_G100000106596",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100000120811",
+          "name": "Maithon Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Maithon Right Bank Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102276_G100000106597",
+      "location_id": "L100000102276",
+      "asset_name": "Maithon Right Bank Thermal Power Station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 525.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.8209,
+      "longitude": 86.76,
+      "wiki_url": "https://www.gem.wiki/Maithon_Right_Bank_Thermal_Power_Station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102276_G100000106597",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100000120811",
+          "name": "Maithon Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Maithon Right Bank Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000103066_G100000107857",
+      "location_id": "L100000103066",
+      "asset_name": "Pathein power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "country": "Myanmar",
+      "state_province": "Ayeyarwady",
+      "latitude": 16.518722,
+      "longitude": 94.301304,
+      "wiki_url": "https://www.gem.wiki/Pathein_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000103066_G100000107857",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001010160",
+          "name": "Tata Power Pathein",
+          "ownership_share": 100.0,
+          "hq_country": "Myanmar"
+        }
+      ],
+      "project_name": "Pathein power station"
+    },
+    {
+      "asset_id": "L100000103066_G100000107858",
+      "location_id": "L100000103066",
+      "asset_name": "Pathein power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 330.0,
+      "capacity_unit": "MW",
+      "country": "Myanmar",
+      "state_province": "Ayeyarwady",
+      "latitude": 16.518722,
+      "longitude": 94.301304,
+      "wiki_url": "https://www.gem.wiki/Pathein_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000103066_G100000107858",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001010160",
+          "name": "Tata Power Pathein",
+          "ownership_share": 100.0,
+          "hq_country": "Myanmar"
+        }
+      ],
+      "project_name": "Pathein power station"
+    },
+    {
+      "asset_id": "L100000407590_G100000409905",
+      "location_id": "L100000407590",
+      "asset_name": "Rithala Gas power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 108.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Delhi",
+      "latitude": 28.7327,
+      "longitude": 77.1016,
+      "wiki_url": "https://www.gem.wiki/Rithala_Gas_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407590_G100000409905",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001928",
+          "name": "National Capital Territory of Delhi",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rithala Gas power plant"
+    },
+    {
+      "asset_id": "L100000102505_G100000109981",
+      "location_id": "L100000102505",
+      "asset_name": "Tata Begunia power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 2000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 19.27,
+      "longitude": 84.92,
+      "wiki_url": "https://www.gem.wiki/Tata_Begunia_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102505_G100000109981",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Begunia power station"
+    },
+    {
+      "asset_id": "L100000102230_G100000109982",
+      "location_id": "L100000102230",
+      "asset_name": "Tata Mundra Ultra Mega Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8158,
+      "longitude": 69.5281,
+      "wiki_url": "https://www.gem.wiki/Tata_Mundra_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102230_G100000109982",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Mundra Ultra Mega Power Project"
+    },
+    {
+      "asset_id": "L100000102230_G100000109983",
+      "location_id": "L100000102230",
+      "asset_name": "Tata Mundra Ultra Mega Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8158,
+      "longitude": 69.5281,
+      "wiki_url": "https://www.gem.wiki/Tata_Mundra_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102230_G100000109983",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Mundra Ultra Mega Power Project"
+    },
+    {
+      "asset_id": "L100000102230_G100000109984",
+      "location_id": "L100000102230",
+      "asset_name": "Tata Mundra Ultra Mega Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8158,
+      "longitude": 69.5281,
+      "wiki_url": "https://www.gem.wiki/Tata_Mundra_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102230_G100000109984",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Mundra Ultra Mega Power Project"
+    },
+    {
+      "asset_id": "L100000102230_G100000109985",
+      "location_id": "L100000102230",
+      "asset_name": "Tata Mundra Ultra Mega Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8158,
+      "longitude": 69.5281,
+      "wiki_url": "https://www.gem.wiki/Tata_Mundra_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102230_G100000109985",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Mundra Ultra Mega Power Project"
+    },
+    {
+      "asset_id": "L100000102230_G100000109986",
+      "location_id": "L100000102230",
+      "asset_name": "Tata Mundra Ultra Mega Power Project Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8158,
+      "longitude": 69.5281,
+      "wiki_url": "https://www.gem.wiki/Tata_Mundra_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102230_G100000109986",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Mundra Ultra Mega Power Project"
+    },
+    {
+      "asset_id": "L100000102230_G100000109987",
+      "location_id": "L100000102230",
+      "asset_name": "Tata Mundra Ultra Mega Power Project Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 830.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8158,
+      "longitude": 69.5281,
+      "wiki_url": "https://www.gem.wiki/Tata_Mundra_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102230_G100000109987",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Mundra Ultra Mega Power Project"
+    },
+    {
+      "asset_id": "L100000102230_G100000109988",
+      "location_id": "L100000102230",
+      "asset_name": "Tata Mundra Ultra Mega Power Project Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 830.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 22.8158,
+      "longitude": 69.5281,
+      "wiki_url": "https://www.gem.wiki/Tata_Mundra_Ultra_Mega_Power_Project",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102230_G100000109988",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tata Mundra Ultra Mega Power Project"
+    },
+    {
+      "asset_id": "L100000102289_G100000110187",
+      "location_id": "L100000102289",
+      "asset_name": "Tiruldih Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.141111,
+      "longitude": 85.957778,
+      "wiki_url": "https://www.gem.wiki/Tiruldih_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102289_G100000110187",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tiruldih Power Project"
+    },
+    {
+      "asset_id": "L100000102289_G100000110188",
+      "location_id": "L100000102289",
+      "asset_name": "Tiruldih Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.141111,
+      "longitude": 85.957778,
+      "wiki_url": "https://www.gem.wiki/Tiruldih_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102289_G100000110188",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tiruldih Power Project"
+    },
+    {
+      "asset_id": "L100000102289_G100000110189",
+      "location_id": "L100000102289",
+      "asset_name": "Tiruldih Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.141111,
+      "longitude": 85.957778,
+      "wiki_url": "https://www.gem.wiki/Tiruldih_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102289_G100000110189",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tiruldih Power Project"
+    },
+    {
+      "asset_id": "L100000401487_G100000401457",
+      "location_id": "L100000401487",
+      "asset_name": "Trombay Combined Cycle power plant 46024.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 180.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.0018,
+      "longitude": 72.8967,
+      "wiki_url": "https://www.gem.wiki/Trombay_Combined_Cycle_power_plant",
+      "unit_name": "46024.0",
+      "url": "/assets/L100000401487_G100000401457",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Trombay Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000102433_G100000113424",
+      "location_id": "L100000102433",
+      "asset_name": "Trombay power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.0027,
+      "longitude": 72.8979,
+      "wiki_url": "https://www.gem.wiki/Trombay_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102433_G100000113424",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Trombay power station"
+    },
+    {
+      "asset_id": "L100000102433_G100000110337",
+      "location_id": "L100000102433",
+      "asset_name": "Trombay power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.0027,
+      "longitude": 72.8979,
+      "wiki_url": "https://www.gem.wiki/Trombay_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102433_G100000110337",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Trombay power station"
+    },
+    {
+      "asset_id": "L100000102433_G100000110338",
+      "location_id": "L100000102433",
+      "asset_name": "Trombay power station Unit 6 conversion",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.0027,
+      "longitude": 72.8979,
+      "wiki_url": "https://www.gem.wiki/Trombay_power_station",
+      "unit_name": "Unit 6 conversion",
+      "url": "/assets/L100000102433_G100000110338",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Trombay power station"
+    },
+    {
+      "asset_id": "L100000102433_G100000110339",
+      "location_id": "L100000102433",
+      "asset_name": "Trombay power station Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.0027,
+      "longitude": 72.8979,
+      "wiki_url": "https://www.gem.wiki/Trombay_power_station",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102433_G100000110339",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001940",
+          "name": "Tata Power Company Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Trombay power station"
+    }
+  ]
+}

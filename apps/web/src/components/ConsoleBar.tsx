@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { Bell, BookOpen, Check, ChevronDown, ChevronRight, Compass, FileText, FlaskConical, LayoutGrid, LogOut, Map as MapIcon, Radar, Search, Sparkles } from "lucide-react";
+import { Bell, BookOpen, Check, ChevronDown, ChevronRight, Compass, FileText, FlaskConical, LayoutGrid, LogOut, Map as MapIcon, Radar, Search, Sparkles, ScatterChart } from "lucide-react";
 import { api, reportHref } from "../lib/api";
 import type { Session } from "../lib/auth";
 import { go, type Page, type Route } from "../lib/router";
@@ -8,6 +8,7 @@ import { cx, Wordmark } from "./ui";
 
 const PAGES: { page: Page; label: string; icon: typeof MapIcon }[] = [
   { page: "map", label: "Map", icon: MapIcon },
+  { page: "compare", label: "Compare", icon: ScatterChart },
   { page: "grid", label: "Grid", icon: Radar },
   { page: "whatif", label: "What-if", icon: Sparkles },
   { page: "alerts", label: "Alerts", icon: Bell },

@@ -1,0 +1,1069 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100000121281",
+    "full_name": "Shree Cement Ltd",
+    "name": "Shree Cement",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": null,
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.shreecement.com/",
+    "registration_country": "India",
+    "registration_subdivision": "West Bengal",
+    "headquarters_country": "India",
+    "headquarters_subdivision": "West Bengal",
+    "gem_parents": "Shree Cement Ltd [100%]",
+    "gem_parents_ids": "E100000121281 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800W6FNBDUZ89L830",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+    "permid_refinitiv_permanent_identifier": "4295874015",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100000121281",
+      "full_name": "Shree Cement Ltd",
+      "name": "Shree Cement",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.shreecement.com/",
+      "registration_country": "India",
+      "registration_subdivision": "West Bengal",
+      "headquarters_country": "India",
+      "headquarters_subdivision": "West Bengal",
+      "gem_parents": "Shree Cement Ltd [100%]",
+      "gem_parents_ids": "E100000121281 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800W6FNBDUZ89L830",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4295874015",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002006068",
+      "full_name": "Union Cement Company PrJSC",
+      "name": "Union Cement Company",
+      "name_local": "شركة اسمنت الاتحاد ش.م.خ",
+      "name_other": "شركة اسمنت الاتحاد; Union Cement Company PSC",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "PrJSC",
+      "publiclylisted": "0",
+      "home_page": "https://uccrak.com/",
+      "registration_country": "United Arab Emirates",
+      "registration_subdivision": null,
+      "headquarters_country": "United Arab Emirates",
+      "headquarters_subdivision": "Ra’s al Khaymah",
+      "gem_parents": "Shree Cement Ltd [98.4%]",
+      "gem_parents_ids": "E100000121281 [98.4%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "254900IG53DEKUTBNH69",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4298008640",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102519_G100000100086",
+      "location_id": "L100000102519",
+      "unit_id": "G100000100086",
+      "asset_type": "Coal Plant",
+      "asset_name": "Ajmer power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 26.073889,
+      "longitude": 74.385,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Ajmer_power_station",
+      "source_id": 2,
+      "project_name": "Ajmer power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102519_G100000100087",
+      "location_id": "L100000102519",
+      "unit_id": "G100000100087",
+      "asset_type": "Coal Plant",
+      "asset_name": "Ajmer power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 26.073889,
+      "longitude": 74.385,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Ajmer_power_station",
+      "source_id": 2,
+      "project_name": "Ajmer power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102310_G100000110428",
+      "location_id": "L100000102310",
+      "unit_id": "G100000110428",
+      "asset_type": "Coal Plant",
+      "asset_name": "Udupi Cement Plant --",
+      "unit_name": "--",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 13.3389,
+      "longitude": 74.7451,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Udupi_Cement_Plant",
+      "source_id": 2,
+      "project_name": "Udupi Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M3866",
+      "location_id": "M3866",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Datima Coal Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 23.229486,
+      "longitude": 82.961181,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 0.54,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Datima_coal_mine",
+      "source_id": 9,
+      "project_name": "Datima Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124043",
+      "location_id": "P100000124043",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Beawar Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 26.081874,
+      "longitude": 74.380089,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 3.6,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Beawar_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Beawar Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124044",
+      "location_id": "P100000124044",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Benakanahalli Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 17.041739,
+      "longitude": 77.22044,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Benakanahalli_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Benakanahalli Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124045",
+      "location_id": "P100000124045",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Ras Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 26.268063,
+      "longitude": 74.188744,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 4.4,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Ras_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Ras Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124046",
+      "location_id": "P100000124046",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Raipur Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.602223,
+      "longitude": 82.041492,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Raipur_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Raipur Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124047",
+      "location_id": "P100000124047",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Laksar Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 29.758381,
+      "longitude": 78.062049,
+      "country": "India",
+      "state_province": "Uttarakhand",
+      "capacity_value": 1.8,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Laksar_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Laksar Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124048",
+      "location_id": "P100000124048",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Jaipur Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 26.931614,
+      "longitude": 75.394888,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Jaipur_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Jaipur Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124049",
+      "location_id": "P100000124049",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Aurangabad Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.774342,
+      "longitude": 84.354352,
+      "country": "India",
+      "state_province": "Bihar",
+      "capacity_value": 3.6,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Aurangabad_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Aurangabad Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124050",
+      "location_id": "P100000124050",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Rajarampur Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 28.480534,
+      "longitude": 77.658796,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 2.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Rajarampur_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Rajarampur Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124051",
+      "location_id": "P100000124051",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Panipat Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 29.396089,
+      "longitude": 76.889313,
+      "country": "India",
+      "state_province": "Haryana",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Panipat_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Panipat Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124052",
+      "location_id": "P100000124052",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Khushkhera Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 28.121957,
+      "longitude": 76.777883,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 3.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Khushkhera_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Khushkhera Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124053",
+      "location_id": "P100000124053",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Suratgarh Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 29.156732,
+      "longitude": 73.865416,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 3.6,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Suratgarh_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Suratgarh Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124054",
+      "location_id": "P100000124054",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Hansda Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.753658,
+      "longitude": 85.85646,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Hansda_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Hansda Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124544",
+      "location_id": "P100000124544",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Nawalgarh Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 27.792137,
+      "longitude": 75.335504,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 3.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Nawalgarh_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Nawalgarh Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000125214",
+      "location_id": "P100000125214",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Cuttack Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.531066,
+      "longitude": 85.724538,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Cuttack_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Cuttack Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000125215",
+      "location_id": "P100000125215",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Guntur Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 16.519321,
+      "longitude": 79.731654,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Guntur_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Guntur Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000125216",
+      "location_id": "P100000125216",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Patas Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 18.473183,
+      "longitude": 74.456715,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Patas_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Patas Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000125217",
+      "location_id": "P100000125217",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Purulia Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.632621,
+      "longitude": 86.795083,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Purulia_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Purulia Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000126784",
+      "location_id": "P100000126784",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Shree Cement Nigoh Hasanpur Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 27.494932,
+      "longitude": 78.814881,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Nigoh_Hasanpur_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Shree Cement Nigoh Hasanpur Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000126947",
+      "location_id": "P100000126947",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Union Cement Company Khor Khwair Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 25.967619,
+      "longitude": 56.064434,
+      "country": "United Arab Emirates",
+      "state_province": "Ras Al Khaimah",
+      "capacity_value": 4.8,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Union_Cement_Company_Khor_Khwair_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Union Cement Company Khor Khwair Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100000121281",
+      "target": "E100002006068",
+      "value": 98.4,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "L100000102519_G100000100086",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "L100000102519_G100000100087",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "L100000102310_G100000110428",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "M3866",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124043",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124044",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124045",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124046",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124047",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124048",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124049",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124050",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124051",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124052",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124053",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124054",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000124544",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000125214",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000125215",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000125216",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000125217",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121281",
+      "target": "P100000126784",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002006068",
+      "target": "P100000126947",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    }
+  ],
+  "paths": {
+    "E100000121281": [
+      {
+        "route": [
+          "E100000121281"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002006068": [
+      {
+        "route": [
+          "E100000121281",
+          "E100002006068"
+        ],
+        "cumulative_pct": 98.4
+      }
+    ],
+    "P100000126947": [
+      {
+        "route": [
+          "E100000121281",
+          "E100002006068",
+          "P100000126947"
+        ],
+        "cumulative_pct": 98.4
+      }
+    ],
+    "L100000102519_G100000100086": [
+      {
+        "route": [
+          "E100000121281",
+          "L100000102519_G100000100086"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102519_G100000100087": [
+      {
+        "route": [
+          "E100000121281",
+          "L100000102519_G100000100087"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102310_G100000110428": [
+      {
+        "route": [
+          "E100000121281",
+          "L100000102310_G100000110428"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M3866": [
+      {
+        "route": [
+          "E100000121281",
+          "M3866"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124043": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124043"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124044": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124044"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124045": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124045"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124046": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124046"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124047": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124047"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124048": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124048"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124049": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124049"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124050": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124050"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124051": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124051"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124052": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124052"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124053": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124053"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124054": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124054"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124544": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000124544"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000125214": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000125214"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000125215": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000125215"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000125216": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000125216"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000125217": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000125217"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000126784": [
+      {
+        "route": [
+          "E100000121281",
+          "P100000126784"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "P100000125214",
+    "P100000125215",
+    "L100000102519_G100000100086",
+    "P100000124050",
+    "P100000124045",
+    "P100000125217",
+    "P100000124053",
+    "P100000124048",
+    "P100000126784",
+    "P100000124051",
+    "P100000124544",
+    "P100000126947",
+    "P100000125216",
+    "M3866",
+    "P100000124049",
+    "P100000124043",
+    "P100000124054",
+    "L100000102519_G100000100087",
+    "P100000124046",
+    "L100000102310_G100000110428",
+    "P100000124044",
+    "P100000124052",
+    "P100000124047"
+  ],
+  "truncated_node_ids": []
+}

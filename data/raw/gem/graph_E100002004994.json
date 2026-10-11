@@ -1,0 +1,946 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100002004994",
+    "full_name": "ACC Ltd",
+    "name": "ACC",
+    "name_local": null,
+    "name_other": "Associated Cement Companies [FORMER]",
+    "abbreviation": null,
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.acclimited.com/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Mahārāshtra",
+    "gem_parents": "ACC Ltd [100%]",
+    "gem_parents_ids": "E100002004994 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800569A6H12LH4677",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L26940MH1936PLC002515",
+    "permid_refinitiv_permanent_identifier": "4295872413",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100002004994",
+      "full_name": "ACC Ltd",
+      "name": "ACC",
+      "name_local": null,
+      "name_other": "Associated Cement Companies [FORMER]",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.acclimited.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Mahārāshtra",
+      "gem_parents": "ACC Ltd [100%]",
+      "gem_parents_ids": "E100002004994 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800569A6H12LH4677",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L26940MH1936PLC002515",
+      "permid_refinitiv_permanent_identifier": "4295872413",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002005660",
+      "full_name": "Asian Fine Cements Pvt Ltd",
+      "name": "Asian Fine Cements",
+      "name_local": null,
+      "name_other": "Asia Fine Cements",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pvt Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Chandīgarh",
+      "gem_parents": "ACC Ltd [100.0%]",
+      "gem_parents_ids": "E100002004994 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "98450015B850E06F4928",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5069475339",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123976",
+      "location_id": "P100000123976",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Bardol Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.372104,
+      "longitude": 83.61546,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Bardol_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Bardol Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123977",
+      "location_id": "P100000123977",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Barmana Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 31.413701,
+      "longitude": 76.834892,
+      "country": "India",
+      "state_province": "Himachal Pradesh",
+      "capacity_value": 4.64,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Barmana_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Barmana Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123978",
+      "location_id": "P100000123978",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Cementnagar Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 19.919046,
+      "longitude": 79.113259,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 3.8,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Cementnagar_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Cementnagar Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123979",
+      "location_id": "P100000123979",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Jamul Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.239354,
+      "longitude": 81.383196,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Jamul_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Jamul Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123980",
+      "location_id": "P100000123980",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Jhinkpani Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.424461,
+      "longitude": 85.753248,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1.2,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Jhinkpani_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Jhinkpani Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123981",
+      "location_id": "P100000123981",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Kymore Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.054744,
+      "longitude": 80.613003,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 2.72,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Kymore_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Kymore Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123982",
+      "location_id": "P100000123982",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Ametha Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.009317,
+      "longitude": 80.529783,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 1.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Ametha_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Ametha Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123983",
+      "location_id": "P100000123983",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Lakheri Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 25.670752,
+      "longitude": 76.188927,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Lakheri_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Lakheri Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123984",
+      "location_id": "P100000123984",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Madukkarai Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 10.906571,
+      "longitude": 76.955751,
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "capacity_value": 1.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Madukkarai_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Madukkarai Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123985",
+      "location_id": "P100000123985",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Wadi Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 17.062828,
+      "longitude": 76.978304,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 5.79,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Wadi_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Wadi Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123991",
+      "location_id": "P100000123991",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Sindri Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.663137,
+      "longitude": 86.500554,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Sindri_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Sindri Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123992",
+      "location_id": "P100000123992",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Kudithini Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 15.215663,
+      "longitude": 76.781365,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Kudithini_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Kudithini Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000123993",
+      "location_id": "P100000123993",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Gauriganj Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 26.190592,
+      "longitude": 81.706283,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 3.91,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Gauriganj_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Gauriganj Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124002",
+      "location_id": "P100000124002",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Sunuri Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.637114,
+      "longitude": 86.887733,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 0.7,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Sunuri_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Sunuri Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124003",
+      "location_id": "P100000124003",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Thondebhavi Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 13.499152,
+      "longitude": 77.509404,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 1.6,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Thondebhavi_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Thondebhavi Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124142",
+      "location_id": "P100000124142",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Visakhapatnam Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 17.709591,
+      "longitude": 83.154501,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 0.3,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Visakhapatnam_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Visakhapatnam Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124152",
+      "location_id": "P100000124152",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Nalagarh Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 31.037155,
+      "longitude": 76.629773,
+      "country": "India",
+      "state_province": "Himachal Pradesh",
+      "capacity_value": 1.3,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Nalagarh_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Nalagarh Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124489",
+      "location_id": "P100000124489",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Kharagpur Cement Plant",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 22.32771,
+      "longitude": 87.280232,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Kharagpur_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Kharagpur Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000127209",
+      "location_id": "P100000127209",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "ACC Salai Banwa Cement Plant",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 24.435104,
+      "longitude": 83.012897,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 2.4,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/ACC_Salai_Banwa_Cement_Plant",
+      "source_id": 11,
+      "project_name": "ACC Salai Banwa Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124507",
+      "location_id": "P100000124507",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Asian Fine Cements Rajpura Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 30.423781,
+      "longitude": 76.716928,
+      "country": "India",
+      "state_province": "Punjab",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Asian_Fine_Cements_Rajpura_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Asian Fine Cements Rajpura Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100002004994",
+      "target": "E100002005660",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123976",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123977",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123978",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123979",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123980",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123981",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123982",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123983",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123984",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123985",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123991",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123992",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000123993",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000124002",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000124003",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000124142",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000124152",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000124489",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004994",
+      "target": "P100000127209",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002005660",
+      "target": "P100000124507",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    }
+  ],
+  "paths": {
+    "E100002004994": [
+      {
+        "route": [
+          "E100002004994"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002005660": [
+      {
+        "route": [
+          "E100002004994",
+          "E100002005660"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124507": [
+      {
+        "route": [
+          "E100002004994",
+          "E100002005660",
+          "P100000124507"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123976": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123976"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123977": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123977"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123978": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123978"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123979": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123979"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123980": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123980"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123981": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123981"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123982": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123982"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123983": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123983"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123984": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123984"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123985": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123985"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123991": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123991"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123992": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123992"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000123993": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000123993"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124002": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000124002"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124003": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000124003"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124142": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000124142"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124152": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000124152"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124489": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000124489"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000127209": [
+      {
+        "route": [
+          "E100002004994",
+          "P100000127209"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "P100000124142",
+    "P100000123983",
+    "P100000124489",
+    "P100000124002",
+    "P100000123981",
+    "P100000123993",
+    "P100000124507",
+    "P100000124152",
+    "P100000123980",
+    "P100000123985",
+    "P100000123992",
+    "P100000127209",
+    "P100000123976",
+    "P100000123979",
+    "P100000123977",
+    "P100000124003",
+    "P100000123984",
+    "P100000123991",
+    "P100000123982",
+    "P100000123978"
+  ],
+  "truncated_node_ids": []
+}

@@ -1,0 +1,3247 @@
+{
+  "total": 119,
+  "total_asset_count": 119,
+  "total_location_count": 39,
+  "limit": 200,
+  "offset": 0,
+  "count": 119,
+  "results": [
+    {
+      "asset_id": "L100000102444_G100000100228",
+      "location_id": "L100000102444",
+      "asset_name": "Angul Steel power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102444_G100000100228",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Steel power station"
+    },
+    {
+      "asset_id": "L100000102444_G100000100229",
+      "location_id": "L100000102444",
+      "asset_name": "Angul Steel power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102444_G100000100229",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Steel power station"
+    },
+    {
+      "asset_id": "L100000102444_G100000100230",
+      "location_id": "L100000102444",
+      "asset_name": "Angul Steel power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102444_G100000100230",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Steel power station"
+    },
+    {
+      "asset_id": "L100000102444_G100000100231",
+      "location_id": "L100000102444",
+      "asset_name": "Angul Steel power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102444_G100000100231",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Steel power station"
+    },
+    {
+      "asset_id": "L100000102444_G100000100232",
+      "location_id": "L100000102444",
+      "asset_name": "Angul Steel power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102444_G100000100232",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Steel power station"
+    },
+    {
+      "asset_id": "L100000102444_G100000100233",
+      "location_id": "L100000102444",
+      "asset_name": "Angul Steel power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102444_G100000100233",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Steel power station"
+    },
+    {
+      "asset_id": "L100000100107_G100000101578",
+      "location_id": "L100000100107",
+      "asset_name": "CIC Domestic power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "Botswana",
+      "state_province": "Central",
+      "latitude": -23.609295,
+      "longitude": 26.774952,
+      "wiki_url": "https://www.gem.wiki/CIC_Domestic_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000100107_G100000101578",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100001001101",
+          "name": "Jindal (BVI) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Virgin Islands (British)"
+        }
+      ],
+      "project_name": "CIC Domestic power station"
+    },
+    {
+      "asset_id": "P100000129360",
+      "location_id": "P100000129360",
+      "asset_name": "Camina Ngovayang Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "Cameroon",
+      "state_province": "South Region",
+      "latitude": 3.079358,
+      "longitude": 10.422408,
+      "wiki_url": "https://www.gem.wiki/Camina_Ngovayang_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129360",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002003902",
+          "name": "Camina SA",
+          "ownership_share": 100.0,
+          "hq_country": "Cameroon"
+        }
+      ],
+      "project_name": "Camina Ngovayang Mine"
+    },
+    {
+      "asset_id": "M0739_Base",
+      "location_id": "M0739",
+      "asset_name": "Chirodzi Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 6.0,
+      "capacity_unit": "Mtpa",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -15.914093,
+      "longitude": 33.013188,
+      "wiki_url": "https://www.gem.wiki/Chirodzi_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0739_Base",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100001000532",
+          "name": "JSPL Mozambique Minerais Lda",
+          "ownership_share": 100.0,
+          "hq_country": "Mozambique"
+        }
+      ],
+      "project_name": "Chirodzi Coal Mine"
+    },
+    {
+      "asset_id": "M0739_Expansion",
+      "location_id": "M0739",
+      "asset_name": "Chirodzi Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 8.0,
+      "capacity_unit": "Mtpa",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -15.914093,
+      "longitude": 33.013188,
+      "wiki_url": "https://www.gem.wiki/Chirodzi_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0739_Expansion",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100001000532",
+          "name": "JSPL Mozambique Minerais Lda",
+          "ownership_share": 100.0,
+          "hq_country": "Mozambique"
+        }
+      ],
+      "project_name": "Chirodzi Coal Mine"
+    },
+    {
+      "asset_id": "L100000102142_G100000102407",
+      "location_id": "L100000102142",
+      "asset_name": "Dongamahua Captive Power Plant Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102142_G100000102407",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dongamahua Captive Power Plant"
+    },
+    {
+      "asset_id": "L100000102142_G100000102408",
+      "location_id": "L100000102142",
+      "asset_name": "Dongamahua Captive Power Plant Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102142_G100000102408",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dongamahua Captive Power Plant"
+    },
+    {
+      "asset_id": "L100000102142_G100000102409",
+      "location_id": "L100000102142",
+      "asset_name": "Dongamahua Captive Power Plant Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102142_G100000102409",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dongamahua Captive Power Plant"
+    },
+    {
+      "asset_id": "L100000102142_G100000102410",
+      "location_id": "L100000102142",
+      "asset_name": "Dongamahua Captive Power Plant Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102142_G100000102410",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dongamahua Captive Power Plant"
+    },
+    {
+      "asset_id": "L100000102142_G100000102411",
+      "location_id": "L100000102142",
+      "asset_name": "Dongamahua Captive Power Plant Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102142_G100000102411",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dongamahua Captive Power Plant"
+    },
+    {
+      "asset_id": "L100000102142_G100000102412",
+      "location_id": "L100000102142",
+      "asset_name": "Dongamahua Captive Power Plant Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102142_G100000102412",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dongamahua Captive Power Plant"
+    },
+    {
+      "asset_id": "L100000102260_G100000102486",
+      "location_id": "L100000102260",
+      "asset_name": "Dumka power station (Jindal) --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 2640.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.263371,
+      "longitude": 87.246407,
+      "wiki_url": "https://www.gem.wiki/Dumka_power_station_(Jindal)",
+      "unit_name": "--",
+      "url": "/assets/L100000102260_G100000102486",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dumka power station (Jindal)"
+    },
+    {
+      "asset_id": "L100000102460_G100000102501",
+      "location_id": "L100000102460",
+      "asset_name": "Durgapur Jindal Synfuels captive power plant --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1125.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 23.540541,
+      "longitude": 74.442253,
+      "wiki_url": "https://www.gem.wiki/Durgapur_Jindal_Synfuels_captive_power_plant",
+      "unit_name": "--",
+      "url": "/assets/L100000102460_G100000102501",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120687",
+          "name": "Jindal Synfuels Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Durgapur Jindal Synfuels captive power plant"
+    },
+    {
+      "asset_id": "M0520",
+      "location_id": "M0520",
+      "asset_name": "Gare Palma IV 1 Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.11866,
+      "longitude": 83.53358,
+      "wiki_url": "https://www.gem.wiki/Gare_Palma_IV_1_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M0520",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gare Palma IV 1 Coal Mine"
+    },
+    {
+      "asset_id": "M4437",
+      "location_id": "M4437",
+      "asset_name": "Gare Palma IV 6 Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.11866,
+      "longitude": 83.53358,
+      "wiki_url": "https://www.gem.wiki/Gare_Palma_IV_6_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M4437",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gare Palma IV 6 Coal Mine"
+    },
+    {
+      "asset_id": "L100000102262_G100000103068",
+      "location_id": "L100000102262",
+      "asset_name": "Godda Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.82786,
+      "longitude": 87.213676,
+      "wiki_url": "https://www.gem.wiki/Godda_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102262_G100000103068",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Godda Project"
+    },
+    {
+      "asset_id": "L100000102262_G100000103069",
+      "location_id": "L100000102262",
+      "asset_name": "Godda Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.82786,
+      "longitude": 87.213676,
+      "wiki_url": "https://www.gem.wiki/Godda_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102262_G100000103069",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Godda Project"
+    },
+    {
+      "asset_id": "L100000104361_G100001023647",
+      "location_id": "L100000104361",
+      "asset_name": "Hwange power station Unit 10",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "Zimbabwe",
+      "state_province": "Matabeleland North",
+      "latitude": -18.3831971,
+      "longitude": 26.4696382,
+      "wiki_url": "https://www.gem.wiki/Hwange_power_station",
+      "unit_name": "Unit 10",
+      "url": "/assets/L100000104361_G100001023647",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000121570",
+          "name": "ZESA Holdings Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "Zimbabwe"
+        },
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hwange power station"
+    },
+    {
+      "asset_id": "L100000104361_G100001023648",
+      "location_id": "L100000104361",
+      "asset_name": "Hwange power station Unit 11",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "Zimbabwe",
+      "state_province": "Matabeleland North",
+      "latitude": -18.3831971,
+      "longitude": 26.4696382,
+      "wiki_url": "https://www.gem.wiki/Hwange_power_station",
+      "unit_name": "Unit 11",
+      "url": "/assets/L100000104361_G100001023648",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000121570",
+          "name": "ZESA Holdings Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "Zimbabwe"
+        },
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hwange power station"
+    },
+    {
+      "asset_id": "L100000104361_G100001023649",
+      "location_id": "L100000104361",
+      "asset_name": "Hwange power station Unit 12",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "Zimbabwe",
+      "state_province": "Matabeleland North",
+      "latitude": -18.3831971,
+      "longitude": 26.4696382,
+      "wiki_url": "https://www.gem.wiki/Hwange_power_station",
+      "unit_name": "Unit 12",
+      "url": "/assets/L100000104361_G100001023649",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000121570",
+          "name": "ZESA Holdings Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "Zimbabwe"
+        },
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hwange power station"
+    },
+    {
+      "asset_id": "L100000104361_G100001023646",
+      "location_id": "L100000104361",
+      "asset_name": "Hwange power station Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "Zimbabwe",
+      "state_province": "Matabeleland North",
+      "latitude": -18.3831971,
+      "longitude": 26.4696382,
+      "wiki_url": "https://www.gem.wiki/Hwange_power_station",
+      "unit_name": "Unit 9",
+      "url": "/assets/L100000104361_G100001023646",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000121570",
+          "name": "ZESA Holdings Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "Zimbabwe"
+        },
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hwange power station"
+    },
+    {
+      "asset_id": "P100001044907_U100001050453",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4600.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100001044907_U100001050453",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050454",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown BF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown BF (2)",
+      "url": "/assets/P100001044907_U100001050454",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050452",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown BF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4600.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown BF (3)",
+      "url": "/assets/P100001044907_U100001050452",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050458",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 3300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100001044907_U100001050458",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050461",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100001044907_U100001050461",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050459",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3136.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100001044907_U100001050459",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050460",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3764.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100001044907_U100001050460",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050451",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 2000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100001044907_U100001050451",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050450",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown DRI (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown DRI (2)",
+      "url": "/assets/P100001044907_U100001050450",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001070770",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown DRI (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown DRI (3)",
+      "url": "/assets/P100001044907_U100001070770",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050456",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2459.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100001044907_U100001050456",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100001044907_U100001050457",
+      "location_id": "P100001044907",
+      "asset_name": "JSOL Angul steel plant unknown EAF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3541.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "unit_name": "unknown EAF (2)",
+      "url": "/assets/P100001044907_U100001050457",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002004867",
+          "name": "Jindal Steel Odisha Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSOL Angul steel plant"
+    },
+    {
+      "asset_id": "P100000128482",
+      "location_id": "P100000128482",
+      "asset_name": "JSPL Kasia Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5600.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.061772,
+      "longitude": 85.363544,
+      "wiki_url": "https://www.gem.wiki/JSPL_Kasia_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128482",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSPL Kasia Mine"
+    },
+    {
+      "asset_id": "P100000128486",
+      "location_id": "P100000128486",
+      "asset_name": "JSPL Murgabeda Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.099958,
+      "longitude": 85.447459,
+      "wiki_url": "https://www.gem.wiki/JSPL_Murgabeda_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128486",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSPL Murgabeda Mine"
+    },
+    {
+      "asset_id": "P100000128505",
+      "location_id": "P100000128505",
+      "asset_name": "JSPL TRB Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.885947,
+      "longitude": 85.181524,
+      "wiki_url": "https://www.gem.wiki/JSPL_TRB_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128505",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSPL TRB Mine"
+    },
+    {
+      "asset_id": "P100000129444",
+      "location_id": "P100000129444",
+      "asset_name": "Jindal Africa Melmoth Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "South Africa",
+      "state_province": "KwaZulu-Natal",
+      "latitude": -28.609989,
+      "longitude": 31.53544,
+      "wiki_url": "https://www.gem.wiki/Jindal_Africa_Melmoth_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129444",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100001000533",
+          "name": "Jindal Africa SA",
+          "ownership_share": 100.0,
+          "hq_country": "Guinea"
+        }
+      ],
+      "project_name": "Jindal Africa Melmoth Mine"
+    },
+    {
+      "asset_id": "P100000129443",
+      "location_id": "P100000129443",
+      "asset_name": "Jindal Mining Namibia Khomas Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "Namibia",
+      "state_province": "Khomas",
+      "latitude": -22.522619,
+      "longitude": 17.187293,
+      "wiki_url": "https://www.gem.wiki/Jindal_Mining_Namibia_Khomas_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129443",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100002017278",
+          "name": "Jindal Mining Namibia Pty Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Namibia"
+        }
+      ],
+      "project_name": "Jindal Mining Namibia Khomas Mine"
+    },
+    {
+      "asset_id": "M6682",
+      "location_id": "M6682",
+      "asset_name": "Jindal Mmamabula Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 4.5,
+      "capacity_unit": "Mtpa",
+      "country": "Botswana",
+      "state_province": "Central District",
+      "latitude": -23.601851,
+      "longitude": 26.7864747378233,
+      "wiki_url": "https://www.gem.wiki/Jindal_Mmamabula_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M6682",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100002003320",
+          "name": "Jindal Energy (Botswana) Pty Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Botswana"
+        }
+      ],
+      "project_name": "Jindal Mmamabula Coal Mine"
+    },
+    {
+      "asset_id": "L100000102267_G100000105194",
+      "location_id": "L100000102267",
+      "asset_name": "Jindal Patratu captive power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.691349,
+      "longitude": 85.272247,
+      "wiki_url": "https://www.gem.wiki/Jindal_Patratu_captive_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102267_G100000105194",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Patratu captive power station"
+    },
+    {
+      "asset_id": "L100000102267_G100000113410",
+      "location_id": "L100000102267",
+      "asset_name": "Jindal Patratu captive power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.691349,
+      "longitude": 85.272247,
+      "wiki_url": "https://www.gem.wiki/Jindal_Patratu_captive_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102267_G100000113410",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Patratu captive power station"
+    },
+    {
+      "asset_id": "P100000124518",
+      "location_id": "P100000124518",
+      "asset_name": "Jindal Steel & Power Raigarh Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.911097,
+      "longitude": 83.338243,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_&_Power_Raigarh_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124518",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel & Power Raigarh Cement Plant"
+    },
+    {
+      "asset_id": "P100000120515_U100000141024",
+      "location_id": "P100000120515",
+      "asset_name": "Jindal Steel Angul steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4250.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.884896,
+      "longitude": 84.991539,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Angul_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120515_U100000141024",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Angul steel plant"
+    },
+    {
+      "asset_id": "P100000120515_U100000143597",
+      "location_id": "P100000120515",
+      "asset_name": "Jindal Steel Angul steel plant BOF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.884896,
+      "longitude": 84.991539,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Angul_steel_plant",
+      "unit_name": "BOF 1",
+      "url": "/assets/P100000120515_U100000143597",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Angul steel plant"
+    },
+    {
+      "asset_id": "P100000120515_U100000143325",
+      "location_id": "P100000120515",
+      "asset_name": "Jindal Steel Angul steel plant DRI 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.884896,
+      "longitude": 84.991539,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Angul_steel_plant",
+      "unit_name": "DRI 1",
+      "url": "/assets/P100000120515_U100000143325",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Angul steel plant"
+    },
+    {
+      "asset_id": "P100000120515_U100000141904",
+      "location_id": "P100000120515",
+      "asset_name": "Jindal Steel Angul steel plant unknown EAF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.884896,
+      "longitude": 84.991539,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Angul_steel_plant",
+      "unit_name": "unknown EAF (1)",
+      "url": "/assets/P100000120515_U100000141904",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Angul steel plant"
+    },
+    {
+      "asset_id": "P100000121173_U100000144432",
+      "location_id": "P100000121173",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 6200.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100000121173_U100000144432",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Asanboni steel plant"
+    },
+    {
+      "asset_id": "P100000121173_U100000144428",
+      "location_id": "P100000121173",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1625.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000121173_U100000144428",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Asanboni steel plant"
+    },
+    {
+      "asset_id": "P100000121173_U100000144429",
+      "location_id": "P100000121173",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1625.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000121173_U100000144429",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Asanboni steel plant"
+    },
+    {
+      "asset_id": "P100000121173_U100000144430",
+      "location_id": "P100000121173",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1625.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000121173_U100000144430",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Asanboni steel plant"
+    },
+    {
+      "asset_id": "P100000121173_U100000144431",
+      "location_id": "P100000121173",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1625.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000121173_U100000144431",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Asanboni steel plant"
+    },
+    {
+      "asset_id": "P100001062086_U100001071228",
+      "location_id": "P100001062086",
+      "asset_name": "Jindal Steel Chhattisgarh steel plant unknown iron (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 7500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.895041,
+      "longitude": 83.376759,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Chhattisgarh_steel_plant",
+      "unit_name": "unknown iron (unspecified) (1)",
+      "url": "/assets/P100001062086_U100001071228",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002019742",
+          "name": "Jindal Steel Chhattisgarh Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Chhattisgarh steel plant"
+    },
+    {
+      "asset_id": "P100001062086_U100001071227",
+      "location_id": "P100001062086",
+      "asset_name": "Jindal Steel Chhattisgarh steel plant unknown steel (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 7500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.895041,
+      "longitude": 83.376759,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Chhattisgarh_steel_plant",
+      "unit_name": "unknown steel (unspecified) (1)",
+      "url": "/assets/P100001062086_U100001071227",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100002019742",
+          "name": "Jindal Steel Chhattisgarh Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Chhattisgarh steel plant"
+    },
+    {
+      "asset_id": "P100000121034_U100000145097",
+      "location_id": "P100000121034",
+      "asset_name": "Jindal Steel Krishnapatnam steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.254675,
+      "longitude": 80.108702,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Krishnapatnam_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000121034_U100000145097",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Krishnapatnam steel plant"
+    },
+    {
+      "asset_id": "P100000121034_U100000144921",
+      "location_id": "P100000121034",
+      "asset_name": "Jindal Steel Krishnapatnam steel plant unknown iron (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.254675,
+      "longitude": 80.108702,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Krishnapatnam_steel_plant",
+      "unit_name": "unknown iron (unspecified) (1)",
+      "url": "/assets/P100000121034_U100000144921",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Krishnapatnam steel plant"
+    },
+    {
+      "asset_id": "P100000120542_U100000141069",
+      "location_id": "P100000120542",
+      "asset_name": "Jindal Steel Patratu steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632991,
+      "longitude": 85.325308,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Patratu_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100000120542_U100000141069",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Patratu steel plant"
+    },
+    {
+      "asset_id": "P100000120542_U100000144426",
+      "location_id": "P100000120542",
+      "asset_name": "Jindal Steel Patratu steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632991,
+      "longitude": 85.325308,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Patratu_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120542_U100000144426",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Patratu steel plant"
+    },
+    {
+      "asset_id": "P100000120542_U100000144427",
+      "location_id": "P100000120542",
+      "asset_name": "Jindal Steel Patratu steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632991,
+      "longitude": 85.325308,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Patratu_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120542_U100000144427",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Patratu steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000141027",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120516_U100000141027",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000141028",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2250.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120516_U100000141028",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000141319",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant BF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "BF 3",
+      "url": "/assets/P100000120516_U100000141319",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144417",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant BF 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "BF 4",
+      "url": "/assets/P100000120516_U100000144417",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000141907",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant EAF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1250.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "EAF 1",
+      "url": "/assets/P100000120516_U100000141907",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000143838",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant EAF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "EAF 2",
+      "url": "/assets/P100000120516_U100000143838",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144418",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant EAF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1250.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "EAF 3",
+      "url": "/assets/P100000120516_U100000144418",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000143814",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120516_U100000143814",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144419",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120516_U100000144419",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144420",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120516_U100000144420",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000143327",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100000120516_U100000143327",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144720",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (10)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 180.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (10)",
+      "url": "/assets/P100000120516_U100000144720",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144721",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (11)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 180.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (11)",
+      "url": "/assets/P100000120516_U100000144721",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000143326",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 180.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (2)",
+      "url": "/assets/P100000120516_U100000143326",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144421",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (3)",
+      "url": "/assets/P100000120516_U100000144421",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144714",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (4)",
+      "url": "/assets/P100000120516_U100000144714",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144715",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (5)",
+      "url": "/assets/P100000120516_U100000144715",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144716",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (6)",
+      "url": "/assets/P100000120516_U100000144716",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144717",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (7)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (7)",
+      "url": "/assets/P100000120516_U100000144717",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144718",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (8)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (8)",
+      "url": "/assets/P100000120516_U100000144718",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "P100000120516_U100000144719",
+      "location_id": "P100000120516",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (9)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 180.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "unit_name": "unknown DRI (9)",
+      "url": "/assets/P100000120516_U100000144719",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal Steel Raigarh steel plant"
+    },
+    {
+      "asset_id": "L100000103061_G100000113098",
+      "location_id": "L100000103061",
+      "asset_name": "Jindal Tete power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "capacity_value": 75.0,
+      "capacity_unit": "MW",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -15.858728,
+      "longitude": 32.992888,
+      "wiki_url": "https://www.gem.wiki/Jindal_Tete_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000103061_G100000113098",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100001000532",
+          "name": "JSPL Mozambique Minerais Lda",
+          "ownership_share": 100.0,
+          "hq_country": "Mozambique"
+        }
+      ],
+      "project_name": "Jindal Tete power station"
+    },
+    {
+      "asset_id": "L100000103061_G100000113099",
+      "location_id": "L100000103061",
+      "asset_name": "Jindal Tete power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "capacity_value": 75.0,
+      "capacity_unit": "MW",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -15.858728,
+      "longitude": 32.992888,
+      "wiki_url": "https://www.gem.wiki/Jindal_Tete_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000103061_G100000113099",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100001000532",
+          "name": "JSPL Mozambique Minerais Lda",
+          "ownership_share": 100.0,
+          "hq_country": "Mozambique"
+        }
+      ],
+      "project_name": "Jindal Tete power station"
+    },
+    {
+      "asset_id": "L100000103400_G100000105195",
+      "location_id": "L100000103400",
+      "asset_name": "Jindal power station (Senegal) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 175.0,
+      "capacity_unit": "MW",
+      "country": "Senegal",
+      "state_province": null,
+      "latitude": 14.500172,
+      "longitude": -14.439228,
+      "wiki_url": "https://www.gem.wiki/Jindal_power_station_(Senegal)",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000103400_G100000105195",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal power station (Senegal)"
+    },
+    {
+      "asset_id": "L100000103400_G100000105196",
+      "location_id": "L100000103400",
+      "asset_name": "Jindal power station (Senegal) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 175.0,
+      "capacity_unit": "MW",
+      "country": "Senegal",
+      "state_province": null,
+      "latitude": 14.500172,
+      "longitude": -14.439228,
+      "wiki_url": "https://www.gem.wiki/Jindal_power_station_(Senegal)",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000103400_G100000105196",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jindal power station (Senegal)"
+    },
+    {
+      "asset_id": "L100000102269_G100000105515",
+      "location_id": "L100000102269",
+      "asset_name": "Kamdara power station (Jindal) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.919791,
+      "longitude": 84.951289,
+      "wiki_url": "https://www.gem.wiki/Kamdara_power_station_(Jindal)",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102269_G100000105515",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kamdara power station (Jindal)"
+    },
+    {
+      "asset_id": "L100000102269_G100000105516",
+      "location_id": "L100000102269",
+      "asset_name": "Kamdara power station (Jindal) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.919791,
+      "longitude": 84.951289,
+      "wiki_url": "https://www.gem.wiki/Kamdara_power_station_(Jindal)",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102269_G100000105516",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kamdara power station (Jindal)"
+    },
+    {
+      "asset_id": "L100000102269_G100000105517",
+      "location_id": "L100000102269",
+      "asset_name": "Kamdara power station (Jindal) Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.919791,
+      "longitude": 84.951289,
+      "wiki_url": "https://www.gem.wiki/Kamdara_power_station_(Jindal)",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102269_G100000105517",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kamdara power station (Jindal)"
+    },
+    {
+      "asset_id": "L100000102269_G100000105518",
+      "location_id": "L100000102269",
+      "asset_name": "Kamdara power station (Jindal) Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.919791,
+      "longitude": 84.951289,
+      "wiki_url": "https://www.gem.wiki/Kamdara_power_station_(Jindal)",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102269_G100000105518",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kamdara power station (Jindal)"
+    },
+    {
+      "asset_id": "M1335",
+      "location_id": "M1335",
+      "asset_name": "Kiepersol Colliery",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.9,
+      "capacity_unit": "Mtpa",
+      "country": "South Africa",
+      "state_province": "Mpumalanga",
+      "latitude": -27.14095155,
+      "longitude": 30.5535983,
+      "wiki_url": "https://www.gem.wiki/Kiepersol_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M1335",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001010377",
+          "name": "Jindal Mining SA Pty Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "South Africa"
+        }
+      ],
+      "project_name": "Kiepersol Colliery"
+    },
+    {
+      "asset_id": "L100000102047_G100000105750",
+      "location_id": "L100000102047",
+      "asset_name": "Kineta Power thermal station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.166667,
+      "longitude": 80.083333,
+      "wiki_url": "https://www.gem.wiki/Kineta_Power_thermal_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102047_G100000105750",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kineta Power thermal station"
+    },
+    {
+      "asset_id": "L100000102047_G100000105751",
+      "location_id": "L100000102047",
+      "asset_name": "Kineta Power thermal station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.166667,
+      "longitude": 80.083333,
+      "wiki_url": "https://www.gem.wiki/Kineta_Power_thermal_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102047_G100000105751",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kineta Power thermal station"
+    },
+    {
+      "asset_id": "L100000102047_G100000105752",
+      "location_id": "L100000102047",
+      "asset_name": "Kineta Power thermal station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.166667,
+      "longitude": 80.083333,
+      "wiki_url": "https://www.gem.wiki/Kineta_Power_thermal_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102047_G100000105752",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kineta Power thermal station"
+    },
+    {
+      "asset_id": "L100000102480_G100000106612",
+      "location_id": "L100000102480",
+      "asset_name": "Malibrahmani power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 525.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.922321,
+      "longitude": 84.99105,
+      "wiki_url": "https://www.gem.wiki/Malibrahmani_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102480_G100000106612",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Malibrahmani power station"
+    },
+    {
+      "asset_id": "L100000102480_G100000106613",
+      "location_id": "L100000102480",
+      "asset_name": "Malibrahmani power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 525.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.922321,
+      "longitude": 84.99105,
+      "wiki_url": "https://www.gem.wiki/Malibrahmani_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102480_G100000106613",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Malibrahmani power station"
+    },
+    {
+      "asset_id": "L100000102480_G100000106614",
+      "location_id": "L100000102480",
+      "asset_name": "Malibrahmani power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.922321,
+      "longitude": 84.99105,
+      "wiki_url": "https://www.gem.wiki/Malibrahmani_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102480_G100000106614",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Malibrahmani power station"
+    },
+    {
+      "asset_id": "L100000100109_G100000106964",
+      "location_id": "L100000100109",
+      "asset_name": "Mmamabula Energy Project Stage I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "Botswana",
+      "state_province": "Central",
+      "latitude": -23.62,
+      "longitude": 26.71,
+      "wiki_url": "https://www.gem.wiki/Mmamabula_Energy_Project",
+      "unit_name": "Stage I Unit 1",
+      "url": "/assets/L100000100109_G100000106964",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100002003320",
+          "name": "Jindal Energy (Botswana) Pty Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Botswana"
+        }
+      ],
+      "project_name": "Mmamabula Energy Project"
+    },
+    {
+      "asset_id": "L100000100109_G100001022881",
+      "location_id": "L100000100109",
+      "asset_name": "Mmamabula Energy Project Stage I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "Botswana",
+      "state_province": "Central",
+      "latitude": -23.62,
+      "longitude": 26.71,
+      "wiki_url": "https://www.gem.wiki/Mmamabula_Energy_Project",
+      "unit_name": "Stage I Unit 2",
+      "url": "/assets/L100000100109_G100001022881",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100002003320",
+          "name": "Jindal Energy (Botswana) Pty Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Botswana"
+        }
+      ],
+      "project_name": "Mmamabula Energy Project"
+    },
+    {
+      "asset_id": "L100000100109_G100000106965",
+      "location_id": "L100000100109",
+      "asset_name": "Mmamabula Energy Project Stage I Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "Botswana",
+      "state_province": "Central",
+      "latitude": -23.62,
+      "longitude": 26.71,
+      "wiki_url": "https://www.gem.wiki/Mmamabula_Energy_Project",
+      "unit_name": "Stage I Unit 3",
+      "url": "/assets/L100000100109_G100000106965",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100002003320",
+          "name": "Jindal Energy (Botswana) Pty Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Botswana"
+        }
+      ],
+      "project_name": "Mmamabula Energy Project"
+    },
+    {
+      "asset_id": "L100000100109_G100001022882",
+      "location_id": "L100000100109",
+      "asset_name": "Mmamabula Energy Project Stage I Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "Botswana",
+      "state_province": "Central",
+      "latitude": -23.62,
+      "longitude": 26.71,
+      "wiki_url": "https://www.gem.wiki/Mmamabula_Energy_Project",
+      "unit_name": "Stage I Unit 4",
+      "url": "/assets/L100000100109_G100001022882",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100002003320",
+          "name": "Jindal Energy (Botswana) Pty Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Botswana"
+        }
+      ],
+      "project_name": "Mmamabula Energy Project"
+    },
+    {
+      "asset_id": "L100000100112_G100000111942",
+      "location_id": "L100000100112",
+      "asset_name": "Mookane Domestic Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "Botswana",
+      "state_province": "Central",
+      "latitude": -23.6875,
+      "longitude": 26.661389,
+      "wiki_url": "https://www.gem.wiki/Mookane_Domestic_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000100112_G100000111942",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100000120472",
+          "name": "GLC-CIC Mookane Power Holdings",
+          "ownership_share": 100.0,
+          "hq_country": "Botswana"
+        }
+      ],
+      "project_name": "Mookane Domestic Power Project"
+    },
+    {
+      "asset_id": "L100000100112_G100000111943",
+      "location_id": "L100000100112",
+      "asset_name": "Mookane Domestic Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "Botswana",
+      "state_province": "Central",
+      "latitude": -23.6875,
+      "longitude": 26.661389,
+      "wiki_url": "https://www.gem.wiki/Mookane_Domestic_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000100112_G100000111943",
+      "upstream_entity_count": 19,
+      "owners": [
+        {
+          "entity_id": "E100000120472",
+          "name": "GLC-CIC Mookane Power Holdings",
+          "ownership_share": 100.0,
+          "hq_country": "Botswana"
+        }
+      ],
+      "project_name": "Mookane Domestic Power Project"
+    },
+    {
+      "asset_id": "L100000102168_G100000108435",
+      "location_id": "L100000102168",
+      "asset_name": "Raigarh Jindal power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 55.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.924951,
+      "longitude": 83.345444,
+      "wiki_url": "https://www.gem.wiki/Raigarh_Jindal_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102168_G100000108435",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Raigarh Jindal power station"
+    },
+    {
+      "asset_id": "L100000102168_G100000108436",
+      "location_id": "L100000102168",
+      "asset_name": "Raigarh Jindal power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 55.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.924951,
+      "longitude": 83.345444,
+      "wiki_url": "https://www.gem.wiki/Raigarh_Jindal_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102168_G100000108436",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Raigarh Jindal power station"
+    },
+    {
+      "asset_id": "L100000102168_G100000108437",
+      "location_id": "L100000102168",
+      "asset_name": "Raigarh Jindal power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 130.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.924951,
+      "longitude": 83.345444,
+      "wiki_url": "https://www.gem.wiki/Raigarh_Jindal_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102168_G100000108437",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Raigarh Jindal power station"
+    },
+    {
+      "asset_id": "L100000102170_G100000108440",
+      "location_id": "L100000102170",
+      "asset_name": "Raigarh Project (Jindal) --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1320.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.898611,
+      "longitude": 83.464722,
+      "wiki_url": "https://www.gem.wiki/Raigarh_Project_(Jindal)",
+      "unit_name": "--",
+      "url": "/assets/L100000102170_G100000108440",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Raigarh Project (Jindal)"
+    },
+    {
+      "asset_id": "L100000102189_G100000109908",
+      "location_id": "L100000102189",
+      "asset_name": "Tamnar power station Phase 1 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "unit_name": "Phase 1 Unit 1",
+      "url": "/assets/L100000102189_G100000109908",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tamnar power station"
+    },
+    {
+      "asset_id": "L100000102189_G100000109909",
+      "location_id": "L100000102189",
+      "asset_name": "Tamnar power station Phase 1 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "unit_name": "Phase 1 Unit 2",
+      "url": "/assets/L100000102189_G100000109909",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tamnar power station"
+    },
+    {
+      "asset_id": "L100000102189_G100000109910",
+      "location_id": "L100000102189",
+      "asset_name": "Tamnar power station Phase 1 Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "unit_name": "Phase 1 Unit 3",
+      "url": "/assets/L100000102189_G100000109910",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tamnar power station"
+    },
+    {
+      "asset_id": "L100000102189_G100000109911",
+      "location_id": "L100000102189",
+      "asset_name": "Tamnar power station Phase 1 Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "unit_name": "Phase 1 Unit 4",
+      "url": "/assets/L100000102189_G100000109911",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tamnar power station"
+    },
+    {
+      "asset_id": "L100000102189_G100000109912",
+      "location_id": "L100000102189",
+      "asset_name": "Tamnar power station Phase 2 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "unit_name": "Phase 2 Unit 1",
+      "url": "/assets/L100000102189_G100000109912",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tamnar power station"
+    },
+    {
+      "asset_id": "L100000102189_G100000109913",
+      "location_id": "L100000102189",
+      "asset_name": "Tamnar power station Phase 2 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "unit_name": "Phase 2 Unit 2",
+      "url": "/assets/L100000102189_G100000109913",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tamnar power station"
+    },
+    {
+      "asset_id": "L100000102189_G100000109914",
+      "location_id": "L100000102189",
+      "asset_name": "Tamnar power station Phase 2 Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "unit_name": "Phase 2 Unit 3",
+      "url": "/assets/L100000102189_G100000109914",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tamnar power station"
+    },
+    {
+      "asset_id": "L100000102189_G100000109915",
+      "location_id": "L100000102189",
+      "asset_name": "Tamnar power station Phase 2 Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "unit_name": "Phase 2 Unit 4",
+      "url": "/assets/L100000102189_G100000109915",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tamnar power station"
+    },
+    {
+      "asset_id": "M7267",
+      "location_id": "M7267",
+      "asset_name": "Utkal B1 & Utkal B2 Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 8.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.9588788,
+      "longitude": 84.9638013,
+      "wiki_url": "https://www.gem.wiki/Utkal_B1_&_Utkal_B2_Mine",
+      "unit_name": null,
+      "url": "/assets/M7267",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Utkal B1 & Utkal B2 Mine"
+    },
+    {
+      "asset_id": "M6715",
+      "location_id": "M6715",
+      "asset_name": "Utkal C Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.37,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.95664286,
+      "longitude": 84.9544075201659,
+      "wiki_url": "https://www.gem.wiki/Utkal_C_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M6715",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001000439",
+          "name": "Jindal Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Utkal C Coal Mine"
+    }
+  ]
+}

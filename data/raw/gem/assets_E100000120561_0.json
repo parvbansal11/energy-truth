@@ -1,0 +1,172 @@
+{
+  "total": 6,
+  "total_asset_count": 6,
+  "total_location_count": 3,
+  "limit": 200,
+  "offset": 0,
+  "count": 6,
+  "results": [
+    {
+      "asset_id": "L100000102523_G100000101280",
+      "location_id": "L100000102523",
+      "asset_name": "Chanderiya Smelter power station Unit S1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 77.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.963223,
+      "longitude": 74.668532,
+      "wiki_url": "https://www.gem.wiki/Chanderiya_Smelter_power_station",
+      "unit_name": "Unit S1",
+      "url": "/assets/L100000102523_G100000101280",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000120561",
+          "name": "Hindustan Zinc Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chanderiya Smelter power station"
+    },
+    {
+      "asset_id": "L100000102523_G100000101281",
+      "location_id": "L100000102523",
+      "asset_name": "Chanderiya Smelter power station Unit S2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 77.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.963223,
+      "longitude": 74.668532,
+      "wiki_url": "https://www.gem.wiki/Chanderiya_Smelter_power_station",
+      "unit_name": "Unit S2",
+      "url": "/assets/L100000102523_G100000101281",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000120561",
+          "name": "Hindustan Zinc Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chanderiya Smelter power station"
+    },
+    {
+      "asset_id": "L100000102523_G100000101282",
+      "location_id": "L100000102523",
+      "asset_name": "Chanderiya Smelter power station Unit S3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.963223,
+      "longitude": 74.668532,
+      "wiki_url": "https://www.gem.wiki/Chanderiya_Smelter_power_station",
+      "unit_name": "Unit S3",
+      "url": "/assets/L100000102523_G100000101282",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000120561",
+          "name": "Hindustan Zinc Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chanderiya Smelter power station"
+    },
+    {
+      "asset_id": "L100000102532_G100000108457",
+      "location_id": "L100000102532",
+      "asset_name": "Rajpura Dariba Mine power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.947776,
+      "longitude": 74.131622,
+      "wiki_url": "https://www.gem.wiki/Rajpura_Dariba_Mine_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102532_G100000108457",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000120561",
+          "name": "Hindustan Zinc Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rajpura Dariba Mine power station"
+    },
+    {
+      "asset_id": "L100000102532_G100000108458",
+      "location_id": "L100000102532",
+      "asset_name": "Rajpura Dariba Mine power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.947776,
+      "longitude": 74.131622,
+      "wiki_url": "https://www.gem.wiki/Rajpura_Dariba_Mine_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102532_G100000108458",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000120561",
+          "name": "Hindustan Zinc Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rajpura Dariba Mine power station"
+    },
+    {
+      "asset_id": "L100000102536_G100000111544",
+      "location_id": "L100000102536",
+      "asset_name": "Zawar Mines power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 24.34979568,
+      "longitude": 73.74862066,
+      "wiki_url": "https://www.gem.wiki/Zawar_Mines_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102536_G100000111544",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000120561",
+          "name": "Hindustan Zinc Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Zawar Mines power station"
+    }
+  ]
+}

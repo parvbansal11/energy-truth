@@ -1,0 +1,5112 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100001000703",
+    "full_name": "Steel Authority of India Ltd",
+    "name": "Steel Authority of India",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": "SAIL",
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.sail.co.in/",
+    "registration_country": "India",
+    "registration_subdivision": "Delhi",
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Delhi",
+    "gem_parents": "Steel Authority of India Ltd [100%]",
+    "gem_parents_ids": "E100001000703 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800ZJXMF183ZCQI90",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L27109DL1973GOI006454",
+    "permid_refinitiv_permanent_identifier": "4295872623",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000703",
+      "full_name": "Steel Authority of India Ltd",
+      "name": "Steel Authority of India",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "SAIL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.sail.co.in/",
+      "registration_country": "India",
+      "registration_subdivision": "Delhi",
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Delhi",
+      "gem_parents": "Steel Authority of India Ltd [100%]",
+      "gem_parents_ids": "E100001000703 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800ZJXMF183ZCQI90",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L27109DL1973GOI006454",
+      "permid_refinitiv_permanent_identifier": "4295872623",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120172",
+      "full_name": "Bokaro Power Supply Company Pvt Ltd",
+      "name": "Bokaro Power Supply Company",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pvt Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://bpscl.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Jhārkhand",
+      "gem_parents": "Damodar Valley Corp [50.0%]; Steel Authority of India Ltd [50.0%]",
+      "gem_parents_ids": "E100000120315 [50.0%]; E100001000703 [50.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800ZE1EQQL917GN37",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U40300DL2001PTC112074",
+      "permid_refinitiv_permanent_identifier": "5001256312",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120627",
+      "full_name": "International Coal Ventures Pvt Ltd",
+      "name": "International Coal Ventures",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "ICVL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pvt Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.icvl.in",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Delhi",
+      "gem_parents": "Steel Authority of India Ltd [47.8%]; National Mineral Development Corp Ltd [25.9%]; Rashtriya Ispat Nigam Ltd [25.9%]; small shareholder(s) [0.3%]",
+      "gem_parents_ids": "E100001000703 [47.8%]; E100001000686 [25.9%]; E100000001935 [25.9%]; E100001015587 [0.3%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "8945003R6D9AP9P2ER33",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4298104536",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120890",
+      "full_name": "NTPC-SAIL Power Co Ltd",
+      "name": "NTPC-SAIL Power",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Co Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.nspcl.co.in",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Delhi",
+      "gem_parents": "NTPC Ltd [50.0%]; Steel Authority of India Ltd [50.0%]",
+      "gem_parents_ids": "E100000001926 [50.0%]; E100001000703 [50.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800P1W9QV6ZRZYC84",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5000932834",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102286_G100000113411",
+      "location_id": "L100000102286",
+      "unit_id": "G100000113411",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tasra Coking power station --",
+      "unit_name": "--",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 23.78,
+      "longitude": 86.72,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tasra_Coking_power_station",
+      "source_id": 2,
+      "project_name": "Tasra Coking power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128517",
+      "location_id": "P100000128517",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Barsua Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.871274,
+      "longitude": 85.149584,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2160.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Barsua_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Barsua Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128461",
+      "location_id": "P100000128461",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Bolani Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.103431,
+      "longitude": 85.302394,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 7417.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bolani_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Bolani Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128475",
+      "location_id": "P100000128475",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Dalli Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.570856,
+      "longitude": 81.021508,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Dalli_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Dalli Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128471",
+      "location_id": "P100000128471",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Gua (Duarguiburu) Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.211793,
+      "longitude": 85.352874,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 3960.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Gua_(Duarguiburu)_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Gua (Duarguiburu) Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128871",
+      "location_id": "P100000128871",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Gua (Jhillingburu I) Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 22.193837,
+      "longitude": 85.372555,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Gua_(Jhillingburu_I)_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Gua (Jhillingburu I) Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128872",
+      "location_id": "P100000128872",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Gua (Jhillingburu II) Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 22.195269,
+      "longitude": 85.376747,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Gua_(Jhillingburu_II)_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Gua (Jhillingburu II) Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128918",
+      "location_id": "P100000128918",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Jharan Dalli Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.563854,
+      "longitude": 81.046262,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 5370.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Jharan_Dalli_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Jharan Dalli Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128480",
+      "location_id": "P100000128480",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Kalta Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.973018,
+      "longitude": 85.213118,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3187.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Kalta_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Kalta Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128455",
+      "location_id": "P100000128455",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Kiriburu Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.072726,
+      "longitude": 85.267298,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 4053.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Kiriburu_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Kiriburu Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128532",
+      "location_id": "P100000128532",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Mahamaya-Dulki Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.485727,
+      "longitude": 80.988404,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1374.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Mahamaya-Dulki_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Mahamaya-Dulki Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128538",
+      "location_id": "P100000128538",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Manoharpur (Ankua) Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 22.257168,
+      "longitude": 85.233805,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Manoharpur_(Ankua)_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Manoharpur (Ankua) Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128463",
+      "location_id": "P100000128463",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Manoharpur (Dhobil) Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.261726,
+      "longitude": 85.273121,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 341.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Manoharpur_(Dhobil)_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Manoharpur (Dhobil) Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128537",
+      "location_id": "P100000128537",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Manoharpur (Tatiburu) Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 22.276383,
+      "longitude": 85.194537,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Manoharpur_(Tatiburu)_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Manoharpur (Tatiburu) Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128530",
+      "location_id": "P100000128530",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Meghahatuburu Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.106718,
+      "longitude": 85.279108,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 3676.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Meghahatuburu_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Meghahatuburu Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128495",
+      "location_id": "P100000128495",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Rajhara Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.56984,
+      "longitude": 81.095046,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1665.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rajhara_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Rajhara Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128533",
+      "location_id": "P100000128533",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Rowghat Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 19.747479,
+      "longitude": 81.139969,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 95.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rowghat_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Rowghat Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128525",
+      "location_id": "P100000128525",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Taldih Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.901902,
+      "longitude": 85.157258,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1210.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Taldih_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Taldih Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000129406",
+      "location_id": "P100000129406",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "SAIL Topailore Mine",
+      "unit_name": null,
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "latitude": 22.225664,
+      "longitude": 85.356689,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Topailore_Mine",
+      "source_id": 3,
+      "project_name": "SAIL Topailore Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M1669",
+      "location_id": "M1669",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Chasnala Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.658882,
+      "longitude": 86.449764,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1.2,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Chasnala_coal_mine",
+      "source_id": 9,
+      "project_name": "Chasnala Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M0603",
+      "location_id": "M0603",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Parbatpur Coal Mine",
+      "unit_name": null,
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "latitude": 20.7152778,
+      "longitude": 86.375,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Parbatpur_coal_mine",
+      "source_id": 9,
+      "project_name": "Parbatpur Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M1724",
+      "location_id": "M1724",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Ramnagar Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.756027,
+      "longitude": 86.835903,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Ramnagar_coal_mine",
+      "source_id": 9,
+      "project_name": "Ramnagar Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M7207",
+      "location_id": "M7207",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Tasra Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.6470343,
+      "longitude": 86.4619897,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Tasra_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Tasra Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120549_U100000141918",
+      "location_id": "P100000120549",
+      "unit_id": "U100000141918",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Alloy steel plant EAF 1",
+      "unit_name": "EAF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.522882,
+      "longitude": 87.275935,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 167.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Alloy_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Alloy steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120549_U100000141919",
+      "location_id": "P100000120549",
+      "unit_id": "U100000141919",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Alloy steel plant EAF 2",
+      "unit_name": "EAF 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.522882,
+      "longitude": 87.275935,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 167.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Alloy_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Alloy steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120549_U100000141920",
+      "location_id": "P100000120549",
+      "unit_id": "U100000141920",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Alloy steel plant EAF 4",
+      "unit_name": "EAF 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.522882,
+      "longitude": 87.275935,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 167.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Alloy_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Alloy steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000141037",
+      "location_id": "P100000120525",
+      "unit_id": "U100000141037",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant BF 1",
+      "unit_name": "BF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 568.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000141038",
+      "location_id": "P100000120525",
+      "unit_id": "U100000141038",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant BF 4",
+      "unit_name": "BF 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 946.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000141039",
+      "location_id": "P100000120525",
+      "unit_id": "U100000141039",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant BF 5",
+      "unit_name": "BF 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 946.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000141040",
+      "location_id": "P100000120525",
+      "unit_id": "U100000141040",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant BF 6",
+      "unit_name": "BF 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 946.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000141041",
+      "location_id": "P100000120525",
+      "unit_id": "U100000141041",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant BF 7",
+      "unit_name": "BF 7",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1295.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000141043",
+      "location_id": "P100000120525",
+      "unit_id": "U100000141043",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant BF 8",
+      "unit_name": "BF 8",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 2800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000143612",
+      "location_id": "P100000120525",
+      "unit_id": "U100000143612",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000143613",
+      "location_id": "P100000120525",
+      "unit_id": "U100000143613",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000143614",
+      "location_id": "P100000120525",
+      "unit_id": "U100000143614",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000143816",
+      "location_id": "P100000120525",
+      "unit_id": "U100000143816",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1333.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000143817",
+      "location_id": "P100000120525",
+      "unit_id": "U100000143817",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (5)",
+      "unit_name": "unknown BOF (5)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1333.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000143818",
+      "location_id": "P100000120525",
+      "unit_id": "U100000143818",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (6)",
+      "unit_name": "unknown BOF (6)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1333.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000145065",
+      "location_id": "P100000120525",
+      "unit_id": "U100000145065",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (7)",
+      "unit_name": "unknown BOF (7)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 7000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120525_U100000144930",
+      "location_id": "P100000120525",
+      "unit_id": "U100000144930",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bhilai steel plant unknown iron (unspecified) (1)",
+      "unit_name": "unknown iron (unspecified) (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 7000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bhilai steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000141044",
+      "location_id": "P100000120526",
+      "unit_id": "U100000141044",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BF 1",
+      "unit_name": "BF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1050.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000141045",
+      "location_id": "P100000120526",
+      "unit_id": "U100000141045",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BF 2",
+      "unit_name": "BF 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1575.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000141046",
+      "location_id": "P100000120526",
+      "unit_id": "U100000141046",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BF 3",
+      "unit_name": "BF 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1050.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000141047",
+      "location_id": "P100000120526",
+      "unit_id": "U100000141047",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BF 4",
+      "unit_name": "BF 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1050.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000141048",
+      "location_id": "P100000120526",
+      "unit_id": "U100000141048",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BF 5",
+      "unit_name": "BF 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1050.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000144055",
+      "location_id": "P100000120526",
+      "unit_id": "U100000144055",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant unknown BF (1)",
+      "unit_name": "unknown BF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 2800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000144056",
+      "location_id": "P100000120526",
+      "unit_id": "U100000144056",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant unknown BF (2)",
+      "unit_name": "unknown BF (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 2800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000143618",
+      "location_id": "P100000120526",
+      "unit_id": "U100000143618",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter A (4)",
+      "unit_name": "BOF Converter A (4)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000143617",
+      "location_id": "P100000120526",
+      "unit_id": "U100000143617",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter B (3)",
+      "unit_name": "BOF Converter B (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000143616",
+      "location_id": "P100000120526",
+      "unit_id": "U100000143616",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter C (2)",
+      "unit_name": "BOF Converter C (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000143615",
+      "location_id": "P100000120526",
+      "unit_id": "U100000143615",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter D (1)",
+      "unit_name": "BOF Converter D (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000143619",
+      "location_id": "P100000120526",
+      "unit_id": "U100000143619",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter E (5)",
+      "unit_name": "BOF Converter E (5)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000143620",
+      "location_id": "P100000120526",
+      "unit_id": "U100000143620",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1116.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000143621",
+      "location_id": "P100000120526",
+      "unit_id": "U100000143621",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1116.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100000145095",
+      "location_id": "P100000120526",
+      "unit_id": "U100000145095",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100001030277",
+      "location_id": "P100000120526",
+      "unit_id": "U100001030277",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100001050462",
+      "location_id": "P100000120526",
+      "unit_id": "U100001050462",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant unknown steel (unspecified) (1)",
+      "unit_name": "unknown steel (unspecified) (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 5000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120526_U100001050463",
+      "location_id": "P100000120526",
+      "unit_id": "U100001050463",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Bokaro steel plant unknown steel (unspecified) (2)",
+      "unit_name": "unknown steel (unspecified) (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 5000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Bokaro steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000141049",
+      "location_id": "P100000120527",
+      "unit_id": "U100000141049",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant BF 2",
+      "unit_name": "BF 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 695.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000141050",
+      "location_id": "P100000120527",
+      "unit_id": "U100000141050",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant BF 3",
+      "unit_name": "BF 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 1060.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000141051",
+      "location_id": "P100000120527",
+      "unit_id": "U100000141051",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant BF 4",
+      "unit_name": "BF 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 945.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000144931",
+      "location_id": "P100000120527",
+      "unit_id": "U100000144931",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant BF 5",
+      "unit_name": "BF 5",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 2360.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000143622",
+      "location_id": "P100000120527",
+      "unit_id": "U100000143622",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000143623",
+      "location_id": "P100000120527",
+      "unit_id": "U100000143623",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000143624",
+      "location_id": "P100000120527",
+      "unit_id": "U100000143624",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000144323",
+      "location_id": "P100000120527",
+      "unit_id": "U100000144323",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 743.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000144324",
+      "location_id": "P100000120527",
+      "unit_id": "U100000144324",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (5)",
+      "unit_name": "unknown BOF (5)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 743.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120527_U100000144325",
+      "location_id": "P100000120527",
+      "unit_id": "U100000144325",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (6)",
+      "unit_name": "unknown BOF (6)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 743.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Durgapur steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120524_U100000141036",
+      "location_id": "P100000120524",
+      "unit_id": "U100000141036",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL IISCO steel plant BF 5",
+      "unit_name": "BF 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL IISCO steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120524_U100000144928",
+      "location_id": "P100000120524",
+      "unit_id": "U100000144928",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL IISCO steel plant unknown BF (1)",
+      "unit_name": "unknown BF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 4300.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL IISCO steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120524_U100000143609",
+      "location_id": "P100000120524",
+      "unit_id": "U100000143609",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL IISCO steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120524_U100000143610",
+      "location_id": "P100000120524",
+      "unit_id": "U100000143610",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL IISCO steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120524_U100000143611",
+      "location_id": "P100000120524",
+      "unit_id": "U100000143611",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL IISCO steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120524_U100000145066",
+      "location_id": "P100000120524",
+      "unit_id": "U100000145066",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 1533.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL IISCO steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120524_U100000145067",
+      "location_id": "P100000120524",
+      "unit_id": "U100000145067",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (5)",
+      "unit_name": "unknown BOF (5)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 1533.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL IISCO steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120524_U100001070491",
+      "location_id": "P100000120524",
+      "unit_id": "U100001070491",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (6)",
+      "unit_name": "unknown BOF (6)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 1533.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL IISCO steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120550_U100000143640",
+      "location_id": "P100000120550",
+      "unit_id": "U100000143640",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Paradip steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.317455,
+      "longitude": 86.609001,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Paradip_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Paradip steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120550_U100000144913",
+      "location_id": "P100000120550",
+      "unit_id": "U100000144913",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Paradip steel plant unknown iron (unspecified) (1)",
+      "unit_name": "unknown iron (unspecified) (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.317455,
+      "longitude": 86.609001,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Paradip_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Paradip steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001081803_U100001092095",
+      "location_id": "P100001081803",
+      "unit_id": "U100001092095",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Ranchi DRI plant unknown DRI (1)",
+      "unit_name": "unknown DRI (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.3356313803427,
+      "longitude": 85.31236535745192,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1168.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Ranchi_DRI_plant",
+      "source_id": 10,
+      "project_name": "SAIL Ranchi DRI plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000141052",
+      "location_id": "P100000120528",
+      "unit_id": "U100000141052",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant BF 1",
+      "unit_name": "BF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1059.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000141053",
+      "location_id": "P100000120528",
+      "unit_id": "U100000141053",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant BF 4",
+      "unit_name": "BF 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 641.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000141056",
+      "location_id": "P100000120528",
+      "unit_id": "U100000141056",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant BF 5",
+      "unit_name": "BF 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000144857",
+      "location_id": "P100000120528",
+      "unit_id": "U100000144857",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant unknown BF (1)",
+      "unit_name": "unknown BF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 6000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000143625",
+      "location_id": "P100000120528",
+      "unit_id": "U100000143625",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1094.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000143626",
+      "location_id": "P100000120528",
+      "unit_id": "U100000143626",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1094.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000143627",
+      "location_id": "P100000120528",
+      "unit_id": "U100000143627",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1094.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000145068",
+      "location_id": "P100000120528",
+      "unit_id": "U100000145068",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 4800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000144266",
+      "location_id": "P100000120528",
+      "unit_id": "U100000144266",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (5)",
+      "unit_name": "unknown BOF (5)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 481.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000144267",
+      "location_id": "P100000120528",
+      "unit_id": "U100000144267",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (6)",
+      "unit_name": "unknown BOF (6)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 437.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120528_U100000144268",
+      "location_id": "P100000120528",
+      "unit_id": "U100000144268",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (7)",
+      "unit_name": "unknown BOF (7)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1212.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "source_id": 10,
+      "project_name": "SAIL Rourkela steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102250_G100000100996",
+      "location_id": "L100000102250",
+      "unit_id": "G100000100996",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 55.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "source_id": 2,
+      "project_name": "Bokaro Steel City Thermal Power Station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102250_G100000112128",
+      "location_id": "L100000102250",
+      "unit_id": "G100000112128",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 55.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "source_id": 2,
+      "project_name": "Bokaro Steel City Thermal Power Station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102250_G100000100997",
+      "location_id": "L100000102250",
+      "unit_id": "G100000100997",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "source_id": 2,
+      "project_name": "Bokaro Steel City Thermal Power Station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102250_G100000100998",
+      "location_id": "L100000102250",
+      "unit_id": "G100000100998",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "source_id": 2,
+      "project_name": "Bokaro Steel City Thermal Power Station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102250_G100000100999",
+      "location_id": "L100000102250",
+      "unit_id": "G100000100999",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "source_id": 2,
+      "project_name": "Bokaro Steel City Thermal Power Station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102250_G100000101000",
+      "location_id": "L100000102250",
+      "unit_id": "G100000101000",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 7",
+      "unit_name": "Unit 7",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 36.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "source_id": 2,
+      "project_name": "Bokaro Steel City Thermal Power Station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002010298",
+      "full_name": "ICVL Zambeze Lda",
+      "name": "ICVL Zambeze",
+      "name_local": null,
+      "name_other": "ICVL Group Company",
+      "abbreviation": "IZL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Lda",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Mozambique",
+      "registration_subdivision": null,
+      "headquarters_country": "Mozambique",
+      "headquarters_subdivision": null,
+      "gem_parents": "National Mineral Development Corp Ltd; Rashtriya Ispat Nigam Ltd; small shareholder(s); Steel Authority of India Ltd",
+      "gem_parents_ids": "E100001000686; E100000001935; E100001015587; E100001000703",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "not found",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002016077",
+      "full_name": "Minas De Benga (Mauritius) Ltd",
+      "name": "Minas De Benga (Mauritius)",
+      "name_local": null,
+      "name_other": "Minas De Benga (Mauritius) Lda",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Mauritius",
+      "registration_subdivision": null,
+      "headquarters_country": "Mauritius",
+      "headquarters_subdivision": null,
+      "gem_parents": "Tata Steel Ltd [35.0%]; Steel Authority of India Ltd [31.1%]; National Mineral Development Corp Ltd [16.9%]; Rashtriya Ispat Nigam Ltd [16.9%]; small shareholder(s) [0.2%]",
+      "gem_parents_ids": "E100001010018 [35.0%]; E100001000703 [31.1%]; E100001000686 [16.9%]; E100000001935 [16.9%]; E100001015587 [0.2%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5074083363",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000103059_G100000100755",
+      "location_id": "L100000103059",
+      "unit_id": "G100000100755",
+      "asset_type": "Coal Plant",
+      "asset_name": "Benga power station (ICVL) Phase I",
+      "unit_name": "Phase I",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": -15.5,
+      "longitude": 32.5,
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "capacity_value": 200.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Benga_power_station_(ICVL)",
+      "source_id": 2,
+      "project_name": "Benga power station (ICVL)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M6767",
+      "location_id": "M6767",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Tete East Coal Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": -16.2113113,
+      "longitude": 33.232894,
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Tete_East_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Tete East Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102132_G100000100818",
+      "location_id": "L100000102132",
+      "unit_id": "G100000100818",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhilai Steel power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Bhilai Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102132_G100000100819",
+      "location_id": "L100000102132",
+      "unit_id": "G100000100819",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhilai Steel power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Bhilai Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102132_G100000100820",
+      "location_id": "L100000102132",
+      "unit_id": "G100000100820",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhilai Steel power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Bhilai Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102132_G100000100821",
+      "location_id": "L100000102132",
+      "unit_id": "G100000100821",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhilai Steel power station Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Bhilai Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102132_G100000100822",
+      "location_id": "L100000102132",
+      "unit_id": "G100000100822",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhilai Steel power station Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Bhilai Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102132_G100000100823",
+      "location_id": "L100000102132",
+      "unit_id": "G100000100823",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhilai Steel power station Unit 7",
+      "unit_name": "Unit 7",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Bhilai Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102132_G100000100824",
+      "location_id": "L100000102132",
+      "unit_id": "G100000100824",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhilai Steel power station Unit 8",
+      "unit_name": "Unit 8",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Bhilai Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102132_G100000100825",
+      "location_id": "L100000102132",
+      "unit_id": "G100000100825",
+      "asset_type": "Coal Plant",
+      "asset_name": "Bhilai Steel power station Unit 9",
+      "unit_name": "Unit 9",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Bhilai Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102671_G100000102511",
+      "location_id": "L100000102671",
+      "unit_id": "G100000102511",
+      "asset_type": "Coal Plant",
+      "asset_name": "Durgapur SAIL power station Phase 2 Unit 1",
+      "unit_name": "Phase 2 Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.551805,
+      "longitude": 87.248475,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Durgapur_SAIL_power_station",
+      "source_id": 2,
+      "project_name": "Durgapur SAIL power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102671_G100000102512",
+      "location_id": "L100000102671",
+      "unit_id": "G100000102512",
+      "asset_type": "Coal Plant",
+      "asset_name": "Durgapur SAIL power station Phase 2 Unit 2",
+      "unit_name": "Phase 2 Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.551805,
+      "longitude": 87.248475,
+      "country": "India",
+      "state_province": "West Bengal",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Durgapur_SAIL_power_station",
+      "source_id": 2,
+      "project_name": "Durgapur SAIL power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102631_G100000104946",
+      "location_id": "L100000102631",
+      "unit_id": "G100000104946",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jagdishpur captive power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 26.75,
+      "longitude": 80.533,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jagdishpur_captive_power_station",
+      "source_id": 2,
+      "project_name": "Jagdishpur captive power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102631_G100000104947",
+      "location_id": "L100000102631",
+      "unit_id": "G100000104947",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jagdishpur captive power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 26.75,
+      "longitude": 80.533,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jagdishpur_captive_power_station",
+      "source_id": 2,
+      "project_name": "Jagdishpur captive power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102494_G100000108643",
+      "location_id": "L100000102494",
+      "unit_id": "G100000108643",
+      "asset_type": "Coal Plant",
+      "asset_name": "Rourkela Works-2 power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.221,
+      "longitude": 84.880551,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Rourkela_Works-2_power_station",
+      "source_id": 2,
+      "project_name": "Rourkela Works-2 power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102494_G100000108644",
+      "location_id": "L100000102494",
+      "unit_id": "G100000108644",
+      "asset_type": "Coal Plant",
+      "asset_name": "Rourkela Works-2 power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.221,
+      "longitude": 84.880551,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Rourkela_Works-2_power_station",
+      "source_id": 2,
+      "project_name": "Rourkela Works-2 power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102494_G100000113412",
+      "location_id": "L100000102494",
+      "unit_id": "G100000113412",
+      "asset_type": "Coal Plant",
+      "asset_name": "Rourkela Works-2 power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.221,
+      "longitude": 84.880551,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Rourkela_Works-2_power_station",
+      "source_id": 2,
+      "project_name": "Rourkela Works-2 power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M0743",
+      "location_id": "M0743",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Zambezi Coal Mine",
+      "unit_name": null,
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "latitude": -16.115037,
+      "longitude": 33.602149,
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "capacity_value": 9.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Zambezi_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Zambezi Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001013473",
+      "full_name": "Minas De Benga Lda",
+      "name": "Minas De Benga",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Lda",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Mozambique",
+      "registration_subdivision": null,
+      "headquarters_country": "Mozambique",
+      "headquarters_subdivision": "Maputo",
+      "gem_parents": "Tata Steel Ltd [35.0%]; Steel Authority of India Ltd [31.1%]; National Mineral Development Corp Ltd [16.9%]; Rashtriya Ispat Nigam Ltd [16.9%]; small shareholder(s) [0.2%]",
+      "gem_parents_ids": "E100001010018 [35.0%]; E100001000703 [31.1%]; E100001000686 [16.9%]; E100000001935 [16.9%]; E100001015587 [0.2%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "not found",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M0738_Base",
+      "location_id": "M0738",
+      "unit_id": "Base",
+      "asset_type": "Coal Mine",
+      "asset_name": "Benga Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": -16.167428,
+      "longitude": 33.661022,
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "capacity_value": 1.8,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Benga_coal_mine",
+      "source_id": 9,
+      "project_name": "Benga Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100001000703",
+      "target": "E100000120172",
+      "value": 50.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "E100000120627",
+      "value": 47.8,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "E100000120890",
+      "value": 50.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "L100000102286_G100000113411",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128517",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128461",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128475",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128471",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128871",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128872",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128918",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128480",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128455",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128532",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128538",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128463",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128537",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128530",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128495",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128533",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000128525",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000129406",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "M1669",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "M0603",
+      "value": 33.3,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "M1724",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "M7207",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120549_U100000141918",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120549_U100000141919",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120549_U100000141920",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000141037",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000141038",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000141039",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000141040",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000141041",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000141043",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000143612",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000143613",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000143614",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000143816",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000143817",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000143818",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000145065",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120525_U100000144930",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000141044",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000141045",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000141046",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000141047",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000141048",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000144055",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000144056",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000143618",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000143617",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000143616",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000143615",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000143619",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000143620",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000143621",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100000145095",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100001030277",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100001050462",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120526_U100001050463",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000141049",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000141050",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000141051",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000144931",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000143622",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000143623",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000143624",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000144323",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000144324",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120527_U100000144325",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120524_U100000141036",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120524_U100000144928",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120524_U100000143609",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120524_U100000143610",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120524_U100000143611",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120524_U100000145066",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120524_U100000145067",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120524_U100001070491",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120550_U100000143640",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120550_U100000144913",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100001081803_U100001092095",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000141052",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000141053",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000141056",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000144857",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000143625",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000143626",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000143627",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000145068",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000144266",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000144267",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000703",
+      "target": "P100000120528_U100000144268",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120172",
+      "target": "L100000102250_G100000100996",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120172",
+      "target": "L100000102250_G100000112128",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120172",
+      "target": "L100000102250_G100000100997",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120172",
+      "target": "L100000102250_G100000100998",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120172",
+      "target": "L100000102250_G100000100999",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120172",
+      "target": "L100000102250_G100000101000",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120627",
+      "target": "E100002010298",
+      "value": 100.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120627",
+      "target": "E100002016077",
+      "value": 65.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120627",
+      "target": "L100000103059_G100000100755",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120627",
+      "target": "M6767",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102132_G100000100818",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102132_G100000100819",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102132_G100000100820",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102132_G100000100821",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102132_G100000100822",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102132_G100000100823",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102132_G100000100824",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102132_G100000100825",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102671_G100000102511",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102671_G100000102512",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102631_G100000104946",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102631_G100000104947",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102494_G100000108643",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102494_G100000108644",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120890",
+      "target": "L100000102494_G100000113412",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002010298",
+      "target": "M0743",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100002016077",
+      "target": "E100001013473",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001013473",
+      "target": "M0738_Base",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    }
+  ],
+  "paths": {
+    "E100001000703": [
+      {
+        "route": [
+          "E100001000703"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000120172": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120172"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102250_G100000100996": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120172",
+          "L100000102250_G100000100996"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102250_G100000112128": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120172",
+          "L100000102250_G100000112128"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102250_G100000100997": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120172",
+          "L100000102250_G100000100997"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102250_G100000100998": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120172",
+          "L100000102250_G100000100998"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102250_G100000100999": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120172",
+          "L100000102250_G100000100999"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102250_G100000101000": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120172",
+          "L100000102250_G100000101000"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "E100000120627": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120627"
+        ],
+        "cumulative_pct": 47.8
+      }
+    ],
+    "E100002010298": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120627",
+          "E100002010298"
+        ],
+        "cumulative_pct": 47.8
+      }
+    ],
+    "M0743": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120627",
+          "E100002010298",
+          "M0743"
+        ],
+        "cumulative_pct": 47.8
+      }
+    ],
+    "E100002016077": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120627",
+          "E100002016077"
+        ],
+        "cumulative_pct": 31.07
+      }
+    ],
+    "E100001013473": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120627",
+          "E100002016077",
+          "E100001013473"
+        ],
+        "cumulative_pct": 31.07
+      }
+    ],
+    "M0738_Base": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120627",
+          "E100002016077",
+          "E100001013473",
+          "M0738_Base"
+        ],
+        "cumulative_pct": 31.07
+      }
+    ],
+    "L100000103059_G100000100755": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120627",
+          "L100000103059_G100000100755"
+        ],
+        "cumulative_pct": 47.8
+      }
+    ],
+    "M6767": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120627",
+          "M6767"
+        ],
+        "cumulative_pct": 47.8
+      }
+    ],
+    "E100000120890": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102132_G100000100818": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102132_G100000100818"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102132_G100000100819": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102132_G100000100819"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102132_G100000100820": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102132_G100000100820"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102132_G100000100821": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102132_G100000100821"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102132_G100000100822": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102132_G100000100822"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102132_G100000100823": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102132_G100000100823"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102132_G100000100824": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102132_G100000100824"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102132_G100000100825": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102132_G100000100825"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102671_G100000102511": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102671_G100000102511"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102671_G100000102512": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102671_G100000102512"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102631_G100000104946": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102631_G100000104946"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102631_G100000104947": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102631_G100000104947"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102494_G100000108643": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102494_G100000108643"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102494_G100000108644": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102494_G100000108644"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102494_G100000113412": [
+      {
+        "route": [
+          "E100001000703",
+          "E100000120890",
+          "L100000102494_G100000113412"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102286_G100000113411": [
+      {
+        "route": [
+          "E100001000703",
+          "L100000102286_G100000113411"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128517": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128517"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128461": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128461"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128475": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128475"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128471": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128471"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128871": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128871"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128872": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128872"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128918": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128918"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128480": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128480"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128455": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128455"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128532": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128532"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128538": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128538"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128463": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128463"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128537": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128537"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128530": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128530"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128495": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128495"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128533": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128533"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128525": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000128525"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000129406": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000129406"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M1669": [
+      {
+        "route": [
+          "E100001000703",
+          "M1669"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M0603": [
+      {
+        "route": [
+          "E100001000703",
+          "M0603"
+        ],
+        "cumulative_pct": 33.3
+      }
+    ],
+    "M1724": [
+      {
+        "route": [
+          "E100001000703",
+          "M1724"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M7207": [
+      {
+        "route": [
+          "E100001000703",
+          "M7207"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120549_U100000141918": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120549_U100000141918"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120549_U100000141919": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120549_U100000141919"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120549_U100000141920": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120549_U100000141920"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000141037": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000141037"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000141038": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000141038"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000141039": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000141039"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000141040": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000141040"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000141041": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000141041"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000141043": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000141043"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000143612": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000143612"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000143613": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000143613"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000143614": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000143614"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000143816": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000143816"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000143817": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000143817"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000143818": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000143818"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000145065": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000145065"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120525_U100000144930": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120525_U100000144930"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000141044": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000141044"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000141045": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000141045"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000141046": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000141046"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000141047": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000141047"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000141048": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000141048"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000144055": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000144055"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000144056": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000144056"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000143618": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000143618"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000143617": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000143617"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000143616": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000143616"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000143615": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000143615"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000143619": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000143619"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000143620": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000143620"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000143621": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000143621"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100000145095": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100000145095"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100001030277": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100001030277"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100001050462": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100001050462"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120526_U100001050463": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120526_U100001050463"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000141049": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000141049"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000141050": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000141050"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000141051": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000141051"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000144931": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000144931"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000143622": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000143622"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000143623": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000143623"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000143624": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000143624"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000144323": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000144323"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000144324": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000144324"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120527_U100000144325": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120527_U100000144325"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120524_U100000141036": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120524_U100000141036"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120524_U100000144928": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120524_U100000144928"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120524_U100000143609": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120524_U100000143609"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120524_U100000143610": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120524_U100000143610"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120524_U100000143611": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120524_U100000143611"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120524_U100000145066": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120524_U100000145066"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120524_U100000145067": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120524_U100000145067"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120524_U100001070491": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120524_U100001070491"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120550_U100000143640": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120550_U100000143640"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120550_U100000144913": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120550_U100000144913"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001081803_U100001092095": [
+      {
+        "route": [
+          "E100001000703",
+          "P100001081803_U100001092095"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000141052": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000141052"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000141053": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000141053"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000141056": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000141056"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000144857": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000144857"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000143625": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000143625"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000143626": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000143626"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000143627": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000143627"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000145068": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000145068"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000144266": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000144266"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000144267": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000144267"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120528_U100000144268": [
+      {
+        "route": [
+          "E100001000703",
+          "P100000120528_U100000144268"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "M1724",
+    "L100000102132_G100000100825",
+    "P100000128455",
+    "P100000120526_U100000143616",
+    "L100000102132_G100000100822",
+    "P100000128463",
+    "P100000120526_U100000141046",
+    "P100000120527_U100000143622",
+    "P100000120524_U100000143609",
+    "L100000102250_G100000100999",
+    "M0738_Base",
+    "P100000120527_U100000144324",
+    "P100000120526_U100000143619",
+    "P100000120527_U100000143624",
+    "P100000120528_U100000144267",
+    "P100000120527_U100000143623",
+    "P100000128530",
+    "P100000120526_U100000143621",
+    "P100000120550_U100000144913",
+    "P100000120528_U100000144266",
+    "L100000102132_G100000100823",
+    "L100000102631_G100000104946",
+    "P100000120526_U100000143615",
+    "P100000120525_U100000141041",
+    "P100000120526_U100000141047",
+    "P100000120526_U100000145095",
+    "M0743",
+    "P100000128537",
+    "L100000102250_G100000100997",
+    "P100000120524_U100000143610",
+    "L100000102250_G100000100998",
+    "L100000103059_G100000100755",
+    "P100000120526_U100000143620",
+    "P100000120525_U100000145065",
+    "P100000120528_U100000141052",
+    "P100000128872",
+    "P100000120526_U100000141048",
+    "L100000102132_G100000100820",
+    "P100000120525_U100000143614",
+    "P100000120525_U100000141039",
+    "P100000120527_U100000144931",
+    "P100000120526_U100001050463",
+    "L100000102671_G100000102511",
+    "P100000120528_U100000144268",
+    "P100000120526_U100001050462",
+    "L100000102494_G100000108644",
+    "P100000120528_U100000144857",
+    "L100000102250_G100000112128",
+    "P100000120549_U100000141919",
+    "P100000120525_U100000143612",
+    "P100000128495",
+    "P100000120525_U100000141040",
+    "M7207",
+    "L100000102631_G100000104947",
+    "P100000128871",
+    "P100000128538",
+    "P100000120550_U100000143640",
+    "P100000120528_U100000143625",
+    "P100000120528_U100000143627",
+    "P100000120526_U100000141045",
+    "L100000102132_G100000100818",
+    "P100000120528_U100000141053",
+    "L100000102132_G100000100824",
+    "P100000128517",
+    "P100000128533",
+    "P100000120525_U100000143818",
+    "L100000102494_G100000108643",
+    "P100000120527_U100000144323",
+    "L100000102132_G100000100821",
+    "P100000120525_U100000144930",
+    "P100000120526_U100001030277",
+    "P100000128532",
+    "P100000120525_U100000143817",
+    "P100000120527_U100000141050",
+    "P100000120525_U100000141038",
+    "L100000102671_G100000102512",
+    "P100000120524_U100000143611",
+    "P100000120526_U100000143618",
+    "M0603",
+    "P100001081803_U100001092095",
+    "M6767",
+    "P100000120527_U100000144325",
+    "P100000120524_U100000141036",
+    "P100000120526_U100000144055",
+    "P100000120525_U100000141043",
+    "P100000120525_U100000143816",
+    "L100000102250_G100000101000",
+    "P100000120527_U100000141051",
+    "M1669",
+    "P100000120526_U100000141044",
+    "P100000128480",
+    "P100000120524_U100000145066",
+    "P100000120549_U100000141920",
+    "L100000102132_G100000100819",
+    "P100000128475",
+    "P100000120526_U100000143617",
+    "P100000120525_U100000141037",
+    "P100000120524_U100000145067",
+    "P100000120549_U100000141918",
+    "P100000128461",
+    "L100000102250_G100000100996",
+    "L100000102494_G100000113412",
+    "P100000120527_U100000141049",
+    "L100000102286_G100000113411",
+    "P100000120526_U100000144056",
+    "P100000129406",
+    "P100000128525",
+    "P100000120524_U100000144928",
+    "P100000128471",
+    "P100000120528_U100000143626",
+    "P100000120524_U100001070491",
+    "P100000120528_U100000141056",
+    "P100000120525_U100000143613",
+    "P100000120528_U100000145068",
+    "P100000128918"
+  ],
+  "truncated_node_ids": []
+}

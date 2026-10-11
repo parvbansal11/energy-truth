@@ -24,7 +24,8 @@ _load_dotenv()
 
 
 def env(key: str, default: str = "") -> str:
-    return os.environ.get(key, default)
+    # an empty `KEY=` line in .env means "use the default", as .env.example says
+    return os.environ.get(key) or default
 
 
 @dataclass(frozen=True)

@@ -1,0 +1,26 @@
+{
+  "entity_id": "E100001000736",
+  "name": "CESC",
+  "full_name": "CESC Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "West Bengal",
+  "registration_country": "India",
+  "home_page": "https://www.cesc.co.in/",
+  "external_ids": {
+    "lei": "3358009RW8LFOENISG12",
+    "permid": "4295873239",
+    "india_cin": "L31901WB1978PLC031411"
+  },
+  "url": "/entities/E100001000736",
+  "owners_url": "/entities/E100001000736/owners",
+  "owned_url": "/entities/E100001000736/owned",
+  "trace_up_url": "/entities/E100001000736/trace/up",
+  "trace_down_url": "/entities/E100001000736/trace/down",
+  "graph_up_url": "/entities/E100001000736/graph/up",
+  "graph_down_url": "/entities/E100001000736/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100001000736&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100001000736"
+}

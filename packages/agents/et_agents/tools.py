@@ -21,7 +21,7 @@ def resolve_company(query: str) -> dict | None:
     """Resolve a name / NSE symbol / CIN / CT-GEM entity id to a company record."""
     q = query.strip().lower()
     for c in store.read("companies", []):
-        keys = [c["symbol"], c["name"], c["short"], c["cin"] or "", c["entity_id"]]
+        keys = [c["symbol"], c["name"], c["short"], c.get("cin") or "", c["entity_id"]]
         if any(q == k.lower() for k in keys) or any(q in k.lower() for k in keys if len(q) >= 3):
             return c
     return None

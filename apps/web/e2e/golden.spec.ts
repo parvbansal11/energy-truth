@@ -38,7 +38,7 @@ test("guided tour walks through every step", async ({ page }) => {
   await page.getByRole("button", { name: "Try the demo" }).click();
   const tour = page.getByLabel("Guided tour");
   await expect(tour).toContainText("Welcome to Energy Truth", { timeout: 20_000 });
-  for (let i = 0; i < 12; i++) await tour.getByRole("button", { name: /Next|Show me/ }).click();
+  for (let i = 0; i < 20 && !(await tour.getByText("You're ready").isVisible()); i++) await tour.getByRole("button", { name: /Next|Show me/ }).click();
   await expect(tour).toContainText("You're ready");
 });
 

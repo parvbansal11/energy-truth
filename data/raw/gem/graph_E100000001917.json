@@ -1,0 +1,610 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100000001917",
+    "full_name": "Hindustan Petroleum Corporation Ltd",
+    "name": "Hindustan Petroleum Corporation",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": "HPCL",
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.hindustanpetroleum.com/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Mahārāshtra",
+    "gem_parents": "Hindustan Petroleum Corporation Ltd [100%]",
+    "gem_parents_ids": "E100000001917 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800DWLXIP7HFFY564",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L23201MH1952GOI008858",
+    "permid_refinitiv_permanent_identifier": "4295872504",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100000001917",
+      "full_name": "Hindustan Petroleum Corporation Ltd",
+      "name": "Hindustan Petroleum Corporation",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "HPCL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.hindustanpetroleum.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Mahārāshtra",
+      "gem_parents": "Hindustan Petroleum Corporation Ltd [100%]",
+      "gem_parents_ids": "E100000001917 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800DWLXIP7HFFY564",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L23201MH1952GOI008858",
+      "permid_refinitiv_permanent_identifier": "4295872504",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000001916",
+      "full_name": "HPCL-Mittal Energy Ltd",
+      "name": "HPCL-Mittal Energy",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.hmel.in/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Uttar Pradesh",
+      "gem_parents": "Hindustan Petroleum Corporation Ltd [49.0%]; Mittal Energy Investments Pte Ltd [49.0%]",
+      "gem_parents_ids": "E100000001917 [49.0%]; E100001014943 [49.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "3358008CSQJBZUGQXP26",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U23201PB2000PLC024126",
+      "permid_refinitiv_permanent_identifier": "5000072124",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002019501",
+      "full_name": "GSPL India Gasnet Ltd",
+      "name": "GSPL India Gasnet",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "GIGL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.gspcgroup.com/gigl/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Gujarat State Petronet Ltd [52.0%]; Indian Oil Corporation Ltd [26.0%]; Bharat Petroleum Corporation Ltd [11.0%]; Hindustan Petroleum Corporation Ltd [11.0%]",
+      "gem_parents_ids": "E100000153049 [52.0%]; E100000001918 [26.0%]; E100000000509 [11.0%]; E100000001917 [11.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800O8TI1KV9TFKI81",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5037349845",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000408393_G100000411775",
+      "location_id": "L100000408393",
+      "unit_id": "G100000411775",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "HPCL Vizag Refinery power station 1.0",
+      "unit_name": "1.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 17.68858,
+      "longitude": 83.251943,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/HPCL_Vizag_Refinery_power_station",
+      "source_id": 4,
+      "project_name": "HPCL Vizag Refinery power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0908",
+      "location_id": "P0908",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Bathinda-Jammu-Srinagar Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Punjab",
+      "capacity_value": 15.48,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Bathinda-Jammu-Srinagar_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Bathinda-Jammu-Srinagar Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0941",
+      "location_id": "P0941",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Mehsana-Bhatinda Gas Pipeline Phase I",
+      "unit_name": "Phase I",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 29.24,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Mehsana-Bhatinda_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Mehsana-Bhatinda Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P5411",
+      "location_id": "P5411",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Mehsana-Bhatinda Gas Pipeline Phase II",
+      "unit_name": "Phase II",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 29.24,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Mehsana-Bhatinda_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Mehsana-Bhatinda Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P6089",
+      "location_id": "P6089",
+      "unit_id": null,
+      "asset_type": "Oil or NGL Pipeline",
+      "asset_name": "Uran-Chakan-Shikrapur LPG Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 20082.19,
+      "capacity_unit": "BOEd",
+      "wiki_url": "https://www.gem.wiki/Uran-Chakan-Shikrapur_LPG_Pipeline",
+      "source_id": 7,
+      "project_name": "Uran-Chakan-Shikrapur LPG Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P6090",
+      "location_id": "P6090",
+      "unit_id": null,
+      "asset_type": "Oil or NGL Pipeline",
+      "asset_name": "Mangalore-Hassan-Mysore-Yediyur LPG Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 38959.45,
+      "capacity_unit": "BOEd",
+      "wiki_url": "https://www.gem.wiki/Mangalore-Hassan-Mysore-Yediyur_LPG_Pipeline",
+      "source_id": 7,
+      "project_name": "Mangalore-Hassan-Mysore-Yediyur LPG Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P6091",
+      "location_id": "P6091",
+      "unit_id": null,
+      "asset_type": "Oil or NGL Pipeline",
+      "asset_name": "Hassan-Cherlapalli LPG Pipeline Capacity Expansion",
+      "unit_name": "Capacity Expansion",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Telangana",
+      "capacity_value": 44180.82,
+      "capacity_unit": "BOEd",
+      "wiki_url": "https://www.gem.wiki/Hassan-Cherlapalli_LPG_Pipeline",
+      "source_id": 7,
+      "project_name": "Hassan-Cherlapalli LPG Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000408395_G100000411777",
+      "location_id": "L100000408395",
+      "unit_id": "G100000411777",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "Guru Gobind Singh Refinery power station 1.0",
+      "unit_name": "1.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 29.924421,
+      "longitude": 74.958902,
+      "country": "India",
+      "state_province": "Punjab",
+      "capacity_value": 165.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Guru_Gobind_Singh_Refinery_power_station",
+      "source_id": 4,
+      "project_name": "Guru Gobind Singh Refinery power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P3670",
+      "location_id": "P3670",
+      "unit_id": null,
+      "asset_type": "Oil or NGL Pipeline",
+      "asset_name": "Mundra Bhatinda Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Punjab",
+      "capacity_value": 225924.66,
+      "capacity_unit": "BOEd",
+      "wiki_url": "https://www.gem.wiki/Mundra_Bhatinda_Pipeline",
+      "source_id": 7,
+      "project_name": "Mundra Bhatinda Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P2748",
+      "location_id": "P2748",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Langtala-Pachpadra Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 1.46,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Langtala-Pachpadra_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Langtala-Pachpadra Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100000001917",
+      "target": "E100000001916",
+      "value": 49.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001917",
+      "target": "E100002019501",
+      "value": 11.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001917",
+      "target": "L100000408393_G100000411775",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001917",
+      "target": "P0908",
+      "value": 25.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001917",
+      "target": "P0941",
+      "value": 11.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001917",
+      "target": "P5411",
+      "value": 11.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001917",
+      "target": "P6089",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001917",
+      "target": "P6090",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001917",
+      "target": "P6091",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001916",
+      "target": "L100000408395_G100000411777",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000001916",
+      "target": "P3670",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002019501",
+      "target": "P2748",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    }
+  ],
+  "paths": {
+    "E100000001917": [
+      {
+        "route": [
+          "E100000001917"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000001916": [
+      {
+        "route": [
+          "E100000001917",
+          "E100000001916"
+        ],
+        "cumulative_pct": 49.0
+      }
+    ],
+    "L100000408395_G100000411777": [
+      {
+        "route": [
+          "E100000001917",
+          "E100000001916",
+          "L100000408395_G100000411777"
+        ],
+        "cumulative_pct": 49.0
+      }
+    ],
+    "P3670": [
+      {
+        "route": [
+          "E100000001917",
+          "E100000001916",
+          "P3670"
+        ],
+        "cumulative_pct": 49.0
+      }
+    ],
+    "E100002019501": [
+      {
+        "route": [
+          "E100000001917",
+          "E100002019501"
+        ],
+        "cumulative_pct": 11.0
+      }
+    ],
+    "P2748": [
+      {
+        "route": [
+          "E100000001917",
+          "E100002019501",
+          "P2748"
+        ],
+        "cumulative_pct": 11.0
+      }
+    ],
+    "L100000408393_G100000411775": [
+      {
+        "route": [
+          "E100000001917",
+          "L100000408393_G100000411775"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0908": [
+      {
+        "route": [
+          "E100000001917",
+          "P0908"
+        ],
+        "cumulative_pct": 25.0
+      }
+    ],
+    "P0941": [
+      {
+        "route": [
+          "E100000001917",
+          "P0941"
+        ],
+        "cumulative_pct": 11.0
+      }
+    ],
+    "P5411": [
+      {
+        "route": [
+          "E100000001917",
+          "P5411"
+        ],
+        "cumulative_pct": 11.0
+      }
+    ],
+    "P6089": [
+      {
+        "route": [
+          "E100000001917",
+          "P6089"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P6090": [
+      {
+        "route": [
+          "E100000001917",
+          "P6090"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P6091": [
+      {
+        "route": [
+          "E100000001917",
+          "P6091"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "P6089",
+    "P6091",
+    "L100000408395_G100000411777",
+    "P6090",
+    "P3670",
+    "P2748",
+    "P0908",
+    "P0941",
+    "L100000408393_G100000411775",
+    "P5411"
+  ],
+  "truncated_node_ids": []
+}

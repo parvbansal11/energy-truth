@@ -1,0 +1,27 @@
+{
+  "entity_id": "E100001000440",
+  "name": "NLC India",
+  "full_name": "NLC India Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Tamil Nādu",
+  "registration_country": "India",
+  "home_page": "https://www.nlcindia.in/new_website/index.htm",
+  "external_ids": {
+    "lei": "335800ZUJIL59GOZUW75",
+    "permid": "4295872591",
+    "sp_capital_iq": "8081460",
+    "india_cin": "L93090TN1956GOI003507"
+  },
+  "url": "/entities/E100001000440",
+  "owners_url": "/entities/E100001000440/owners",
+  "owned_url": "/entities/E100001000440/owned",
+  "trace_up_url": "/entities/E100001000440/trace/up",
+  "trace_down_url": "/entities/E100001000440/trace/down",
+  "graph_up_url": "/entities/E100001000440/graph/up",
+  "graph_down_url": "/entities/E100001000440/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100001000440&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100001000440"
+}

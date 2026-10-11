@@ -1,0 +1,550 @@
+{
+  "total": 20,
+  "total_asset_count": 20,
+  "total_location_count": 20,
+  "limit": 200,
+  "offset": 0,
+  "count": 20,
+  "results": [
+    {
+      "asset_id": "P100000123982",
+      "location_id": "P100000123982",
+      "asset_name": "ACC Ametha Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.009317,
+      "longitude": 80.529783,
+      "wiki_url": "https://www.gem.wiki/ACC_Ametha_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123982",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Ametha Cement Plant"
+    },
+    {
+      "asset_id": "P100000123976",
+      "location_id": "P100000123976",
+      "asset_name": "ACC Bardol Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.372104,
+      "longitude": 83.61546,
+      "wiki_url": "https://www.gem.wiki/ACC_Bardol_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123976",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Bardol Cement Plant"
+    },
+    {
+      "asset_id": "P100000123977",
+      "location_id": "P100000123977",
+      "asset_name": "ACC Barmana Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.64,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Himachal Pradesh",
+      "latitude": 31.413701,
+      "longitude": 76.834892,
+      "wiki_url": "https://www.gem.wiki/ACC_Barmana_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123977",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Barmana Cement Plant"
+    },
+    {
+      "asset_id": "P100000123978",
+      "location_id": "P100000123978",
+      "asset_name": "ACC Cementnagar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.8,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.919046,
+      "longitude": 79.113259,
+      "wiki_url": "https://www.gem.wiki/ACC_Cementnagar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123978",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Cementnagar Cement Plant"
+    },
+    {
+      "asset_id": "P100000123993",
+      "location_id": "P100000123993",
+      "asset_name": "ACC Gauriganj Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.91,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.190592,
+      "longitude": 81.706283,
+      "wiki_url": "https://www.gem.wiki/ACC_Gauriganj_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123993",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Gauriganj Cement Plant"
+    },
+    {
+      "asset_id": "P100000123979",
+      "location_id": "P100000123979",
+      "asset_name": "ACC Jamul Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.239354,
+      "longitude": 81.383196,
+      "wiki_url": "https://www.gem.wiki/ACC_Jamul_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123979",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Jamul Cement Plant"
+    },
+    {
+      "asset_id": "P100000123980",
+      "location_id": "P100000123980",
+      "asset_name": "ACC Jhinkpani Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.2,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.424461,
+      "longitude": 85.753248,
+      "wiki_url": "https://www.gem.wiki/ACC_Jhinkpani_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123980",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Jhinkpani Cement Plant"
+    },
+    {
+      "asset_id": "P100000124489",
+      "location_id": "P100000124489",
+      "asset_name": "ACC Kharagpur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.32771,
+      "longitude": 87.280232,
+      "wiki_url": "https://www.gem.wiki/ACC_Kharagpur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124489",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Kharagpur Cement Plant"
+    },
+    {
+      "asset_id": "P100000123992",
+      "location_id": "P100000123992",
+      "asset_name": "ACC Kudithini Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.215663,
+      "longitude": 76.781365,
+      "wiki_url": "https://www.gem.wiki/ACC_Kudithini_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123992",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Kudithini Cement Plant"
+    },
+    {
+      "asset_id": "P100000123981",
+      "location_id": "P100000123981",
+      "asset_name": "ACC Kymore Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.72,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.054744,
+      "longitude": 80.613003,
+      "wiki_url": "https://www.gem.wiki/ACC_Kymore_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123981",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Kymore Cement Plant"
+    },
+    {
+      "asset_id": "P100000123983",
+      "location_id": "P100000123983",
+      "asset_name": "ACC Lakheri Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.670752,
+      "longitude": 76.188927,
+      "wiki_url": "https://www.gem.wiki/ACC_Lakheri_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123983",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Lakheri Cement Plant"
+    },
+    {
+      "asset_id": "P100000123984",
+      "location_id": "P100000123984",
+      "asset_name": "ACC Madukkarai Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 10.906571,
+      "longitude": 76.955751,
+      "wiki_url": "https://www.gem.wiki/ACC_Madukkarai_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123984",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Madukkarai Cement Plant"
+    },
+    {
+      "asset_id": "P100000124152",
+      "location_id": "P100000124152",
+      "asset_name": "ACC Nalagarh Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Himachal Pradesh",
+      "latitude": 31.037155,
+      "longitude": 76.629773,
+      "wiki_url": "https://www.gem.wiki/ACC_Nalagarh_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124152",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Nalagarh Cement Plant"
+    },
+    {
+      "asset_id": "P100000127209",
+      "location_id": "P100000127209",
+      "asset_name": "ACC Salai Banwa Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 2.4,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.435104,
+      "longitude": 83.012897,
+      "wiki_url": "https://www.gem.wiki/ACC_Salai_Banwa_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000127209",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Salai Banwa Cement Plant"
+    },
+    {
+      "asset_id": "P100000123991",
+      "location_id": "P100000123991",
+      "asset_name": "ACC Sindri Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.663137,
+      "longitude": 86.500554,
+      "wiki_url": "https://www.gem.wiki/ACC_Sindri_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123991",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Sindri Cement Plant"
+    },
+    {
+      "asset_id": "P100000124002",
+      "location_id": "P100000124002",
+      "asset_name": "ACC Sunuri Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.7,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.637114,
+      "longitude": 86.887733,
+      "wiki_url": "https://www.gem.wiki/ACC_Sunuri_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124002",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Sunuri Cement Plant"
+    },
+    {
+      "asset_id": "P100000124003",
+      "location_id": "P100000124003",
+      "asset_name": "ACC Thondebhavi Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 13.499152,
+      "longitude": 77.509404,
+      "wiki_url": "https://www.gem.wiki/ACC_Thondebhavi_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124003",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Thondebhavi Cement Plant"
+    },
+    {
+      "asset_id": "P100000124142",
+      "location_id": "P100000124142",
+      "asset_name": "ACC Visakhapatnam Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 17.709591,
+      "longitude": 83.154501,
+      "wiki_url": "https://www.gem.wiki/ACC_Visakhapatnam_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124142",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Visakhapatnam Cement Plant"
+    },
+    {
+      "asset_id": "P100000123985",
+      "location_id": "P100000123985",
+      "asset_name": "ACC Wadi Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5.79,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 17.062828,
+      "longitude": 76.978304,
+      "wiki_url": "https://www.gem.wiki/ACC_Wadi_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000123985",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100002004994",
+          "name": "ACC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ACC Wadi Cement Plant"
+    },
+    {
+      "asset_id": "P100000124507",
+      "location_id": "P100000124507",
+      "asset_name": "Asian Fine Cements Rajpura Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": 30.423781,
+      "longitude": 76.716928,
+      "wiki_url": "https://www.gem.wiki/Asian_Fine_Cements_Rajpura_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124507",
+      "upstream_entity_count": 13,
+      "owners": [
+        {
+          "entity_id": "E100002005660",
+          "name": "Asian Fine Cements Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Asian Fine Cements Rajpura Cement Plant"
+    }
+  ]
+}

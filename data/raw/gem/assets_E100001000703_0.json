@@ -1,0 +1,3127 @@
+{
+  "total": 115,
+  "total_asset_count": 115,
+  "total_location_count": 40,
+  "limit": 200,
+  "offset": 0,
+  "count": 115,
+  "results": [
+    {
+      "asset_id": "M0738_Base",
+      "location_id": "M0738",
+      "asset_name": "Benga Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.8,
+      "capacity_unit": "Mtpa",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -16.167428,
+      "longitude": 33.661022,
+      "wiki_url": "https://www.gem.wiki/Benga_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0738_Base",
+      "upstream_entity_count": 18,
+      "owners": [
+        {
+          "entity_id": "E100001013473",
+          "name": "Minas De Benga Lda",
+          "ownership_share": 100.0,
+          "hq_country": "Mozambique"
+        }
+      ],
+      "project_name": "Benga Coal Mine"
+    },
+    {
+      "asset_id": "L100000103059_G100000100755",
+      "location_id": "L100000103059",
+      "asset_name": "Benga power station (ICVL) Phase I",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 200.0,
+      "capacity_unit": "MW",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -15.5,
+      "longitude": 32.5,
+      "wiki_url": "https://www.gem.wiki/Benga_power_station_(ICVL)",
+      "unit_name": "Phase I",
+      "url": "/assets/L100000103059_G100000100755",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120627",
+          "name": "International Coal Ventures Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Benga power station (ICVL)"
+    },
+    {
+      "asset_id": "L100000102132_G100000100818",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102132_G100000100818",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100819",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102132_G100000100819",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100820",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102132_G100000100820",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100821",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102132_G100000100821",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100822",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102132_G100000100822",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100823",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102132_G100000100823",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100824",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102132_G100000100824",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102132_G100000100825",
+      "location_id": "L100000102132",
+      "asset_name": "Bhilai Steel power station Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.184,
+      "longitude": 81.4237,
+      "wiki_url": "https://www.gem.wiki/Bhilai_Steel_power_station",
+      "unit_name": "Unit 9",
+      "url": "/assets/L100000102132_G100000100825",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bhilai Steel power station"
+    },
+    {
+      "asset_id": "L100000102250_G100000100996",
+      "location_id": "L100000102250",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 55.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102250_G100000100996",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120172",
+          "name": "Bokaro Power Supply Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bokaro Steel City Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102250_G100000112128",
+      "location_id": "L100000102250",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 55.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102250_G100000112128",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120172",
+          "name": "Bokaro Power Supply Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bokaro Steel City Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102250_G100000100997",
+      "location_id": "L100000102250",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102250_G100000100997",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120172",
+          "name": "Bokaro Power Supply Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bokaro Steel City Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102250_G100000100998",
+      "location_id": "L100000102250",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102250_G100000100998",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120172",
+          "name": "Bokaro Power Supply Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bokaro Steel City Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102250_G100000100999",
+      "location_id": "L100000102250",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102250_G100000100999",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120172",
+          "name": "Bokaro Power Supply Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bokaro Steel City Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102250_G100000101000",
+      "location_id": "L100000102250",
+      "asset_name": "Bokaro Steel City Thermal Power Station Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 36.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.685875,
+      "longitude": 86.092944,
+      "wiki_url": "https://www.gem.wiki/Bokaro_Steel_City_Thermal_Power_Station",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102250_G100000101000",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120172",
+          "name": "Bokaro Power Supply Company Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bokaro Steel City Thermal Power Station"
+    },
+    {
+      "asset_id": "M1669",
+      "location_id": "M1669",
+      "asset_name": "Chasnala Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.2,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.658882,
+      "longitude": 86.449764,
+      "wiki_url": "https://www.gem.wiki/Chasnala_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M1669",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chasnala Coal Mine"
+    },
+    {
+      "asset_id": "L100000102671_G100000102511",
+      "location_id": "L100000102671",
+      "asset_name": "Durgapur SAIL power station Phase 2 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.551805,
+      "longitude": 87.248475,
+      "wiki_url": "https://www.gem.wiki/Durgapur_SAIL_power_station",
+      "unit_name": "Phase 2 Unit 1",
+      "url": "/assets/L100000102671_G100000102511",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Durgapur SAIL power station"
+    },
+    {
+      "asset_id": "L100000102671_G100000102512",
+      "location_id": "L100000102671",
+      "asset_name": "Durgapur SAIL power station Phase 2 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.551805,
+      "longitude": 87.248475,
+      "wiki_url": "https://www.gem.wiki/Durgapur_SAIL_power_station",
+      "unit_name": "Phase 2 Unit 2",
+      "url": "/assets/L100000102671_G100000102512",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Durgapur SAIL power station"
+    },
+    {
+      "asset_id": "L100000102631_G100000104946",
+      "location_id": "L100000102631",
+      "asset_name": "Jagdishpur captive power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.75,
+      "longitude": 80.533,
+      "wiki_url": "https://www.gem.wiki/Jagdishpur_captive_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102631_G100000104946",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jagdishpur captive power station"
+    },
+    {
+      "asset_id": "L100000102631_G100000104947",
+      "location_id": "L100000102631",
+      "asset_name": "Jagdishpur captive power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.75,
+      "longitude": 80.533,
+      "wiki_url": "https://www.gem.wiki/Jagdishpur_captive_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102631_G100000104947",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jagdishpur captive power station"
+    },
+    {
+      "asset_id": "M0603",
+      "location_id": "M0603",
+      "asset_name": "Parbatpur Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 20.7152778,
+      "longitude": 86.375,
+      "wiki_url": "https://www.gem.wiki/Parbatpur_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0603",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 33.3,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001000396",
+          "name": "Coal India Ltd",
+          "ownership_share": 33.3,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 33.3,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Parbatpur Coal Mine"
+    },
+    {
+      "asset_id": "M1724",
+      "location_id": "M1724",
+      "asset_name": "Ramnagar Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.756027,
+      "longitude": 86.835903,
+      "wiki_url": "https://www.gem.wiki/Ramnagar_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M1724",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ramnagar Coal Mine"
+    },
+    {
+      "asset_id": "L100000102494_G100000108643",
+      "location_id": "L100000102494",
+      "asset_name": "Rourkela Works-2 power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.221,
+      "longitude": 84.880551,
+      "wiki_url": "https://www.gem.wiki/Rourkela_Works-2_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102494_G100000108643",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rourkela Works-2 power station"
+    },
+    {
+      "asset_id": "L100000102494_G100000108644",
+      "location_id": "L100000102494",
+      "asset_name": "Rourkela Works-2 power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.221,
+      "longitude": 84.880551,
+      "wiki_url": "https://www.gem.wiki/Rourkela_Works-2_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102494_G100000108644",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rourkela Works-2 power station"
+    },
+    {
+      "asset_id": "L100000102494_G100000113412",
+      "location_id": "L100000102494",
+      "asset_name": "Rourkela Works-2 power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.221,
+      "longitude": 84.880551,
+      "wiki_url": "https://www.gem.wiki/Rourkela_Works-2_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102494_G100000113412",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120890",
+          "name": "NTPC-SAIL Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rourkela Works-2 power station"
+    },
+    {
+      "asset_id": "P100000120549_U100000141918",
+      "location_id": "P100000120549",
+      "asset_name": "SAIL Alloy steel plant EAF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 167.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.522882,
+      "longitude": 87.275935,
+      "wiki_url": "https://www.gem.wiki/SAIL_Alloy_steel_plant",
+      "unit_name": "EAF 1",
+      "url": "/assets/P100000120549_U100000141918",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Alloy steel plant"
+    },
+    {
+      "asset_id": "P100000120549_U100000141919",
+      "location_id": "P100000120549",
+      "asset_name": "SAIL Alloy steel plant EAF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 167.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.522882,
+      "longitude": 87.275935,
+      "wiki_url": "https://www.gem.wiki/SAIL_Alloy_steel_plant",
+      "unit_name": "EAF 2",
+      "url": "/assets/P100000120549_U100000141919",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Alloy steel plant"
+    },
+    {
+      "asset_id": "P100000120549_U100000141920",
+      "location_id": "P100000120549",
+      "asset_name": "SAIL Alloy steel plant EAF 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 167.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.522882,
+      "longitude": 87.275935,
+      "wiki_url": "https://www.gem.wiki/SAIL_Alloy_steel_plant",
+      "unit_name": "EAF 4",
+      "url": "/assets/P100000120549_U100000141920",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Alloy steel plant"
+    },
+    {
+      "asset_id": "P100000128517",
+      "location_id": "P100000128517",
+      "asset_name": "SAIL Barsua Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2160.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.871274,
+      "longitude": 85.149584,
+      "wiki_url": "https://www.gem.wiki/SAIL_Barsua_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128517",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Barsua Mine"
+    },
+    {
+      "asset_id": "P100000120525_U100000141037",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "capacity_value": 568.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120525_U100000141037",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000141038",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant BF 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 946.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "BF 4",
+      "url": "/assets/P100000120525_U100000141038",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000141039",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant BF 5",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 946.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "BF 5",
+      "url": "/assets/P100000120525_U100000141039",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000141040",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant BF 6",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 946.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "BF 6",
+      "url": "/assets/P100000120525_U100000141040",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000141041",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant BF 7",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1295.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "BF 7",
+      "url": "/assets/P100000120525_U100000141041",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000141043",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant BF 8",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "BF 8",
+      "url": "/assets/P100000120525_U100000141043",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000143612",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120525_U100000143612",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000143613",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120525_U100000143613",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000143614",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120525_U100000143614",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000143816",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1333.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120525_U100000143816",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000143817",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1333.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120525_U100000143817",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000143818",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1333.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "unknown BOF (6)",
+      "url": "/assets/P100000120525_U100000143818",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000145065",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant unknown BOF (7)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 7000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "unknown BOF (7)",
+      "url": "/assets/P100000120525_U100000145065",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120525_U100000144930",
+      "location_id": "P100000120525",
+      "asset_name": "SAIL Bhilai steel plant unknown iron (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 7000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.185157,
+      "longitude": 81.394207,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bhilai_steel_plant",
+      "unit_name": "unknown iron (unspecified) (1)",
+      "url": "/assets/P100000120525_U100000144930",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bhilai steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000141044",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1050.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120526_U100000141044",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000141045",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1575.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120526_U100000141045",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000141046",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1050.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BF 3",
+      "url": "/assets/P100000120526_U100000141046",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000141047",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BF 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1050.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BF 4",
+      "url": "/assets/P100000120526_U100000141047",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000141048",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BF 5",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1050.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BF 5",
+      "url": "/assets/P100000120526_U100000141048",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000143618",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter A (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BOF Converter A (4)",
+      "url": "/assets/P100000120526_U100000143618",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000143617",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter B (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BOF Converter B (3)",
+      "url": "/assets/P100000120526_U100000143617",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000143616",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter C (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BOF Converter C (2)",
+      "url": "/assets/P100000120526_U100000143616",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000143615",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter D (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BOF Converter D (1)",
+      "url": "/assets/P100000120526_U100000143615",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000143619",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant BOF Converter E (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 484.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "BOF Converter E (5)",
+      "url": "/assets/P100000120526_U100000143619",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000144055",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100000120526_U100000144055",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000144056",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant unknown BF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "unknown BF (2)",
+      "url": "/assets/P100000120526_U100000144056",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000143620",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1116.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120526_U100000143620",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000143621",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1116.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120526_U100000143621",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100000145095",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120526_U100000145095",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100001030277",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120526_U100001030277",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100001050462",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant unknown steel (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 5000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "unknown steel (unspecified) (1)",
+      "url": "/assets/P100000120526_U100001050462",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120526_U100001050463",
+      "location_id": "P100000120526",
+      "asset_name": "SAIL Bokaro steel plant unknown steel (unspecified) (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 5000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.671677,
+      "longitude": 86.10687,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bokaro_steel_plant",
+      "unit_name": "unknown steel (unspecified) (2)",
+      "url": "/assets/P100000120526_U100001050463",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000128461",
+      "location_id": "P100000128461",
+      "asset_name": "SAIL Bolani Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 7417.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.103431,
+      "longitude": 85.302394,
+      "wiki_url": "https://www.gem.wiki/SAIL_Bolani_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128461",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Bolani Mine"
+    },
+    {
+      "asset_id": "P100000128475",
+      "location_id": "P100000128475",
+      "asset_name": "SAIL Dalli Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 20.570856,
+      "longitude": 81.021508,
+      "wiki_url": "https://www.gem.wiki/SAIL_Dalli_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128475",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Dalli Mine"
+    },
+    {
+      "asset_id": "P100000120527_U100000141049",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "capacity_value": 695.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120527_U100000141049",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000120527_U100000141050",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant BF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1060.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "BF 3",
+      "url": "/assets/P100000120527_U100000141050",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000120527_U100000141051",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant BF 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 945.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "BF 4",
+      "url": "/assets/P100000120527_U100000141051",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000120527_U100000144931",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant BF 5",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 2360.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "BF 5",
+      "url": "/assets/P100000120527_U100000144931",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000120527_U100000143622",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120527_U100000143622",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000120527_U100000143623",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120527_U100000143623",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000120527_U100000143624",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120527_U100000143624",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000120527_U100000144323",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 743.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120527_U100000144323",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000120527_U100000144324",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 743.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120527_U100000144324",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000120527_U100000144325",
+      "location_id": "P100000120527",
+      "asset_name": "SAIL Durgapur steel plant unknown BOF (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 743.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.54843,
+      "longitude": 87.245247,
+      "wiki_url": "https://www.gem.wiki/SAIL_Durgapur_steel_plant",
+      "unit_name": "unknown BOF (6)",
+      "url": "/assets/P100000120527_U100000144325",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Durgapur steel plant"
+    },
+    {
+      "asset_id": "P100000128471",
+      "location_id": "P100000128471",
+      "asset_name": "SAIL Gua (Duarguiburu) Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3960.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.211793,
+      "longitude": 85.352874,
+      "wiki_url": "https://www.gem.wiki/SAIL_Gua_(Duarguiburu)_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128471",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Gua (Duarguiburu) Mine"
+    },
+    {
+      "asset_id": "P100000128871",
+      "location_id": "P100000128871",
+      "asset_name": "SAIL Gua (Jhillingburu I) Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.193837,
+      "longitude": 85.372555,
+      "wiki_url": "https://www.gem.wiki/SAIL_Gua_(Jhillingburu_I)_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128871",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Gua (Jhillingburu I) Mine"
+    },
+    {
+      "asset_id": "P100000128872",
+      "location_id": "P100000128872",
+      "asset_name": "SAIL Gua (Jhillingburu II) Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.195269,
+      "longitude": 85.376747,
+      "wiki_url": "https://www.gem.wiki/SAIL_Gua_(Jhillingburu_II)_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128872",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Gua (Jhillingburu II) Mine"
+    },
+    {
+      "asset_id": "P100000120524_U100000141036",
+      "location_id": "P100000120524",
+      "asset_name": "SAIL IISCO steel plant BF 5",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "unit_name": "BF 5",
+      "url": "/assets/P100000120524_U100000141036",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL IISCO steel plant"
+    },
+    {
+      "asset_id": "P100000120524_U100000144928",
+      "location_id": "P100000120524",
+      "asset_name": "SAIL IISCO steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4300.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100000120524_U100000144928",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL IISCO steel plant"
+    },
+    {
+      "asset_id": "P100000120524_U100000143609",
+      "location_id": "P100000120524",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120524_U100000143609",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL IISCO steel plant"
+    },
+    {
+      "asset_id": "P100000120524_U100000143610",
+      "location_id": "P100000120524",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120524_U100000143610",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL IISCO steel plant"
+    },
+    {
+      "asset_id": "P100000120524_U100000143611",
+      "location_id": "P100000120524",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 833.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120524_U100000143611",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL IISCO steel plant"
+    },
+    {
+      "asset_id": "P100000120524_U100000145066",
+      "location_id": "P100000120524",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1533.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120524_U100000145066",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL IISCO steel plant"
+    },
+    {
+      "asset_id": "P100000120524_U100000145067",
+      "location_id": "P100000120524",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1533.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120524_U100000145067",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL IISCO steel plant"
+    },
+    {
+      "asset_id": "P100000120524_U100001070491",
+      "location_id": "P100000120524",
+      "asset_name": "SAIL IISCO steel plant unknown BOF (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1533.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.673236,
+      "longitude": 86.926179,
+      "wiki_url": "https://www.gem.wiki/SAIL_IISCO_steel_plant",
+      "unit_name": "unknown BOF (6)",
+      "url": "/assets/P100000120524_U100001070491",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL IISCO steel plant"
+    },
+    {
+      "asset_id": "P100000128918",
+      "location_id": "P100000128918",
+      "asset_name": "SAIL Jharan Dalli Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5370.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 20.563854,
+      "longitude": 81.046262,
+      "wiki_url": "https://www.gem.wiki/SAIL_Jharan_Dalli_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128918",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Jharan Dalli Mine"
+    },
+    {
+      "asset_id": "P100000128480",
+      "location_id": "P100000128480",
+      "asset_name": "SAIL Kalta Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3187.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.973018,
+      "longitude": 85.213118,
+      "wiki_url": "https://www.gem.wiki/SAIL_Kalta_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128480",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Kalta Mine"
+    },
+    {
+      "asset_id": "P100000128455",
+      "location_id": "P100000128455",
+      "asset_name": "SAIL Kiriburu Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4053.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.072726,
+      "longitude": 85.267298,
+      "wiki_url": "https://www.gem.wiki/SAIL_Kiriburu_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128455",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Kiriburu Mine"
+    },
+    {
+      "asset_id": "P100000128532",
+      "location_id": "P100000128532",
+      "asset_name": "SAIL Mahamaya-Dulki Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1374.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 20.485727,
+      "longitude": 80.988404,
+      "wiki_url": "https://www.gem.wiki/SAIL_Mahamaya-Dulki_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128532",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Mahamaya-Dulki Mine"
+    },
+    {
+      "asset_id": "P100000128538",
+      "location_id": "P100000128538",
+      "asset_name": "SAIL Manoharpur (Ankua) Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.257168,
+      "longitude": 85.233805,
+      "wiki_url": "https://www.gem.wiki/SAIL_Manoharpur_(Ankua)_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128538",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Manoharpur (Ankua) Mine"
+    },
+    {
+      "asset_id": "P100000128463",
+      "location_id": "P100000128463",
+      "asset_name": "SAIL Manoharpur (Dhobil) Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 341.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.261726,
+      "longitude": 85.273121,
+      "wiki_url": "https://www.gem.wiki/SAIL_Manoharpur_(Dhobil)_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128463",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Manoharpur (Dhobil) Mine"
+    },
+    {
+      "asset_id": "P100000128537",
+      "location_id": "P100000128537",
+      "asset_name": "SAIL Manoharpur (Tatiburu) Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.276383,
+      "longitude": 85.194537,
+      "wiki_url": "https://www.gem.wiki/SAIL_Manoharpur_(Tatiburu)_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128537",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Manoharpur (Tatiburu) Mine"
+    },
+    {
+      "asset_id": "P100000128530",
+      "location_id": "P100000128530",
+      "asset_name": "SAIL Meghahatuburu Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3676.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.106718,
+      "longitude": 85.279108,
+      "wiki_url": "https://www.gem.wiki/SAIL_Meghahatuburu_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128530",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Meghahatuburu Mine"
+    },
+    {
+      "asset_id": "P100000120550_U100000143640",
+      "location_id": "P100000120550",
+      "asset_name": "SAIL Paradip steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.317455,
+      "longitude": 86.609001,
+      "wiki_url": "https://www.gem.wiki/SAIL_Paradip_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120550_U100000143640",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Paradip steel plant"
+    },
+    {
+      "asset_id": "P100000120550_U100000144913",
+      "location_id": "P100000120550",
+      "asset_name": "SAIL Paradip steel plant unknown iron (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.317455,
+      "longitude": 86.609001,
+      "wiki_url": "https://www.gem.wiki/SAIL_Paradip_steel_plant",
+      "unit_name": "unknown iron (unspecified) (1)",
+      "url": "/assets/P100000120550_U100000144913",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Paradip steel plant"
+    },
+    {
+      "asset_id": "P100000128495",
+      "location_id": "P100000128495",
+      "asset_name": "SAIL Rajhara Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1665.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 20.56984,
+      "longitude": 81.095046,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rajhara_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128495",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rajhara Mine"
+    },
+    {
+      "asset_id": "P100001081803_U100001092095",
+      "location_id": "P100001081803",
+      "asset_name": "SAIL Ranchi DRI plant unknown DRI (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1168.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.3356313803427,
+      "longitude": 85.31236535745192,
+      "wiki_url": "https://www.gem.wiki/SAIL_Ranchi_DRI_plant",
+      "unit_name": "unknown DRI (1)",
+      "url": "/assets/P100001081803_U100001092095",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Ranchi DRI plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000141052",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1059.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120528_U100000141052",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000141053",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant BF 4",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 641.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "BF 4",
+      "url": "/assets/P100000120528_U100000141053",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000141056",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant BF 5",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "BF 5",
+      "url": "/assets/P100000120528_U100000141056",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000144857",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant unknown BF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 6000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "unknown BF (1)",
+      "url": "/assets/P100000120528_U100000144857",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000143625",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1094.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120528_U100000143625",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000143626",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1094.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120528_U100000143626",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000143627",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1094.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120528_U100000143627",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000145068",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4800.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120528_U100000145068",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000144266",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (5)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "capacity_value": 481.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "unknown BOF (5)",
+      "url": "/assets/P100000120528_U100000144266",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000144267",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (6)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating_pre_retirement",
+      "capacity_value": 437.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "unknown BOF (6)",
+      "url": "/assets/P100000120528_U100000144267",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000120528_U100000144268",
+      "location_id": "P100000120528",
+      "asset_name": "SAIL Rourkela steel plant unknown BOF (7)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1212.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.210804,
+      "longitude": 84.86895,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rourkela_steel_plant",
+      "unit_name": "unknown BOF (7)",
+      "url": "/assets/P100000120528_U100000144268",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rourkela steel plant"
+    },
+    {
+      "asset_id": "P100000128533",
+      "location_id": "P100000128533",
+      "asset_name": "SAIL Rowghat Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 95.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 19.747479,
+      "longitude": 81.139969,
+      "wiki_url": "https://www.gem.wiki/SAIL_Rowghat_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128533",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Rowghat Mine"
+    },
+    {
+      "asset_id": "P100000128525",
+      "location_id": "P100000128525",
+      "asset_name": "SAIL Taldih Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1210.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.901902,
+      "longitude": 85.157258,
+      "wiki_url": "https://www.gem.wiki/SAIL_Taldih_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128525",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Taldih Mine"
+    },
+    {
+      "asset_id": "P100000129406",
+      "location_id": "P100000129406",
+      "asset_name": "SAIL Topailore Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.225664,
+      "longitude": 85.356689,
+      "wiki_url": "https://www.gem.wiki/SAIL_Topailore_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129406",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "SAIL Topailore Mine"
+    },
+    {
+      "asset_id": "M7207",
+      "location_id": "M7207",
+      "asset_name": "Tasra Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.6470343,
+      "longitude": 86.4619897,
+      "wiki_url": "https://www.gem.wiki/Tasra_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M7207",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tasra Coal Mine"
+    },
+    {
+      "asset_id": "L100000102286_G100000113411",
+      "location_id": "L100000102286",
+      "asset_name": "Tasra Coking power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.78,
+      "longitude": 86.72,
+      "wiki_url": "https://www.gem.wiki/Tasra_Coking_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102286_G100000113411",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tasra Coking power station"
+    },
+    {
+      "asset_id": "M6767",
+      "location_id": "M6767",
+      "asset_name": "Tete East Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -16.2113113,
+      "longitude": 33.232894,
+      "wiki_url": "https://www.gem.wiki/Tete_East_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M6767",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000120627",
+          "name": "International Coal Ventures Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tete East Coal Mine"
+    },
+    {
+      "asset_id": "M0743",
+      "location_id": "M0743",
+      "asset_name": "Zambezi Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "capacity_value": 9.0,
+      "capacity_unit": "Mtpa",
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "latitude": -16.115037,
+      "longitude": 33.602149,
+      "wiki_url": "https://www.gem.wiki/Zambezi_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M0743",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100002010298",
+          "name": "ICVL Zambeze Lda",
+          "ownership_share": 100.0,
+          "hq_country": "Mozambique"
+        }
+      ],
+      "project_name": "Zambezi Coal Mine"
+    }
+  ]
+}

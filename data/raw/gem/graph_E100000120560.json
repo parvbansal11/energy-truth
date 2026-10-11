@@ -1,0 +1,1471 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100000120560",
+    "full_name": "Hindalco Industries Ltd",
+    "name": "Hindalco Industries",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": "HIL",
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.hindalco.com/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Mahārāshtra",
+    "gem_parents": "Hindalco Industries Ltd [100%]",
+    "gem_parents_ids": "E100000120560 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800KXLE5NO5B4GF90",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L27020MH1958PLC011238",
+    "permid_refinitiv_permanent_identifier": "4295873625",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120560",
+      "full_name": "Hindalco Industries Ltd",
+      "name": "Hindalco Industries",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "HIL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.hindalco.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Mahārāshtra",
+      "gem_parents": "Hindalco Industries Ltd [100%]",
+      "gem_parents_ids": "E100000120560 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800KXLE5NO5B4GF90",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L27020MH1958PLC011238",
+      "permid_refinitiv_permanent_identifier": "4295873625",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102441_G100000100041",
+      "location_id": "L100000102441",
+      "unit_id": "G100000100041",
+      "asset_type": "Coal Plant",
+      "asset_name": "Aditya Aluminium power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Aditya Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102441_G100000100042",
+      "location_id": "L100000102441",
+      "unit_id": "G100000100042",
+      "asset_type": "Coal Plant",
+      "asset_name": "Aditya Aluminium power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Aditya Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102441_G100000100043",
+      "location_id": "L100000102441",
+      "unit_id": "G100000100043",
+      "asset_type": "Coal Plant",
+      "asset_name": "Aditya Aluminium power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Aditya Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102441_G100000100044",
+      "location_id": "L100000102441",
+      "unit_id": "G100000100044",
+      "asset_type": "Coal Plant",
+      "asset_name": "Aditya Aluminium power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Aditya Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102441_G100000100045",
+      "location_id": "L100000102441",
+      "unit_id": "G100000100045",
+      "asset_type": "Coal Plant",
+      "asset_name": "Aditya Aluminium power station Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Aditya Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102441_G100000100046",
+      "location_id": "L100000102441",
+      "unit_id": "G100000100046",
+      "asset_type": "Coal Plant",
+      "asset_name": "Aditya Aluminium power station Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Aditya Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102466_G100000103889",
+      "location_id": "L100000102466",
+      "unit_id": "G100000103889",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hirakud Smelter power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.529687,
+      "longitude": 83.904569,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hirakud_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Hirakud Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102466_G100000103890",
+      "location_id": "L100000102466",
+      "unit_id": "G100000103890",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hirakud Smelter power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.529687,
+      "longitude": 83.904569,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hirakud_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Hirakud Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102466_G100000103891",
+      "location_id": "L100000102466",
+      "unit_id": "G100000103891",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hirakud Smelter power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.529687,
+      "longitude": 83.904569,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hirakud_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Hirakud Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102466_G100000103892",
+      "location_id": "L100000102466",
+      "unit_id": "G100000103892",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hirakud Smelter power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.529687,
+      "longitude": 83.904569,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hirakud_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Hirakud Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102347_G100000106566",
+      "location_id": "L100000102347",
+      "unit_id": "G100000106566",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Aluminium power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Mahan Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102347_G100000106567",
+      "location_id": "L100000102347",
+      "unit_id": "G100000106567",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Aluminium power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Mahan Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102347_G100000106568",
+      "location_id": "L100000102347",
+      "unit_id": "G100000106568",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Aluminium power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Mahan Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102347_G100000106569",
+      "location_id": "L100000102347",
+      "unit_id": "G100000106569",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Aluminium power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Mahan Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102347_G100000106570",
+      "location_id": "L100000102347",
+      "unit_id": "G100000106570",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Aluminium power station Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Mahan Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102347_G100000106571",
+      "location_id": "L100000102347",
+      "unit_id": "G100000106571",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Aluminium power station Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "source_id": 2,
+      "project_name": "Mahan Aluminium power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108546",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108546",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108547",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108547",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 10",
+      "unit_name": "Unit 10",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 75.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108548",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108548",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108549",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108549",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 74.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108550",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108550",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 74.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108551",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108551",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 68.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108552",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108552",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 74.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108553",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108553",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 7",
+      "unit_name": "Unit 7",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 74.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108554",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108554",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 8",
+      "unit_name": "Unit 8",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 76.7,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102648_G100000108555",
+      "location_id": "L100000102648",
+      "unit_id": "G100000108555",
+      "asset_type": "Coal Plant",
+      "asset_name": "Renusagar power station Unit 9",
+      "unit_name": "Unit 9",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 75.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "source_id": 2,
+      "project_name": "Renusagar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102506_G100000110525",
+      "location_id": "L100000102506",
+      "unit_id": "G100000110525",
+      "asset_type": "Coal Plant",
+      "asset_name": "Utkal Smelter power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 19.19549855,
+      "longitude": 83.02993129,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Utkal_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Utkal Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102506_G100000110526",
+      "location_id": "L100000102506",
+      "unit_id": "G100000110526",
+      "asset_type": "Coal Plant",
+      "asset_name": "Utkal Smelter power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 19.19549855,
+      "longitude": 83.02993129,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Utkal_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Utkal Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102506_G100000110527",
+      "location_id": "L100000102506",
+      "unit_id": "G100000110527",
+      "asset_type": "Coal Plant",
+      "asset_name": "Utkal Smelter power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 19.19549855,
+      "longitude": 83.02993129,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Utkal_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Utkal Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M0491",
+      "location_id": "M0491",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Chakla Coal Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 23.733245,
+      "longitude": 84.816684,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 5.3,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Chakla_coal_mine",
+      "source_id": 9,
+      "project_name": "Chakla Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M2884",
+      "location_id": "M2884",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Gare Palma IV 4 Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.15,
+      "longitude": 83.5415,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 0.9,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Gare_Palma_IV_4_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Gare Palma IV 4 Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M4436",
+      "location_id": "M4436",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Gare Palma IV 5 UG Coal Mine",
+      "unit_name": null,
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "latitude": 22.13331695,
+      "longitude": 83.5188582145629,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 0.9,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Gare_Palma_IV_5_UG_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Gare Palma IV 5 UG Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M1700",
+      "location_id": "M1700",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Kathautia Coal Mine",
+      "unit_name": null,
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "latitude": 24.132523,
+      "longitude": 84.08231,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 0.6,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Kathautia_coal_mine",
+      "source_id": 9,
+      "project_name": "Kathautia Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M4453",
+      "location_id": "M4453",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Meenakshi West Coal Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 22.0987811,
+      "longitude": 84.3507227,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 12.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Meenakshi_West_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Meenakshi West Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100000120560",
+      "target": "L100000102441_G100000100041",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102441_G100000100042",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102441_G100000100043",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102441_G100000100044",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102441_G100000100045",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102441_G100000100046",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102466_G100000103889",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102466_G100000103890",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102466_G100000103891",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102466_G100000103892",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102347_G100000106566",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102347_G100000106567",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102347_G100000106568",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102347_G100000106569",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102347_G100000106570",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102347_G100000106571",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108546",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108547",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108548",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108549",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108550",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108551",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108552",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108553",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108554",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102648_G100000108555",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102506_G100000110525",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102506_G100000110526",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "L100000102506_G100000110527",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "M0491",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "M2884",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "M4436",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "M1700",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120560",
+      "target": "M4453",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    }
+  ],
+  "paths": {
+    "E100000120560": [
+      {
+        "route": [
+          "E100000120560"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102441_G100000100041": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102441_G100000100041"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102441_G100000100042": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102441_G100000100042"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102441_G100000100043": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102441_G100000100043"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102441_G100000100044": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102441_G100000100044"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102441_G100000100045": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102441_G100000100045"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102441_G100000100046": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102441_G100000100046"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102466_G100000103889": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102466_G100000103889"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102466_G100000103890": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102466_G100000103890"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102466_G100000103891": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102466_G100000103891"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102466_G100000103892": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102466_G100000103892"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102347_G100000106566": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102347_G100000106566"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102347_G100000106567": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102347_G100000106567"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102347_G100000106568": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102347_G100000106568"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102347_G100000106569": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102347_G100000106569"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102347_G100000106570": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102347_G100000106570"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102347_G100000106571": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102347_G100000106571"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108546": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108546"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108547": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108547"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108548": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108548"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108549": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108549"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108550": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108550"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108551": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108551"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108552": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108552"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108553": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108553"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108554": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108554"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102648_G100000108555": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102648_G100000108555"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102506_G100000110525": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102506_G100000110525"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102506_G100000110526": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102506_G100000110526"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102506_G100000110527": [
+      {
+        "route": [
+          "E100000120560",
+          "L100000102506_G100000110527"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M0491": [
+      {
+        "route": [
+          "E100000120560",
+          "M0491"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M2884": [
+      {
+        "route": [
+          "E100000120560",
+          "M2884"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M4436": [
+      {
+        "route": [
+          "E100000120560",
+          "M4436"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M1700": [
+      {
+        "route": [
+          "E100000120560",
+          "M1700"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M4453": [
+      {
+        "route": [
+          "E100000120560",
+          "M4453"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "L100000102506_G100000110526",
+    "L100000102441_G100000100043",
+    "L100000102441_G100000100046",
+    "L100000102648_G100000108550",
+    "M1700",
+    "M2884",
+    "L100000102648_G100000108555",
+    "L100000102506_G100000110527",
+    "L100000102347_G100000106570",
+    "M4453",
+    "L100000102347_G100000106567",
+    "L100000102347_G100000106566",
+    "L100000102648_G100000108546",
+    "L100000102648_G100000108554",
+    "M4436",
+    "L100000102466_G100000103892",
+    "L100000102441_G100000100041",
+    "L100000102648_G100000108547",
+    "L100000102466_G100000103890",
+    "M0491",
+    "L100000102648_G100000108552",
+    "L100000102648_G100000108548",
+    "L100000102347_G100000106568",
+    "L100000102347_G100000106571",
+    "L100000102648_G100000108553",
+    "L100000102466_G100000103891",
+    "L100000102441_G100000100042",
+    "L100000102648_G100000108551",
+    "L100000102648_G100000108549",
+    "L100000102441_G100000100045",
+    "L100000102347_G100000106569",
+    "L100000102506_G100000110525",
+    "L100000102441_G100000100044",
+    "L100000102466_G100000103889"
+  ],
+  "truncated_node_ids": []
+}

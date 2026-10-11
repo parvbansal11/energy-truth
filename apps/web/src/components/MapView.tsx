@@ -27,9 +27,12 @@ const REGION_LABEL: Record<string, { name: string; at: [number, number] }> = {
 const isIndia = (a: Asset) => a.country === "IND" || a.country === "India";
 const short = (n: string) => n.replace(/ (power station|steel plant|thermal power (plant|project|station)|super thermal power (station|project)|cement plant)$/i, "");
 
+const yearRef = { current: "2024" };
+const E = (a: Asset) => a.ct?.emissions_t[yearRef.current] || 0;
+
 export function MapView() {
   const app = useApp();
-  const { assets, selected, scorecards, layers, setLayers, highlight, alertIds, mapCmd, plant, openPlant, meta, select } = app;
+  const { assets, selected, scorecards, layers, setLayers, highlight, alertIds, mapCmd, plant, openPlant, meta, select, excluded } = app;
   const el = useRef<HTMLDivElement>(null);
   const map = useRef<GLMap | null>(null);
   const overlay = useRef<MapboxOverlay | null>(null);
@@ -143,11 +146,11 @@ export function MapView() {
     }
     for (const sym of Object.keys(app.assetsBy)) {
       const pts = app.assetsBy[sym].filter((a) => a.ct && isIndia(a) && a.lat != null);
-      const tot = pts.reduce((t, a) => t + (a.ct!.emissions_t["2024"] || 0), 0);
+      const tot = pts.reduce((t, a) => t + (E(a) || 0), 0);
       const sc = scorecards[sym];
       if (!pts.length || !tot || !sc) continue;
-      const lon = pts.reduce((t, a) => t + a.lon * (a.ct!.emissions_t["2024"] || 0), 0) / tot;
-      const lat = pts.reduce((t, a) => t + a.lat * (a.ct!.emissions_t["2024"] || 0), 0) / tot;
+      const lon = pts.reduce((t, a) => t + a.lon * (E(a) || 0), 0) / tot;
+      const lat = pts.reduce((t, a) => t + a.lat * (E(a) || 0), 0) / tot;
       const z = sc.scopes.S1.z;
       const tone = sc.scopes.S1.verdict.tone;
       const active = sym === selected;
@@ -170,7 +173,7 @@ export function MapView() {
       const me = a.asset_id === focusAsset.asset_id;
       const node = document.createElement("button");
       node.className = "flex flex-col items-center";
-      node.innerHTML = `<span class="mb-1.5 whitespace-nowrap rounded-full px-3 py-1.5 text-[12px] shadow-[0_8px_22px_-8px_rgba(0,0,0,0.45)] transition hover:-translate-y-0.5 ${me ? "bg-[#1c1b18] text-white" : "bg-white text-[#1c1b18]"}">${short(a.name)}${a.ct ? ` <b class="font-medium ${me ? "text-[#a8d5c2]" : "text-[#2f6b55]"}">${mt(a.ct.emissions_t["2024"])} Mt</b>` : ` <span class="text-[#a6a196]">no estimate</span>`}</span>
+      node.innerHTML = `<span class="mb-1.5 whitespace-nowrap rounded-full px-3 py-1.5 text-[12px] shadow-[0_8px_22px_-8px_rgba(0,0,0,0.45)] transition hover:-translate-y-0.5 ${me ? "bg-[#1c1b18] text-white" : "bg-white text-[#1c1b18]"}">${short(a.name)}${a.ct ? ` <b class="font-medium ${me ? "text-[#a8d5c2]" : "text-[#2f6b55]"}">${mt(E(a))} Mt</b>` : ` <span class="text-[#a6a196]">no estimate</span>`}</span>
         <span class="h-6 w-px ${me ? "bg-white" : "bg-white/80"}"></span><span class="relative block h-2.5 w-2.5 rounded-full border-2 border-white ${me ? "bg-[#2f6b55] text-[#2f6b55] ping" : "bg-[#1c1b18]"}"></span>`;
       node.onclick = (e) => { e.stopPropagation(); openPlant(a.asset_id); };
       return new maplibregl.Marker({ element: node, anchor: "bottom" }).setLngLat([a.lon, a.lat]).addTo(m);
@@ -189,7 +192,8 @@ export function MapView() {
   }, [pulsing]);
 
   const zBy = useMemo(() => Object.fromEntries(Object.values(scorecards).map((s) => [s.symbol, { z: s.scopes.S1.z, rho: s.coverage.rho_effective }])), [scorecards]);
-  const maxE = useMemo(() => Math.max(1, ...assets.filter((a) => a.ct).map((a) => a.ct!.emissions_t["2024"] || 0)), [assets]);
+  yearRef.current = app.year;
+  const maxE = useMemo(() => Math.max(1, ...assets.filter((a) => a.ct).map((a) => E(a) || 0)), [assets, app.year]);
   const ct = useMemo(() => assets.filter((a) => a.ct && a.lat != null), [assets]);
   const gemOnly = useMemo(() => assets.filter((a) => !a.ct && a.lat != null && a.gem?.status === "operating"), [assets]);
   const hl = useMemo(() => ct.filter((a) => highlight.includes(a.asset_id)), [ct, highlight]);
@@ -201,14 +205,14 @@ export function MapView() {
     const t = Math.max(-1, Math.min(1, z / 3));
     return t >= 0 ? mix(PAL.mid, PAL.pos, t) : mix(PAL.mid, PAL.neg, -t);
   };
-  const alpha = (a: Asset) => (a.company === selected ? 225 : 70);
+  const alpha = (a: Asset) => (excluded.has(a.asset_id) ? 28 : a.company === selected ? 225 : 70);
 
   useEffect(() => {
     const ov = overlay.current;
     if (!ov || !ready) return;
     if (focus) { ov.setProps({ layers: [] }); setHover(null); return; }
     const phase = (tick / 900) % 1;
-    const r = (a: Asset) => Math.sqrt((a.ct?.emissions_t["2024"] || 0) / maxE);
+    const r = (a: Asset) => Math.sqrt((E(a) || 0) / maxE);
     const L = [
       layers.gemOnly && new ScatterplotLayer<Asset>({
         id: "gem-only", data: gemOnly, getPosition: (a) => [a.lon, a.lat], getRadius: 4.5, radiusUnits: "pixels", filled: false, stroked: true,
@@ -218,13 +222,13 @@ export function MapView() {
         id: "plants", data: ct, getPosition: (a) => [a.lon, a.lat], radiusUnits: "pixels", getRadius: (a) => 3 + r(a) * 17,
         getFillColor: (a) => rgba(fill(a), alpha(a)), stroked: true, lineWidthUnits: "pixels", getLineWidth: (a) => 0.5 + 2 * (zBy[a.company]?.rho ?? 0),
         getLineColor: (a) => rgba(PAL.ring, a.company === selected ? 255 : 120), pickable: true, autoHighlight: true, highlightColor: rgba(PAL.accent, 255),
-        transitions: { getRadius: 600, getFillColor: 500 }, updateTriggers: { getFillColor: [layers.colorBy, selected, zBy], getLineColor: [selected], getLineWidth: [zBy] },
+        transitions: { getRadius: 600, getFillColor: 500 }, updateTriggers: { getFillColor: [layers.colorBy, selected, zBy, excluded], getLineColor: [selected], getLineWidth: [zBy], getRadius: [app.year] },
       }),
       layers.plants && layers.columns && new ColumnLayer<Asset>({
         id: "columns", data: ct, diskResolution: 12, radius: 9000, extruded: true, getPosition: (a) => [a.lon, a.lat],
-        getElevation: (a) => (a.ct?.emissions_t["2024"] || 0) * (a.company === selected ? 1 : 0.25), elevationScale: 0.012,
+        getElevation: (a) => (E(a) || 0) * (a.company === selected ? 1 : 0.25), elevationScale: 0.012,
         getFillColor: (a) => rgba(fill(a), alpha(a)), pickable: true, material: { ambient: 0.5, diffuse: 0.6, shininess: 32 },
-        transitions: { getElevation: 900 }, updateTriggers: { getFillColor: [layers.colorBy, selected, zBy], getElevation: [selected] },
+        transitions: { getElevation: 900 }, updateTriggers: { getFillColor: [layers.colorBy, selected, zBy, excluded], getElevation: [selected, app.year] },
       }),
       hl.length > 0 && new ScatterplotLayer<Asset>({
         id: "pulse", data: hl, getPosition: (a) => [a.lon, a.lat], radiusUnits: "pixels", filled: false, stroked: true, lineWidthUnits: "pixels",
@@ -241,7 +245,7 @@ export function MapView() {
       onClick: (info: PickingInfo<Asset>) => { if (info.object) openPlant(info.object.asset_id); },
       getCursor: ({ isHovering }) => (isHovering ? "pointer" : "grab"),
     });
-  }, [ready, focus, ct, gemOnly, hl, al, tick, layers, selected, zBy, maxE]);
+  }, [ready, focus, ct, gemOnly, hl, al, tick, layers, selected, zBy, maxE, excluded]);
 
   // ---------------------------------------------------------------- camera
   const pad = () => {
@@ -289,7 +293,7 @@ export function MapView() {
           <div className="font-medium text-ink">{hover.a.name}</div>
           <div className="text-[11.5px] text-muted">{scorecards[hover.a.company]?.short} · {hover.a.state || hover.a.country}</div>
           {hover.a.ct ? (
-            <div className="tnum mt-1 text-ink-2">{mt(hover.a.ct.emissions_t["2024"], 2)} Mt CO₂e · w {hover.a.ownership_weight.toFixed(2)} · {FUEL_LABEL[FUEL_GROUP(hover.a.fuel, hover.a.sector)]}</div>
+            <div className="tnum mt-1 text-ink-2">{mt(E(hover.a), 2)} Mt CO₂e ({app.year}) · w {hover.a.ownership_weight.toFixed(2)} · {FUEL_LABEL[FUEL_GROUP(hover.a.fuel, hover.a.sector)]}</div>
           ) : (
             <div className="mt-1 text-sun">Owned, but no independent estimate yet</div>
           )}

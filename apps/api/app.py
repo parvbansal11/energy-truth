@@ -3,6 +3,7 @@ All numbers come from curated tables produced by `python -m et_fusion.pipeline`.
 from __future__ import annotations
 
 import json
+import os
 import time
 from functools import lru_cache
 from pathlib import Path
@@ -12,6 +13,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, RedirectResponse
 from pydantic import BaseModel
 
+from et_core import llm
 from et_core.config import env, settings
 from et_core.store import store
 
@@ -30,7 +32,8 @@ def _need(name: str):
 @app.get("/health")
 def health():
     m = store.read("manifest") or {}
-    return {"status": "ok", "service": "energy-truth-api", "data_ready": bool(m), "generated_at": m.get("generated_at"), "bedrock": settings.bedrock_enabled,
+    return {"status": "ok", "service": "energy-truth-api", "data_ready": bool(m), "generated_at": m.get("generated_at"), "bedrock": settings.bedrock_enabled, "ai": llm.status(),
+            "live_add": not os.environ.get("AWS_LAMBDA_FUNCTION_NAME"), "companies": len(m.get("companies", [])),
             "chronos_backend": f"sagemaker:{settings.chronos_endpoint}" if settings.chronos_endpoint else "local-cpu"}
 
 
@@ -67,8 +70,20 @@ def company_assets(symbol: str):
         slim.append({k: a.get(k) for k in ["asset_id", "company", "name", "sector", "subsector", "fuel", "asset_type", "country", "state", "region", "lat", "lon",
                                           "ownership_weight", "weights", "weight_source", "match", "evidence_ids", "target_construction"]}
                     | {"ct": a["ct"] and {k: a["ct"][k] for k in ["source_id", "emissions_t", "confidence", "rel_sigma", "capacity", "capacity_units", "activity", "activity_units", "emissions_factor", "emissions_factor_units"]},
-                       "gem": a["gem"]})
+                       "gem": a["gem"], "fy_t": _fy_value(a)})
     return {"assets": slim}
+
+
+def _fy_value(a: dict) -> float | None:
+    """Full-facility tonnes in the comparison FY (Apr-Mar sum of the calibrated monthly series), as the pipeline uses."""
+    m = a.get("monthly_t")
+    if not m:
+        return None
+    from et_connectors.registry import COMPARE_FY
+
+    y0 = int(COMPARE_FY[2:6])
+    months = [f"{y0}-{k:02d}" for k in range(4, 13)] + [f"{y0 + 1}-{k:02d}" for k in range(1, 4)]
+    return round(sum(float(m.get(k, 0)) for k in months), 1) if all(k in m for k in months) else None
 
 
 @app.get("/assets/{asset_id}")
@@ -191,6 +206,101 @@ def get_report(name: str):
         url = boto3.client("s3", region_name=settings.region).generate_presigned_url("get_object", Params={"Bucket": settings.s3_reports_bucket, "Key": f"reports/{name}"}, ExpiresIn=3600)
         return RedirectResponse(url)
     raise HTTPException(404, "report not found")
+
+
+# ---------------------------------------------------------------- live "add a company" (EC2 backend)
+import os
+import re
+import threading
+import uuid
+
+_jobs: dict[str, dict] = {}
+_job_lock = threading.Lock()
+
+
+class AddCompany(BaseModel):
+    entity_id: str
+    name: str
+    symbol: str | None = None
+    sector: str | None = None
+    brsr_url: str | None = None
+
+
+@app.get("/gem/search")
+def gem_search(q: str = Query(..., min_length=2)):
+    """GEM Ownership API entity search, Indian entities first. Marks companies already tracked."""
+    import httpx
+
+    from et_connectors.registry import COMPANIES
+
+    r = httpx.get(f"{settings.gem_api}/entities", params={"q": q, "limit": 25}, timeout=40)
+    r.raise_for_status()
+    tracked = {m["entity_id"]: s for s, m in COMPANIES.items()}
+    rows = [{"entity_id": x["entity_id"], "name": x.get("full_name") or x["name"], "country": x.get("headquarters_country"),
+             "listed": x.get("PubliclyListed") == "1", "tracked": tracked.get(x["entity_id"])} for x in r.json().get("results", [])]
+    rows.sort(key=lambda x: (x["country"] != "India", not x["listed"]))
+    return {"results": rows[:12], "evidence": {"publisher": "Global Energy Monitor", "url": str(r.url)}}
+
+
+def _run_add(job_id: str, body: AddCompany) -> None:
+    from et_connectors.registry import COMPANIES, register
+    from et_fusion import pipeline
+
+    job = _jobs[job_id]
+    say = lambda m: job["log"].append({"t": time.time(), "msg": m})
+    pipeline._listeners.append(say)
+    try:
+        sym = body.symbol or re.sub(r"[^A-Z0-9]", "", body.name.upper().replace(" LTD", "").replace(" LIMITED", ""))[:12]
+        if sym in COMPANIES and COMPANIES[sym]["entity_id"] != body.entity_id:
+            sym = (sym + body.entity_id[-4:])[:14]
+        meta = {"symbol": sym, "name": body.name, "short": body.name.replace(" Ltd", "").replace(" Limited", "")[:22], "entity_id": body.entity_id,
+                "cin": None, "sector": body.sector or "Industrial", "boundary": "standalone", "custom": True,
+                "brsr": [{"fy": "FY2024-25", "url": body.brsr_url, "file": f"{sym.lower()}-fy2025.pdf"}] if body.brsr_url else []}
+        register(meta)
+        job.update(symbol=sym, status="running")
+        say(f"Registered {body.name} as {sym} (GEM {body.entity_id})")
+        try:
+            import chronos  # noqa: F401  (Chronos-2 on CPU is available on the EC2 box)
+            skip = False
+        except Exception:
+            skip = True
+            say("Chronos-2 not installed here: skipping forecasts")
+        out = pipeline.run(only=[sym], skip_forecast=skip)
+        sc = (out.get("scorecards") or [None])[0]
+        if not sc or not sc["scopes"]["S1"]["independent"]["value_t"]:
+            job.update(status="done", warning="No Climate TRACE emitting assets are linked to this owner, so there is nothing to rebuild yet.")
+        else:
+            job.update(status="done")
+        say("Done")
+    except Exception as e:
+        job.update(status="error", error=f"{type(e).__name__}: {str(e)[:300]}")
+    finally:
+        pipeline._listeners.remove(say)
+        _job_lock.release()
+
+
+@app.post("/companies/add")
+def add_company(body: AddCompany):
+    if os.environ.get("AWS_LAMBDA_FUNCTION_NAME"):
+        raise HTTPException(501, "Adding companies runs on the EC2 backend (Lambda cannot run the full pipeline).")
+    if not re.fullmatch(r"E\d{12}", body.entity_id):
+        raise HTTPException(400, "entity_id must be a GEM entity id like E100000001926")
+    if body.brsr_url and not body.brsr_url.startswith("https://"):
+        raise HTTPException(400, "brsr_url must be an https link to the company's BRSR PDF")
+    if not _job_lock.acquire(blocking=False):
+        raise HTTPException(409, "Another company is being added right now. Try again in a minute.")
+    job_id = uuid.uuid4().hex[:12]
+    _jobs[job_id] = {"job_id": job_id, "status": "queued", "log": [], "started": time.time(), "name": body.name}
+    threading.Thread(target=_run_add, args=(job_id, body), daemon=True).start()
+    return _jobs[job_id]
+
+
+@app.get("/jobs/{job_id}")
+def job_status(job_id: str):
+    job = _jobs.get(job_id)
+    if not job:
+        raise HTTPException(404, "unknown job")
+    return job
 
 
 class Question(BaseModel):

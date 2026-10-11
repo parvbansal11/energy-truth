@@ -1,0 +1,523 @@
+{
+  "total": 19,
+  "total_asset_count": 19,
+  "total_location_count": 7,
+  "limit": 200,
+  "offset": 0,
+  "count": 19,
+  "results": [
+    {
+      "asset_id": "L100000401483_G100000401453",
+      "location_id": "L100000401483",
+      "asset_name": "DGEN Mega Combined Cycle power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 400.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.6923,
+      "longitude": 72.6215,
+      "wiki_url": "https://www.gem.wiki/DGEN_Mega_Combined_Cycle_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000401483_G100000401453",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "DGEN Mega Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000401483_G100000401454",
+      "location_id": "L100000401483",
+      "asset_name": "DGEN Mega Combined Cycle power plant 2.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 400.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.6923,
+      "longitude": 72.6215,
+      "wiki_url": "https://www.gem.wiki/DGEN_Mega_Combined_Cycle_power_plant",
+      "unit_name": "2.0",
+      "url": "/assets/L100000401483_G100000401454",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "DGEN Mega Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000401483_G100000401455",
+      "location_id": "L100000401483",
+      "asset_name": "DGEN Mega Combined Cycle power plant 3.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 400.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.6923,
+      "longitude": 72.6215,
+      "wiki_url": "https://www.gem.wiki/DGEN_Mega_Combined_Cycle_power_plant",
+      "unit_name": "3.0",
+      "url": "/assets/L100000401483_G100000401455",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "DGEN Mega Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000102221_G100000108008",
+      "location_id": "L100000102221",
+      "asset_name": "Pipavav power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 840.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.05,
+      "longitude": 71.43,
+      "wiki_url": "https://www.gem.wiki/Pipavav_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102221_G100000108008",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000121459",
+          "name": "Torrent Pipavav Generation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pipavav power station"
+    },
+    {
+      "asset_id": "L100000102221_G100000108009",
+      "location_id": "L100000102221",
+      "asset_name": "Pipavav power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 840.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.05,
+      "longitude": 71.43,
+      "wiki_url": "https://www.gem.wiki/Pipavav_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102221_G100000108009",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000121459",
+          "name": "Torrent Pipavav Generation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pipavav power station"
+    },
+    {
+      "asset_id": "L100000102221_G100000108010",
+      "location_id": "L100000102221",
+      "asset_name": "Pipavav power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 840.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.05,
+      "longitude": 71.43,
+      "wiki_url": "https://www.gem.wiki/Pipavav_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102221_G100000108010",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000121459",
+          "name": "Torrent Pipavav Generation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pipavav power station"
+    },
+    {
+      "asset_id": "L100000102223_G100000108690",
+      "location_id": "L100000102223",
+      "asset_name": "Sabarmati power station Phase C Unit 15",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "unit_name": "Phase C Unit 15",
+      "url": "/assets/L100000102223_G100000108690",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sabarmati power station"
+    },
+    {
+      "asset_id": "L100000102223_G100000108691",
+      "location_id": "L100000102223",
+      "asset_name": "Sabarmati power station Phase C Unit 16",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "unit_name": "Phase C Unit 16",
+      "url": "/assets/L100000102223_G100000108691",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sabarmati power station"
+    },
+    {
+      "asset_id": "L100000102223_G100000108692",
+      "location_id": "L100000102223",
+      "asset_name": "Sabarmati power station Phase D Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "unit_name": "Phase D Unit 4",
+      "url": "/assets/L100000102223_G100000108692",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sabarmati power station"
+    },
+    {
+      "asset_id": "L100000102223_G100000108693",
+      "location_id": "L100000102223",
+      "asset_name": "Sabarmati power station Phase E Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 121.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "unit_name": "Phase E Unit 5",
+      "url": "/assets/L100000102223_G100000108693",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sabarmati power station"
+    },
+    {
+      "asset_id": "L100000102223_G100000108694",
+      "location_id": "L100000102223",
+      "asset_name": "Sabarmati power station Phase F Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 121.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "unit_name": "Phase F Unit 6",
+      "url": "/assets/L100000102223_G100000108694",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sabarmati power station"
+    },
+    {
+      "asset_id": "L100000102651_G100000108784",
+      "location_id": "L100000102651",
+      "asset_name": "Sandila power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 27.08,
+      "longitude": 80.52,
+      "wiki_url": "https://www.gem.wiki/Sandila_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102651_G100000108784",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sandila power station"
+    },
+    {
+      "asset_id": "L100000102651_G100000108785",
+      "location_id": "L100000102651",
+      "asset_name": "Sandila power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 27.08,
+      "longitude": 80.52,
+      "wiki_url": "https://www.gem.wiki/Sandila_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102651_G100000108785",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sandila power station"
+    },
+    {
+      "asset_id": "L100000401475_G100000401445",
+      "location_id": "L100000401475",
+      "asset_name": "Sugen Combined Cycle power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 383.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.3395,
+      "longitude": 72.9889,
+      "wiki_url": "https://www.gem.wiki/Sugen_Combined_Cycle_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000401475_G100000401445",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sugen Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000401475_G100000401446",
+      "location_id": "L100000401475",
+      "asset_name": "Sugen Combined Cycle power plant 2.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 383.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.3395,
+      "longitude": 72.9889,
+      "wiki_url": "https://www.gem.wiki/Sugen_Combined_Cycle_power_plant",
+      "unit_name": "2.0",
+      "url": "/assets/L100000401475_G100000401446",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sugen Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000401475_G100000401447",
+      "location_id": "L100000401475",
+      "asset_name": "Sugen Combined Cycle power plant 3.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 383.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.3395,
+      "longitude": 72.9889,
+      "wiki_url": "https://www.gem.wiki/Sugen_Combined_Cycle_power_plant",
+      "unit_name": "3.0",
+      "url": "/assets/L100000401475_G100000401447",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sugen Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100001046328_G100001052328",
+      "location_id": "L100001046328",
+      "asset_name": "Torrent Power thermal power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.1152535,
+      "longitude": 81.6986037,
+      "wiki_url": "https://www.gem.wiki/Torrent_Power_thermal_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100001046328_G100001052328",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Torrent Power thermal power station"
+    },
+    {
+      "asset_id": "L100001046328_G100001070438",
+      "location_id": "L100001046328",
+      "asset_name": "Torrent Power thermal power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.1152535,
+      "longitude": 81.6986037,
+      "wiki_url": "https://www.gem.wiki/Torrent_Power_thermal_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100001046328_G100001070438",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Torrent Power thermal power station"
+    },
+    {
+      "asset_id": "L100000401478_G100000401448",
+      "location_id": "L100000401478",
+      "asset_name": "Unosugen Combined Cycle power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 383.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.3413,
+      "longitude": 72.989,
+      "wiki_url": "https://www.gem.wiki/Unosugen_Combined_Cycle_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000401478_G100000401448",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001941",
+          "name": "Torrent Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Unosugen Combined Cycle power plant"
+    }
+  ]
+}

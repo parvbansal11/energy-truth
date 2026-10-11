@@ -1,6 +1,7 @@
 """Strands Agents SDK "Judge Agent" (AWS open source, plan §8.1): a conversational façade over the SAME tools the
 LangGraph audit uses. Answers questions like "which demo company diverges most in power?" with cited evidence.
-Requires Bedrock (Amazon Nova); without credentials the API reports it as unavailable rather than faking answers."""
+Runs on Amazon Nova (Bedrock) when the account has quota, else on Gemini; with neither, the API reports it as
+unavailable rather than faking answers."""
 from __future__ import annotations
 
 import json
@@ -51,16 +52,35 @@ def evidence_lookup(evidence_id: str) -> str:
     return json.dumps(T.get_evidence([evidence_id]))
 
 
-def build_agent() -> Agent:
-    from strands.models import BedrockModel
+def _models():
+    """Strands models in the shared chain's order (et_core.llm): Bedrock, then each Gemini model."""
+    from et_core.config import env
+    from et_core.llm import GEMINI_FALLBACK_MODELS, _secret, providers
 
-    model = BedrockModel(model_id=settings.bedrock_text_model, region_name=settings.region, temperature=0.1)
-    return Agent(model=model, system_prompt=SYSTEM, tools=[list_scorecards, company_plants, grid_intensity_latest, evidence_lookup], callback_handler=None)
+    for p in providers():
+        if p == "bedrock":
+            from strands.models import BedrockModel
+
+            yield BedrockModel(model_id=settings.bedrock_text_model, region_name=settings.region, temperature=0.1), f"bedrock:{settings.bedrock_text_model}"
+        elif p == "gemini":
+            from strands.models.gemini import GeminiModel
+
+            for mid in dict.fromkeys((env("GEMINI_MODEL", "gemini-3.5-flash"), *GEMINI_FALLBACK_MODELS)):
+                yield GeminiModel(client_args={"api_key": _secret("GEMINI_API_KEY")}, model_id=mid, params={"temperature": 0.1}), f"gemini:{mid}"
 
 
 def ask(question: str) -> dict:
-    if not settings.bedrock_enabled:
-        return {"available": False, "reason": "Bedrock credentials are not configured (AGENTS.md Step 1.C). The Strands judge agent runs only against Amazon Nova."}
-    agent = build_agent()
-    res = agent(question)
-    return {"available": True, "answer": str(res), "model": settings.bedrock_text_model}
+    import time
+
+    from et_core import llm
+
+    errors = []
+    for model, name in _models():
+        agent = Agent(model=model, system_prompt=SYSTEM, tools=[list_scorecards, company_plants, grid_intensity_latest, evidence_lookup], callback_handler=None)
+        try:
+            return {"available": True, "answer": str(agent(question)), "model": name}
+        except Exception as e:  # throttled / busy model: move on to the next one
+            errors.append(f"{name}: {type(e).__name__}")
+            if name.startswith("bedrock"):
+                llm._down["bedrock"] = time.time()
+    return {"available": False, "reason": "No AI provider answered: " + "; ".join(errors) if errors else "No AI provider is configured."}

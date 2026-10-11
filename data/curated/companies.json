@@ -266,5 +266,1185 @@
   "evidence_ids": [
    "ev_api_payload_efb7f8113b"
   ]
+ },
+ {
+  "symbol": "TATAPOWER",
+  "name": "Tata Power Company Ltd",
+  "short": "Tata Power",
+  "sector": "Power generation",
+  "entity_id": "E100000001940",
+  "ct_owner_id": "E100000001940",
+  "gem_entity_id": "E100000001940",
+  "cin": "L28920MH1919PLC000567",
+  "lei": "335800H5R3TGTJ7LQ663",
+  "home_page": "https://www.tatapower.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 4,
+   "gem_assets": 36,
+   "gem_locations": 14,
+   "rho": 0.1111,
+   "operating_emitting_locations": 5,
+   "operating_emitting_matched": 5,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_2008df3902",
+    "ev_api_payload_f0c38c5cca",
+    "ev_api_payload_c3e8e05e67",
+    "ev_api_payload_66b6ef06e5",
+    "ev_api_payload_b170157f3d"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_014d3c394c"
+  ]
+ },
+ {
+  "symbol": "NLCINDIA",
+  "name": "NLC India Ltd",
+  "short": "NLC India",
+  "sector": "Power generation",
+  "entity_id": "E100001000440",
+  "ct_owner_id": "E100001000440",
+  "gem_entity_id": "E100001000440",
+  "cin": "L93090TN1956GOI003507",
+  "lei": "335800ZUJIL59GOZUW75",
+  "home_page": "https://www.nlcindia.in/new_website/index.htm",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 8,
+   "gem_assets": 63,
+   "gem_locations": 27,
+   "rho": 0.127,
+   "operating_emitting_locations": 9,
+   "operating_emitting_matched": 8,
+   "rho_effective": 0.8889,
+   "unmatched_emitting": [
+    "Neyveli Thermal Power Station I"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_d9664332f0",
+    "ev_api_payload_ca857e6b5c",
+    "ev_api_payload_b843891ae8",
+    "ev_api_payload_c397dc490b",
+    "ev_api_payload_4d1d425fe2"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_1a605ea620"
+  ]
+ },
+ {
+  "symbol": "TORNTPOWER",
+  "name": "Torrent Power Ltd",
+  "short": "Torrent Power",
+  "sector": "Power generation",
+  "entity_id": "E100000001941",
+  "ct_owner_id": "E100000001941",
+  "gem_entity_id": "E100000001941",
+  "cin": "L31200GJ2004PLC044068",
+  "lei": "335800DJYYJQGAH3OX89",
+  "home_page": "https://www.torrentpower.com/index.php/site/indexs",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 19,
+   "gem_locations": 7,
+   "rho": 0.1579,
+   "operating_emitting_locations": 4,
+   "operating_emitting_matched": 4,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_e54cbb04ea",
+    "ev_api_payload_93ef34b636",
+    "ev_api_payload_82887a7797",
+    "ev_api_payload_e6c89829dc",
+    "ev_api_payload_44ea437699"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_9952cdaf64"
+  ]
+ },
+ {
+  "symbol": "CESC",
+  "name": "CESC Ltd",
+  "short": "CESC",
+  "sector": "Power generation",
+  "entity_id": "E100001000736",
+  "ct_owner_id": "E100001000736",
+  "gem_entity_id": "E100001000736",
+  "cin": "L31901WB1978PLC031411",
+  "lei": "3358009RW8LFOENISG12",
+  "home_page": "https://www.cesc.co.in/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 4,
+   "gem_assets": 36,
+   "gem_locations": 13,
+   "rho": 0.1111,
+   "operating_emitting_locations": 4,
+   "operating_emitting_matched": 4,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_4f5c828cae",
+    "ev_api_payload_645bcd2130",
+    "ev_api_payload_aec1043de2",
+    "ev_api_payload_822f58138f",
+    "ev_api_payload_a4c9de3d85"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_c95c237677"
+  ]
+ },
+ {
+  "symbol": "JINDALSTEL",
+  "name": "Jindal Steel Ltd",
+  "short": "Jindal Steel",
+  "sector": "Iron & steel",
+  "entity_id": "E100001000439",
+  "ct_owner_id": "E100001000439",
+  "gem_entity_id": "E100001000439",
+  "cin": "L27105HR1979PLC009913",
+  "lei": "335800UIKQBF6QO2NP15",
+  "home_page": "https://www.jindalsteel.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 13,
+   "gem_assets": 119,
+   "gem_locations": 39,
+   "rho": 0.1092,
+   "operating_emitting_locations": 13,
+   "operating_emitting_matched": 11,
+   "rho_effective": 0.8462,
+   "unmatched_emitting": [
+    "JSPL Murgabeda Mine",
+    "Jindal Steel & Power Raigarh Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_e354e96078",
+    "ev_api_payload_a2becd2d29",
+    "ev_api_payload_7bdaa598ee",
+    "ev_api_payload_ad57f2fd12",
+    "ev_api_payload_423444cfc9"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43157898",
+    "name": "El Mutun Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:43158355",
+    "name": "Tantra Mine",
+    "reason": "needs_review",
+    "score": 0.472,
+    "candidate_location": "P100000128505"
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_19a2e186d4"
+  ]
+ },
+ {
+  "symbol": "SAIL",
+  "name": "Steel Authority of India Ltd",
+  "short": "SAIL",
+  "sector": "Iron & steel",
+  "entity_id": "E100001000703",
+  "ct_owner_id": "E100001000703",
+  "gem_entity_id": "E100001000703",
+  "cin": "L27109DL1973GOI006454",
+  "lei": "335800ZJXMF183ZCQI90",
+  "home_page": "https://www.sail.co.in/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 26,
+   "gem_assets": 115,
+   "gem_locations": 40,
+   "rho": 0.2261,
+   "operating_emitting_locations": 22,
+   "operating_emitting_matched": 22,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_c10322b175",
+    "ev_api_payload_608ea691f7",
+    "ev_api_payload_459eac2a58",
+    "ev_api_payload_4832929f00",
+    "ev_api_payload_5a113e87df"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43158126",
+    "name": "Ajitaburu Mine",
+    "reason": "needs_review",
+    "score": 0.43,
+    "candidate_location": "P100000128871"
+   },
+   {
+    "asset_id": "ct:43158181",
+    "name": "Dulki Mine",
+    "reason": "needs_review",
+    "score": 0.571,
+    "candidate_location": "P100000128532"
+   },
+   {
+    "asset_id": "ct:43158191",
+    "name": "Gua Mine",
+    "reason": "needs_review",
+    "score": 0.608,
+    "candidate_location": "P100000128471"
+   },
+   {
+    "asset_id": "ct:43158326",
+    "name": "Rowghat Mine",
+    "reason": "needs_review",
+    "score": 0.451,
+    "candidate_location": "P100000128533"
+   },
+   {
+    "asset_id": "ct:43158165",
+    "name": "D Area Mine",
+    "reason": "needs_review",
+    "score": 0.303,
+    "candidate_location": "P100000128461"
+   },
+   {
+    "asset_id": "ct:43158298",
+    "name": "Panposh Mine",
+    "reason": "needs_review",
+    "score": 0.362,
+    "candidate_location": "P100000128461"
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_4b80c2c7ad"
+  ]
+ },
+ {
+  "symbol": "NSLNISP",
+  "name": "NMDC Steel Ltd",
+  "short": "NMDC Steel",
+  "sector": "Iron & steel",
+  "entity_id": "E100002004554",
+  "ct_owner_id": "E100002004554",
+  "gem_entity_id": "E100002004554",
+  "cin": "U27310CT2015GOI001618",
+  "lei": "335800XNI1D4ZCE7VG97",
+  "home_page": "https://nmdcsteel.nmdc.co.in/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 1,
+   "gem_assets": 4,
+   "gem_locations": 2,
+   "rho": 0.25,
+   "operating_emitting_locations": 1,
+   "operating_emitting_matched": 1,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_b3c0fa04cf",
+    "ev_api_payload_c3853ea61d",
+    "ev_api_payload_e8a4ad4d9e",
+    "ev_api_payload_7591c23a11",
+    "ev_api_payload_81687bbbe3"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_9c1f11601f"
+  ]
+ },
+ {
+  "symbol": "HINDALCO",
+  "name": "Hindalco Industries Ltd",
+  "short": "Hindalco",
+  "sector": "Aluminium",
+  "entity_id": "E100000120560",
+  "ct_owner_id": "E100000120560",
+  "gem_entity_id": "E100000120560",
+  "cin": "L27020MH1958PLC011238",
+  "lei": "335800KXLE5NO5B4GF90",
+  "home_page": "https://www.hindalco.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 30,
+   "gem_assets": 34,
+   "gem_locations": 10,
+   "rho": 0.8824,
+   "operating_emitting_locations": 6,
+   "operating_emitting_matched": 6,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_2ad3386cca",
+    "ev_api_payload_c436cf961f",
+    "ev_api_payload_a59edf8ad5",
+    "ev_api_payload_780f30ca74",
+    "ev_api_payload_e57755b114"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43765039",
+    "name": "Muri Alumina Plant",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:54502624",
+    "name": "Belgavi Aluminum Refinary",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3673076",
+    "name": "Lapanga Aluminum Smelter",
+    "reason": "needs_review",
+    "score": 0.61,
+    "candidate_location": "L100000102441"
+   },
+   {
+    "asset_id": "ct:42233107",
+    "name": "Baphlimali Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233201",
+    "name": "Samri Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233132",
+    "name": "Gurdari Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233186",
+    "name": "Pakhar Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233154",
+    "name": "Kujam Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233117",
+    "name": "Chiro-Kukud Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233136",
+    "name": "Hisri Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233150",
+    "name": "Kudag Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233098",
+    "name": "Amtipani Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233138",
+    "name": "Jalim & Sanai Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233140",
+    "name": "Jobhipat Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233105",
+    "name": "Bagru-Bhusar Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233125",
+    "name": "Dhanagarwadi Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233162",
+    "name": "Maliparbat Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233127",
+    "name": "Durgmanwadi Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233109",
+    "name": "Bhogoli-Pilani Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233183",
+    "name": "Orsa Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_90aa6a779f"
+  ]
+ },
+ {
+  "symbol": "VEDL",
+  "name": "Vedanta Ltd",
+  "short": "Vedanta",
+  "sector": "Aluminium & metals",
+  "entity_id": "E100001000479",
+  "ct_owner_id": "E100001000479",
+  "gem_entity_id": "E100001000479",
+  "cin": "L13209MH1965PLC291394",
+  "lei": "335800XDKX9KB5EMCO07",
+  "home_page": "https://www.vedantalimited.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 4,
+   "gem_assets": 54,
+   "gem_locations": 23,
+   "rho": 0.0741,
+   "operating_emitting_locations": 5,
+   "operating_emitting_matched": 2,
+   "rho_effective": 0.4,
+   "unmatched_emitting": [
+    "Sesa Sterlite Sanquelim Mine",
+    "Vedanta Bicholim Mine",
+    "Vendanta A Narrain Mine"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_3452337c58",
+    "ev_api_payload_54f7edd67d",
+    "ev_api_payload_f20d88519e",
+    "ev_api_payload_3cfa09b1a9",
+    "ev_api_payload_658da722ac"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43765022",
+    "name": "Lanjigarh Alumina Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3673075",
+    "name": "Jharsuguda Aluminum Smelter 02",
+    "reason": "needs_review",
+    "score": 0.702,
+    "candidate_location": "L100000102472"
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_fd8dd6c2c1"
+  ]
+ },
+ {
+  "symbol": "NATIONALUM",
+  "name": "National Aluminium Co Ltd",
+  "short": "NALCO",
+  "sector": "Aluminium",
+  "entity_id": "E100000000522",
+  "ct_owner_id": "E100000000522",
+  "gem_entity_id": "E100000000522",
+  "cin": "L27203OR1981GOI000920",
+  "lei": "335800OM1V78CX7SSC72",
+  "home_page": "https://nalcoindia.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 5,
+   "gem_assets": 18,
+   "gem_locations": 5,
+   "rho": 0.2778,
+   "operating_emitting_locations": 2,
+   "operating_emitting_matched": 2,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_f6a599456a",
+    "ev_api_payload_bc0cf9f208",
+    "ev_api_payload_38fd321381",
+    "ev_api_payload_8966752e2a",
+    "ev_api_payload_fb4d419a1b"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43764977",
+    "name": "Damanjodi Alumina Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3673078",
+    "name": "Angul Aluminum Smelter",
+    "reason": "needs_review",
+    "score": 0.658,
+    "candidate_location": "L100000102443"
+   },
+   {
+    "asset_id": "ct:42233189",
+    "name": "Panchpatmalli Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_fec0f61187"
+  ]
+ },
+ {
+  "symbol": "HINDZINC",
+  "name": "Hindustan Zinc Ltd",
+  "short": "Hindustan Zinc",
+  "sector": "Zinc & metals",
+  "entity_id": "E100000120561",
+  "ct_owner_id": "E100000120561",
+  "gem_entity_id": "E100000120561",
+  "cin": "L27204RJ1966PLC001208",
+  "lei": "335800LB39TLJ8YTWM98",
+  "home_page": "https://www.hzlindia.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 6,
+   "gem_locations": 3,
+   "rho": 0.5,
+   "operating_emitting_locations": 3,
+   "operating_emitting_matched": 3,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_119d6a5263",
+    "ev_api_payload_a4d1d2d6bb",
+    "ev_api_payload_26e720a365",
+    "ev_api_payload_4a20e61ffe",
+    "ev_api_payload_33fbd5900e"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_040fcf885e"
+  ]
+ },
+ {
+  "symbol": "AMBUJACEM",
+  "name": "Ambuja Cements Ltd",
+  "short": "Ambuja",
+  "sector": "Cement",
+  "entity_id": "E100001000639",
+  "ct_owner_id": "E100001000639",
+  "gem_entity_id": "E100001000639",
+  "cin": "L26942GJ1981PLC004717",
+  "lei": "335800NT6LQHR1428E20",
+  "home_page": "https://www.ambujacement.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 10,
+   "gem_assets": 53,
+   "gem_locations": 51,
+   "rho": 0.1887,
+   "operating_emitting_locations": 22,
+   "operating_emitting_matched": 9,
+   "rho_effective": 0.4091,
+   "unmatched_emitting": [
+    "Ambuja Cement Pune Cement Plant",
+    "Ambuja Cement Tandur Cement Plant",
+    "Ambuja Cement Wadapally Cement Plant",
+    "Ambuja Cements Bhatinda Cement Plant",
+    "Ambuja Cements Dadri Cement Plant",
+    "Ambuja Cements Dhulagori Cement Plant",
+    "Ambuja Cements Farakka Cement Plant",
+    "Ambuja Cements Jajhra Cement Plant",
+    "Ambuja Cements Lodhimajra Cement Plant",
+    "Ambuja Cements Magdalla Cement Plant",
+    "Ambuja Cements Mela Maruthur Cement Plant",
+    "Ambuja Cements Moha Cement Plant",
+    "Ambuja Cements Sikandarpur Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_0c6f533dff",
+    "ev_api_payload_6469cbe8e6",
+    "ev_api_payload_70a593f6e8",
+    "ev_api_payload_a4c8cc36a8",
+    "ev_api_payload_79db2bc307"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_583dbd6323"
+  ]
+ },
+ {
+  "symbol": "ACC",
+  "name": "ACC Ltd",
+  "short": "ACC",
+  "sector": "Cement",
+  "entity_id": "E100002004994",
+  "ct_owner_id": "E100002004994",
+  "gem_entity_id": "E100002004994",
+  "cin": "L26940MH1936PLC002515",
+  "lei": "335800569A6H12LH4677",
+  "home_page": "https://www.acclimited.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 10,
+   "gem_assets": 20,
+   "gem_locations": 20,
+   "rho": 0.5,
+   "operating_emitting_locations": 17,
+   "operating_emitting_matched": 10,
+   "rho_effective": 0.5882,
+   "unmatched_emitting": [
+    "ACC Gauriganj Cement Plant",
+    "ACC Kudithini Cement Plant",
+    "ACC Nalagarh Cement Plant",
+    "ACC Sindri Cement Plant",
+    "ACC Sunuri Cement Plant",
+    "ACC Thondebhavi Cement Plant",
+    "ACC Visakhapatnam Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_bedc11703c",
+    "ev_api_payload_df73ccbe1b",
+    "ev_api_payload_032ca22de5",
+    "ev_api_payload_fd3d774951",
+    "ev_api_payload_5a01312741"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_da88d0f3bd"
+  ]
+ },
+ {
+  "symbol": "SHREECEM",
+  "name": "Shree Cement Ltd",
+  "short": "Shree Cement",
+  "sector": "Cement",
+  "entity_id": "E100000121281",
+  "ct_owner_id": "E100000121281",
+  "gem_entity_id": "E100000121281",
+  "cin": null,
+  "lei": "335800W6FNBDUZ89L830",
+  "home_page": "https://www.shreecement.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 7,
+   "gem_assets": 23,
+   "gem_locations": 22,
+   "rho": 0.3043,
+   "operating_emitting_locations": 19,
+   "operating_emitting_matched": 7,
+   "rho_effective": 0.3684,
+   "unmatched_emitting": [
+    "Shree Cement Aurangabad Cement Plant",
+    "Shree Cement Cuttack Cement Plant",
+    "Shree Cement Hansda Cement Plant",
+    "Shree Cement Jaipur Cement Plant",
+    "Shree Cement Khushkhera Cement Plant",
+    "Shree Cement Laksar Cement Plant",
+    "Shree Cement Nigoh Hasanpur Cement Plant",
+    "Shree Cement Panipat Cement Plant",
+    "Shree Cement Patas Cement Plant",
+    "Shree Cement Purulia Cement Plant",
+    "Shree Cement Rajarampur Cement Plant",
+    "Shree Cement Suratgarh Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_347d49f186",
+    "ev_api_payload_aa9f71ba4f",
+    "ev_api_payload_bd47746405",
+    "ev_api_payload_6a3ebbb113",
+    "ev_api_payload_605aa6e2d6"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_388a9da56e"
+  ]
+ },
+ {
+  "symbol": "RELIANCE",
+  "name": "Reliance Industries Ltd",
+  "short": "Reliance",
+  "sector": "Oil & gas",
+  "entity_id": "E100000121175",
+  "ct_owner_id": "E100000121175",
+  "gem_entity_id": "E100000121175",
+  "cin": "L17110MH1973PLC019786",
+  "lei": "5493003UOETFYRONLG31",
+  "home_page": "https://www.ril.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 6,
+   "gem_assets": 13,
+   "gem_locations": 4,
+   "rho": 0.4615,
+   "operating_emitting_locations": 0,
+   "operating_emitting_matched": 0,
+   "rho_effective": 0.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_1640737dad",
+    "ev_api_payload_33a81e1b90",
+    "ev_api_payload_d324dcb544",
+    "ev_api_payload_1944cc699a",
+    "ev_api_payload_f138f86885"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:3143912",
+    "name": "RPL (Reliance Petroleum Limited) Jamnagar Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731946",
+    "name": "Reliance Industries Ltd. , Jamnagar,Gujarat",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731945",
+    "name": "Reliance Industries Hazira, Hazira, Gujarat ",
+    "reason": "needs_review",
+    "score": 0.747,
+    "candidate_location": "L100000104861"
+   },
+   {
+    "asset_id": "ct:731944",
+    "name": "Reliance Industries Nagothane, Nagothane, Maharashtra",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731943",
+    "name": "Reliance Industries Dahej, Gandhar, Gujarat ",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731942",
+    "name": "Reliance Industries Vadodara, Baroda, Gujarat ",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_b443c6e886"
+  ]
+ },
+ {
+  "symbol": "BPCL",
+  "name": "Bharat Petroleum Corporation Ltd",
+  "short": "BPCL",
+  "sector": "Oil & gas",
+  "entity_id": "E100000000509",
+  "ct_owner_id": "E100000000509",
+  "gem_entity_id": "E100000000509",
+  "cin": "L23220MH1952GOI008931",
+  "lei": "8GRDBX1TJ0PU5NCSHT72",
+  "home_page": "https://www.bharatpetroleum.in/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 7,
+   "gem_locations": 7,
+   "rho": 0.4286,
+   "operating_emitting_locations": 0,
+   "operating_emitting_matched": 0,
+   "rho_effective": 0.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_1c80c7e0a4",
+    "ev_api_payload_aa9aef1ad5",
+    "ev_api_payload_e43b051769",
+    "ev_api_payload_e6d0a5b936",
+    "ev_api_payload_616cd2269b"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:3143923",
+    "name": "BPCL Kochi Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143924",
+    "name": "BPCL Mumbai Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:712440",
+    "name": "BPCL Bina Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_4dd1e0e4a5"
+  ]
+ },
+ {
+  "symbol": "HINDPETRO",
+  "name": "Hindustan Petroleum Corporation Ltd",
+  "short": "HPCL",
+  "sector": "Oil & gas",
+  "entity_id": "E100000001917",
+  "ct_owner_id": "E100000001917",
+  "gem_entity_id": "E100000001917",
+  "cin": "L23201MH1952GOI008858",
+  "lei": "335800DWLXIP7HFFY564",
+  "home_page": "https://www.hindustanpetroleum.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 4,
+   "gem_assets": 10,
+   "gem_locations": 10,
+   "rho": 0.4,
+   "operating_emitting_locations": 1,
+   "operating_emitting_matched": 1,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_df34469249",
+    "ev_api_payload_bf4c68054d",
+    "ev_api_payload_aadb4ab890",
+    "ev_api_payload_0756949336",
+    "ev_api_payload_2be312e1b3"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:3143919",
+    "name": "Mangalore Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731947",
+    "name": "HPCL-Mittal Energy, Phullo Khari,Punjab",
+    "reason": "needs_review",
+    "score": 0.444,
+    "candidate_location": "L100000408395"
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_209dd7826d"
+  ]
+ },
+ {
+  "symbol": "GAIL",
+  "name": "GAIL (India) Ltd",
+  "short": "GAIL",
+  "sector": "Oil & gas",
+  "entity_id": "E100000000513",
+  "ct_owner_id": "E100000000513",
+  "gem_entity_id": "E100000000513",
+  "cin": "L40200DL1984GOI018976",
+  "lei": "335800N82LJD42ZA5L32",
+  "home_page": "https://gailonline.com/#",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 36,
+   "gem_locations": 35,
+   "rho": 0.0833,
+   "operating_emitting_locations": 0,
+   "operating_emitting_matched": 0,
+   "rho_effective": 0.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_d6b39ae7b7",
+    "ev_api_payload_540fed6e42",
+    "ev_api_payload_75dcf2d132",
+    "ev_api_payload_8616919ff3",
+    "ev_api_payload_bb9190e577"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:40691244",
+    "name": "ONGC Petro Additions Limited (OPaL), Dahej, Gujarat",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731939",
+    "name": "GAIL Pata Petrochemicals, Pata, Uttar Pradesh ",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:40691243",
+    "name": "Brahmaputra Cracker and Polymer Limited (BCPL) Assam Gas Cracker Project, Lepetkattaa Bangla Block, Assam",
+    "reason": "needs_review",
+    "score": 0.087,
+    "candidate_location": "L100000407604"
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_0ea1122b27"
+  ]
+ },
+ {
+  "symbol": "JSWENERGY",
+  "name": "JSW Energy Ltd",
+  "short": "JSW Energy",
+  "sector": "Power generation",
+  "entity_id": "E100001000522",
+  "ct_owner_id": "E100001000522",
+  "gem_entity_id": "E100001000522",
+  "cin": null,
+  "lei": "3358001ZFBW2VIMBMI85",
+  "home_page": "https://www.jsw.in/energy",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 50,
+   "gem_locations": 18,
+   "rho": 0.06,
+   "operating_emitting_locations": 3,
+   "operating_emitting_matched": 3,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_ff5c99ac4f",
+    "ev_api_payload_eb6e5a0c2e",
+    "ev_api_payload_753e4f9518",
+    "ev_api_payload_ec78aa69f7",
+    "ev_api_payload_894e09fcf6"
+   ]
+  },
+  "hitl_queue": [],
+  "evidence_ids": [
+   "ev_api_payload_68a5773e1b"
+  ]
+ },
+ {
+  "symbol": "IOC",
+  "name": "Indian Oil Corporation Ltd",
+  "short": "Indian Oil",
+  "sector": "Oil & gas",
+  "entity_id": "E100000001918",
+  "ct_owner_id": "E100000001918",
+  "gem_entity_id": "E100000001918",
+  "cin": "L23201MH1959GOI011388",
+  "lei": "335800J8OBWE4VFUDG88",
+  "home_page": "https://www.iocl.com/",
+  "boundary": "standalone",
+  "coverage": {
+   "ct_linked_assets": 16,
+   "gem_assets": 49,
+   "gem_locations": 45,
+   "rho": 0.3265,
+   "operating_emitting_locations": 3,
+   "operating_emitting_matched": 3,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_1ede893e96",
+    "ev_api_payload_3dfb3ee473",
+    "ev_api_payload_a6237e7c68",
+    "ev_api_payload_adbd3ceb5f",
+    "ev_api_payload_ea79e2dad0"
+   ]
+  },
+  "hitl_queue": [
+   {
+    "asset_id": "ct:3143920",
+    "name": "IOCL Gujarat Koyali Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143918",
+    "name": "CPCL Manali Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143927",
+    "name": "IOCL Haldia Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143921",
+    "name": "IOCL Mathura Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143926",
+    "name": "IOCL Barauni Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731941",
+    "name": "IOCL Panipat Petrochemicals, Haryana, New Delhi ",
+    "reason": "needs_review",
+    "score": 0.59,
+    "candidate_location": "L100000407592"
+   },
+   {
+    "asset_id": "ct:3143930",
+    "name": "IOCL Bongaigaon Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:712447",
+    "name": "IOCL Guwahati Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:40691243",
+    "name": "Brahmaputra Cracker and Polymer Limited (BCPL) Assam Gas Cracker Project, Lepetkattaa Bangla Block, Assam",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:712448",
+    "name": "IOCL Digboi Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:712446",
+    "name": "CPCL Cauvery Basin Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "evidence_ids": [
+   "ev_api_payload_8355b00fde"
+  ]
  }
 ]

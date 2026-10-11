@@ -194,7 +194,7 @@ def build_company(symbol: str, ledger: EvidenceLedger, refresh: bool = False) ->
         "entity_id": eid,
         "ct_owner_id": eid,
         "gem_entity_id": eid,
-        "cin": (ent.get("external_ids") or {}).get("india_cin") or meta["cin"],
+        "cin": (ent.get("external_ids") or {}).get("india_cin") or meta.get("cin"),
         "lei": (ent.get("external_ids") or {}).get("lei"),
         "home_page": ent.get("home_page"),
         "boundary": meta["boundary"],

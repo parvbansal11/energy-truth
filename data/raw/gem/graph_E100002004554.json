@@ -1,0 +1,241 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100002004554",
+    "full_name": "NMDC Steel Ltd",
+    "name": "NMDC Steel",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": null,
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://nmdcsteel.nmdc.co.in/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Telangāna",
+    "gem_parents": "NMDC Steel Ltd [100%]",
+    "gem_parents_ids": "E100002004554 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800XNI1D4ZCE7VG97",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "U27310CT2015GOI001618",
+    "permid_refinitiv_permanent_identifier": "5044197117",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100002004554",
+      "full_name": "NMDC Steel Ltd",
+      "name": "NMDC Steel",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://nmdcsteel.nmdc.co.in/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Telangāna",
+      "gem_parents": "NMDC Steel Ltd [100%]",
+      "gem_parents_ids": "E100002004554 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800XNI1D4ZCE7VG97",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U27310CT2015GOI001618",
+      "permid_refinitiv_permanent_identifier": "5044197117",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120548_U100000143639",
+      "location_id": "P100000120548",
+      "unit_id": "U100000143639",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "NMDC Karnataka steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 15.186288,
+      "longitude": 76.916591,
+      "country": "India",
+      "state_province": "Karnataka",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/NMDC_Karnataka_steel_plant",
+      "source_id": 10,
+      "project_name": "NMDC Karnataka steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120523_U100000141035",
+      "location_id": "P100000120523",
+      "unit_id": "U100000141035",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "NMDC Nagarnar steel plant BF 1",
+      "unit_name": "BF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 19.0931901,
+      "longitude": 82.17,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 3321.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/NMDC_Nagarnar_steel_plant",
+      "source_id": 10,
+      "project_name": "NMDC Nagarnar steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120523_U100000143607",
+      "location_id": "P100000120523",
+      "unit_id": "U100000143607",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "NMDC Nagarnar steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 19.0931901,
+      "longitude": 82.17,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/NMDC_Nagarnar_steel_plant",
+      "source_id": 10,
+      "project_name": "NMDC Nagarnar steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120523_U100000143608",
+      "location_id": "P100000120523",
+      "unit_id": "U100000143608",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "NMDC Nagarnar steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 19.0931901,
+      "longitude": 82.17,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/NMDC_Nagarnar_steel_plant",
+      "source_id": 10,
+      "project_name": "NMDC Nagarnar steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100002004554",
+      "target": "P100000120548_U100000143639",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004554",
+      "target": "P100000120523_U100000141035",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004554",
+      "target": "P100000120523_U100000143607",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002004554",
+      "target": "P100000120523_U100000143608",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    }
+  ],
+  "paths": {
+    "E100002004554": [
+      {
+        "route": [
+          "E100002004554"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120548_U100000143639": [
+      {
+        "route": [
+          "E100002004554",
+          "P100000120548_U100000143639"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120523_U100000141035": [
+      {
+        "route": [
+          "E100002004554",
+          "P100000120523_U100000141035"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120523_U100000143607": [
+      {
+        "route": [
+          "E100002004554",
+          "P100000120523_U100000143607"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120523_U100000143608": [
+      {
+        "route": [
+          "E100002004554",
+          "P100000120523_U100000143608"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "P100000120523_U100000143608",
+    "P100000120523_U100000143607",
+    "P100000120548_U100000143639",
+    "P100000120523_U100000141035"
+  ],
+  "truncated_node_ids": []
+}

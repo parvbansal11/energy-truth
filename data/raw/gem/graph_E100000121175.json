@@ -1,0 +1,723 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100000121175",
+    "full_name": "Reliance Industries Ltd",
+    "name": "Reliance Industries",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": "RIL",
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.ril.com/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Mahārāshtra",
+    "gem_parents": "Reliance Industries Ltd [100%]",
+    "gem_parents_ids": "E100000121175 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "5493003UOETFYRONLG31",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L17110MH1973PLC019786",
+    "permid_refinitiv_permanent_identifier": "4295872979",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100000121175",
+      "full_name": "Reliance Industries Ltd",
+      "name": "Reliance Industries",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "RIL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.ril.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Mahārāshtra",
+      "gem_parents": "Reliance Industries Ltd [100%]",
+      "gem_parents_ids": "E100000121175 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "5493003UOETFYRONLG31",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L17110MH1973PLC019786",
+      "permid_refinitiv_permanent_identifier": "4295872979",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120667",
+      "full_name": "Jamnagar Utilities & Power Pvt Ltd",
+      "name": "Jamnagar Utilities & Power",
+      "name_local": null,
+      "name_other": "Jamnagar Utilities and Power",
+      "abbreviation": "JUPPL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pvt Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://jupl.co.in/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Mahārāshtra",
+      "gem_parents": "Reliance Industries Holding Pvt Ltd; Reliance Industries Ltd",
+      "gem_parents_ids": "E100002008031; E100000121175",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "3358007SUJLC213N3665",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U40100GJ1991PTC051130",
+      "permid_refinitiv_permanent_identifier": "5000609203",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000562",
+      "full_name": "Mahan Energen Ltd",
+      "name": "Mahan Energen",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "MEL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.adanipower.com",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Adani Power Ltd [74.0%]; Reliance Industries Ltd [26.0%]",
+      "gem_parents_ids": "E100001000558 [74.0%]; E100000121175 [26.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "3358008H4FYXAECINU41",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U40100GJ2005PLC147690",
+      "permid_refinitiv_permanent_identifier": "5036788751",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0953",
+      "location_id": "P0953",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Shahdol-Phulpur Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Madya Pradesh",
+      "capacity_value": 1.28,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Shahdol-Phulpur_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Shahdol-Phulpur Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P3342",
+      "location_id": "P3342",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Kakinada-Haldia Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Kakinada-Haldia_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Kakinada-Haldia Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104861_G100000113403",
+      "location_id": "L100000104861",
+      "unit_id": "G100000113403",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hazira power station (Reliance) Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.1592,
+      "longitude": 72.687127,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 90.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hazira_power_station_(Reliance)",
+      "source_id": 2,
+      "project_name": "Hazira power station (Reliance)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104861_G100000113404",
+      "location_id": "L100000104861",
+      "unit_id": "G100000113404",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hazira power station (Reliance) Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.1592,
+      "longitude": 72.687127,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 90.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hazira_power_station_(Reliance)",
+      "source_id": 2,
+      "project_name": "Hazira power station (Reliance)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104861_G100000113405",
+      "location_id": "L100000104861",
+      "unit_id": "G100000113405",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hazira power station (Reliance) Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.1592,
+      "longitude": 72.687127,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 90.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hazira_power_station_(Reliance)",
+      "source_id": 2,
+      "project_name": "Hazira power station (Reliance)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104861_G100000113406",
+      "location_id": "L100000104861",
+      "unit_id": "G100000113406",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hazira power station (Reliance) Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.1592,
+      "longitude": 72.687127,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 90.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hazira_power_station_(Reliance)",
+      "source_id": 2,
+      "project_name": "Hazira power station (Reliance)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000106572",
+      "location_id": "L100000102348",
+      "unit_id": "G100000106572",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000106573",
+      "location_id": "L100000102348",
+      "unit_id": "G100000106573",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000106574",
+      "location_id": "L100000102348",
+      "unit_id": "G100000106574",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000115182",
+      "location_id": "L100000102348",
+      "unit_id": "G100000115182",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 1",
+      "unit_name": "USCTPP Unit 1",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100000115183",
+      "location_id": "L100000102348",
+      "unit_id": "G100000115183",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 2",
+      "unit_name": "USCTPP Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100001005078",
+      "location_id": "L100000102348",
+      "unit_id": "G100001005078",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 3",
+      "unit_name": "USCTPP Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102348_G100001005079",
+      "location_id": "L100000102348",
+      "unit_id": "G100001005079",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 4",
+      "unit_name": "USCTPP Unit 4",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "source_id": 2,
+      "project_name": "Mahan Super Thermal Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100000121175",
+      "target": "E100000120667",
+      "value": 50.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121175",
+      "target": "E100001000562",
+      "value": 26.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121175",
+      "target": "P0953",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121175",
+      "target": "P3342",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120667",
+      "target": "L100000104861_G100000113403",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120667",
+      "target": "L100000104861_G100000113404",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120667",
+      "target": "L100000104861_G100000113405",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120667",
+      "target": "L100000104861_G100000113406",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000106572",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000106573",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000106574",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000115182",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100000115183",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100001005078",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000562",
+      "target": "L100000102348_G100001005079",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    }
+  ],
+  "paths": {
+    "E100000121175": [
+      {
+        "route": [
+          "E100000121175"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000120667": [
+      {
+        "route": [
+          "E100000121175",
+          "E100000120667"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000104861_G100000113403": [
+      {
+        "route": [
+          "E100000121175",
+          "E100000120667",
+          "L100000104861_G100000113403"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000104861_G100000113404": [
+      {
+        "route": [
+          "E100000121175",
+          "E100000120667",
+          "L100000104861_G100000113404"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000104861_G100000113405": [
+      {
+        "route": [
+          "E100000121175",
+          "E100000120667",
+          "L100000104861_G100000113405"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000104861_G100000113406": [
+      {
+        "route": [
+          "E100000121175",
+          "E100000120667",
+          "L100000104861_G100000113406"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "E100001000562": [
+      {
+        "route": [
+          "E100000121175",
+          "E100001000562"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "L100000102348_G100000106572": [
+      {
+        "route": [
+          "E100000121175",
+          "E100001000562",
+          "L100000102348_G100000106572"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "L100000102348_G100000106573": [
+      {
+        "route": [
+          "E100000121175",
+          "E100001000562",
+          "L100000102348_G100000106573"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "L100000102348_G100000106574": [
+      {
+        "route": [
+          "E100000121175",
+          "E100001000562",
+          "L100000102348_G100000106574"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "L100000102348_G100000115182": [
+      {
+        "route": [
+          "E100000121175",
+          "E100001000562",
+          "L100000102348_G100000115182"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "L100000102348_G100000115183": [
+      {
+        "route": [
+          "E100000121175",
+          "E100001000562",
+          "L100000102348_G100000115183"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "L100000102348_G100001005078": [
+      {
+        "route": [
+          "E100000121175",
+          "E100001000562",
+          "L100000102348_G100001005078"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "L100000102348_G100001005079": [
+      {
+        "route": [
+          "E100000121175",
+          "E100001000562",
+          "L100000102348_G100001005079"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "P0953": [
+      {
+        "route": [
+          "E100000121175",
+          "P0953"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P3342": [
+      {
+        "route": [
+          "E100000121175",
+          "P3342"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "L100000104861_G100000113406",
+    "L100000102348_G100000115182",
+    "L100000102348_G100000106573",
+    "L100000104861_G100000113404",
+    "L100000104861_G100000113403",
+    "L100000102348_G100000115183",
+    "L100000104861_G100000113405",
+    "L100000102348_G100000106572",
+    "L100000102348_G100000106574",
+    "P0953",
+    "P3342",
+    "L100000102348_G100001005078",
+    "L100000102348_G100001005079"
+  ],
+  "truncated_node_ids": []
+}

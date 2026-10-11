@@ -1,0 +1,26 @@
+{
+  "entity_id": "E100002004554",
+  "name": "NMDC Steel",
+  "full_name": "NMDC Steel Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Telangāna",
+  "registration_country": "India",
+  "home_page": "https://nmdcsteel.nmdc.co.in/",
+  "external_ids": {
+    "lei": "335800XNI1D4ZCE7VG97",
+    "permid": "5044197117",
+    "india_cin": "U27310CT2015GOI001618"
+  },
+  "url": "/entities/E100002004554",
+  "owners_url": "/entities/E100002004554/owners",
+  "owned_url": "/entities/E100002004554/owned",
+  "trace_up_url": "/entities/E100002004554/trace/up",
+  "trace_down_url": "/entities/E100002004554/trace/down",
+  "graph_up_url": "/entities/E100002004554/graph/up",
+  "graph_down_url": "/entities/E100002004554/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100002004554&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100002004554"
+}

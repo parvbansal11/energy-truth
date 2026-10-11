@@ -15,3 +15,17 @@ data/raw/global_power_plant_database.csv
 apps/web/test-results/
 apps/web/playwright-report/
 data/raw/legacy/
+
+# any local env files (keep only the example)
+*.env
+*.env *
+.env.*
+!.env.example
+
+# downloaded AWS access-key CSVs
+*accessKeys*
+*_credentials.csv
+*accessKey*
+*.textClipping
+.DS_Store
+work/

@@ -1,0 +1,1468 @@
+{
+  "total": 54,
+  "total_asset_count": 54,
+  "total_location_count": 23,
+  "limit": 200,
+  "offset": 0,
+  "count": 54,
+  "results": [
+    {
+      "asset_id": "L100000102124_G100000100393",
+      "location_id": "L100000102124",
+      "asset_name": "Athena Chhattisgarh power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.906765,
+      "longitude": 83.129001,
+      "wiki_url": "https://www.gem.wiki/Athena_Chhattisgarh_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102124_G100000100393",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001011589",
+          "name": "Athena Chattisgarh Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Athena Chhattisgarh power station"
+    },
+    {
+      "asset_id": "L100000102124_G100000100394",
+      "location_id": "L100000102124",
+      "asset_name": "Athena Chhattisgarh power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.906765,
+      "longitude": 83.129001,
+      "wiki_url": "https://www.gem.wiki/Athena_Chhattisgarh_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102124_G100000100394",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001011589",
+          "name": "Athena Chattisgarh Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Athena Chhattisgarh power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100463",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 1 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3930944,
+      "longitude": 82.7439443,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 1 Unit 1",
+      "url": "/assets/L100000102125_G100000100463",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100464",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 1 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3930944,
+      "longitude": 82.7439443,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 1 Unit 2",
+      "url": "/assets/L100000102125_G100000100464",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100465",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 1 Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3930944,
+      "longitude": 82.7439443,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 1 Unit 3",
+      "url": "/assets/L100000102125_G100000100465",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100466",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 1 Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3930944,
+      "longitude": 82.7439443,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 1 Unit 4",
+      "url": "/assets/L100000102125_G100000100466",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100467",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 2 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3978019,
+      "longitude": 82.7401642,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 2 Unit 1",
+      "url": "/assets/L100000102125_G100000100467",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100468",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 2 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3978019,
+      "longitude": 82.7401642,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 2 Unit 2",
+      "url": "/assets/L100000102125_G100000100468",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100469",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 2 Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3978019,
+      "longitude": 82.7401642,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 2 Unit 3",
+      "url": "/assets/L100000102125_G100000100469",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100470",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 2 Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3978019,
+      "longitude": 82.7401642,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 2 Unit 4",
+      "url": "/assets/L100000102125_G100000100470",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100471",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 3 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3989968,
+      "longitude": 82.7400112,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 3 Unit 1",
+      "url": "/assets/L100000102125_G100000100471",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100472",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 3 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3989968,
+      "longitude": 82.7400112,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 3 Unit 2",
+      "url": "/assets/L100000102125_G100000100472",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100473",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 3 Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3989968,
+      "longitude": 82.7400112,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 3 Unit 3",
+      "url": "/assets/L100000102125_G100000100473",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "L100000102125_G100000100474",
+      "location_id": "L100000102125",
+      "asset_name": "BALCO Korba power station Phase 3 Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.3989968,
+      "longitude": 82.7400112,
+      "wiki_url": "https://www.gem.wiki/BALCO_Korba_power_station",
+      "unit_name": "Phase 3 Unit 4",
+      "url": "/assets/L100000102125_G100000100474",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BALCO Korba power station"
+    },
+    {
+      "asset_id": "M7199",
+      "location_id": "M7199",
+      "asset_name": "Barra Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.2891846,
+      "longitude": 83.3371333,
+      "wiki_url": "https://www.gem.wiki/Barra_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M7199",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barra Coal Mine"
+    },
+    {
+      "asset_id": "M0496",
+      "location_id": "M0496",
+      "asset_name": "Chotia Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.4,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.780896,
+      "longitude": 82.476655,
+      "wiki_url": "https://www.gem.wiki/Chotia_OC_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0496",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001010032",
+          "name": "Bharat Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chotia Coal Mine"
+    },
+    {
+      "asset_id": "P100000128460",
+      "location_id": "P100000128460",
+      "asset_name": "ESL Nadidih (Bico) Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3043.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.969084,
+      "longitude": 85.262653,
+      "wiki_url": "https://www.gem.wiki/ESL_Nadidih_(Bico)_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128460",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ESL Nadidih (Bico) Mine"
+    },
+    {
+      "asset_id": "P100000128986",
+      "location_id": "P100000128986",
+      "asset_name": "ESL Nadidih Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2630.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.965057,
+      "longitude": 85.255248,
+      "wiki_url": "https://www.gem.wiki/ESL_Nadidih_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128986",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "ESL Nadidih Mine"
+    },
+    {
+      "asset_id": "P100000120534_U100000144502",
+      "location_id": "P100000120534",
+      "asset_name": "Electrosteel Bokaro steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 1100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632907,
+      "longitude": 86.293671,
+      "wiki_url": "https://www.gem.wiki/Electrosteel_Bokaro_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120534_U100000144502",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Electrosteel Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120534_U100000141336",
+      "location_id": "P100000120534",
+      "asset_name": "Electrosteel Bokaro steel plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1100.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632907,
+      "longitude": 86.293671,
+      "wiki_url": "https://www.gem.wiki/Electrosteel_Bokaro_steel_plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000120534_U100000141336",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Electrosteel Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120534_U100000141062",
+      "location_id": "P100000120534",
+      "asset_name": "Electrosteel Bokaro steel plant BF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 468.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632907,
+      "longitude": 86.293671,
+      "wiki_url": "https://www.gem.wiki/Electrosteel_Bokaro_steel_plant",
+      "unit_name": "BF 3",
+      "url": "/assets/P100000120534_U100000141062",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Electrosteel Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120534_U100000143634",
+      "location_id": "P100000120534",
+      "asset_name": "Electrosteel Bokaro steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 750.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632907,
+      "longitude": 86.293671,
+      "wiki_url": "https://www.gem.wiki/Electrosteel_Bokaro_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120534_U100000143634",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Electrosteel Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120534_U100000144500",
+      "location_id": "P100000120534",
+      "asset_name": "Electrosteel Bokaro steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 750.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632907,
+      "longitude": 86.293671,
+      "wiki_url": "https://www.gem.wiki/Electrosteel_Bokaro_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120534_U100000144500",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Electrosteel Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120534_U100001028208",
+      "location_id": "P100000120534",
+      "asset_name": "Electrosteel Bokaro steel plant unknown BOF (3)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632907,
+      "longitude": 86.293671,
+      "wiki_url": "https://www.gem.wiki/Electrosteel_Bokaro_steel_plant",
+      "unit_name": "unknown BOF (3)",
+      "url": "/assets/P100000120534_U100001028208",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Electrosteel Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120534_U100001028222",
+      "location_id": "P100000120534",
+      "asset_name": "Electrosteel Bokaro steel plant unknown BOF (4)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632907,
+      "longitude": 86.293671,
+      "wiki_url": "https://www.gem.wiki/Electrosteel_Bokaro_steel_plant",
+      "unit_name": "unknown BOF (4)",
+      "url": "/assets/P100000120534_U100001028222",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Electrosteel Bokaro steel plant"
+    },
+    {
+      "asset_id": "P100000120534_U100000145453",
+      "location_id": "P100000120534",
+      "asset_name": "Electrosteel Bokaro steel plant unknown steel (unspecified) (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.632907,
+      "longitude": 86.293671,
+      "wiki_url": "https://www.gem.wiki/Electrosteel_Bokaro_steel_plant",
+      "unit_name": "unknown steel (unspecified) (1)",
+      "url": "/assets/P100000120534_U100000145453",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000130900",
+          "name": "ESL Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Electrosteel Bokaro steel plant"
+    },
+    {
+      "asset_id": "M3872",
+      "location_id": "M3872",
+      "asset_name": "Ghogharpalli & Its Dip Extension Block Summary",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 20.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.051875,
+      "longitude": 83.661923,
+      "wiki_url": "https://www.gem.wiki/Ghogharpalli_%26_Its_Dip_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M3872",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ghogharpalli & Its Dip Extension Block Summary"
+    },
+    {
+      "asset_id": "M0539",
+      "location_id": "M0539",
+      "asset_name": "Jamkhani Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.105539,
+      "longitude": 83.592888,
+      "wiki_url": "https://www.gem.wiki/Jamkhani_mine",
+      "unit_name": null,
+      "url": "/assets/M0539",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jamkhani Coal Mine"
+    },
+    {
+      "asset_id": "L100000102472_G100000105048",
+      "location_id": "L100000102472",
+      "asset_name": "Jharsuguda Sterlite power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.815743,
+      "longitude": 84.042036,
+      "wiki_url": "https://www.gem.wiki/Jharsuguda_Sterlite_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102472_G100000105048",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jharsuguda Sterlite power station"
+    },
+    {
+      "asset_id": "L100000102472_G100000105049",
+      "location_id": "L100000102472",
+      "asset_name": "Jharsuguda Sterlite power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.815743,
+      "longitude": 84.042036,
+      "wiki_url": "https://www.gem.wiki/Jharsuguda_Sterlite_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102472_G100000105049",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jharsuguda Sterlite power station"
+    },
+    {
+      "asset_id": "L100000102472_G100000105050",
+      "location_id": "L100000102472",
+      "asset_name": "Jharsuguda Sterlite power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.815743,
+      "longitude": 84.042036,
+      "wiki_url": "https://www.gem.wiki/Jharsuguda_Sterlite_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102472_G100000105050",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jharsuguda Sterlite power station"
+    },
+    {
+      "asset_id": "L100000102472_G100000105051",
+      "location_id": "L100000102472",
+      "asset_name": "Jharsuguda Sterlite power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.815743,
+      "longitude": 84.042036,
+      "wiki_url": "https://www.gem.wiki/Jharsuguda_Sterlite_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102472_G100000105051",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jharsuguda Sterlite power station"
+    },
+    {
+      "asset_id": "M2969",
+      "location_id": "M2969",
+      "asset_name": "Kuraloi A North Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 8.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.799405,
+      "longitude": 83.8039,
+      "wiki_url": "https://www.gem.wiki/Kuraloi_A_North_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M2969",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kuraloi A North Coal Mine"
+    },
+    {
+      "asset_id": "L100000102053_G100000106792",
+      "location_id": "L100000102053",
+      "asset_name": "Meenakshi Energy Thermal Power Project Stage I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.211195,
+      "longitude": 80.090062,
+      "wiki_url": "https://www.gem.wiki/Meenakshi_Energy_Thermal_Power_Project",
+      "unit_name": "Stage I Unit 1",
+      "url": "/assets/L100000102053_G100000106792",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120832",
+          "name": "Meenakshi Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meenakshi Energy Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102053_G100000106793",
+      "location_id": "L100000102053",
+      "asset_name": "Meenakshi Energy Thermal Power Project Stage I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.211195,
+      "longitude": 80.090062,
+      "wiki_url": "https://www.gem.wiki/Meenakshi_Energy_Thermal_Power_Project",
+      "unit_name": "Stage I Unit 2",
+      "url": "/assets/L100000102053_G100000106793",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120832",
+          "name": "Meenakshi Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meenakshi Energy Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102053_G100000106794",
+      "location_id": "L100000102053",
+      "asset_name": "Meenakshi Energy Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.211195,
+      "longitude": 80.090062,
+      "wiki_url": "https://www.gem.wiki/Meenakshi_Energy_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102053_G100000106794",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120832",
+          "name": "Meenakshi Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meenakshi Energy Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102053_G100000106795",
+      "location_id": "L100000102053",
+      "asset_name": "Meenakshi Energy Thermal Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 14.211195,
+      "longitude": 80.090062,
+      "wiki_url": "https://www.gem.wiki/Meenakshi_Energy_Thermal_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102053_G100000106795",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120832",
+          "name": "Meenakshi Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meenakshi Energy Thermal Power Project"
+    },
+    {
+      "asset_id": "M0614",
+      "location_id": "M0614",
+      "asset_name": "Radhikapur (West) Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 6.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.983213,
+      "longitude": 84.883482,
+      "wiki_url": "https://www.gem.wiki/Radhikapur_(West)_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0614",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Radhikapur (West) Coal Mine"
+    },
+    {
+      "asset_id": "P100000128500",
+      "location_id": "P100000128500",
+      "asset_name": "Sesa Sterlite Sanquelim Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Goa",
+      "latitude": 15.555378,
+      "longitude": 74.01153,
+      "wiki_url": "https://www.gem.wiki/Sesa_Sterlite_Sanquelim_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128500",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sesa Sterlite Sanquelim Mine"
+    },
+    {
+      "asset_id": "L100000102518_G100000109904",
+      "location_id": "L100000102518",
+      "asset_name": "Talwandi Sabo Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": 29.92458,
+      "longitude": 75.238929,
+      "wiki_url": "https://www.gem.wiki/Talwandi_Sabo_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102518_G100000109904",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002010724",
+          "name": "Vedanta Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Talwandi Sabo Power Project"
+    },
+    {
+      "asset_id": "L100000102518_G100000109905",
+      "location_id": "L100000102518",
+      "asset_name": "Talwandi Sabo Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": 29.92458,
+      "longitude": 75.238929,
+      "wiki_url": "https://www.gem.wiki/Talwandi_Sabo_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102518_G100000109905",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002010724",
+          "name": "Vedanta Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Talwandi Sabo Power Project"
+    },
+    {
+      "asset_id": "L100000102518_G100000109906",
+      "location_id": "L100000102518",
+      "asset_name": "Talwandi Sabo Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": 29.92458,
+      "longitude": 75.238929,
+      "wiki_url": "https://www.gem.wiki/Talwandi_Sabo_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102518_G100000109906",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002010724",
+          "name": "Vedanta Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Talwandi Sabo Power Project"
+    },
+    {
+      "asset_id": "L100000102518_G100000109907",
+      "location_id": "L100000102518",
+      "asset_name": "Talwandi Sabo Power Project Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": 29.92458,
+      "longitude": 75.238929,
+      "wiki_url": "https://www.gem.wiki/Talwandi_Sabo_Power_Project",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102518_G100000109907",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002010724",
+          "name": "Vedanta Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Talwandi Sabo Power Project"
+    },
+    {
+      "asset_id": "L100000102586_G100000110389",
+      "location_id": "L100000102586",
+      "asset_name": "Tuticorin Smelter power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.816981,
+      "longitude": 78.0899754,
+      "wiki_url": "https://www.gem.wiki/Tuticorin_Smelter_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102586_G100000110389",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tuticorin Smelter power station"
+    },
+    {
+      "asset_id": "L100000102586_G100000110390",
+      "location_id": "L100000102586",
+      "asset_name": "Tuticorin Smelter power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.816981,
+      "longitude": 78.0899754,
+      "wiki_url": "https://www.gem.wiki/Tuticorin_Smelter_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102586_G100000110390",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tuticorin Smelter power station"
+    },
+    {
+      "asset_id": "P100000128536",
+      "location_id": "P100000128536",
+      "asset_name": "Vedanta Ankua Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.296901,
+      "longitude": 85.303421,
+      "wiki_url": "https://www.gem.wiki/Vedanta_Ankua_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128536",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Vedanta Ankua Mine"
+    },
+    {
+      "asset_id": "P100000128459",
+      "location_id": "P100000128459",
+      "asset_name": "Vedanta Bicholim Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Goa",
+      "latitude": 15.605424,
+      "longitude": 73.916491,
+      "wiki_url": "https://www.gem.wiki/Vedanta_Bicholim_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128459",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Vedanta Bicholim Mine"
+    },
+    {
+      "asset_id": "P100000121205_U100000144732",
+      "location_id": "P100000121205",
+      "asset_name": "Vedanta Sesa Goa Pig Iron Plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 175.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Goa",
+      "latitude": 15.526866,
+      "longitude": 73.986671,
+      "wiki_url": "https://www.gem.wiki/Vedanta_Sesa_Goa_Pig_Iron_Plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000121205_U100000144732",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001012389",
+          "name": "Vedanta Iron and Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Vedanta Sesa Goa Pig Iron Plant"
+    },
+    {
+      "asset_id": "P100000121205_U100000144733",
+      "location_id": "P100000121205",
+      "asset_name": "Vedanta Sesa Goa Pig Iron Plant BF 2",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 175.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Goa",
+      "latitude": 15.526866,
+      "longitude": 73.986671,
+      "wiki_url": "https://www.gem.wiki/Vedanta_Sesa_Goa_Pig_Iron_Plant",
+      "unit_name": "BF 2",
+      "url": "/assets/P100000121205_U100000144733",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001012389",
+          "name": "Vedanta Iron and Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Vedanta Sesa Goa Pig Iron Plant"
+    },
+    {
+      "asset_id": "P100000121205_U100000144734",
+      "location_id": "P100000121205",
+      "asset_name": "Vedanta Sesa Goa Pig Iron Plant BF 3",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 650.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Goa",
+      "latitude": 15.526866,
+      "longitude": 73.986671,
+      "wiki_url": "https://www.gem.wiki/Vedanta_Sesa_Goa_Pig_Iron_Plant",
+      "unit_name": "BF 3",
+      "url": "/assets/P100000121205_U100000144734",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001012389",
+          "name": "Vedanta Iron and Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Vedanta Sesa Goa Pig Iron Plant"
+    },
+    {
+      "asset_id": "P100000128481",
+      "location_id": "P100000128481",
+      "asset_name": "Vendanta A Narrain Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5890.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 14.224704,
+      "longitude": 76.207168,
+      "wiki_url": "https://www.gem.wiki/Vendanta_A_Narrain_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000128481",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000479",
+          "name": "Vedanta Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Vendanta A Narrain Mine"
+    },
+    {
+      "asset_id": "P100000129441",
+      "location_id": "P100000129441",
+      "asset_name": "Western Cluster Bea Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "Liberia",
+      "state_province": "Grand Cape Mount County",
+      "latitude": 7.002361,
+      "longitude": -11.108866,
+      "wiki_url": "https://www.gem.wiki/Western_Cluster_Bea_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129441",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002017324",
+          "name": "Western Cluster Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Liberia"
+        }
+      ],
+      "project_name": "Western Cluster Bea Mine"
+    },
+    {
+      "asset_id": "P100000129439",
+      "location_id": "P100000129439",
+      "asset_name": "Western Cluster Bomi Hills Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "Liberia",
+      "state_province": "Bomi County",
+      "latitude": 6.897493,
+      "longitude": -10.822327,
+      "wiki_url": "https://www.gem.wiki/Western_Cluster_Bomi_Hills_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129439",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002017324",
+          "name": "Western Cluster Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Liberia"
+        }
+      ],
+      "project_name": "Western Cluster Bomi Hills Mine"
+    },
+    {
+      "asset_id": "P100000129440",
+      "location_id": "P100000129440",
+      "asset_name": "Western Cluster Mano River Mine",
+      "asset_type": "Iron Ore Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "country": "Liberia",
+      "state_province": "Grand Cape Mount County",
+      "latitude": 7.338179,
+      "longitude": -11.121342,
+      "wiki_url": "https://www.gem.wiki/Western_Cluster_Mano_River_Mine",
+      "unit_name": null,
+      "url": "/assets/P100000129440",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002017324",
+          "name": "Western Cluster Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Liberia"
+        }
+      ],
+      "project_name": "Western Cluster Mano River Mine"
+    }
+  ]
+}

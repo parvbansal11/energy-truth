@@ -58,6 +58,7 @@ export type Asset = {
     activity: number | null; activity_units: string | null; emissions_factor: number | null; emissions_factor_units: string | null;
   };
   gem: null | { location_id: string; name: string; asset_type: string; status: string; units: number; operating_units: number; capacity: number; capacity_unit: string; wiki_url: string; share: number };
+  fy_t?: number | null; // full-facility tonnes in the comparison FY
 };
 export type AssetDetail = {
   asset: Asset & { monthly_t?: Record<string, number> };
@@ -91,6 +92,9 @@ export type Backtest = {
   series: { months: string[]; actual: number[]; origins: { origin: string; months: string[]; q10: number[]; q50: number[]; q90: number[]; q50_univariate: number[]; seasonal_naive: number[] }[] };
 };
 
+export type GemHit = { entity_id: string; name: string; country: string | null; listed: boolean; tracked: string | null };
+export type AddJob = { job_id: string; status: "queued" | "running" | "done" | "error"; log: { t: number; msg: string }[]; symbol?: string; name: string; error?: string; warning?: string };
+
 async function j<T>(path: string, init?: RequestInit): Promise<T> {
   const r = await fetch(`${API}${path}`, init);
   if (!r.ok) throw new Error(`${r.status} ${await r.text().catch(() => "")}`.slice(0, 200));
@@ -98,7 +102,11 @@ async function j<T>(path: string, init?: RequestInit): Promise<T> {
 }
 
 export const api = {
-  health: () => j<{ status: string; data_ready: boolean; bedrock: boolean; chronos_backend: string }>("/health"),
+  health: () => j<{ status: string; data_ready: boolean; bedrock: boolean; chronos_backend: string; live_add?: boolean; ai?: { providers: string[] } }>("/health"),
+  gemSearch: (q: string) => j<{ results: GemHit[] }>(`/gem/search?q=${encodeURIComponent(q)}`).then((r) => r.results),
+  addCompany: (body: { entity_id: string; name: string; sector?: string; brsr_url?: string }) =>
+    j<AddJob>("/companies/add", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(body) }),
+  job: (id: string) => j<AddJob>(`/jobs/${id}`),
   meta: () => j<Meta>("/meta"),
   companies: () => j<{ companies: CompanySummary[] }>("/companies").then((r) => r.companies),
   scorecard: (s: string) => j<Scorecard>(`/companies/${s}/scorecard`),

@@ -1,0 +1,1652 @@
+{
+  "total": 49,
+  "total_asset_count": 49,
+  "total_location_count": 45,
+  "limit": 200,
+  "offset": 0,
+  "count": 49,
+  "results": [
+    {
+      "asset_id": "P3646",
+      "location_id": "P3646",
+      "asset_name": "BassGas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "country": "Australia",
+      "state_province": "Victoria",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/BassGas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3646",
+      "upstream_entity_count": 51,
+      "owners": [
+        {
+          "entity_id": "E100001014283",
+          "name": "Beach Energy Ltd",
+          "ownership_share": 53.8,
+          "hq_country": "Australia"
+        },
+        {
+          "entity_id": "E100001015318",
+          "name": "Mitsui & Co. Global Investment Inc",
+          "ownership_share": 35.0,
+          "hq_country": "United States"
+        },
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 11.2,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "project_name": "BassGas Pipeline"
+    },
+    {
+      "asset_id": "P0908",
+      "location_id": "P0908",
+      "asset_name": "Bathinda-Jammu-Srinagar Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 15.48,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Bathinda-Jammu-Srinagar_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0908",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000153049",
+          "name": "Gujarat State Petronet Ltd",
+          "ownership_share": 25.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 25.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 25.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 25.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Bathinda-Jammu-Srinagar Gas Pipeline"
+    },
+    {
+      "asset_id": "P5192",
+      "location_id": "P5192",
+      "asset_name": "Bombay-Uran Trunk Oil Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 361479.45,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Bombay-Uran_Trunk_Oil_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P5192",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Bombay-Uran Trunk Oil Pipeline"
+    },
+    {
+      "asset_id": "P3678",
+      "location_id": "P3678",
+      "asset_name": "Chayvo-De-Kastri Oil Pipeline Segment I",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 240986.3,
+      "capacity_unit": "BOEd",
+      "country": "Russia",
+      "state_province": "Khabarovsk territory",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Chayvo-De-Kastri_Oil_Pipeline",
+      "unit_name": "Segment I",
+      "url": "/assets/P3678",
+      "upstream_entity_count": 61,
+      "owners": [
+        {
+          "entity_id": "E100001014720",
+          "name": "Exxon Neftegas Ltd",
+          "ownership_share": 30.0,
+          "hq_country": "Russia"
+        },
+        {
+          "entity_id": "E100001016057",
+          "name": "Sakhalin Oil and Gas Development Co Ltd",
+          "ownership_share": 30.0,
+          "hq_country": "Japan"
+        },
+        {
+          "entity_id": "E100000000523",
+          "name": "ONGC Videsh Ltd",
+          "ownership_share": 20.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001015368",
+          "name": "Sakhalinmorneftegaz-Shelf JSC",
+          "ownership_share": 11.5,
+          "hq_country": "Russia"
+        },
+        {
+          "entity_id": "E100001015939",
+          "name": "RN-Astra JSC",
+          "ownership_share": 8.5,
+          "hq_country": "Russia"
+        }
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "project_name": "Chayvo-De-Kastri Oil Pipeline"
+    },
+    {
+      "asset_id": "P3720",
+      "location_id": "P3720",
+      "asset_name": "Chayvo-De-Kastri Oil Pipeline Segment II",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "BOEd",
+      "country": "Russia",
+      "state_province": "Sakhalin region",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Chayvo-De-Kastri_Oil_Pipeline",
+      "unit_name": "Segment II",
+      "url": "/assets/P3720",
+      "upstream_entity_count": 61,
+      "owners": [
+        {
+          "entity_id": "E100001014720",
+          "name": "Exxon Neftegas Ltd",
+          "ownership_share": 30.0,
+          "hq_country": "Russia"
+        },
+        {
+          "entity_id": "E100001016057",
+          "name": "Sakhalin Oil and Gas Development Co Ltd",
+          "ownership_share": 30.0,
+          "hq_country": "Japan"
+        },
+        {
+          "entity_id": "E100000000523",
+          "name": "ONGC Videsh Ltd",
+          "ownership_share": 20.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001015368",
+          "name": "Sakhalinmorneftegaz-Shelf JSC",
+          "ownership_share": 11.5,
+          "hq_country": "Russia"
+        },
+        {
+          "entity_id": "E100001015939",
+          "name": "RN-Astra JSC",
+          "ownership_share": 8.5,
+          "hq_country": "Russia"
+        }
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "project_name": "Chayvo-De-Kastri Oil Pipeline"
+    },
+    {
+      "asset_id": "P3721",
+      "location_id": "P3721",
+      "asset_name": "Chayvo-De-Kastri Oil Pipeline Segment III",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "BOEd",
+      "country": "Russia",
+      "state_province": "Sakhalin region",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Chayvo-De-Kastri_Oil_Pipeline",
+      "unit_name": "Segment III",
+      "url": "/assets/P3721",
+      "upstream_entity_count": 61,
+      "owners": [
+        {
+          "entity_id": "E100001014720",
+          "name": "Exxon Neftegas Ltd",
+          "ownership_share": 30.0,
+          "hq_country": "Russia"
+        },
+        {
+          "entity_id": "E100001016057",
+          "name": "Sakhalin Oil and Gas Development Co Ltd",
+          "ownership_share": 30.0,
+          "hq_country": "Japan"
+        },
+        {
+          "entity_id": "E100000000523",
+          "name": "ONGC Videsh Ltd",
+          "ownership_share": 20.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001015368",
+          "name": "Sakhalinmorneftegaz-Shelf JSC",
+          "ownership_share": 11.5,
+          "hq_country": "Russia"
+        },
+        {
+          "entity_id": "E100001015939",
+          "name": "RN-Astra JSC",
+          "ownership_share": 8.5,
+          "hq_country": "Russia"
+        }
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "project_name": "Chayvo-De-Kastri Oil Pipeline"
+    },
+    {
+      "asset_id": "P0917",
+      "location_id": "P0917",
+      "asset_name": "Dadri-Panipat Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 7.3,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Dadri-Panipat_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0917",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Dadri-Panipat Gas Pipeline"
+    },
+    {
+      "asset_id": "L100000407603_G100000409920",
+      "location_id": "L100000407603",
+      "asset_name": "Dahej OPAL Captive power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 195.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.693394,
+      "longitude": 72.623335,
+      "wiki_url": "https://www.gem.wiki/Dahej_OPAL_Captive_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407603_G100000409920",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000003681",
+          "name": "ONGC Petro additions Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dahej OPAL Captive power plant"
+    },
+    {
+      "asset_id": "P2210",
+      "location_id": "P2210",
+      "asset_name": "Dahej-Koyali Refinery Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.91,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Dahej-Koyali_Refinery_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P2210",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Dahej-Koyali Refinery Gas Pipeline"
+    },
+    {
+      "asset_id": "P2211",
+      "location_id": "P2211",
+      "asset_name": "Dahej-OPAL Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 1.21,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Dahej-OPAL_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P2211",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000003681",
+          "name": "ONGC Petro additions Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Dahej-OPAL Gas Pipeline"
+    },
+    {
+      "asset_id": "P0922",
+      "location_id": "P0922",
+      "asset_name": "Ennore-Tuticorn-Bengalaru Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 30.9,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Ennore-Tuticorn-Bengalaru_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0922",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Ennore-Tuticorn-Bengalaru Gas Pipeline"
+    },
+    {
+      "asset_id": "P2213",
+      "location_id": "P2213",
+      "asset_name": "Gorakhpur-Rupandehi Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "country": null,
+      "state_province": "Uttar Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Gorakhpur-Rupandehi_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P2213",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001015524",
+          "name": "Nepal Oil Corporation Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "Nepal"
+        }
+      ],
+      "countries": [
+        "India",
+        "Nepal"
+      ],
+      "project_name": "Gorakhpur-Rupandehi Gas Pipeline"
+    },
+    {
+      "asset_id": "P0537",
+      "location_id": "P0537",
+      "asset_name": "Greater Nile Oil Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250000.0,
+      "capacity_unit": "BOEd",
+      "country": "South Sudan",
+      "state_province": null,
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Greater_Nile_Oil_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0537",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100001014879",
+          "name": "Greater Nile Petroleum Operating Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Sudan"
+        }
+      ],
+      "countries": [
+        "South Sudan",
+        "Sudan"
+      ],
+      "project_name": "Greater Nile Oil Pipeline"
+    },
+    {
+      "asset_id": "L100000408395_G100000411777",
+      "location_id": "L100000408395",
+      "asset_name": "Guru Gobind Singh Refinery power station 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 165.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": 29.924421,
+      "longitude": 74.958902,
+      "wiki_url": "https://www.gem.wiki/Guru_Gobind_Singh_Refinery_power_station",
+      "unit_name": "1.0",
+      "url": "/assets/L100000408395_G100000411777",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001916",
+          "name": "HPCL-Mittal Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Guru Gobind Singh Refinery power station"
+    },
+    {
+      "asset_id": "L100000408393_G100000411775",
+      "location_id": "L100000408393",
+      "asset_name": "HPCL Vizag Refinery power station 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 17.68858,
+      "longitude": 83.251943,
+      "wiki_url": "https://www.gem.wiki/HPCL_Vizag_Refinery_power_station",
+      "unit_name": "1.0",
+      "url": "/assets/L100000408393_G100000411775",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "HPCL Vizag Refinery power station"
+    },
+    {
+      "asset_id": "P6091",
+      "location_id": "P6091",
+      "asset_name": "Hassan-Cherlapalli LPG Pipeline Capacity Expansion",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 44180.82,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Telangana",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Hassan-Cherlapalli_LPG_Pipeline",
+      "unit_name": "Capacity Expansion",
+      "url": "/assets/P6091",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Hassan-Cherlapalli LPG Pipeline"
+    },
+    {
+      "asset_id": "P5412",
+      "location_id": "P5412",
+      "asset_name": "Hazaribagh-Ranchi Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 0.38,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Hazaribagh-Ranchi_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P5412",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Hazaribagh-Ranchi Gas Pipeline"
+    },
+    {
+      "asset_id": "L100000407600_G100000409917",
+      "location_id": "L100000407600",
+      "asset_name": "Hazira Gas Processing Complex Captive Power station 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 51.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.16102,
+      "longitude": 72.739369,
+      "wiki_url": "https://www.gem.wiki/Hazira_Gas_Processing_Complex_Captive_Power_station",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407600_G100000409917",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hazira Gas Processing Complex Captive Power station"
+    },
+    {
+      "asset_id": "P0926",
+      "location_id": "P0926",
+      "asset_name": "Heera-Uran Trunk Line (HUT)",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5.84,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Offshore India",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Heera-Uran_Trunk_Line_(HUT)",
+      "unit_name": null,
+      "url": "/assets/P0926",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Heera-Uran Trunk Line (HUT)"
+    },
+    {
+      "asset_id": "L100000407592_G100000409908",
+      "location_id": "L100000407592",
+      "asset_name": "IOCL Panipat Naphtha Cracker Captive cogeneration power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 238.4,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 29.452388,
+      "longitude": 76.872665,
+      "wiki_url": "https://www.gem.wiki/IOCL_Panipat_Naphtha_Cracker_Captive_cogeneration_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407592_G100000409908",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "IOCL Panipat Naphtha Cracker Captive cogeneration power plant"
+    },
+    {
+      "asset_id": "L100000407593_G100000409909",
+      "location_id": "L100000407593",
+      "asset_name": "IOCL Panipat cogeneration power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 110.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 29.467309,
+      "longitude": 76.875446,
+      "wiki_url": "https://www.gem.wiki/IOCL_Panipat_cogeneration_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407593_G100000409909",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "IOCL Panipat cogeneration power plant"
+    },
+    {
+      "asset_id": "P0928",
+      "location_id": "P0928",
+      "asset_name": "India-Myanmar-Bangladesh Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "country": null,
+      "state_province": null,
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/India-Myanmar-Bangladesh_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0928",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 0.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001014273",
+          "name": "Bangladesh Petroleum Corporation Corp",
+          "ownership_share": 0.0,
+          "hq_country": "Bangladesh"
+        }
+      ],
+      "countries": [
+        "India",
+        "Bangladesh",
+        "Myanmar"
+      ],
+      "project_name": "India-Myanmar-Bangladesh Gas Pipeline"
+    },
+    {
+      "asset_id": "P2748",
+      "location_id": "P2748",
+      "asset_name": "Langtala-Pachpadra Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1.46,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Langtala-Pachpadra_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P2748",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100002019501",
+          "name": "GSPL India Gasnet Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Langtala-Pachpadra Gas Pipeline"
+    },
+    {
+      "asset_id": "P0939",
+      "location_id": "P0939",
+      "asset_name": "Mangala Development Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 174915.89,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mangala_Development_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0939",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100000121514",
+          "name": "Vedanta Resources Ltd",
+          "ownership_share": 70.0,
+          "hq_country": "United Kingdom"
+        },
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 30.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mangala Development Pipeline"
+    },
+    {
+      "asset_id": "L100000407597_G100000409913",
+      "location_id": "L100000407597",
+      "asset_name": "Mangalore Refinery power plant 3.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 114.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 12.983902,
+      "longitude": 74.844176,
+      "wiki_url": "https://www.gem.wiki/Mangalore_Refinery_power_plant",
+      "unit_name": "3.0",
+      "url": "/assets/L100000407597_G100000409913",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000003529",
+          "name": "Mangalore Refinery and Petrochemicals Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mangalore Refinery power plant"
+    },
+    {
+      "asset_id": "L100000407597_G100000409914",
+      "location_id": "L100000407597",
+      "asset_name": "Mangalore Refinery power plant 46024.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 115.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 12.983902,
+      "longitude": 74.844176,
+      "wiki_url": "https://www.gem.wiki/Mangalore_Refinery_power_plant",
+      "unit_name": "46024.0",
+      "url": "/assets/L100000407597_G100000409914",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000003529",
+          "name": "Mangalore Refinery and Petrochemicals Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mangalore Refinery power plant"
+    },
+    {
+      "asset_id": "P6090",
+      "location_id": "P6090",
+      "asset_name": "Mangalore-Hassan-Mysore-Yediyur LPG Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 38959.45,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mangalore-Hassan-Mysore-Yediyur_LPG_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P6090",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mangalore-Hassan-Mysore-Yediyur LPG Pipeline"
+    },
+    {
+      "asset_id": "P0941",
+      "location_id": "P0941",
+      "asset_name": "Mehsana-Bhatinda Gas Pipeline Phase I",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 29.24,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mehsana-Bhatinda_Gas_Pipeline",
+      "unit_name": "Phase I",
+      "url": "/assets/P0941",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000153049",
+          "name": "Gujarat State Petronet Ltd",
+          "ownership_share": 52.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 26.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 11.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 11.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mehsana-Bhatinda Gas Pipeline"
+    },
+    {
+      "asset_id": "P5411",
+      "location_id": "P5411",
+      "asset_name": "Mehsana-Bhatinda Gas Pipeline Phase II",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 29.24,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mehsana-Bhatinda_Gas_Pipeline",
+      "unit_name": "Phase II",
+      "url": "/assets/P5411",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000153049",
+          "name": "Gujarat State Petronet Ltd",
+          "ownership_share": 52.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 26.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 11.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 11.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mehsana-Bhatinda Gas Pipeline"
+    },
+    {
+      "asset_id": "P3855",
+      "location_id": "P3855",
+      "asset_name": "Mozambique LNG Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "country": "Mozambique",
+      "state_province": null,
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mozambique_LNG_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3855",
+      "upstream_entity_count": 22,
+      "owners": [
+        {
+          "entity_id": "E100000000387",
+          "name": "TotalEnergies SE",
+          "ownership_share": 26.5,
+          "hq_country": "France"
+        },
+        {
+          "entity_id": "E100000134078",
+          "name": "Mitsui Group",
+          "ownership_share": 20.0,
+          "hq_country": "Japan"
+        },
+        {
+          "entity_id": "E100001014498",
+          "name": "Empresa Nacional de Hidrocarbonetos EP",
+          "ownership_share": 15.0,
+          "hq_country": "Mozambique"
+        },
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 10.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 10.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001034",
+          "name": "PTT Exploration and Production PCL",
+          "ownership_share": 8.5,
+          "hq_country": "Thailand"
+        },
+        {
+          "entity_id": "E100001015060",
+          "name": "Ministry of Petroleum and Natural Gas (India)",
+          "ownership_share": 10.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "Mozambique"
+      ],
+      "project_name": "Mozambique LNG Gas Pipeline"
+    },
+    {
+      "asset_id": "P5191",
+      "location_id": "P5191",
+      "asset_name": "Mumbai High - Uran Trunk Oil Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 313884.66,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mumbai_High_-_Uran_Trunk_Oil_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P5191",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mumbai High - Uran Trunk Oil Pipeline"
+    },
+    {
+      "asset_id": "P0944",
+      "location_id": "P0944",
+      "asset_name": "Mumbai-Uran Trunk Line (MUT)",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.47,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Offshore India",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mumbai-Uran_Trunk_Line_(MUT)",
+      "unit_name": null,
+      "url": "/assets/P0944",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mumbai-Uran Trunk Line (MUT)"
+    },
+    {
+      "asset_id": "P3670",
+      "location_id": "P3670",
+      "asset_name": "Mundra Bhatinda Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 225924.66,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mundra_Bhatinda_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3670",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001916",
+          "name": "HPCL-Mittal Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mundra Bhatinda Pipeline"
+    },
+    {
+      "asset_id": "P0946",
+      "location_id": "P0946",
+      "asset_name": "Mundra-Panipat Oil Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 168690.41,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mundra-Panipat_Oil_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0946",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mundra-Panipat Oil Pipeline"
+    },
+    {
+      "asset_id": "P3889",
+      "location_id": "P3889",
+      "asset_name": "New Mundra–Panipat Oil Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 351438.36,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/New_Mundra%E2%80%93Panipat_Oil_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3889",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "New Mundra–Panipat Oil Pipeline"
+    },
+    {
+      "asset_id": "P1309",
+      "location_id": "P1309",
+      "asset_name": "North East Natural Gas Pipeline Grid Project",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 1.73,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/North_East_Natural_Gas_Pipeline_Grid_Project",
+      "unit_name": null,
+      "url": "/assets/P1309",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001015061",
+          "name": "Indradhanush Gas Grid Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "North East Natural Gas Pipeline Grid Project"
+    },
+    {
+      "asset_id": "P6081",
+      "location_id": "P6081",
+      "asset_name": "Panipat-Jalandhar LPG Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 14057.53,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Panipat-Jalandhar_LPG_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P6081",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Panipat-Jalandhar LPG Pipeline"
+    },
+    {
+      "asset_id": "L100000408389_G100000411771",
+      "location_id": "L100000408389",
+      "asset_name": "Paradip Refinery Captive power station 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 122.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.250004,
+      "longitude": 86.59751,
+      "wiki_url": "https://www.gem.wiki/Paradip_Refinery_Captive_power_station",
+      "unit_name": "1.0",
+      "url": "/assets/L100000408389_G100000411771",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Paradip Refinery Captive power station"
+    },
+    {
+      "asset_id": "L100000408389_G100000411770",
+      "location_id": "L100000408389",
+      "asset_name": "Paradip Refinery Captive power station 2.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 122.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.250004,
+      "longitude": 86.59751,
+      "wiki_url": "https://www.gem.wiki/Paradip_Refinery_Captive_power_station",
+      "unit_name": "2.0",
+      "url": "/assets/L100000408389_G100000411770",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Paradip Refinery Captive power station"
+    },
+    {
+      "asset_id": "L100000408389_G100000411769",
+      "location_id": "L100000408389",
+      "asset_name": "Paradip Refinery Captive power station 3.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 122.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.250004,
+      "longitude": 86.59751,
+      "wiki_url": "https://www.gem.wiki/Paradip_Refinery_Captive_power_station",
+      "unit_name": "3.0",
+      "url": "/assets/L100000408389_G100000411769",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Paradip Refinery Captive power station"
+    },
+    {
+      "asset_id": "P0951",
+      "location_id": "P0951",
+      "asset_name": "Paradip-Haldia-Barauni Oil Pipeline (PHBPL)",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 305205.5,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Paradip-Haldia-Barauni_Oil_Pipeline_(PHBPL)",
+      "unit_name": null,
+      "url": "/assets/P0951",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Paradip-Haldia-Barauni Oil Pipeline (PHBPL)"
+    },
+    {
+      "asset_id": "M0603",
+      "location_id": "M0603",
+      "asset_name": "Parbatpur Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 20.7152778,
+      "longitude": 86.375,
+      "wiki_url": "https://www.gem.wiki/Parbatpur_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0603",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 33.3,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001000396",
+          "name": "Coal India Ltd",
+          "ownership_share": 33.3,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001000703",
+          "name": "Steel Authority of India Ltd",
+          "ownership_share": 33.3,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Parbatpur Coal Mine"
+    },
+    {
+      "asset_id": "P6080",
+      "location_id": "P6080",
+      "asset_name": "Parsian Sepehr-Asaluyeh NGLs Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 64263.01,
+      "capacity_unit": "BOEd",
+      "country": "Iran",
+      "state_province": "Bushehr",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Parsian_Sepehr-Asaluyeh_NGLs_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P6080",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "Iran"
+      ],
+      "project_name": "Parsian Sepehr-Asaluyeh NGLs Pipeline "
+    },
+    {
+      "asset_id": "P0952",
+      "location_id": "P0952",
+      "asset_name": "Salaya–Mathura Oil Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 502054.79,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Salaya%e2%80%93Mathura_Oil_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0952",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Salaya–Mathura Oil Pipeline"
+    },
+    {
+      "asset_id": "P3708",
+      "location_id": "P3708",
+      "asset_name": "Suzun–Vankor Oil Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "BOEd",
+      "country": "Russia",
+      "state_province": null,
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Suzun%E2%80%93Vankor_Oil_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3708",
+      "upstream_entity_count": 42,
+      "owners": [
+        {
+          "entity_id": "E100001016002",
+          "name": "Vankorneft JSC",
+          "ownership_share": 100.0,
+          "hq_country": "Russia"
+        }
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "project_name": "Suzun–Vankor Oil Pipeline"
+    },
+    {
+      "asset_id": "L100000401521_G100000401491",
+      "location_id": "L100000401521",
+      "asset_name": "Tripura Combined Cycle power plant Block I",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 363.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tripura",
+      "latitude": 23.4987,
+      "longitude": 91.4385,
+      "wiki_url": "https://www.gem.wiki/Tripura_Combined_Cycle_power_plant",
+      "unit_name": "Block I",
+      "url": "/assets/L100000401521_G100000401491",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001931",
+          "name": "ONGC Tripura Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tripura Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000401521_G100000401492",
+      "location_id": "L100000401521",
+      "asset_name": "Tripura Combined Cycle power plant Block II",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 363.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tripura",
+      "latitude": 23.4987,
+      "longitude": 91.4385,
+      "wiki_url": "https://www.gem.wiki/Tripura_Combined_Cycle_power_plant",
+      "unit_name": "Block II",
+      "url": "/assets/L100000401521_G100000401492",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001931",
+          "name": "ONGC Tripura Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tripura Combined Cycle power plant"
+    },
+    {
+      "asset_id": "P6089",
+      "location_id": "P6089",
+      "asset_name": "Uran-Chakan-Shikrapur LPG Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 20082.19,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Uran-Chakan-Shikrapur_LPG_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P6089",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Uran-Chakan-Shikrapur LPG Pipeline"
+    },
+    {
+      "asset_id": "P5399",
+      "location_id": "P5399",
+      "asset_name": "Velásquez-Galán Oil Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 50000.0,
+      "capacity_unit": "BOEd",
+      "country": "Colombia",
+      "state_province": "Santander",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Vel%C3%A1squez-Gal%C3%A1n_Oil_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P5399",
+      "upstream_entity_count": 12,
+      "owners": [
+        {
+          "entity_id": "E100001015281",
+          "name": "Mansarovar Energy Colombia Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "Colombia"
+        }
+      ],
+      "countries": [
+        "Colombia"
+      ],
+      "project_name": "Velásquez-Galán Oil Pipeline"
+    }
+  ]
+}

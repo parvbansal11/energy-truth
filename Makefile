@@ -3,7 +3,7 @@ PY      := .venv/bin/python
 PYPATH  := PYTHONPATH=packages/core:packages/connectors:packages/fusion:packages/chronos:packages/agents:.
 API_PORT ?= 8000
 
-.PHONY: install pipeline backtest api web dev test test-py test-web e2e build synth lambda-bundle deploy outputs publish-data deploy-chronos preflight cost-check teardown teardown-ml
+.PHONY: install pipeline backtest api web dev test test-py test-web e2e build synth lambda-bundle deploy outputs publish-data amplify deploy-chronos preflight cost-check teardown teardown-ml
 
 install:            ## python venv + node deps + playwright browser
 	python3.12 -m venv .venv
@@ -52,12 +52,17 @@ preflight:          ## AGENTS.md Step 1 checks (identity, Bedrock, budget, quota
 
 deploy: preflight lambda-bundle   ## P0: deploy all stacks, write outputs to .env, publish data
 	mkdir -p work
+	set -a; . ./.env; set +a; cd infra && npx cdk bootstrap "aws://$${CDK_DEFAULT_ACCOUNT}/$${CDK_DEFAULT_REGION:-us-east-1}" --profile "$${AWS_PROFILE:-energy-truth}" --tags Project=energy-truth
 	set -a; . ./.env; set +a; cd infra && npx cdk deploy --all --require-approval never --outputs-file ../work/cdk-outputs.json --profile "$${AWS_PROFILE:-energy-truth}"
 	$(PY) scripts/write_outputs_to_env.py
 	$(MAKE) publish-data
+	$(PY) scripts/configure_amplify.py --release
 
 outputs:
 	$(PY) scripts/write_outputs_to_env.py
+
+amplify:            ## point the hand-made Amplify app at the API/Cognito and build main (add RELEASE=1)
+	$(PY) scripts/configure_amplify.py $(if $(RELEASE),--release,)
 
 publish-data:       ## upload curated + raw evidence to S3, mirror rows to DynamoDB
 	$(PY) scripts/publish_data.py

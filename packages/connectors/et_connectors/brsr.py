@@ -34,11 +34,23 @@ def to_tco2e(value: float, unit: str) -> float:
             return value * T_PER[k]
     if re.search(r"\bmt\b|mnt", u):
         return value * 1e6
+    # looser spellings seen in other companies' filings (PDF text often drops the subscript: "Ton COe", "MtCOe").
+    # Case matters: "Mt"/"MMT" = million tonnes, while Indian filings use "MT" for metric tonnes.
+    if re.match(r"\s*(Mt|MMT|mmt)", unit) or re.search(r"million|\bmn\b", u):
+        return value * 1e6
+    if "lakh" in u:
+        return value * 1e5
+    if re.search(r"kilo|\bkt\b", u):
+        return value * 1e3
+    if re.search(r"\bt\b|\btons?\b|\btonnes?\b|tco|\bmetric\s+tons?", u):
+        return value
     raise ValueError(f"unknown GHG unit: {unit!r}")
 
 
 def to_mwh(value: float, unit: str) -> float:
     u = unit.upper().replace(" ", "")
+    for word, sym in (("PETAJOULE", "PJ"), ("TERAJOULE", "TJ"), ("GIGAJOULE", "GJ"), ("GIGAWATTHOUR", "GWH"), ("MEGAWATTHOUR", "MWH"), ("KILOWATTHOUR", "KWH")):
+        u = u.replace(word, sym)
     for k in ["PJ", "TJ", "GJ", "GWH", "MWH", "KWH"]:
         if k in u:
             return value * MWH_PER[k]
@@ -194,42 +206,51 @@ def extract_rules(symbol: str, fy: str, pdf_path: Path, url: str, pdf_ev_id: str
     return ex, evs
 
 
-# ---------------------------------------------------------------- Bedrock Nova engine
+# ---------------------------------------------------------------- AI engine (Bedrock / Gemini / Ollama via et_core.llm)
 SCHEMA_PROMPT = """You extract figures from an Indian company's BRSR (Principle 6) pages.
 Return ONLY JSON: {"rows":[{"metric":"scope1|scope2|electricity_nonrenewable|electricity_renewable",
 "boundary":"standalone|consolidated","fiscal_year":"FY2024-25","value":"<number exactly as printed>",
-"unit":"<unit exactly as printed>","page":<int>}], "assurance":{"assured":bool,"level":"reasonable|limited|none",
+"unit":"<unit as printed, plus any multiplier stated in the row or column header, e.g. 'Million tCO2e'>","page":<int>}], "assurance":{"assured":bool,"level":"reasonable|limited|none",
 "provider":"<name or null>","page":<int>}}
 Use secondary (final) electricity, not primary-energy columns. Never compute or round; copy printed values."""
 
 
-def extract_bedrock(symbol: str, fy: str, pdf_path: Path, url: str, pdf_ev_id: str) -> tuple[Extraction, list[Evidence]]:
-    import boto3
+def extract_llm(symbol: str, fy: str, pdf_path: Path, url: str, pdf_ev_id: str) -> tuple[Extraction, list[Evidence]]:
+    from et_core.llm import complete
 
     pages = page_texts(pdf_path)
-    cand = [(i + 1, t) for i, t in enumerate(pages) if re.search(r"Scope 1|electricity consumption", t, re.I)][:4]
-    doc = "\n\n".join(f"<page n={n}>\n{t}\n</page>" for n, t in cand)
-    client = boto3.client("bedrock-runtime", region_name=settings.region)
-    resp = client.converse(
-        modelId=settings.bedrock_text_model,
-        system=[{"text": SCHEMA_PROMPT}],
-        messages=[{"role": "user", "content": [{"text": doc}]}],
-        inferenceConfig={"maxTokens": 1500, "temperature": 0},
-    )
-    text = resp["output"]["message"]["content"][0]["text"]
+    hits = [(i + 1, t) for i, t in enumerate(pages) if re.search(r"Scope\s*1|electricity consumption|Total electricity", t, re.I)]
+    # GHG table pages first, then the energy table pages
+    cand = sorted(hits, key=lambda x: (0 if re.search(r"Scope\s*1", x[1], re.I) else 1, x[0]))[:6]
+    cand.sort()
+    doc = "\n\n".join(f"<page n={n}>\n{t[:9000]}\n</page>" for n, t in cand)
+    text, engine = complete(doc, system=SCHEMA_PROMPT, max_tokens=2500, temperature=0, json_mode=True)
     data = json.loads(text[text.find("{"): text.rfind("}") + 1])
-    ex = Extraction(symbol=symbol, fy=fy, engine=f"bedrock:{settings.bedrock_text_model}", document_url=url, pages_scanned=len(pages))
+    ex = Extraction(symbol=symbol, fy=fy, engine=engine, document_url=url, pages_scanned=len(pages))
     evs: list[Evidence] = []
     for row in data.get("rows", []):
-        page_text = pages[int(row["page"]) - 1]
+        try:
+            page_text = pages[int(row["page"]) - 1]
+            if row.get("metric") not in ("scope1", "scope2", "electricity_nonrenewable", "electricity_renewable") or not str(row.get("value", "")).strip():
+                continue
+            row["value"] = str(row["value"]).strip()
+        except (ValueError, IndexError, TypeError):
+            continue
         if row["value"] not in page_text:  # citation lock: value must literally appear on the cited page
-            ex.warnings.append(f"bedrock value {row['value']} not found on p.{row['page']} · dropped")
+            ex.warnings.append(f"AI value {row['value']} not found on p.{row['page']} · dropped")
             continue
         metric = row["metric"]
-        if metric.startswith("scope"):
-            v, unit = to_tco2e(parse_number(row["value"]), row["unit"]), "tCO2e"
-        else:
-            v, unit, metric = to_mwh(parse_number(row["value"]), row["unit"]), "MWh", metric + "_mwh"
+        try:
+            if metric.startswith("scope"):
+                v, unit = to_tco2e(parse_number(row["value"]), row["unit"]), "tCO2e"
+            else:
+                v, unit, metric = to_mwh(parse_number(row["value"]), row["unit"]), "MWh", metric + "_mwh"
+        except ValueError as e:  # one unreadable unit must not discard the rest of the table
+            ex.warnings.append(f"AI row skipped: {e}")
+            continue
+        if metric == "scope1" and v < 1000:  # large industrial emitters: a multiplier was lost (header-level unit)
+            ex.warnings.append(f"AI scope1 {row['value']} {row['unit']} on p.{row['page']} implausibly small · dropped")
+            continue
         line = next((l for l in page_text.splitlines() if row["value"] in l), "")
         ev = Evidence(id=evidence_id("pdf_page", url, row["page"], metric, row["boundary"], row["fiscal_year"]), kind="pdf_page",
                       title=f"{symbol} BRSR {fy} · {metric} ({row['boundary']}, {row['fiscal_year']}), p.{row['page']}", publisher=symbol,
@@ -242,19 +263,29 @@ def extract_bedrock(symbol: str, fy: str, pdf_path: Path, url: str, pdf_ev_id: s
 
 
 def extract(symbol: str, doc: dict, *, engine: str = "auto", refresh: bool = False) -> tuple[Extraction, list[Evidence]]:
+    """Deterministic parse first. The AI engine cross-checks it, and fills fields the rules could not find
+    (new companies whose BRSR layout the rules were never tuned on). Rules values always win on disagreement."""
     path, pdf_ev = download(symbol, doc, refresh=refresh)
-    use_bedrock = engine == "bedrock" or (engine == "auto" and settings.bedrock_enabled)
     rules, rules_evs = extract_rules(symbol, doc["fy"], path, doc["url"], pdf_ev.id)
-    for e in rules_evs:
-        e.retrieved_at = pdf_ev.retrieved_at
-    if use_bedrock:
+    evs = [pdf_ev, *rules_evs]
+    if engine != "rules":
         try:
-            br, br_evs = extract_bedrock(symbol, doc["fy"], path, doc["url"], pdf_ev.id)
-            # Cross-check: any disagreement with the deterministic parse is surfaced, rules value kept.
-            for k, f in br.fields.items():
-                if k in rules.fields and abs(rules.fields[k].value - f.value) > 1e-6 * max(1, abs(f.value)):
-                    rules.warnings.append(f"bedrock/rules disagree on {k}: {f.value} vs {rules.fields[k].value}")
-            rules.engine = f"rules+{br.engine}"
-        except Exception as e:  # Bedrock unavailable or malformed output: deterministic result stands
-            rules.warnings.append(f"bedrock extraction skipped: {type(e).__name__}")
-    return rules, [pdf_ev, *rules_evs]
+            ai, ai_evs = extract_llm(symbol, doc["fy"], path, doc["url"], pdf_ev.id)
+            added = 0
+            for k, f in ai.fields.items():
+                if k in rules.fields:
+                    if abs(rules.fields[k].value - f.value) > 1e-6 * max(1, abs(f.value)):
+                        rules.warnings.append(f"AI/rules disagree on {k}: {f.value} vs {rules.fields[k].value} (rules kept)")
+                else:
+                    rules.fields[k] = f
+                    evs.extend(e for e in ai_evs if e.id == f.evidence_id)
+                    added += 1
+            if not rules.assurance and ai.assurance:
+                rules.assurance = ai.assurance
+            rules.warnings.extend(ai.warnings)
+            rules.engine = f"rules+{ai.engine}" + (f" ({added} fields from AI)" if added else "")
+        except Exception as e:  # no AI provider or malformed output: deterministic result stands
+            rules.warnings.append(f"AI extraction skipped: {type(e).__name__}")
+    for e in evs[1:]:
+        e.retrieved_at = e.retrieved_at or pdf_ev.retrieved_at
+    return rules, evs

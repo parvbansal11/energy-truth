@@ -194,7 +194,7 @@
     "candidate_location": null
    }
   ],
-  "computed_at": "2026-10-09T21:09:26+00:00",
+  "computed_at": "2026-10-11T08:29:42+00:00",
   "forecast": {
    "months": [
     "2026-01",
@@ -576,7 +576,7 @@
     "candidate_location": null
    }
   ],
-  "computed_at": "2026-10-09T21:09:26+00:00",
+  "computed_at": "2026-10-11T08:29:42+00:00",
   "forecast": {
    "months": [
     "2026-01",
@@ -867,7 +867,7 @@
    }
   ],
   "hitl_queue": [],
-  "computed_at": "2026-10-09T21:09:26+00:00",
+  "computed_at": "2026-10-11T08:29:42+00:00",
   "forecast": {
    "months": [
     "2026-01",
@@ -1099,7 +1099,7 @@
     "candidate_location": "P100000128518"
    }
   ],
-  "computed_at": "2026-10-09T21:09:26+00:00",
+  "computed_at": "2026-10-11T08:29:42+00:00",
   "forecast": {
    "months": [
     "2026-01",
@@ -1304,7 +1304,7 @@
   },
   "flags": [],
   "hitl_queue": [],
-  "computed_at": "2026-10-09T21:09:26+00:00",
+  "computed_at": "2026-10-11T08:29:42+00:00",
   "forecast": {
    "months": [
     "2026-01",
@@ -1414,6 +1414,5072 @@
     5564752.4,
     5671038.0,
     6604257.0
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "TATAPOWER",
+  "name": "Tata Power Company Ltd",
+  "short": "Tata Power",
+  "sector": "Power generation",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 4,
+   "gem_assets": 36,
+   "gem_locations": 14,
+   "rho": 0.1111,
+   "operating_emitting_locations": 5,
+   "operating_emitting_matched": 5,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_2008df3902",
+    "ev_api_payload_f0c38c5cca",
+    "ev_api_payload_c3e8e05e67",
+    "ev_api_payload_66b6ef06e5",
+    "ev_api_payload_b170157f3d"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 24505330.531459615,
+     "sigma_t": 2235961.906109193,
+     "components": {
+      "assets_t": 1870360.2819861306,
+      "systematic_t": 1225266.5265729807,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:TATAPOWER:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_13a730fe2c",
+      "ev_api_payload_2008df3902",
+      "ev_api_payload_30f5c74a7f",
+      "ev_api_payload_66b6ef06e5",
+      "ev_api_payload_677c51b866",
+      "ev_api_payload_b170157f3d",
+      "ev_api_payload_be10e4c6ff",
+      "ev_api_payload_c3e8e05e67",
+      "ev_api_payload_f0c38c5cca"
+     ]
+    },
+    "flags": [],
+    "reported": {
+     "value_t": 41352681.0,
+     "sigma_t": 6202902.149999999,
+     "raw": "4,13,52,681",
+     "raw_unit": "tonnes",
+     "page": 33,
+     "quote": "Total Scope 1 emissions (Break-up of the GHG into CO, CH, Metric tonnes of CO 4,13,52,681 4,02,01,962",
+     "boundary": "standalone",
+     "document_fy": "FY2024-25",
+     "assurance": {},
+     "evidence_ids": [
+      "ev_pdf_page_83b91604e6"
+     ]
+    },
+    "fused": {
+     "value_t": 26442714.128410116,
+     "sigma_t": 2103472.963490424
+    },
+    "z": -2.5551077201757586,
+    "gap_t": -16847350.468540385,
+    "gap_pct": -40.74064863784862,
+    "verdict": {
+     "code": "significant_gap",
+     "label": "Significant gap",
+     "tone": "red",
+     "text": "Gap exceeds 2 sigma of combined uncertainty; investigate with the evidence below."
+    }
+   },
+   "S2": {
+    "independent": {
+     "value_t": 62063.18222222222,
+     "sigma_t": 2633.1178206809823,
+     "mwh": 85368.88888888889,
+     "mwh_raw": "3,07,328 GJ",
+     "mwh_page": 30,
+     "ef": 0.727,
+     "ef_version": "V20_FY2023-24",
+     "estimate_id": "est:TATAPOWER:S2:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_pdf_page_85f6b011ce",
+      "ev_constant_d1e09d4c7a"
+     ]
+    },
+    "flags": [
+     "EF_YEAR_MISMATCH",
+     "MWH_FROM_TOTAL_CONSUMPTION"
+    ],
+    "dependency_note": "Scope 2 rebuild reuses the company-disclosed electricity quantity; only the emission factor is independent.",
+    "reported": {
+     "value_t": 3201561.0,
+     "sigma_t": 480234.14999999997,
+     "raw": "32,01,561",
+     "raw_unit": "tonnes",
+     "page": 33,
+     "quote": "Total Scope 2 emissions (Break-up of the GHG into CO, CH, Metric tonnes of CO 32,01,561 28,86,646",
+     "document_fy": "FY2024-25",
+     "evidence_ids": [
+      "ev_pdf_page_6f3b340388"
+     ]
+    },
+    "fused": {
+     "value_t": 62157.56258322153,
+     "sigma_t": 2633.0782416634693
+    },
+    "z": -6.537333147262876,
+    "gap_t": -3139497.8177777776,
+    "gap_pct": -98.06147119413866,
+    "verdict": {
+     "code": "significant_gap",
+     "label": "Significant gap",
+     "tone": "red",
+     "text": "Gap exceeds 2 sigma of combined uncertainty; investigate with the evidence below."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 20776155.2,
+   "2024": 26600128.1,
+   "2025": 17920995.2
+  },
+  "flags": [],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:29:42+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    1493327.625,
+    1515396.25,
+    1526307.25,
+    1494088.0,
+    1404654.625,
+    1317862.625
+   ],
+   "q50": [
+    1676788.0,
+    1726319.5,
+    1758141.125,
+    1747833.125,
+    1678217.75,
+    1598077.125
+   ],
+   "q90": [
+    1914335.75,
+    1982132.375,
+    2025254.0,
+    2032416.5,
+    1993289.0,
+    1938990.875
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    1703242.9,
+    1581471.4,
+    1731765.9,
+    1765386.2,
+    1784945.3,
+    1711659.1,
+    1641502.7,
+    1711604.0,
+    1705484.0,
+    1883311.2,
+    1751069.0,
+    1804180.9,
+    2393516.0,
+    2209123.2,
+    2351158.7,
+    2414669.8,
+    2476446.2,
+    2326692.9,
+    2088836.9,
+    1934369.7,
+    1884679.1,
+    2162814.3,
+    2119782.7,
+    2237449.7,
+    1625622.0,
+    1553272.7,
+    1680694.5,
+    1614500.4,
+    1572646.5,
+    1480850.9,
+    1399380.4,
+    1399239.0,
+    1343140.1,
+    1324961.6,
+    1354019.8,
+    1572079.5
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "NLCINDIA",
+  "name": "NLC India Ltd",
+  "short": "NLC India",
+  "sector": "Power generation",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 8,
+   "gem_assets": 63,
+   "gem_locations": 27,
+   "rho": 0.127,
+   "operating_emitting_locations": 9,
+   "operating_emitting_matched": 8,
+   "rho_effective": 0.8889,
+   "unmatched_emitting": [
+    "Neyveli Thermal Power Station I"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_d9664332f0",
+    "ev_api_payload_ca857e6b5c",
+    "ev_api_payload_b843891ae8",
+    "ev_api_payload_c397dc490b",
+    "ev_api_payload_4d1d425fe2"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 30713799.523074724,
+     "sigma_t": 5230969.739677583,
+     "components": {
+      "assets_t": 3655254.858958085,
+      "systematic_t": 1535689.9761537362,
+      "coverage_t": 3412303.127013601
+     },
+     "estimate_id": "est:NLCINDIA:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_116d8b802c",
+      "ev_api_payload_462b254dbc",
+      "ev_api_payload_4d1d425fe2",
+      "ev_api_payload_59aae12a64",
+      "ev_api_payload_72dabaab9a",
+      "ev_api_payload_8a37dc8a6a",
+      "ev_api_payload_a5dd0f099f",
+      "ev_api_payload_ad297b5cba",
+      "ev_api_payload_b843891ae8",
+      "ev_api_payload_bcb929dd1b",
+      "ev_api_payload_c397dc490b",
+      "ev_api_payload_ca857e6b5c",
+      "ev_api_payload_d9664332f0"
+     ]
+    },
+    "flags": [],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 30351118.4,
+   "2024": 31231147.5,
+   "2025": 29830047.5
+  },
+  "flags": [],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    2517559.0,
+    2552826.75,
+    2669068.25,
+    2601602.0,
+    2467671.0,
+    2375960.0
+   ],
+   "q50": [
+    2617230.0,
+    2668165.0,
+    2796006.5,
+    2724092.5,
+    2594884.5,
+    2509138.5
+   ],
+   "q90": [
+    2725255.75,
+    2783897.0,
+    2930888.0,
+    2858255.25,
+    2734872.75,
+    2662061.25
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    2448898.5,
+    2426791.7,
+    2802166.2,
+    2680765.2,
+    2629502.0,
+    2541754.9,
+    2256412.5,
+    2393343.3,
+    2438406.4,
+    2806639.7,
+    2444594.5,
+    2481843.5,
+    2823343.2,
+    2719951.1,
+    3038156.7,
+    2861360.3,
+    2846226.0,
+    2593626.5,
+    2355036.7,
+    2286094.2,
+    2275161.1,
+    2552864.0,
+    2401661.3,
+    2477666.4,
+    2567348.6,
+    2595769.1,
+    2900985.3,
+    2736414.4,
+    2461782.7,
+    2312646.3,
+    2366533.6,
+    2389752.7,
+    2379851.0,
+    2234448.1,
+    2310450.6,
+    2574065.2
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "TORNTPOWER",
+  "name": "Torrent Power Ltd",
+  "short": "Torrent Power",
+  "sector": "Power generation",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 19,
+   "gem_locations": 7,
+   "rho": 0.1579,
+   "operating_emitting_locations": 4,
+   "operating_emitting_matched": 4,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_e54cbb04ea",
+    "ev_api_payload_93ef34b636",
+    "ev_api_payload_82887a7797",
+    "ev_api_payload_e6c89829dc",
+    "ev_api_payload_44ea437699"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 5190139.617012596,
+     "sigma_t": 428389.7248966328,
+     "components": {
+      "assets_t": 340842.90118294023,
+      "systematic_t": 259506.9808506298,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:TORNTPOWER:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_44ea437699",
+      "ev_api_payload_56ed3555ed",
+      "ev_api_payload_690adb9c4d",
+      "ev_api_payload_82887a7797",
+      "ev_api_payload_93ef34b636",
+      "ev_api_payload_9b7a350b46",
+      "ev_api_payload_e54cbb04ea",
+      "ev_api_payload_e6c89829dc"
+     ]
+    },
+    "flags": [],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 4899318.9,
+   "2024": 5556229.0,
+   "2025": 4233526.0
+  },
+  "flags": [],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    300809.9375,
+    298658.75,
+    275214.3125,
+    334119.6875,
+    317188.0625,
+    314573.0625
+   ],
+   "q50": [
+    321471.46875,
+    318266.90625,
+    299210.125,
+    357657.375,
+    342897.625,
+    343214.09375
+   ],
+   "q90": [
+    341949.6875,
+    339331.53125,
+    323513.375,
+    383032.5,
+    372023.4375,
+    371873.21875
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    299768.7,
+    317721.0,
+    337448.1,
+    372922.8,
+    415500.3,
+    467823.4,
+    357869.6,
+    532301.5,
+    530392.1,
+    550941.2,
+    340740.2,
+    375890.1,
+    441232.2,
+    416626.2,
+    464372.0,
+    596847.0,
+    712734.2,
+    629734.4,
+    414888.7,
+    401382.0,
+    420951.1,
+    412324.3,
+    301957.2,
+    343180.0,
+    310754.0,
+    302390.3,
+    342996.7,
+    456364.6,
+    426929.1,
+    394120.3,
+    362228.1,
+    336051.7,
+    373281.3,
+    270233.8,
+    304147.2,
+    354028.9
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "CESC",
+  "name": "CESC Ltd",
+  "short": "CESC",
+  "sector": "Power generation",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 4,
+   "gem_assets": 36,
+   "gem_locations": 13,
+   "rho": 0.1111,
+   "operating_emitting_locations": 4,
+   "operating_emitting_matched": 4,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_4f5c828cae",
+    "ev_api_payload_645bcd2130",
+    "ev_api_payload_aec1043de2",
+    "ev_api_payload_822f58138f",
+    "ev_api_payload_a4c9de3d85"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 6701426.6234007105,
+     "sigma_t": 647963.6473315638,
+     "components": {
+      "assets_t": 554602.6427012077,
+      "systematic_t": 335071.3311700355,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:CESC:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_2f86f33d1c",
+      "ev_api_payload_319230c3bb",
+      "ev_api_payload_3b98417d34",
+      "ev_api_payload_4f5c828cae",
+      "ev_api_payload_5e47425b68",
+      "ev_api_payload_645bcd2130",
+      "ev_api_payload_822f58138f",
+      "ev_api_payload_a4c9de3d85",
+      "ev_api_payload_aec1043de2"
+     ]
+    },
+    "flags": [],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 7062373.5,
+   "2024": 6646267.6,
+   "2025": 6606798.9
+  },
+  "flags": [],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    513654.96875,
+    507950.71875,
+    518137.9375,
+    511888.84375,
+    504641.8125,
+    496495.78125
+   ],
+   "q50": [
+    546617.4375,
+    541889.8125,
+    553965.0625,
+    546469.8125,
+    539962.9375,
+    531811.875
+   ],
+   "q90": [
+    585593.9375,
+    582840.25,
+    596331.9375,
+    587469.875,
+    582223.625,
+    573229.875
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    590019.7,
+    562486.1,
+    626950.0,
+    623072.1,
+    606230.6,
+    583042.1,
+    562544.6,
+    569085.5,
+    585661.5,
+    596701.8,
+    590024.2,
+    566555.3,
+    530007.4,
+    532443.1,
+    580225.0,
+    575107.4,
+    579220.8,
+    566330.6,
+    550718.3,
+    523186.6,
+    521896.0,
+    590314.8,
+    548956.6,
+    547860.9,
+    554266.3,
+    534833.1,
+    608735.2,
+    573849.2,
+    561365.8,
+    532732.5,
+    533744.8,
+    534666.7,
+    522530.1,
+    541145.4,
+    526708.5,
+    582221.3
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "JINDALSTEL",
+  "name": "Jindal Steel Ltd",
+  "short": "Jindal Steel",
+  "sector": "Iron & steel",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 13,
+   "gem_assets": 119,
+   "gem_locations": 39,
+   "rho": 0.1092,
+   "operating_emitting_locations": 13,
+   "operating_emitting_matched": 11,
+   "rho_effective": 0.8462,
+   "unmatched_emitting": [
+    "JSPL Murgabeda Mine",
+    "Jindal Steel & Power Raigarh Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_e354e96078",
+    "ev_api_payload_a2becd2d29",
+    "ev_api_payload_7bdaa598ee",
+    "ev_api_payload_ad57f2fd12",
+    "ev_api_payload_423444cfc9"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 55968233.92297659,
+     "sigma_t": 9861782.972025888,
+     "components": {
+      "assets_t": 3915030.7072030576,
+      "systematic_t": 2798411.6961488295,
+      "coverage_t": 8607914.377353802
+     },
+     "estimate_id": "est:JINDALSTEL:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_19617a60a0",
+      "ev_api_payload_2357bd73bd",
+      "ev_api_payload_2bb1db8916",
+      "ev_api_payload_33d47f930f",
+      "ev_api_payload_423444cfc9",
+      "ev_api_payload_45350a1e19",
+      "ev_api_payload_52a80e7f8a",
+      "ev_api_payload_6eca217277",
+      "ev_api_payload_7bdaa598ee",
+      "ev_api_payload_a2becd2d29",
+      "ev_api_payload_ac99618339",
+      "ev_api_payload_ad57f2fd12",
+      "ev_api_payload_b8f2879b99",
+      "ev_api_payload_c04ae818d3",
+      "ev_api_payload_c5d60b7153",
+      "ev_api_payload_c785742bb0",
+      "ev_api_payload_e354e96078",
+      "ev_api_payload_e3e5bc1fd1"
+     ]
+    },
+    "flags": [
+     "OWNERSHIP_WEIGHT_ASSUMED"
+    ],
+    "reported": {
+     "value_t": 21490000.0,
+     "sigma_t": 1504300.0000000002,
+     "raw": "21.49",
+     "raw_unit": "million tonnes",
+     "page": 21,
+     "quote": "Total Scope 1 emissions (Break-up of the GHG into CO2, million tonnes of CO2 21.49 18.24 Waste intensity per rupee of revenue from operations adjusted for Purchasing 0.00043 0.00038",
+     "boundary": "standalone",
+     "document_fy": "FY2024-25",
+     "assurance": {
+      "assured": true,
+      "level": "limited",
+      "provider": "S U V & Co",
+      "page": 20
+     },
+     "evidence_ids": [
+      "ev_pdf_page_ba2318d835"
+     ]
+    },
+    "fused": {
+     "value_t": 22273995.683732003,
+     "sigma_t": 1487098.6203269404
+    },
+    "z": 3.4561683298488517,
+    "gap_t": 34478233.92297659,
+    "gap_pct": 160.43850127024936,
+    "verdict": {
+     "code": "significant_gap",
+     "label": "Significant gap",
+     "tone": "red",
+     "text": "Gap exceeds 2 sigma of combined uncertainty; investigate with the evidence below."
+    }
+   },
+   "S2": {
+    "independent": {
+     "value_t": 13776649.999999996,
+     "sigma_t": 584493.7582220187,
+     "mwh": 18949999.999999996,
+     "mwh_raw": "68.22 PJ",
+     "mwh_page": 20,
+     "ef": 0.727,
+     "ef_version": "V20_FY2023-24",
+     "estimate_id": "est:JINDALSTEL:S2:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_pdf_page_cc1dd45f8f",
+      "ev_constant_d1e09d4c7a"
+     ]
+    },
+    "flags": [
+     "EF_YEAR_MISMATCH",
+     "MWH_FROM_TOTAL_CONSUMPTION"
+    ],
+    "dependency_note": "Scope 2 rebuild reuses the company-disclosed electricity quantity; only the emission factor is independent.",
+    "reported": {
+     "value_t": 1010000.0,
+     "sigma_t": 70700.0,
+     "raw": "1.01",
+     "raw_unit": "million tonnes",
+     "page": 21,
+     "quote": "Total Scope 2 emissions (Break-up of the GHG into CO2, million tonnes of CO2 1.01 1.48 (Total waste generated / revenue from operations adjusted for PPP)* (Tonne/USD)",
+     "document_fy": "FY2024-25",
+     "evidence_ids": [
+      "ev_pdf_page_3a66f3730c"
+     ]
+    },
+    "fused": {
+     "value_t": 1194097.4717483118,
+     "sigma_t": 70188.39535746255
+    },
+    "z": 21.684178541646958,
+    "gap_t": 12766649.999999996,
+    "gap_pct": 1264.0247524752472,
+    "verdict": {
+     "code": "significant_gap",
+     "label": "Significant gap",
+     "tone": "red",
+     "text": "Gap exceeds 2 sigma of combined uncertainty; investigate with the evidence below."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 53971206.6,
+   "2024": 55772916.9,
+   "2025": 55960984.2
+  },
+  "flags": [
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "2 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43157898",
+    "name": "El Mutun Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:43158355",
+    "name": "Tantra Mine",
+    "reason": "needs_review",
+    "score": 0.472,
+    "candidate_location": "P100000128505"
+   }
+  ],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    4738554.0,
+    4746421.5,
+    4850701.5,
+    4801978.0,
+    4769092.0,
+    4681825.0
+   ],
+   "q50": [
+    4924707.0,
+    4946193.5,
+    5063563.5,
+    5012152.5,
+    4989764.0,
+    4906147.0
+   ],
+   "q90": [
+    5104289.0,
+    5135543.0,
+    5273812.5,
+    5215780.0,
+    5197211.0,
+    5123112.0
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    4479333.1,
+    4165622.1,
+    4591339.0,
+    4500689.6,
+    4565485.3,
+    4419148.2,
+    4316146.1,
+    4485032.5,
+    4465824.7,
+    4777926.5,
+    4502192.8,
+    4702466.9,
+    4917602.6,
+    4579490.5,
+    4933330.1,
+    4867262.5,
+    4977571.9,
+    4759926.5,
+    4452993.7,
+    4227393.0,
+    4155872.9,
+    4599876.7,
+    4507988.0,
+    4793608.5,
+    4891138.0,
+    4659772.5,
+    5074829.6,
+    4849991.6,
+    4798468.6,
+    4604705.1,
+    4537547.0,
+    4524185.4,
+    4380244.2,
+    4331638.7,
+    4381119.8,
+    4927343.8
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "SAIL",
+  "name": "Steel Authority of India Ltd",
+  "short": "SAIL",
+  "sector": "Iron & steel",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 26,
+   "gem_assets": 115,
+   "gem_locations": 40,
+   "rho": 0.2261,
+   "operating_emitting_locations": 22,
+   "operating_emitting_matched": 22,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_c10322b175",
+    "ev_api_payload_608ea691f7",
+    "ev_api_payload_459eac2a58",
+    "ev_api_payload_4832929f00",
+    "ev_api_payload_5a113e87df"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 26427129.868794333,
+     "sigma_t": 2813998.925942373,
+     "components": {
+      "assets_t": 2484473.178049931,
+      "systematic_t": 1321356.4934397168,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:SAIL:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_1185e14d8b",
+      "ev_api_payload_1fd941c836",
+      "ev_api_payload_2884e5f2f4",
+      "ev_api_payload_2c33acceed",
+      "ev_api_payload_4124fa41de",
+      "ev_api_payload_459eac2a58",
+      "ev_api_payload_4832929f00",
+      "ev_api_payload_5a113e87df",
+      "ev_api_payload_5d0c868c0e",
+      "ev_api_payload_608ea691f7",
+      "ev_api_payload_753f2660bb",
+      "ev_api_payload_7d4b3cde13",
+      "ev_api_payload_8920423d59",
+      "ev_api_payload_937b996bdb",
+      "ev_api_payload_96fbe86bf1",
+      "ev_api_payload_9b1f5481a6",
+      "ev_api_payload_a04e550fd9",
+      "ev_api_payload_a189c3dce8",
+      "ev_api_payload_aac2784b07",
+      "ev_api_payload_b3860218c4",
+      "ev_api_payload_b5b092cb94",
+      "ev_api_payload_ba3feaaa96",
+      "ev_api_payload_c10322b175",
+      "ev_api_payload_ce5e3d2335",
+      "ev_api_payload_cf6c8e48da",
+      "ev_api_payload_d0ba1934ce",
+      "ev_api_payload_d1e91d34ac",
+      "ev_api_payload_d2503a4d6d",
+      "ev_api_payload_dff57dc274",
+      "ev_api_payload_eae4afb0cb",
+      "ev_api_payload_fa6ecd37e9"
+     ]
+    },
+    "flags": [],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 28025970.5,
+   "2024": 26171161.9,
+   "2025": 27938176.1
+  },
+  "flags": [
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "6 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43158126",
+    "name": "Ajitaburu Mine",
+    "reason": "needs_review",
+    "score": 0.43,
+    "candidate_location": "P100000128871"
+   },
+   {
+    "asset_id": "ct:43158181",
+    "name": "Dulki Mine",
+    "reason": "needs_review",
+    "score": 0.571,
+    "candidate_location": "P100000128532"
+   },
+   {
+    "asset_id": "ct:43158191",
+    "name": "Gua Mine",
+    "reason": "needs_review",
+    "score": 0.608,
+    "candidate_location": "P100000128471"
+   },
+   {
+    "asset_id": "ct:43158326",
+    "name": "Rowghat Mine",
+    "reason": "needs_review",
+    "score": 0.451,
+    "candidate_location": "P100000128533"
+   },
+   {
+    "asset_id": "ct:43158165",
+    "name": "D Area Mine",
+    "reason": "needs_review",
+    "score": 0.303,
+    "candidate_location": "P100000128461"
+   },
+   {
+    "asset_id": "ct:43158298",
+    "name": "Panposh Mine",
+    "reason": "needs_review",
+    "score": 0.362,
+    "candidate_location": "P100000128461"
+   }
+  ],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    2200754.0,
+    2131323.0,
+    2191973.5,
+    2133577.0,
+    2111440.0,
+    2080504.375
+   ],
+   "q50": [
+    2306480.25,
+    2241023.0,
+    2301257.75,
+    2241819.5,
+    2222892.5,
+    2193943.5
+   ],
+   "q90": [
+    2424019.25,
+    2357243.0,
+    2420731.75,
+    2363827.75,
+    2347491.5,
+    2315700.0
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    2356505.4,
+    2190272.6,
+    2416530.5,
+    2265977.8,
+    2314517.7,
+    2278625.9,
+    2303097.8,
+    2390744.3,
+    2373934.9,
+    2396456.9,
+    2288498.8,
+    2450808.0,
+    2231249.1,
+    2087234.5,
+    2267101.4,
+    2153175.9,
+    2186334.2,
+    2146361.8,
+    2160090.2,
+    2150113.1,
+    2123304.5,
+    2195483.1,
+    2146832.5,
+    2323881.7,
+    2289290.1,
+    2157703.2,
+    2394559.6,
+    2257709.3,
+    2301571.6,
+    2280517.7,
+    2410350.0,
+    2391050.6,
+    2340170.4,
+    2317362.0,
+    2310344.0,
+    2487547.7
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "NSLNISP",
+  "name": "NMDC Steel Ltd",
+  "short": "NMDC Steel",
+  "sector": "Iron & steel",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 1,
+   "gem_assets": 4,
+   "gem_locations": 2,
+   "rho": 0.25,
+   "operating_emitting_locations": 1,
+   "operating_emitting_matched": 1,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_b3c0fa04cf",
+    "ev_api_payload_c3853ea61d",
+    "ev_api_payload_e8a4ad4d9e",
+    "ev_api_payload_7591c23a11",
+    "ev_api_payload_81687bbbe3"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 4248207.086006796,
+     "sigma_t": 875790.3267551715,
+     "components": {
+      "assets_t": 849641.4172013593,
+      "systematic_t": 212410.35430033982,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:NSLNISP:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_7591c23a11",
+      "ev_api_payload_81687bbbe3",
+      "ev_api_payload_9931b5acad",
+      "ev_api_payload_b3c0fa04cf",
+      "ev_api_payload_c3853ea61d",
+      "ev_api_payload_e8a4ad4d9e"
+     ]
+    },
+    "flags": [],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 2034084.6,
+   "2024": 4170666.4,
+   "2025": 4599997.5
+  },
+  "flags": [],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    355425.5,
+    355145.125,
+    357360.53125,
+    347837.3125,
+    341364.84375,
+    326934.4375
+   ],
+   "q50": [
+    398941.0,
+    400183.21875,
+    403484.125,
+    403145.125,
+    404256.3125,
+    404705.3125
+   ],
+   "q90": [
+    419665.1875,
+    422127.0625,
+    427659.625,
+    432061.40625,
+    435006.78125,
+    437754.6875
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    170939.0,
+    158857.6,
+    175137.5,
+    164513.4,
+    168023.4,
+    165429.1,
+    167260.4,
+    173670.0,
+    172449.1,
+    173975.2,
+    166039.5,
+    177790.5,
+    355433.0,
+    332455.0,
+    360959.4,
+    343216.8,
+    348452.4,
+    342053.4,
+    344380.3,
+    342926.0,
+    338563.1,
+    349906.7,
+    342053.4,
+    370267.0,
+    376911.2,
+    355183.1,
+    394293.8,
+    371696.5,
+    378939.2,
+    375462.7,
+    396901.2,
+    393714.4,
+    385312.8,
+    381546.6,
+    380387.8,
+    409648.3
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "HINDALCO",
+  "name": "Hindalco Industries Ltd",
+  "short": "Hindalco",
+  "sector": "Aluminium",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 30,
+   "gem_assets": 34,
+   "gem_locations": 10,
+   "rho": 0.8824,
+   "operating_emitting_locations": 6,
+   "operating_emitting_matched": 6,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_2ad3386cca",
+    "ev_api_payload_c436cf961f",
+    "ev_api_payload_a59edf8ad5",
+    "ev_api_payload_780f30ca74",
+    "ev_api_payload_e57755b114"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 21061638.85927646,
+     "sigma_t": 2207789.413409922,
+     "components": {
+      "assets_t": 1940451.6266499574,
+      "systematic_t": 1053081.942963823,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:HINDALCO:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_0705a75126",
+      "ev_api_payload_0dccfcdf44",
+      "ev_api_payload_155c0270fd",
+      "ev_api_payload_17fdc43ed6",
+      "ev_api_payload_1bc064f9da",
+      "ev_api_payload_1fd2e780e9",
+      "ev_api_payload_299360e86a",
+      "ev_api_payload_2aa399d527",
+      "ev_api_payload_2ad3386cca",
+      "ev_api_payload_2d5f9a4a2a",
+      "ev_api_payload_4faca81867",
+      "ev_api_payload_50740d4ce0",
+      "ev_api_payload_533b63085c",
+      "ev_api_payload_5aefe0308c",
+      "ev_api_payload_68d9e9d73e",
+      "ev_api_payload_780f30ca74",
+      "ev_api_payload_81c2b9f60b",
+      "ev_api_payload_9611c56100",
+      "ev_api_payload_970af636d4",
+      "ev_api_payload_9f84c3441c",
+      "ev_api_payload_a59edf8ad5",
+      "ev_api_payload_aac99bced2",
+      "ev_api_payload_ad4c80019f",
+      "ev_api_payload_b1b3a42f90",
+      "ev_api_payload_b5dc135295",
+      "ev_api_payload_bded62a325",
+      "ev_api_payload_c033c44740",
+      "ev_api_payload_c436cf961f",
+      "ev_api_payload_c9b050acca",
+      "ev_api_payload_d100c738ea",
+      "ev_api_payload_d47825ace1",
+      "ev_api_payload_e1140c0a2f",
+      "ev_api_payload_e57755b114",
+      "ev_api_payload_f49cc91cb4",
+      "ev_api_payload_f5846ce654"
+     ]
+    },
+    "flags": [
+     "OWNERSHIP_WEIGHT_ASSUMED"
+    ],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 20465179.2,
+   "2024": 20857273.4,
+   "2025": 20804567.2
+  },
+  "flags": [
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "20 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43765039",
+    "name": "Muri Alumina Plant",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:54502624",
+    "name": "Belgavi Aluminum Refinary",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3673076",
+    "name": "Lapanga Aluminum Smelter",
+    "reason": "needs_review",
+    "score": 0.61,
+    "candidate_location": "L100000102441"
+   },
+   {
+    "asset_id": "ct:42233107",
+    "name": "Baphlimali Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233201",
+    "name": "Samri Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233132",
+    "name": "Gurdari Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233186",
+    "name": "Pakhar Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233154",
+    "name": "Kujam Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233117",
+    "name": "Chiro-Kukud Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233136",
+    "name": "Hisri Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233150",
+    "name": "Kudag Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233098",
+    "name": "Amtipani Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233138",
+    "name": "Jalim & Sanai Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233140",
+    "name": "Jobhipat Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233105",
+    "name": "Bagru-Bhusar Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233125",
+    "name": "Dhanagarwadi Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233162",
+    "name": "Maliparbat Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233127",
+    "name": "Durgmanwadi Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233109",
+    "name": "Bhogoli-Pilani Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:42233183",
+    "name": "Orsa Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    1690811.625,
+    1700708.125,
+    1739789.875,
+    1743702.5,
+    1729802.25,
+    1704647.5
+   ],
+   "q50": [
+    1776348.375,
+    1792953.25,
+    1835072.125,
+    1834461.5,
+    1823884.875,
+    1793662.875
+   ],
+   "q90": [
+    1860372.25,
+    1881703.625,
+    1928896.75,
+    1925005.125,
+    1917317.0,
+    1888990.625
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    1727066.2,
+    1599630.3,
+    1725923.2,
+    1744415.3,
+    1737087.6,
+    1709784.8,
+    1651078.3,
+    1731230.4,
+    1715513.5,
+    1775761.7,
+    1666933.7,
+    1680754.5,
+    1754567.6,
+    1659931.8,
+    1783939.8,
+    1825869.8,
+    1880007.2,
+    1821865.9,
+    1746833.6,
+    1631623.2,
+    1608990.2,
+    1779515.6,
+    1655724.6,
+    1708404.0,
+    1790719.4,
+    1714989.9,
+    1897095.3,
+    1835258.0,
+    1796593.6,
+    1726130.4,
+    1708742.3,
+    1679391.8,
+    1634798.8,
+    1613484.4,
+    1596921.9,
+    1810441.4
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "VEDL",
+  "name": "Vedanta Ltd",
+  "short": "Vedanta",
+  "sector": "Aluminium & metals",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 4,
+   "gem_assets": 54,
+   "gem_locations": 23,
+   "rho": 0.0741,
+   "operating_emitting_locations": 5,
+   "operating_emitting_matched": 2,
+   "rho_effective": 0.4,
+   "unmatched_emitting": [
+    "Sesa Sterlite Sanquelim Mine",
+    "Vedanta Bicholim Mine",
+    "Vendanta A Narrain Mine"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_3452337c58",
+    "ev_api_payload_54f7edd67d",
+    "ev_api_payload_f20d88519e",
+    "ev_api_payload_3cfa09b1a9",
+    "ev_api_payload_658da722ac"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 12772514.559891837,
+     "sigma_t": 8130587.28608065,
+     "components": {
+      "assets_t": 2639931.940479919,
+      "systematic_t": 638625.7279945919,
+      "coverage_t": 7663508.735935101
+     },
+     "estimate_id": "est:VEDL:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_3452337c58",
+      "ev_api_payload_3cfa09b1a9",
+      "ev_api_payload_40b4cfdc69",
+      "ev_api_payload_508b0902ff",
+      "ev_api_payload_54f7edd67d",
+      "ev_api_payload_57a7c853d0",
+      "ev_api_payload_658da722ac",
+      "ev_api_payload_7a944ea759",
+      "ev_api_payload_f20d88519e"
+     ]
+    },
+    "flags": [
+     "LOW_COVERAGE",
+     "OWNERSHIP_WEIGHT_ASSUMED"
+    ],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 12418694.6,
+   "2024": 12993221.7,
+   "2025": 12037065.9
+  },
+  "flags": [
+   {
+    "code": "LOW_COVERAGE",
+    "text": "Only 2 of 5 operating emitting GEM locations have a Climate TRACE estimate (rho_eff = 0.40).",
+    "missing": [
+     "Sesa Sterlite Sanquelim Mine",
+     "Vedanta Bicholim Mine",
+     "Vendanta A Narrain Mine"
+    ]
+   },
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "2 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43765022",
+    "name": "Lanjigarh Alumina Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3673075",
+    "name": "Jharsuguda Aluminum Smelter 02",
+    "reason": "needs_review",
+    "score": 0.702,
+    "candidate_location": "L100000102472"
+   }
+  ],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    996089.3125,
+    998932.5,
+    1009381.3125,
+    1002009.625,
+    993350.5625,
+    988492.9375
+   ],
+   "q50": [
+    1018094.6875,
+    1027494.5,
+    1043915.125,
+    1037532.625,
+    1031136.875,
+    1024782.4375
+   ],
+   "q90": [
+    1045022.0625,
+    1060625.875,
+    1078922.875,
+    1075305.25,
+    1071459.625,
+    1067951.0
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    1038206.5,
+    1022903.1,
+    1061832.5,
+    1050775.5,
+    1042847.9,
+    1030280.4,
+    1018516.9,
+    1021459.5,
+    1029888.1,
+    1038549.0,
+    1036670.6,
+    1026764.6,
+    1072511.0,
+    1073052.5,
+    1104907.8,
+    1092885.2,
+    1096476.4,
+    1089364.8,
+    1077954.0,
+    1059640.6,
+    1060420.2,
+    1102911.8,
+    1081001.0,
+    1082096.3,
+    1004732.6,
+    996098.4,
+    1028933.2,
+    1013433.3,
+    1007886.9,
+    995165.1,
+    995614.9,
+    996024.5,
+    990632.2,
+    998903.0,
+    992488.7,
+    1017153.0
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "NATIONALUM",
+  "name": "National Aluminium Co Ltd",
+  "short": "NALCO",
+  "sector": "Aluminium",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 5,
+   "gem_assets": 18,
+   "gem_locations": 5,
+   "rho": 0.2778,
+   "operating_emitting_locations": 2,
+   "operating_emitting_matched": 2,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_f6a599456a",
+    "ev_api_payload_bc0cf9f208",
+    "ev_api_payload_38fd321381",
+    "ev_api_payload_8966752e2a",
+    "ev_api_payload_fb4d419a1b"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 11700055.797142478,
+     "sigma_t": 2013513.749411655,
+     "components": {
+      "assets_t": 1926657.5603695542,
+      "systematic_t": 585002.7898571239,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:NATIONALUM:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_12cb78757a",
+      "ev_api_payload_26dbf08732",
+      "ev_api_payload_2a3e46d4d1",
+      "ev_api_payload_38fd321381",
+      "ev_api_payload_5fe009a6ac",
+      "ev_api_payload_8966752e2a",
+      "ev_api_payload_bc0cf9f208",
+      "ev_api_payload_f6a599456a",
+      "ev_api_payload_f9ee4f4554",
+      "ev_api_payload_fb4d419a1b"
+     ]
+    },
+    "flags": [
+     "OWNERSHIP_WEIGHT_ASSUMED"
+    ],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 10909637.1,
+   "2024": 11664736.4,
+   "2025": 11577911.0
+  },
+  "flags": [
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "3 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:43764977",
+    "name": "Damanjodi Alumina Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3673078",
+    "name": "Angul Aluminum Smelter",
+    "reason": "needs_review",
+    "score": 0.658,
+    "candidate_location": "L100000102443"
+   },
+   {
+    "asset_id": "ct:42233189",
+    "name": "Panchpatmalli Mine",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    956613.875,
+    959520.25,
+    992862.4375,
+    983032.75,
+    974256.0625,
+    961134.125
+   ],
+   "q50": [
+    992681.6875,
+    999419.5,
+    1037838.3125,
+    1026428.375,
+    1020269.1875,
+    1006493.6875
+   ],
+   "q90": [
+    1024554.0625,
+    1033930.5625,
+    1078613.25,
+    1066773.125,
+    1061563.375,
+    1048864.5
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    910694.8,
+    881871.0,
+    949355.6,
+    945295.9,
+    927665.3,
+    903390.2,
+    881932.2,
+    888779.6,
+    906132.3,
+    917690.0,
+    910699.5,
+    886130.9,
+    949249.7,
+    950907.6,
+    1011617.5,
+    993685.1,
+    1000038.3,
+    985627.8,
+    964460.8,
+    929535.1,
+    930072.4,
+    1012858.5,
+    967826.1,
+    968857.6,
+    969045.4,
+    946882.0,
+    1031166.8,
+    991379.6,
+    977142.4,
+    944486.3,
+    945640.8,
+    946692.3,
+    932850.6,
+    954081.1,
+    937615.9,
+    1000927.9
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "HINDZINC",
+  "name": "Hindustan Zinc Ltd",
+  "short": "Hindustan Zinc",
+  "sector": "Zinc & metals",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 6,
+   "gem_locations": 3,
+   "rho": 0.5,
+   "operating_emitting_locations": 3,
+   "operating_emitting_matched": 3,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_119d6a5263",
+    "ev_api_payload_a4d1d2d6bb",
+    "ev_api_payload_26e720a365",
+    "ev_api_payload_4a20e61ffe",
+    "ev_api_payload_33fbd5900e"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 3115250.3518299814,
+     "sigma_t": 417323.45467760053,
+     "components": {
+      "assets_t": 387165.21529910876,
+      "systematic_t": 155762.51759149908,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:HINDZINC:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_119d6a5263",
+      "ev_api_payload_26e720a365",
+      "ev_api_payload_33fbd5900e",
+      "ev_api_payload_48ee22347c",
+      "ev_api_payload_4a20e61ffe",
+      "ev_api_payload_4d964d1522",
+      "ev_api_payload_7bcac1f260",
+      "ev_api_payload_a4d1d2d6bb"
+     ]
+    },
+    "flags": [],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 2999310.0,
+   "2024": 3064360.0,
+   "2025": 3056670.0
+  },
+  "flags": [],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    241404.59375,
+    237726.3125,
+    247294.328125,
+    260175.953125,
+    264635.28125,
+    267852.90625
+   ],
+   "q50": [
+    257596.78125,
+    253747.515625,
+    263914.3125,
+    276119.78125,
+    281007.125,
+    284977.59375
+   ],
+   "q90": [
+    274644.625,
+    271804.3125,
+    282074.15625,
+    295054.65625,
+    300935.125,
+    306829.28125
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    267159.3,
+    227854.1,
+    234639.5,
+    245475.6,
+    248393.3,
+    260640.4,
+    250666.8,
+    284264.8,
+    264172.5,
+    260950.7,
+    220452.4,
+    234640.6,
+    257635.3,
+    222340.1,
+    243340.1,
+    267070.4,
+    289183.4,
+    283472.2,
+    282448.2,
+    252954.8,
+    246302.6,
+    261932.7,
+    220355.2,
+    237325.0,
+    258887.3,
+    241092.0,
+    274226.6,
+    275282.8,
+    269169.7,
+    265814.5,
+    272094.3,
+    252772.5,
+    245798.6,
+    222572.0,
+    216214.7,
+    262744.9
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "AMBUJACEM",
+  "name": "Ambuja Cements Ltd",
+  "short": "Ambuja",
+  "sector": "Cement",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 10,
+   "gem_assets": 53,
+   "gem_locations": 51,
+   "rho": 0.1887,
+   "operating_emitting_locations": 22,
+   "operating_emitting_matched": 9,
+   "rho_effective": 0.4091,
+   "unmatched_emitting": [
+    "Ambuja Cement Pune Cement Plant",
+    "Ambuja Cement Tandur Cement Plant",
+    "Ambuja Cement Wadapally Cement Plant",
+    "Ambuja Cements Bhatinda Cement Plant",
+    "Ambuja Cements Dadri Cement Plant",
+    "Ambuja Cements Dhulagori Cement Plant",
+    "Ambuja Cements Farakka Cement Plant",
+    "Ambuja Cements Jajhra Cement Plant",
+    "Ambuja Cements Lodhimajra Cement Plant",
+    "Ambuja Cements Magdalla Cement Plant",
+    "Ambuja Cements Mela Maruthur Cement Plant",
+    "Ambuja Cements Moha Cement Plant",
+    "Ambuja Cements Sikandarpur Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_0c6f533dff",
+    "ev_api_payload_6469cbe8e6",
+    "ev_api_payload_70a593f6e8",
+    "ev_api_payload_a4c8cc36a8",
+    "ev_api_payload_79db2bc307"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 12084242.741364919,
+     "sigma_t": 7235376.398447786,
+     "components": {
+      "assets_t": 998864.5319023065,
+      "systematic_t": 604212.1370682459,
+      "coverage_t": 7140579.03587253
+     },
+     "estimate_id": "est:AMBUJACEM:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_0c6f533dff",
+      "ev_api_payload_2612f48696",
+      "ev_api_payload_403d06bea4",
+      "ev_api_payload_59419c696b",
+      "ev_api_payload_5c0d7e5b23",
+      "ev_api_payload_6469cbe8e6",
+      "ev_api_payload_70a593f6e8",
+      "ev_api_payload_777c81d879",
+      "ev_api_payload_79db2bc307",
+      "ev_api_payload_9a57c3f425",
+      "ev_api_payload_a2cb6a3ba2",
+      "ev_api_payload_a4c8cc36a8",
+      "ev_api_payload_c223c8cae2",
+      "ev_api_payload_f888ed7599",
+      "ev_api_payload_fe23060346"
+     ]
+    },
+    "flags": [
+     "LOW_COVERAGE"
+    ],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 11838021.3,
+   "2024": 12161654.7,
+   "2025": 11778974.0
+  },
+  "flags": [
+   {
+    "code": "LOW_COVERAGE",
+    "text": "Only 9 of 22 operating emitting GEM locations have a Climate TRACE estimate (rho_eff = 0.41).",
+    "missing": [
+     "Ambuja Cement Pune Cement Plant",
+     "Ambuja Cement Tandur Cement Plant",
+     "Ambuja Cement Wadapally Cement Plant",
+     "Ambuja Cements Bhatinda Cement Plant",
+     "Ambuja Cements Dadri Cement Plant",
+     "Ambuja Cements Dhulagori Cement Plant",
+     "Ambuja Cements Farakka Cement Plant",
+     "Ambuja Cements Jajhra Cement Plant",
+     "Ambuja Cements Lodhimajra Cement Plant",
+     "Ambuja Cements Magdalla Cement Plant",
+     "Ambuja Cements Mela Maruthur Cement Plant",
+     "Ambuja Cements Moha Cement Plant",
+     "Ambuja Cements Sikandarpur Cement Plant"
+    ]
+   }
+  ],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    977631.75,
+    983801.875,
+    1028246.875,
+    941543.4375,
+    923977.0,
+    910466.125
+   ],
+   "q50": [
+    1041310.6875,
+    1049980.5,
+    1094641.625,
+    1006627.625,
+    989264.0,
+    978562.6875
+   ],
+   "q90": [
+    1105505.625,
+    1116605.75,
+    1162876.0,
+    1070604.75,
+    1056733.375,
+    1042606.3125
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    1000940.4,
+    971289.6,
+    1066036.5,
+    1037815.2,
+    1034966.8,
+    1045651.7,
+    905651.4,
+    979695.0,
+    907225.7,
+    994854.6,
+    874189.2,
+    1019705.2,
+    1042911.4,
+    1051798.1,
+    1159164.5,
+    1032953.3,
+    1021930.7,
+    1056384.9,
+    932399.8,
+    931643.0,
+    937269.9,
+    994411.4,
+    942863.5,
+    1057924.2,
+    1031990.8,
+    1005257.3,
+    1139214.0,
+    967583.3,
+    978323.4,
+    1008624.6,
+    912078.5,
+    883096.0,
+    879832.0,
+    914342.9,
+    942581.4,
+    1116049.7
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "ACC",
+  "name": "ACC Ltd",
+  "short": "ACC",
+  "sector": "Cement",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 10,
+   "gem_assets": 20,
+   "gem_locations": 20,
+   "rho": 0.5,
+   "operating_emitting_locations": 17,
+   "operating_emitting_matched": 10,
+   "rho_effective": 0.5882,
+   "unmatched_emitting": [
+    "ACC Gauriganj Cement Plant",
+    "ACC Kudithini Cement Plant",
+    "ACC Nalagarh Cement Plant",
+    "ACC Sindri Cement Plant",
+    "ACC Sunuri Cement Plant",
+    "ACC Thondebhavi Cement Plant",
+    "ACC Visakhapatnam Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_bedc11703c",
+    "ev_api_payload_df73ccbe1b",
+    "ev_api_payload_032ca22de5",
+    "ev_api_payload_fd3d774951",
+    "ev_api_payload_5a01312741"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 10707755.65361857,
+     "sigma_t": 4528708.788417642,
+     "components": {
+      "assets_t": 882768.7073727538,
+      "systematic_t": 535387.7826809286,
+      "coverage_t": 4409453.778160128
+     },
+     "estimate_id": "est:ACC:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_032ca22de5",
+      "ev_api_payload_484b4392e5",
+      "ev_api_payload_5a01312741",
+      "ev_api_payload_7df9bef583",
+      "ev_api_payload_8af88498d7",
+      "ev_api_payload_974caab063",
+      "ev_api_payload_9aee82d34e",
+      "ev_api_payload_a999bc4f49",
+      "ev_api_payload_a9b030009c",
+      "ev_api_payload_ae15fed650",
+      "ev_api_payload_bedc11703c",
+      "ev_api_payload_dc3c4376ed",
+      "ev_api_payload_df73ccbe1b",
+      "ev_api_payload_fb5001313d",
+      "ev_api_payload_fd3d774951"
+     ]
+    },
+    "flags": [
+     "LOW_COVERAGE"
+    ],
+    "reported": {
+     "value_t": 13488976.0,
+     "sigma_t": 944228.3200000001,
+     "raw": "13,488,976",
+     "raw_unit": "tonnes",
+     "page": 32,
+     "quote": "Total Scope 1 emissions (Break-up of the GHG tonnes of CO 13,488,976 14,800,767",
+     "boundary": "standalone",
+     "document_fy": "FY2024-25",
+     "assurance": {
+      "assured": true,
+      "level": "limited",
+      "provider": "TUV India Private Limited",
+      "page": 30
+     },
+     "evidence_ids": [
+      "ev_pdf_page_1995de2959"
+     ]
+    },
+    "fused": {
+     "value_t": 13373108.927574921,
+     "sigma_t": 924350.5691847529
+    },
+    "z": -0.6012023838027352,
+    "gap_t": -2781220.3463814296,
+    "gap_pct": -20.618469084543033,
+    "verdict": {
+     "code": "inconclusive_low_coverage",
+     "label": "Inconclusive: low coverage",
+     "tone": "amber",
+     "text": "The independent inventory misses owned assets, so the gap cannot be read as misreporting."
+    }
+   },
+   "S2": {
+    "independent": {
+     "value_t": 630163.6,
+     "sigma_t": 26735.57728901562,
+     "mwh": 866800.0,
+     "mwh_raw": "3,120,480 GJ",
+     "mwh_page": 30,
+     "ef": 0.727,
+     "ef_version": "V20_FY2023-24",
+     "estimate_id": "est:ACC:S2:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_pdf_page_e23da8d832",
+      "ev_constant_d1e09d4c7a"
+     ]
+    },
+    "flags": [
+     "EF_YEAR_MISMATCH",
+     "MWH_FROM_TOTAL_CONSUMPTION"
+    ],
+    "dependency_note": "Scope 2 rebuild reuses the company-disclosed electricity quantity; only the emission factor is independent.",
+    "reported": {
+     "value_t": 625212.0,
+     "sigma_t": 43764.840000000004,
+     "raw": "625,212",
+     "raw_unit": "tonnes",
+     "page": 32,
+     "quote": "Total Scope 2 emissions (Break-up of the GHG tonnes of CO 625,212 589,017",
+     "document_fy": "FY2024-25",
+     "evidence_ids": [
+      "ev_pdf_page_218d891e8f"
+     ]
+    },
+    "fused": {
+     "value_t": 628817.91383642,
+     "sigma_t": 22815.209521430264
+    },
+    "z": 0.09655062836422469,
+    "gap_t": 4951.599999999977,
+    "gap_pct": 0.7919873578882006,
+    "verdict": {
+     "code": "consistent",
+     "label": "Consistent",
+     "tone": "green",
+     "text": "Reported and independent agree within uncertainty."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 11320726.4,
+   "2024": 10639743.5,
+   "2025": 10827271.6
+  },
+  "flags": [
+   {
+    "code": "LOW_COVERAGE",
+    "text": "Only 10 of 17 operating emitting GEM locations have a Climate TRACE estimate (rho_eff = 0.59).",
+    "missing": [
+     "ACC Gauriganj Cement Plant",
+     "ACC Kudithini Cement Plant",
+     "ACC Nalagarh Cement Plant",
+     "ACC Sindri Cement Plant",
+     "ACC Sunuri Cement Plant",
+     "ACC Thondebhavi Cement Plant",
+     "ACC Visakhapatnam Cement Plant"
+    ]
+   }
+  ],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    877581.5625,
+    896895.9375,
+    923742.5,
+    843794.0,
+    824018.375,
+    809461.375
+   ],
+   "q50": [
+    950275.1875,
+    972370.5625,
+    1002001.3125,
+    916561.625,
+    897845.1875,
+    884318.75
+   ],
+   "q90": [
+    1028410.625,
+    1053389.125,
+    1081835.0,
+    994526.4375,
+    977690.125,
+    960965.625
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    959114.3,
+    934939.5,
+    1024848.0,
+    997413.7,
+    992497.2,
+    1008007.1,
+    864044.9,
+    938660.8,
+    862659.6,
+    943631.5,
+    822757.6,
+    972152.4,
+    906435.9,
+    922965.1,
+    1019953.0,
+    897928.1,
+    884461.6,
+    923694.4,
+    814601.2,
+    820629.5,
+    827727.4,
+    871189.6,
+    822331.1,
+    927826.7,
+    944546.9,
+    921876.0,
+    1050943.2,
+    880350.1,
+    893817.9,
+    930181.2,
+    837701.8,
+    808296.9,
+    808521.4,
+    845233.1,
+    871600.9,
+    1034202.1
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "SHREECEM",
+  "name": "Shree Cement Ltd",
+  "short": "Shree Cement",
+  "sector": "Cement",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 7,
+   "gem_assets": 23,
+   "gem_locations": 22,
+   "rho": 0.3043,
+   "operating_emitting_locations": 19,
+   "operating_emitting_matched": 7,
+   "rho_effective": 0.3684,
+   "unmatched_emitting": [
+    "Shree Cement Aurangabad Cement Plant",
+    "Shree Cement Cuttack Cement Plant",
+    "Shree Cement Hansda Cement Plant",
+    "Shree Cement Jaipur Cement Plant",
+    "Shree Cement Khushkhera Cement Plant",
+    "Shree Cement Laksar Cement Plant",
+    "Shree Cement Nigoh Hasanpur Cement Plant",
+    "Shree Cement Panipat Cement Plant",
+    "Shree Cement Patas Cement Plant",
+    "Shree Cement Purulia Cement Plant",
+    "Shree Cement Rajarampur Cement Plant",
+    "Shree Cement Suratgarh Cement Plant"
+   ],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_347d49f186",
+    "ev_api_payload_aa9f71ba4f",
+    "ev_api_payload_bd47746405",
+    "ev_api_payload_6a3ebbb113",
+    "ev_api_payload_605aa6e2d6"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 8775802.984341096,
+     "sigma_t": 5609880.504805847,
+     "components": {
+      "assets_t": 745400.6116299235,
+      "systematic_t": 438790.14921705483,
+      "coverage_t": 5542797.164909836
+     },
+     "estimate_id": "est:SHREECEM:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_11431a624a",
+      "ev_api_payload_1ccaad8531",
+      "ev_api_payload_347d49f186",
+      "ev_api_payload_605aa6e2d6",
+      "ev_api_payload_6a3ebbb113",
+      "ev_api_payload_74b54b83c8",
+      "ev_api_payload_92225a079c",
+      "ev_api_payload_a2fb8d7aa6",
+      "ev_api_payload_a8b8208761",
+      "ev_api_payload_aa9f71ba4f",
+      "ev_api_payload_bd47746405",
+      "ev_api_payload_de02682548"
+     ]
+    },
+    "flags": [
+     "LOW_COVERAGE"
+    ],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 7983429.8,
+   "2024": 8707439.2,
+   "2025": 8839304.2
+  },
+  "flags": [
+   {
+    "code": "LOW_COVERAGE",
+    "text": "Only 7 of 19 operating emitting GEM locations have a Climate TRACE estimate (rho_eff = 0.37).",
+    "missing": [
+     "Shree Cement Aurangabad Cement Plant",
+     "Shree Cement Cuttack Cement Plant",
+     "Shree Cement Hansda Cement Plant",
+     "Shree Cement Jaipur Cement Plant",
+     "Shree Cement Khushkhera Cement Plant",
+     "Shree Cement Laksar Cement Plant",
+     "Shree Cement Nigoh Hasanpur Cement Plant",
+     "Shree Cement Panipat Cement Plant",
+     "Shree Cement Patas Cement Plant",
+     "Shree Cement Purulia Cement Plant",
+     "Shree Cement Rajarampur Cement Plant",
+     "Shree Cement Suratgarh Cement Plant"
+    ]
+   }
+  ],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    751573.125,
+    759518.5625,
+    792865.0,
+    741523.8125,
+    728800.9375,
+    727682.9375
+   ],
+   "q50": [
+    800019.25,
+    809960.5625,
+    847633.0625,
+    793258.8125,
+    781086.1875,
+    778373.3125
+   ],
+   "q90": [
+    845769.6875,
+    858715.375,
+    903484.5625,
+    845405.625,
+    832510.75,
+    829079.5625
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    679554.2,
+    654484.3,
+    713734.7,
+    698802.1,
+    696364.0,
+    709285.9,
+    614630.9,
+    670622.3,
+    617036.4,
+    668122.1,
+    580815.1,
+    679977.8,
+    740382.9,
+    737160.6,
+    813635.1,
+    738390.2,
+    738237.9,
+    763232.4,
+    686662.1,
+    678536.8,
+    680709.1,
+    717579.6,
+    666092.6,
+    746819.8,
+    767633.7,
+    744010.8,
+    847897.9,
+    730717.5,
+    737262.2,
+    760835.2,
+    699872.7,
+    670920.4,
+    667945.0,
+    682839.2,
+    698171.1,
+    831198.5
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "RELIANCE",
+  "name": "Reliance Industries Ltd",
+  "short": "Reliance",
+  "sector": "Oil & gas",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 6,
+   "gem_assets": 13,
+   "gem_locations": 4,
+   "rho": 0.4615,
+   "operating_emitting_locations": 0,
+   "operating_emitting_matched": 0,
+   "rho_effective": 0.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_1640737dad",
+    "ev_api_payload_33a81e1b90",
+    "ev_api_payload_d324dcb544",
+    "ev_api_payload_1944cc699a",
+    "ev_api_payload_f138f86885"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 22637739.331111338,
+     "sigma_t": 24589607.074970275,
+     "components": {
+      "assets_t": 9534168.341970082,
+      "systematic_t": 1131886.966555567,
+      "coverage_t": 22637739.331111338
+     },
+     "estimate_id": "est:RELIANCE:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_1640737dad",
+      "ev_api_payload_1944cc699a",
+      "ev_api_payload_1e2f1e0f42",
+      "ev_api_payload_31b6c89e16",
+      "ev_api_payload_33a81e1b90",
+      "ev_api_payload_4223dd115b",
+      "ev_api_payload_a1e927b530",
+      "ev_api_payload_c141829a63",
+      "ev_api_payload_d324dcb544",
+      "ev_api_payload_ec3c14b10a",
+      "ev_api_payload_f138f86885"
+     ]
+    },
+    "flags": [
+     "LOW_COVERAGE",
+     "OWNERSHIP_WEIGHT_ASSUMED"
+    ],
+    "reported": {
+     "value_t": 36459294.0,
+     "sigma_t": 5468894.1,
+     "raw": "3,64,59,294",
+     "raw_unit": "tonnes",
+     "page": 36,
+     "quote": "(iii) To Seawater Total Scope 1 emissions (Break-up of the GHG in to CO 2 , Metric tonnes of CO 2 equivalent 3,64,59,294 3,69,00,275",
+     "boundary": "standalone",
+     "document_fy": "FY2024-25",
+     "assurance": {},
+     "evidence_ids": [
+      "ev_pdf_page_96e19117bb"
+     ]
+    },
+    "fused": {
+     "value_t": 35807838.30061784,
+     "sigma_t": 5338454.986122911
+    },
+    "z": -0.5486828403310512,
+    "gap_t": -13821554.668888662,
+    "gap_pct": -37.90955104311307,
+    "verdict": {
+     "code": "inconclusive_low_coverage",
+     "label": "Inconclusive: low coverage",
+     "tone": "amber",
+     "text": "The independent inventory misses owned assets, so the gap cannot be read as misreporting."
+    }
+   },
+   "S2": {
+    "independent": {
+     "value_t": 1766707.9430555557,
+     "sigma_t": 74955.0700146432,
+     "mwh": 2430134.7222222225,
+     "mwh_raw": "87,48,485 GJ",
+     "mwh_page": 35,
+     "ef": 0.727,
+     "ef_version": "V20_FY2023-24",
+     "estimate_id": "est:RELIANCE:S2:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_pdf_page_efb15a96f3",
+      "ev_constant_d1e09d4c7a"
+     ]
+    },
+    "flags": [
+     "EF_YEAR_MISMATCH",
+     "MWH_FROM_TOTAL_CONSUMPTION"
+    ],
+    "dependency_note": "Scope 2 rebuild reuses the company-disclosed electricity quantity; only the emission factor is independent.",
+    "reported": {
+     "value_t": 1470097.0,
+     "sigma_t": 220514.55,
+     "raw": "14,70,097",
+     "raw_unit": "tonnes",
+     "page": 36,
+     "quote": "Total Scope 2 emissions (Break-up of the GHG in to CO , Metric tonnes of CO equivalent 14,70,097 7,81,764",
+     "document_fy": "FY2024-25",
+     "evidence_ids": [
+      "ev_pdf_page_a80a396020"
+     ]
+    },
+    "fused": {
+     "value_t": 1735987.3177971814,
+     "sigma_t": 70967.36673013319
+    },
+    "z": 1.273525355365464,
+    "gap_t": 296610.9430555557,
+    "gap_pct": 20.176283813622888,
+    "verdict": {
+     "code": "watch",
+     "label": "Watch",
+     "tone": "amber",
+     "text": "Moderate gap; check boundary, period and ownership assumptions."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 24683585.1,
+   "2024": 23604393.0,
+   "2025": 23911351.9
+  },
+  "flags": [
+   {
+    "code": "LOW_COVERAGE",
+    "text": "Only 0 of 0 operating emitting GEM locations have a Climate TRACE estimate (rho_eff = 0.00).",
+    "missing": []
+   },
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "6 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:3143912",
+    "name": "RPL (Reliance Petroleum Limited) Jamnagar Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731946",
+    "name": "Reliance Industries Ltd. , Jamnagar,Gujarat",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731945",
+    "name": "Reliance Industries Hazira, Hazira, Gujarat ",
+    "reason": "needs_review",
+    "score": 0.747,
+    "candidate_location": "L100000104861"
+   },
+   {
+    "asset_id": "ct:731944",
+    "name": "Reliance Industries Nagothane, Nagothane, Maharashtra",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731943",
+    "name": "Reliance Industries Dahej, Gandhar, Gujarat ",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731942",
+    "name": "Reliance Industries Vadodara, Baroda, Gujarat ",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    1896685.5,
+    1894963.875,
+    1894518.25,
+    1892797.125,
+    1891092.5,
+    1889667.375
+   ],
+   "q50": [
+    1904277.875,
+    1903001.75,
+    1903399.25,
+    1903030.375,
+    1902791.625,
+    1902186.0
+   ],
+   "q90": [
+    1919636.375,
+    1918372.5,
+    1920923.5,
+    1926602.875,
+    1936149.0,
+    1943800.75
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1975778.2,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1880311.9,
+    1904977.4,
+    1904977.4,
+    1904977.4,
+    1904977.4,
+    1904977.4,
+    1904977.4,
+    1904977.4,
+    1904977.4,
+    1904977.4,
+    1904977.4,
+    1904977.4,
+    1904977.4
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "BPCL",
+  "name": "Bharat Petroleum Corporation Ltd",
+  "short": "BPCL",
+  "sector": "Oil & gas",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 7,
+   "gem_locations": 7,
+   "rho": 0.4286,
+   "operating_emitting_locations": 0,
+   "operating_emitting_matched": 0,
+   "rho_effective": 0.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_1c80c7e0a4",
+    "ev_api_payload_aa9aef1ad5",
+    "ev_api_payload_e43b051769",
+    "ev_api_payload_e6d0a5b936",
+    "ev_api_payload_616cd2269b"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 9217021.606702192,
+     "sigma_t": 9617993.49723864,
+     "components": {
+      "assets_t": 2709230.129808774,
+      "systematic_t": 460851.0803351096,
+      "coverage_t": 9217021.606702192
+     },
+     "estimate_id": "est:BPCL:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_138becd5bb",
+      "ev_api_payload_15c393c8c9",
+      "ev_api_payload_616cd2269b",
+      "ev_api_payload_d6a9fa24d4",
+      "ev_api_payload_e43b051769",
+      "ev_api_payload_e6d0a5b936"
+     ]
+    },
+    "flags": [
+     "LOW_COVERAGE",
+     "OWNERSHIP_WEIGHT_ASSUMED"
+    ],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 8625989.7,
+   "2024": 9139136.2,
+   "2025": 9450677.8
+  },
+  "flags": [
+   {
+    "code": "LOW_COVERAGE",
+    "text": "Only 0 of 0 operating emitting GEM locations have a Climate TRACE estimate (rho_eff = 0.00).",
+    "missing": []
+   },
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "3 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:3143923",
+    "name": "BPCL Kochi Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143924",
+    "name": "BPCL Mumbai Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:712440",
+    "name": "BPCL Bina Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    791543.375,
+    792383.125,
+    792409.25,
+    792125.4375,
+    791220.1875,
+    790185.0
+   ],
+   "q50": [
+    798649.5625,
+    800350.0,
+    800962.125,
+    800700.625,
+    801028.5,
+    801612.875
+   ],
+   "q90": [
+    803700.375,
+    806101.0,
+    807672.125,
+    808934.25,
+    809504.125,
+    811338.0
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    718832.5,
+    718832.5,
+    718832.5,
+    718832.5,
+    718832.5,
+    718832.5,
+    718832.5,
+    718832.5,
+    718832.5,
+    718832.5,
+    718832.5,
+    718832.5,
+    761594.7,
+    761594.7,
+    761594.7,
+    761594.7,
+    761594.7,
+    761594.7,
+    761594.7,
+    761594.7,
+    761594.7,
+    761594.7,
+    761594.7,
+    761594.7,
+    787556.5,
+    787556.5,
+    787556.5,
+    787556.5,
+    787556.5,
+    787556.5,
+    787556.5,
+    787556.5,
+    787556.5,
+    787556.5,
+    787556.5,
+    787556.5
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "HINDPETRO",
+  "name": "Hindustan Petroleum Corporation Ltd",
+  "short": "HPCL",
+  "sector": "Oil & gas",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 4,
+   "gem_assets": 10,
+   "gem_locations": 10,
+   "rho": 0.4,
+   "operating_emitting_locations": 1,
+   "operating_emitting_matched": 1,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_df34469249",
+    "ev_api_payload_bf4c68054d",
+    "ev_api_payload_aadb4ab890",
+    "ev_api_payload_0756949336",
+    "ev_api_payload_2be312e1b3"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 5255161.723728237,
+     "sigma_t": 2555460.5697632744,
+     "components": {
+      "assets_t": 2541915.992270101,
+      "systematic_t": 262758.08618641185,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:HINDPETRO:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_0756949336",
+      "ev_api_payload_08614ed9da",
+      "ev_api_payload_2be312e1b3",
+      "ev_api_payload_610d35bff5",
+      "ev_api_payload_aadb4ab890",
+      "ev_api_payload_bf4c68054d",
+      "ev_api_payload_df34469249",
+      "ev_api_payload_e6f5c9517f",
+      "ev_api_payload_eaa8ddbec5"
+     ]
+    },
+    "flags": [
+     "OWNERSHIP_WEIGHT_ASSUMED"
+    ],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 9448856.0,
+   "2024": 10526344.9,
+   "2025": 10302066.3
+  },
+  "flags": [
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "2 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:3143919",
+    "name": "Mangalore Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731947",
+    "name": "HPCL-Mittal Energy, Phullo Khari,Punjab",
+    "reason": "needs_review",
+    "score": 0.444,
+    "candidate_location": "L100000408395"
+   }
+  ],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    408237.21875,
+    406805.34375,
+    405223.375,
+    403216.125,
+    400504.0,
+    397452.3125
+   ],
+   "q50": [
+    424673.0625,
+    425997.90625,
+    426697.59375,
+    427376.9375,
+    426992.84375,
+    428551.1875
+   ],
+   "q90": [
+    438828.5625,
+    444496.15625,
+    448413.0,
+    450868.40625,
+    451644.875,
+    453308.0
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    383005.0,
+    383147.9,
+    384938.8,
+    385056.9,
+    384635.0,
+    384080.4,
+    382415.6,
+    383193.3,
+    383583.7,
+    385652.4,
+    383341.5,
+    383288.0,
+    444673.3,
+    444230.9,
+    445729.6,
+    445568.8,
+    445187.5,
+    443417.3,
+    442084.7,
+    442105.3,
+    441863.1,
+    443240.1,
+    442187.7,
+    442412.7,
+    421472.2,
+    421764.4,
+    423857.8,
+    422640.9,
+    420647.0,
+    419564.4,
+    419932.0,
+    420192.9,
+    420152.4,
+    419189.8,
+    419779.1,
+    421503.7
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "GAIL",
+  "name": "GAIL (India) Ltd",
+  "short": "GAIL",
+  "sector": "Oil & gas",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 36,
+   "gem_locations": 35,
+   "rho": 0.0833,
+   "operating_emitting_locations": 0,
+   "operating_emitting_matched": 0,
+   "rho_effective": 0.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_d6b39ae7b7",
+    "ev_api_payload_540fed6e42",
+    "ev_api_payload_75dcf2d132",
+    "ev_api_payload_8616919ff3",
+    "ev_api_payload_bb9190e577"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 3165159.3488143696,
+     "sigma_t": 3369061.7371029486,
+     "components": {
+      "assets_t": 1143371.1999021426,
+      "systematic_t": 158257.9674407185,
+      "coverage_t": 3165159.3488143696
+     },
+     "estimate_id": "est:GAIL:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_027455cb2d",
+      "ev_api_payload_13f83dbfc0",
+      "ev_api_payload_540fed6e42",
+      "ev_api_payload_6b616c997d",
+      "ev_api_payload_75dcf2d132",
+      "ev_api_payload_8616919ff3",
+      "ev_api_payload_bb9190e577",
+      "ev_api_payload_d6b39ae7b7"
+     ]
+    },
+    "flags": [
+     "LOW_COVERAGE",
+     "OWNERSHIP_WEIGHT_ASSUMED"
+    ],
+    "reported": null,
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "No disclosure ingested",
+     "tone": "slate",
+     "text": "BRSR not yet extracted for this company; independent rebuild only."
+    }
+   },
+   "S2": {
+    "reported": null,
+    "independent": null,
+    "flags": [],
+    "verdict": {
+     "code": "no_disclosure",
+     "label": "Needs BRSR electricity (MWh)",
+     "tone": "slate",
+     "text": "Scope 2 rebuild requires the purchased-electricity quantity from the BRSR."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 3292565.8,
+   "2024": 3503977.0,
+   "2025": 3540923.2
+  },
+  "flags": [
+   {
+    "code": "LOW_COVERAGE",
+    "text": "Only 0 of 0 operating emitting GEM locations have a Climate TRACE estimate (rho_eff = 0.00).",
+    "missing": []
+   },
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "3 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:40691244",
+    "name": "ONGC Petro Additions Limited (OPaL), Dahej, Gujarat",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731939",
+    "name": "GAIL Pata Petrochemicals, Pata, Uttar Pradesh ",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:40691243",
+    "name": "Brahmaputra Cracker and Polymer Limited (BCPL) Assam Gas Cracker Project, Lepetkattaa Bangla Block, Assam",
+    "reason": "needs_review",
+    "score": 0.087,
+    "candidate_location": "L100000407604"
+   }
+  ],
+  "computed_at": "2026-10-11T08:29:43+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    264077.15625,
+    264030.28125,
+    264068.5,
+    263655.65625,
+    263208.09375,
+    262206.125
+   ],
+   "q50": [
+    266055.625,
+    266109.125,
+    266168.5625,
+    266175.3125,
+    266153.15625,
+    266180.96875
+   ],
+   "q90": [
+    266948.53125,
+    266950.90625,
+    267104.5625,
+    267248.875,
+    267384.65625,
+    267449.6875
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    247142.0,
+    247142.0,
+    247142.0,
+    247142.0,
+    247142.0,
+    247142.0,
+    247142.0,
+    247142.0,
+    247142.0,
+    247142.0,
+    247142.0,
+    247142.0,
+    263069.8,
+    263069.8,
+    263069.8,
+    263069.8,
+    263069.8,
+    263069.8,
+    263069.8,
+    263069.8,
+    263069.8,
+    263069.8,
+    263069.8,
+    263069.8,
+    265843.7,
+    265843.7,
+    265843.7,
+    265843.7,
+    265843.7,
+    265843.7,
+    265843.7,
+    265843.7,
+    265843.7,
+    265843.7,
+    265843.7,
+    265843.7
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "JSWENERGY",
+  "name": "JSW Energy Ltd",
+  "short": "JSW Energy",
+  "sector": "Power generation",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 3,
+   "gem_assets": 50,
+   "gem_locations": 18,
+   "rho": 0.06,
+   "operating_emitting_locations": 3,
+   "operating_emitting_matched": 3,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_ff5c99ac4f",
+    "ev_api_payload_eb6e5a0c2e",
+    "ev_api_payload_753e4f9518",
+    "ev_api_payload_ec78aa69f7",
+    "ev_api_payload_894e09fcf6"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 15239869.217699572,
+     "sigma_t": 1239024.5543396017,
+     "components": {
+      "assets_t": 977009.627293908,
+      "systematic_t": 761993.4608849786,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:JSWENERGY:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_127a1c4cf6",
+      "ev_api_payload_211f99c87c",
+      "ev_api_payload_6c7bcddf6e",
+      "ev_api_payload_753e4f9518",
+      "ev_api_payload_894e09fcf6",
+      "ev_api_payload_eb6e5a0c2e",
+      "ev_api_payload_ec78aa69f7",
+      "ev_api_payload_ff5c99ac4f"
+     ]
+    },
+    "flags": [],
+    "reported": {
+     "value_t": 20522777.86,
+     "sigma_t": 615683.3358,
+     "raw": "2,05,22,777.86",
+     "raw_unit": "Ton CO2e",
+     "page": 33,
+     "quote": "Total Scope 1 emissions (Break-up of the GHG into CO, CH, NO, HFCs, 2,05,22,777.86 Ton COe 1,85,24,363.70 Ton COe",
+     "boundary": "standalone",
+     "document_fy": "FY2024-25",
+     "assurance": {
+      "assured": true,
+      "level": "reasonable",
+      "provider": "Bureau Veritas (India) Pvt Ltd",
+      "page": 33
+     },
+     "evidence_ids": [
+      "ev_pdf_page_9b77e61366"
+     ]
+    },
+    "fused": {
+     "value_t": 19476638.028034966,
+     "sigma_t": 551363.778465316
+    },
+    "z": -3.8183349290803688,
+    "gap_t": -5282908.642300427,
+    "gap_pct": -25.741684085550137,
+    "verdict": {
+     "code": "significant_gap",
+     "label": "Significant gap",
+     "tone": "red",
+     "text": "Gap exceeds 2 sigma of combined uncertainty; investigate with the evidence below."
+    }
+   },
+   "S2": {
+    "independent": {
+     "value_t": 23740.463683333335,
+     "sigma_t": 1007.2225715398777,
+     "mwh": 32655.383333333335,
+     "mwh_raw": "1,17,559.38 GJ",
+     "mwh_page": 30,
+     "ef": 0.727,
+     "ef_version": "V20_FY2023-24",
+     "estimate_id": "est:JSWENERGY:S2:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_pdf_page_9eeef81604",
+      "ev_constant_d1e09d4c7a"
+     ]
+    },
+    "flags": [
+     "EF_YEAR_MISMATCH",
+     "MWH_FROM_TOTAL_CONSUMPTION"
+    ],
+    "dependency_note": "Scope 2 rebuild reuses the company-disclosed electricity quantity; only the emission factor is independent.",
+    "reported": {
+     "value_t": 36661.4,
+     "sigma_t": 1099.842,
+     "raw": "36,661.40",
+     "raw_unit": "Ton CO2e",
+     "page": 33,
+     "quote": "Total Scope 2 emissions (Break-up of the GHG into CO, CH, NO, HFCs, 36,661.40 Ton COe 36,577.71 Ton COe",
+     "document_fy": "FY2024-25",
+     "evidence_ids": [
+      "ev_pdf_page_b595a7d352"
+     ]
+    },
+    "fused": {
+     "value_t": 29634.066492610877,
+     "sigma_t": 742.8031540277793
+    },
+    "z": -8.663870960847092,
+    "gap_t": -12920.936316666666,
+    "gap_pct": -35.24397954433455,
+    "verdict": {
+     "code": "significant_gap",
+     "label": "Significant gap",
+     "tone": "red",
+     "text": "Gap exceeds 2 sigma of combined uncertainty; investigate with the evidence below."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 15126000.0,
+   "2024": 14853800.0,
+   "2025": 15552510.0
+  },
+  "flags": [],
+  "hitl_queue": [],
+  "computed_at": "2026-10-11T08:31:57+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    1225462.75,
+    1245435.75,
+    1268858.5,
+    1280880.125,
+    1262756.125,
+    1232763.25
+   ],
+   "q50": [
+    1328851.75,
+    1357809.5,
+    1388721.5,
+    1395492.875,
+    1380637.25,
+    1343669.0
+   ],
+   "q90": [
+    1432801.625,
+    1465975.75,
+    1503847.875,
+    1507595.5,
+    1500161.0,
+    1462164.5
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    1281829.2,
+    1160218.3,
+    1245335.4,
+    1283727.1,
+    1283600.4,
+    1294485.2,
+    1212210.9,
+    1337377.0,
+    1289843.4,
+    1360282.9,
+    1165286.1,
+    1211804.0,
+    1289156.3,
+    1163447.3,
+    1268491.6,
+    1336210.3,
+    1393879.6,
+    1322117.2,
+    1264232.3,
+    1169288.0,
+    1140418.9,
+    1241402.6,
+    1100707.3,
+    1164448.7,
+    1344124.3,
+    1298280.9,
+    1464759.2,
+    1420857.2,
+    1336230.0,
+    1281291.6,
+    1297322.4,
+    1255993.3,
+    1229313.0,
+    1135522.7,
+    1142873.3,
+    1345942.1
+   ],
+   "target_construction": "ownership_weighted_sum_of_T1",
+   "observed_covariate_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ]
+  },
+  "band": null
+ },
+ {
+  "symbol": "IOC",
+  "name": "Indian Oil Corporation Ltd",
+  "short": "Indian Oil",
+  "sector": "Oil & gas",
+  "boundary": "standalone",
+  "fy": "FY2024-25",
+  "coverage": {
+   "ct_linked_assets": 16,
+   "gem_assets": 49,
+   "gem_locations": 45,
+   "rho": 0.3265,
+   "operating_emitting_locations": 3,
+   "operating_emitting_matched": 3,
+   "rho_effective": 1.0,
+   "unmatched_emitting": [],
+   "definition": "rho = CT-linked assets / GEM assets (plan \u00a75.5); rho_effective = operating emitting GEM locations inside the disclosure boundary matched to a CT source / all such locations",
+   "boundary": "standalone",
+   "evidence_ids": [
+    "ev_api_payload_1ede893e96",
+    "ev_api_payload_3dfb3ee473",
+    "ev_api_payload_a6237e7c68",
+    "ev_api_payload_adbd3ceb5f",
+    "ev_api_payload_ea79e2dad0"
+   ]
+  },
+  "alignment_rule": "Calendar-year Climate TRACE totals are distributed over months with an activity profile (POSOCO regional generation for power, India production indices for steel/cement/coal) so each calendar year sums exactly to the CT total; the fiscal-year value is the Apr\u2013Mar sum.",
+  "scopes": {
+   "S1": {
+    "independent": {
+     "value_t": 23557165.424905095,
+     "sigma_t": 4285573.156344862,
+     "components": {
+      "assets_t": 4120532.3892966546,
+      "systematic_t": 1177858.271245255,
+      "coverage_t": 0.0
+     },
+     "estimate_id": "est:IOC:S1:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_api_payload_027455cb2d",
+      "ev_api_payload_13cc1c191a",
+      "ev_api_payload_1ede893e96",
+      "ev_api_payload_33d52ce2da",
+      "ev_api_payload_3dfb3ee473",
+      "ev_api_payload_3e9a7d8691",
+      "ev_api_payload_55d3d1b0ee",
+      "ev_api_payload_582090198e",
+      "ev_api_payload_8ac3b5b36c",
+      "ev_api_payload_9d48aa6276",
+      "ev_api_payload_9ebd7e277c",
+      "ev_api_payload_a6237e7c68",
+      "ev_api_payload_aa71e3ced7",
+      "ev_api_payload_aa95dec1a5",
+      "ev_api_payload_adbd3ceb5f",
+      "ev_api_payload_bcc53f96a8",
+      "ev_api_payload_df34329fe7",
+      "ev_api_payload_ea79e2dad0",
+      "ev_api_payload_ed9532404d",
+      "ev_api_payload_edeeae033f",
+      "ev_api_payload_ef6d60a652"
+     ]
+    },
+    "flags": [
+     "OWNERSHIP_WEIGHT_ASSUMED"
+    ],
+    "reported": {
+     "value_t": 21240000.0,
+     "sigma_t": 1486800.0000000002,
+     "raw": "21.24",
+     "raw_unit": "MtCO2e",
+     "page": 37,
+     "quote": "Total:21.24 Total: 22.00",
+     "boundary": "standalone",
+     "document_fy": "FY2024-25",
+     "assurance": {
+      "assured": true,
+      "level": "limited",
+      "provider": "TUV India Private Limited",
+      "page": 37
+     },
+     "evidence_ids": [
+      "ev_pdf_page_9c4a99617e"
+     ]
+    },
+    "fused": {
+     "value_t": 21488935.122288007,
+     "sigma_t": 1404667.328081456
+    },
+    "z": 0.5108213672877128,
+    "gap_t": 2317165.4249050952,
+    "gap_pct": 10.909441736841314,
+    "verdict": {
+     "code": "consistent",
+     "label": "Consistent",
+     "tone": "green",
+     "text": "Reported and independent agree within uncertainty."
+    }
+   },
+   "S2": {
+    "independent": {
+     "value_t": 1296281.3888888888,
+     "sigma_t": 54996.56162455495,
+     "mwh": 1783055.5555555555,
+     "mwh_raw": "6,419 TJ",
+     "mwh_page": 35,
+     "ef": 0.727,
+     "ef_version": "V20_FY2023-24",
+     "estimate_id": "est:IOC:S2:FY2024-25:independent",
+     "evidence_ids": [
+      "ev_pdf_page_b372b53dc2",
+      "ev_constant_d1e09d4c7a"
+     ]
+    },
+    "flags": [
+     "EF_YEAR_MISMATCH",
+     "MWH_FROM_TOTAL_CONSUMPTION"
+    ],
+    "dependency_note": "Scope 2 rebuild reuses the company-disclosed electricity quantity; only the emission factor is independent.",
+    "reported": {
+     "value_t": 1290000.0,
+     "sigma_t": 90300.00000000001,
+     "raw": "1.29",
+     "raw_unit": "MtCO2e",
+     "page": 37,
+     "quote": "Total Scope 2 emissions (Break-up of the GHG into CO, CH, MtCOe 1.29 0.76",
+     "document_fy": "FY2024-25",
+     "evidence_ids": [
+      "ev_pdf_page_be4836b3b8"
+     ]
+    },
+    "fused": {
+     "value_t": 1294581.8347663654,
+     "sigma_t": 46970.74071995127
+    },
+    "z": 0.05941003418979659,
+    "gap_t": 6281.3888888887595,
+    "gap_pct": 0.4869293712316868,
+    "verdict": {
+     "code": "consistent",
+     "label": "Consistent",
+     "tone": "green",
+     "text": "Reported and independent agree within uncertainty."
+    }
+   }
+  },
+  "ct_owner_sum_cy_t": {
+   "2023": 23592563.1,
+   "2024": 23408256.9,
+   "2025": 23981130.2
+  },
+  "flags": [
+   {
+    "code": "HITL_ENTITY_REVIEW",
+    "text": "11 entity match(es) below the 0.75 threshold await human review."
+   }
+  ],
+  "hitl_queue": [
+   {
+    "asset_id": "ct:3143920",
+    "name": "IOCL Gujarat Koyali Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143918",
+    "name": "CPCL Manali Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143927",
+    "name": "IOCL Haldia Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143921",
+    "name": "IOCL Mathura Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:3143926",
+    "name": "IOCL Barauni Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:731941",
+    "name": "IOCL Panipat Petrochemicals, Haryana, New Delhi ",
+    "reason": "needs_review",
+    "score": 0.59,
+    "candidate_location": "L100000407592"
+   },
+   {
+    "asset_id": "ct:3143930",
+    "name": "IOCL Bongaigaon Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:712447",
+    "name": "IOCL Guwahati Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:40691243",
+    "name": "Brahmaputra Cracker and Polymer Limited (BCPL) Assam Gas Cracker Project, Lepetkattaa Bangla Block, Assam",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:712448",
+    "name": "IOCL Digboi Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   },
+   {
+    "asset_id": "ct:712446",
+    "name": "CPCL Cauvery Basin Refinery",
+    "reason": "unmatched",
+    "score": 0.0,
+    "candidate_location": null
+   }
+  ],
+  "computed_at": "2026-10-11T08:31:57+00:00",
+  "forecast": {
+   "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+   ],
+   "q10": [
+    1982997.5,
+    1984030.0,
+    1984055.625,
+    1980797.0,
+    1977570.25,
+    1973059.625
+   ],
+   "q50": [
+    1999124.875,
+    1999762.625,
+    1999597.75,
+    1999650.75,
+    1999602.5,
+    1999580.375
+   ],
+   "q90": [
+    2002937.625,
+    2003120.0,
+    2003204.5,
+    2003302.75,
+    2003325.25,
+    2003247.0
+   ],
+   "backend": "local-cpu:amazon/chronos-2",
+   "history_months": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+   ],
+   "history_t": [
+    1967773.2,
+    1963832.2,
+    1964512.6,
+    1965599.1,
+    1965891.6,
+    1967119.6,
+    1966119.5,
+    1969488.3,
+    1967473.7,
+    1967150.7,
+    1963090.1,
+    1964512.7,
+    1950932.9,
+    1947130.1,
+    1949392.7,
+    1951949.4,
+    1954331.9,
+    1953716.6,
+    1953606.2,
+    1950428.6,
+    1949711.9,
+    1951395.9,
+    1946916.2,
+    1948744.6,
+    1998876.2,
+    1996958.9,
+    2000529.0,
+    2000642.8,
+    1999984.1,
+    1999622.6,
+    2000299.2,
+    1998217.4,
+    1997466.0,
+    1994963.5,
+    1994278.5,
+    1999291.9
    ],
    "target_construction": "ownership_weighted_sum_of_T1",
    "observed_covariate_months": [

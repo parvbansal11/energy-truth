@@ -7,6 +7,7 @@ import { go, parse, useRoute } from "./lib/router";
 import { AppProvider, useApp } from "./lib/store";
 import { AlertsPage } from "./pages/AlertsPage";
 import { ChronosEval } from "./pages/ChronosEval";
+import { Compare } from "./pages/Compare";
 import { GridDesk } from "./pages/GridDesk";
 import { Landing } from "./pages/Landing";
 import { MapPage } from "./pages/MapPage";
@@ -33,6 +34,7 @@ function Console({ session, onSignOut }: { session: Session; onSignOut: () => vo
     <>
       <ConsoleBar route={route} session={session} onSignOut={onSignOut} onTour={() => { if (route.page !== "map") go("map"); setTour(true); }} />
       {route.page === "map" && <MapPage />}
+      {route.page === "compare" && <Compare />}
       {route.page === "grid" && <GridDesk />}
       {route.page === "whatif" && <WhatIf company={route.company} />}
       {route.page === "alerts" && <AlertsPage />}

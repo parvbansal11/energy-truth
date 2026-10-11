@@ -5,8 +5,9 @@ from pathlib import Path
 
 MAP = {"S3RawBucket": "S3_RAW_BUCKET", "S3CuratedBucket": "S3_CURATED_BUCKET", "S3ReportsBucket": "S3_REPORTS_BUCKET", "ApiBaseUrl": "API_BASE_URL", "WsUrl": "WS_URL",
        "CognitoUserPoolId": "COGNITO_USER_POOL_ID", "CognitoClientId": "COGNITO_CLIENT_ID", "AlertsTopicArn": "ALERTS_TOPIC_ARN", "AmplifyAppId": "AMPLIFY_APP_ID",
-       "FrontendUrl": "FRONTEND_URL", "OpenSearchEndpoint": "OPENSEARCH_ENDPOINT", "OpenSearchCollectionArn": "OPENSEARCH_COLLECTION_ARN"}
-VITE = {"API_BASE_URL": "VITE_API_BASE_URL", "WS_URL": "VITE_WS_URL", "COGNITO_USER_POOL_ID": "VITE_COGNITO_USER_POOL_ID", "COGNITO_CLIENT_ID": "VITE_COGNITO_CLIENT_ID"}
+       "FrontendUrl": "FRONTEND_URL", "Ec2InstanceId": "EC2_INSTANCE_ID", "Ec2PublicIp": "EC2_PUBLIC_IP", "Ec2ApiUrl": "EC2_API_URL", "OpenSearchEndpoint": "OPENSEARCH_ENDPOINT", "OpenSearchCollectionArn": "OPENSEARCH_COLLECTION_ARN"}
+# API/WS URLs reach Amplify via scripts/configure_amplify.py; .env keeps VITE_API_BASE_URL=/api so local dev uses the Vite proxy
+VITE = {"COGNITO_USER_POOL_ID": "VITE_COGNITO_USER_POOL_ID", "COGNITO_CLIENT_ID": "VITE_COGNITO_CLIENT_ID"}
 outs = {k: v for stack in json.loads(Path("work/cdk-outputs.json").read_text()).values() for k, v in stack.items()}
 env = Path(".env")
 text = env.read_text() if env.exists() else Path(".env.example").read_text()

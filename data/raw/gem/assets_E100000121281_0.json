@@ -1,0 +1,631 @@
+{
+  "total": 23,
+  "total_asset_count": 23,
+  "total_location_count": 22,
+  "limit": 200,
+  "offset": 0,
+  "count": 23,
+  "results": [
+    {
+      "asset_id": "L100000102519_G100000100086",
+      "location_id": "L100000102519",
+      "asset_name": "Ajmer power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 26.073889,
+      "longitude": 74.385,
+      "wiki_url": "https://www.gem.wiki/Ajmer_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102519_G100000100086",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ajmer power station"
+    },
+    {
+      "asset_id": "L100000102519_G100000100087",
+      "location_id": "L100000102519",
+      "asset_name": "Ajmer power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 26.073889,
+      "longitude": 74.385,
+      "wiki_url": "https://www.gem.wiki/Ajmer_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102519_G100000100087",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ajmer power station"
+    },
+    {
+      "asset_id": "M3866",
+      "location_id": "M3866",
+      "asset_name": "Datima Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 0.54,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.229486,
+      "longitude": 82.961181,
+      "wiki_url": "https://www.gem.wiki/Datima_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M3866",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Datima Coal Mine"
+    },
+    {
+      "asset_id": "P100000124049",
+      "location_id": "P100000124049",
+      "asset_name": "Shree Cement Aurangabad Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 24.774342,
+      "longitude": 84.354352,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Aurangabad_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124049",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Aurangabad Cement Plant"
+    },
+    {
+      "asset_id": "P100000124043",
+      "location_id": "P100000124043",
+      "asset_name": "Shree Cement Beawar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 26.081874,
+      "longitude": 74.380089,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Beawar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124043",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Beawar Cement Plant"
+    },
+    {
+      "asset_id": "P100000124044",
+      "location_id": "P100000124044",
+      "asset_name": "Shree Cement Benakanahalli Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 17.041739,
+      "longitude": 77.22044,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Benakanahalli_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124044",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Benakanahalli Cement Plant"
+    },
+    {
+      "asset_id": "P100000125214",
+      "location_id": "P100000125214",
+      "asset_name": "Shree Cement Cuttack Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.531066,
+      "longitude": 85.724538,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Cuttack_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000125214",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Cuttack Cement Plant"
+    },
+    {
+      "asset_id": "P100000125215",
+      "location_id": "P100000125215",
+      "asset_name": "Shree Cement Guntur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": 16.519321,
+      "longitude": 79.731654,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Guntur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000125215",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Guntur Cement Plant"
+    },
+    {
+      "asset_id": "P100000124054",
+      "location_id": "P100000124054",
+      "asset_name": "Shree Cement Hansda Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 22.753658,
+      "longitude": 85.85646,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Hansda_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124054",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Hansda Cement Plant"
+    },
+    {
+      "asset_id": "P100000124048",
+      "location_id": "P100000124048",
+      "asset_name": "Shree Cement Jaipur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 26.931614,
+      "longitude": 75.394888,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Jaipur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124048",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Jaipur Cement Plant"
+    },
+    {
+      "asset_id": "P100000124052",
+      "location_id": "P100000124052",
+      "asset_name": "Shree Cement Khushkhera Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 28.121957,
+      "longitude": 76.777883,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Khushkhera_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124052",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Khushkhera Cement Plant"
+    },
+    {
+      "asset_id": "P100000124047",
+      "location_id": "P100000124047",
+      "asset_name": "Shree Cement Laksar Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.8,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttarakhand",
+      "latitude": 29.758381,
+      "longitude": 78.062049,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Laksar_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124047",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Laksar Cement Plant"
+    },
+    {
+      "asset_id": "P100000124544",
+      "location_id": "P100000124544",
+      "asset_name": "Shree Cement Nawalgarh Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 27.792137,
+      "longitude": 75.335504,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Nawalgarh_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124544",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Nawalgarh Cement Plant"
+    },
+    {
+      "asset_id": "P100000126784",
+      "location_id": "P100000126784",
+      "asset_name": "Shree Cement Nigoh Hasanpur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 27.494932,
+      "longitude": 78.814881,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Nigoh_Hasanpur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000126784",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Nigoh Hasanpur Cement Plant"
+    },
+    {
+      "asset_id": "P100000124051",
+      "location_id": "P100000124051",
+      "asset_name": "Shree Cement Panipat Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": 29.396089,
+      "longitude": 76.889313,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Panipat_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124051",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Panipat Cement Plant"
+    },
+    {
+      "asset_id": "P100000125216",
+      "location_id": "P100000125216",
+      "asset_name": "Shree Cement Patas Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 18.473183,
+      "longitude": 74.456715,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Patas_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000125216",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Patas Cement Plant"
+    },
+    {
+      "asset_id": "P100000125217",
+      "location_id": "P100000125217",
+      "asset_name": "Shree Cement Purulia Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.632621,
+      "longitude": 86.795083,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Purulia_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000125217",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Purulia Cement Plant"
+    },
+    {
+      "asset_id": "P100000124046",
+      "location_id": "P100000124046",
+      "asset_name": "Shree Cement Raipur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.602223,
+      "longitude": 82.041492,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Raipur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124046",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Raipur Cement Plant"
+    },
+    {
+      "asset_id": "P100000124050",
+      "location_id": "P100000124050",
+      "asset_name": "Shree Cement Rajarampur Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 28.480534,
+      "longitude": 77.658796,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Rajarampur_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124050",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Rajarampur Cement Plant"
+    },
+    {
+      "asset_id": "P100000124045",
+      "location_id": "P100000124045",
+      "asset_name": "Shree Cement Ras Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.4,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 26.268063,
+      "longitude": 74.188744,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Ras_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124045",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Ras Cement Plant"
+    },
+    {
+      "asset_id": "P100000124053",
+      "location_id": "P100000124053",
+      "asset_name": "Shree Cement Suratgarh Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 29.156732,
+      "longitude": 73.865416,
+      "wiki_url": "https://www.gem.wiki/Shree_Cement_Suratgarh_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000124053",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Shree Cement Suratgarh Cement Plant"
+    },
+    {
+      "asset_id": "L100000102310_G100000110428",
+      "location_id": "L100000102310",
+      "asset_name": "Udupi Cement Plant --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 13.3389,
+      "longitude": 74.7451,
+      "wiki_url": "https://www.gem.wiki/Udupi_Cement_Plant",
+      "unit_name": "--",
+      "url": "/assets/L100000102310_G100000110428",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000121281",
+          "name": "Shree Cement Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Udupi Cement Plant"
+    },
+    {
+      "asset_id": "P100000126947",
+      "location_id": "P100000126947",
+      "asset_name": "Union Cement Company Khor Khwair Cement Plant",
+      "asset_type": "Cement or Concrete Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.8,
+      "capacity_unit": "Mtpa",
+      "country": "United Arab Emirates",
+      "state_province": "Ras Al Khaimah",
+      "latitude": 25.967619,
+      "longitude": 56.064434,
+      "wiki_url": "https://www.gem.wiki/Union_Cement_Company_Khor_Khwair_Cement_Plant",
+      "unit_name": null,
+      "url": "/assets/P100000126947",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100002006068",
+          "name": "Union Cement Company PrJSC",
+          "ownership_share": 100.0,
+          "hq_country": "United Arab Emirates"
+        }
+      ],
+      "project_name": "Union Cement Company Khor Khwair Cement Plant"
+    }
+  ]
+}

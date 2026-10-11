@@ -1,0 +1,367 @@
+{
+  "total": 13,
+  "total_asset_count": 13,
+  "total_location_count": 4,
+  "limit": 200,
+  "offset": 0,
+  "count": 13,
+  "results": [
+    {
+      "asset_id": "L100000104861_G100000113403",
+      "location_id": "L100000104861",
+      "asset_name": "Hazira power station (Reliance) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 90.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.1592,
+      "longitude": 72.687127,
+      "wiki_url": "https://www.gem.wiki/Hazira_power_station_(Reliance)",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000104861_G100000113403",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120667",
+          "name": "Jamnagar Utilities & Power Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hazira power station (Reliance)"
+    },
+    {
+      "asset_id": "L100000104861_G100000113404",
+      "location_id": "L100000104861",
+      "asset_name": "Hazira power station (Reliance) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 90.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.1592,
+      "longitude": 72.687127,
+      "wiki_url": "https://www.gem.wiki/Hazira_power_station_(Reliance)",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000104861_G100000113404",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120667",
+          "name": "Jamnagar Utilities & Power Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hazira power station (Reliance)"
+    },
+    {
+      "asset_id": "L100000104861_G100000113405",
+      "location_id": "L100000104861",
+      "asset_name": "Hazira power station (Reliance) Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 90.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.1592,
+      "longitude": 72.687127,
+      "wiki_url": "https://www.gem.wiki/Hazira_power_station_(Reliance)",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000104861_G100000113405",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120667",
+          "name": "Jamnagar Utilities & Power Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hazira power station (Reliance)"
+    },
+    {
+      "asset_id": "L100000104861_G100000113406",
+      "location_id": "L100000104861",
+      "asset_name": "Hazira power station (Reliance) Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 90.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.1592,
+      "longitude": 72.687127,
+      "wiki_url": "https://www.gem.wiki/Hazira_power_station_(Reliance)",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000104861_G100000113406",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120667",
+          "name": "Jamnagar Utilities & Power Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hazira power station (Reliance)"
+    },
+    {
+      "asset_id": "P3342",
+      "location_id": "P3342",
+      "asset_name": "Kakinada-Haldia Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Kakinada-Haldia_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3342",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000121175",
+          "name": "Reliance Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Kakinada-Haldia Gas Pipeline"
+    },
+    {
+      "asset_id": "L100000102348_G100000115182",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "USCTPP Unit 1",
+      "url": "/assets/L100000102348_G100000115182",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100000115183",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "USCTPP Unit 2",
+      "url": "/assets/L100000102348_G100000115183",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100001005078",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "USCTPP Unit 3",
+      "url": "/assets/L100000102348_G100001005078",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100001005079",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project USCTPP Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "USCTPP Unit 4",
+      "url": "/assets/L100000102348_G100001005079",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100000106572",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102348_G100000106572",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100000106573",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102348_G100000106573",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102348_G100000106574",
+      "location_id": "L100000102348",
+      "asset_name": "Mahan Super Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.008674,
+      "longitude": 82.41703,
+      "wiki_url": "https://www.gem.wiki/Mahan_Super_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102348_G100000106574",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000562",
+          "name": "Mahan Energen Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Super Thermal Power Project"
+    },
+    {
+      "asset_id": "P0953",
+      "location_id": "P0953",
+      "asset_name": "Shahdol-Phulpur Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.28,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Madya Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Shahdol-Phulpur_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0953",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000121175",
+          "name": "Reliance Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Shahdol-Phulpur Gas Pipeline"
+    }
+  ]
+}

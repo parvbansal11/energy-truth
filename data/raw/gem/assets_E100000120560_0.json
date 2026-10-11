@@ -1,0 +1,928 @@
+{
+  "total": 34,
+  "total_asset_count": 34,
+  "total_location_count": 10,
+  "limit": 200,
+  "offset": 0,
+  "count": 34,
+  "results": [
+    {
+      "asset_id": "L100000102441_G100000100041",
+      "location_id": "L100000102441",
+      "asset_name": "Aditya Aluminium power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102441_G100000100041",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Aditya Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102441_G100000100042",
+      "location_id": "L100000102441",
+      "asset_name": "Aditya Aluminium power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102441_G100000100042",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Aditya Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102441_G100000100043",
+      "location_id": "L100000102441",
+      "asset_name": "Aditya Aluminium power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102441_G100000100043",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Aditya Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102441_G100000100044",
+      "location_id": "L100000102441",
+      "asset_name": "Aditya Aluminium power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102441_G100000100044",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Aditya Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102441_G100000100045",
+      "location_id": "L100000102441",
+      "asset_name": "Aditya Aluminium power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102441_G100000100045",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Aditya Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102441_G100000100046",
+      "location_id": "L100000102441",
+      "asset_name": "Aditya Aluminium power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.740068,
+      "longitude": 84.060592,
+      "wiki_url": "https://www.gem.wiki/Aditya_Aluminium_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102441_G100000100046",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Aditya Aluminium power station"
+    },
+    {
+      "asset_id": "M0491",
+      "location_id": "M0491",
+      "asset_name": "Chakla Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 5.3,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.733245,
+      "longitude": 84.816684,
+      "wiki_url": "https://www.gem.wiki/Chakla_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0491",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chakla Coal Mine"
+    },
+    {
+      "asset_id": "M2884",
+      "location_id": "M2884",
+      "asset_name": "Gare Palma IV 4 Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.9,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.15,
+      "longitude": 83.5415,
+      "wiki_url": "https://www.gem.wiki/Gare_Palma_IV_4_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M2884",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gare Palma IV 4 Coal Mine"
+    },
+    {
+      "asset_id": "M4436",
+      "location_id": "M4436",
+      "asset_name": "Gare Palma IV 5 UG Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 0.9,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 22.13331695,
+      "longitude": 83.5188582145629,
+      "wiki_url": "https://www.gem.wiki/Gare_Palma_IV_5_UG_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M4436",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gare Palma IV 5 UG Coal Mine"
+    },
+    {
+      "asset_id": "L100000102466_G100000103889",
+      "location_id": "L100000102466",
+      "asset_name": "Hirakud Smelter power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.529687,
+      "longitude": 83.904569,
+      "wiki_url": "https://www.gem.wiki/Hirakud_Smelter_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102466_G100000103889",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hirakud Smelter power station"
+    },
+    {
+      "asset_id": "L100000102466_G100000103890",
+      "location_id": "L100000102466",
+      "asset_name": "Hirakud Smelter power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.529687,
+      "longitude": 83.904569,
+      "wiki_url": "https://www.gem.wiki/Hirakud_Smelter_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102466_G100000103890",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hirakud Smelter power station"
+    },
+    {
+      "asset_id": "L100000102466_G100000103891",
+      "location_id": "L100000102466",
+      "asset_name": "Hirakud Smelter power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.529687,
+      "longitude": 83.904569,
+      "wiki_url": "https://www.gem.wiki/Hirakud_Smelter_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102466_G100000103891",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hirakud Smelter power station"
+    },
+    {
+      "asset_id": "L100000102466_G100000103892",
+      "location_id": "L100000102466",
+      "asset_name": "Hirakud Smelter power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.529687,
+      "longitude": 83.904569,
+      "wiki_url": "https://www.gem.wiki/Hirakud_Smelter_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102466_G100000103892",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hirakud Smelter power station"
+    },
+    {
+      "asset_id": "M1700",
+      "location_id": "M1700",
+      "asset_name": "Kathautia Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 0.6,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.132523,
+      "longitude": 84.08231,
+      "wiki_url": "https://www.gem.wiki/Kathautia_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M1700",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kathautia Coal Mine"
+    },
+    {
+      "asset_id": "L100000102347_G100000106566",
+      "location_id": "L100000102347",
+      "asset_name": "Mahan Aluminium power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102347_G100000106566",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102347_G100000106567",
+      "location_id": "L100000102347",
+      "asset_name": "Mahan Aluminium power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102347_G100000106567",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102347_G100000106568",
+      "location_id": "L100000102347",
+      "asset_name": "Mahan Aluminium power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102347_G100000106568",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102347_G100000106569",
+      "location_id": "L100000102347",
+      "asset_name": "Mahan Aluminium power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102347_G100000106569",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102347_G100000106570",
+      "location_id": "L100000102347",
+      "asset_name": "Mahan Aluminium power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102347_G100000106570",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Aluminium power station"
+    },
+    {
+      "asset_id": "L100000102347_G100000106571",
+      "location_id": "L100000102347",
+      "asset_name": "Mahan Aluminium power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 24.220902,
+      "longitude": 82.437197,
+      "wiki_url": "https://www.gem.wiki/Mahan_Aluminium_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102347_G100000106571",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mahan Aluminium power station"
+    },
+    {
+      "asset_id": "M4453",
+      "location_id": "M4453",
+      "asset_name": "Meenakshi West Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 12.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 22.0987811,
+      "longitude": 84.3507227,
+      "wiki_url": "https://www.gem.wiki/Meenakshi_West_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M4453",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Meenakshi West Coal Mine"
+    },
+    {
+      "asset_id": "L100000102648_G100000108546",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102648_G100000108546",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102648_G100000108547",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 10",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 75.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 10",
+      "url": "/assets/L100000102648_G100000108547",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102648_G100000108548",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102648_G100000108548",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102648_G100000108549",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 74.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102648_G100000108549",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102648_G100000108550",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 74.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102648_G100000108550",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102648_G100000108551",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 68.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102648_G100000108551",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102648_G100000108552",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 74.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102648_G100000108552",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102648_G100000108553",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 74.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102648_G100000108553",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102648_G100000108554",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 76.7,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102648_G100000108554",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102648_G100000108555",
+      "location_id": "L100000102648",
+      "asset_name": "Renusagar power station Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 75.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 24.181093,
+      "longitude": 82.791279,
+      "wiki_url": "https://www.gem.wiki/Renusagar_power_station",
+      "unit_name": "Unit 9",
+      "url": "/assets/L100000102648_G100000108555",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Renusagar power station"
+    },
+    {
+      "asset_id": "L100000102506_G100000110525",
+      "location_id": "L100000102506",
+      "asset_name": "Utkal Smelter power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 19.19549855,
+      "longitude": 83.02993129,
+      "wiki_url": "https://www.gem.wiki/Utkal_Smelter_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102506_G100000110525",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Utkal Smelter power station"
+    },
+    {
+      "asset_id": "L100000102506_G100000110526",
+      "location_id": "L100000102506",
+      "asset_name": "Utkal Smelter power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 19.19549855,
+      "longitude": 83.02993129,
+      "wiki_url": "https://www.gem.wiki/Utkal_Smelter_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102506_G100000110526",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Utkal Smelter power station"
+    },
+    {
+      "asset_id": "L100000102506_G100000110527",
+      "location_id": "L100000102506",
+      "asset_name": "Utkal Smelter power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 19.19549855,
+      "longitude": 83.02993129,
+      "wiki_url": "https://www.gem.wiki/Utkal_Smelter_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102506_G100000110527",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120560",
+          "name": "Hindalco Industries Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Utkal Smelter power station"
+    }
+  ]
+}

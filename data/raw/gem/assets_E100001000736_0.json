@@ -1,0 +1,982 @@
+{
+  "total": 36,
+  "total_asset_count": 36,
+  "total_location_count": 13,
+  "limit": 200,
+  "offset": 0,
+  "count": 36,
+  "results": [
+    {
+      "asset_id": "L100000102659_G100000100368",
+      "location_id": "L100000102659",
+      "asset_name": "Asansol Crescent power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 40.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.7845702,
+      "longitude": 87.04724461,
+      "wiki_url": "https://www.gem.wiki/Asansol_Crescent_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102659_G100000100368",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Asansol Crescent power station"
+    },
+    {
+      "asset_id": "L100000102662_G100000100457",
+      "location_id": "L100000102662",
+      "asset_name": "Balagarh power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.126218,
+      "longitude": 88.456134,
+      "wiki_url": "https://www.gem.wiki/Balagarh_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102662_G100000100457",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Balagarh power station"
+    },
+    {
+      "asset_id": "L100000102662_G100000100458",
+      "location_id": "L100000102662",
+      "asset_name": "Balagarh power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.126218,
+      "longitude": 88.456134,
+      "wiki_url": "https://www.gem.wiki/Balagarh_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102662_G100000100458",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Balagarh power station"
+    },
+    {
+      "asset_id": "L100000102662_G100000100459",
+      "location_id": "L100000102662",
+      "asset_name": "Balagarh power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 23.126218,
+      "longitude": 88.456134,
+      "wiki_url": "https://www.gem.wiki/Balagarh_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102662_G100000100459",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Balagarh power station"
+    },
+    {
+      "asset_id": "L100000103424_G100000100983",
+      "location_id": "L100000103424",
+      "asset_name": "Boikarabelo power station (CESC) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "South Africa",
+      "state_province": "Gauteng",
+      "latitude": -26.0,
+      "longitude": 27.545833,
+      "wiki_url": "https://www.gem.wiki/Boikarabelo_power_station_(CESC)",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000103424_G100000100983",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Boikarabelo power station (CESC)"
+    },
+    {
+      "asset_id": "L100000103424_G100000100984",
+      "location_id": "L100000103424",
+      "asset_name": "Boikarabelo power station (CESC) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "South Africa",
+      "state_province": "Gauteng",
+      "latitude": -26.0,
+      "longitude": 27.545833,
+      "wiki_url": "https://www.gem.wiki/Boikarabelo_power_station_(CESC)",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000103424_G100000100984",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Boikarabelo power station (CESC)"
+    },
+    {
+      "asset_id": "L100000102665_G100000101088",
+      "location_id": "L100000102665",
+      "asset_name": "Budge Budge Generating Station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.470344,
+      "longitude": 88.139949,
+      "wiki_url": "https://www.gem.wiki/Budge_Budge_Generating_Station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102665_G100000101088",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Budge Budge Generating Station"
+    },
+    {
+      "asset_id": "L100000102665_G100000101089",
+      "location_id": "L100000102665",
+      "asset_name": "Budge Budge Generating Station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.470344,
+      "longitude": 88.139949,
+      "wiki_url": "https://www.gem.wiki/Budge_Budge_Generating_Station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102665_G100000101089",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Budge Budge Generating Station"
+    },
+    {
+      "asset_id": "L100000102665_G100000101090",
+      "location_id": "L100000102665",
+      "asset_name": "Budge Budge Generating Station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.470344,
+      "longitude": 88.139949,
+      "wiki_url": "https://www.gem.wiki/Budge_Budge_Generating_Station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102665_G100000101090",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Budge Budge Generating Station"
+    },
+    {
+      "asset_id": "L100000102667_G100000101708",
+      "location_id": "L100000102667",
+      "asset_name": "Cossipore power station Phase 2 Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.624408,
+      "longitude": 88.368656,
+      "wiki_url": "https://www.gem.wiki/Cossipore_power_station",
+      "unit_name": "Phase 2 Unit 1",
+      "url": "/assets/L100000102667_G100000101708",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Cossipore power station"
+    },
+    {
+      "asset_id": "L100000102667_G100000101709",
+      "location_id": "L100000102667",
+      "asset_name": "Cossipore power station Phase 2 Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.624408,
+      "longitude": 88.368656,
+      "wiki_url": "https://www.gem.wiki/Cossipore_power_station",
+      "unit_name": "Phase 2 Unit 2",
+      "url": "/assets/L100000102667_G100000101709",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Cossipore power station"
+    },
+    {
+      "asset_id": "L100000102667_G100000101710",
+      "location_id": "L100000102667",
+      "asset_name": "Cossipore power station Phase 2 Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.624408,
+      "longitude": 88.368656,
+      "wiki_url": "https://www.gem.wiki/Cossipore_power_station",
+      "unit_name": "Phase 2 Unit 3",
+      "url": "/assets/L100000102667_G100000101710",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Cossipore power station"
+    },
+    {
+      "asset_id": "L100000102667_G100000101711",
+      "location_id": "L100000102667",
+      "asset_name": "Cossipore power station Phase 2 Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.624408,
+      "longitude": 88.368656,
+      "wiki_url": "https://www.gem.wiki/Cossipore_power_station",
+      "unit_name": "Phase 2 Unit 4",
+      "url": "/assets/L100000102667_G100000101711",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Cossipore power station"
+    },
+    {
+      "asset_id": "L100000102394_G100000102340",
+      "location_id": "L100000102394",
+      "asset_name": "Dhariwal power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.010588,
+      "longitude": 79.203433,
+      "wiki_url": "https://www.gem.wiki/Dhariwal_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102394_G100000102340",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120327",
+          "name": "Dhariwal Infrastructure Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dhariwal power station"
+    },
+    {
+      "asset_id": "L100000102394_G100000102341",
+      "location_id": "L100000102394",
+      "asset_name": "Dhariwal power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 20.010588,
+      "longitude": 79.203433,
+      "wiki_url": "https://www.gem.wiki/Dhariwal_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102394_G100000102341",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120327",
+          "name": "Dhariwal Infrastructure Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dhariwal power station"
+    },
+    {
+      "asset_id": "L100000102258_G100000102481",
+      "location_id": "L100000102258",
+      "asset_name": "Dumka power station (CESC) Phase I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.263371,
+      "longitude": 87.246407,
+      "wiki_url": "https://www.gem.wiki/Dumka_power_station_(CESC)",
+      "unit_name": "Phase I Unit 1",
+      "url": "/assets/L100000102258_G100000102481",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dumka power station (CESC)"
+    },
+    {
+      "asset_id": "L100000102258_G100000102482",
+      "location_id": "L100000102258",
+      "asset_name": "Dumka power station (CESC) Phase I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.263371,
+      "longitude": 87.246407,
+      "wiki_url": "https://www.gem.wiki/Dumka_power_station_(CESC)",
+      "unit_name": "Phase I Unit 2",
+      "url": "/assets/L100000102258_G100000102482",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dumka power station (CESC)"
+    },
+    {
+      "asset_id": "L100000102258_G100000102483",
+      "location_id": "L100000102258",
+      "asset_name": "Dumka power station (CESC) Phase II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.263371,
+      "longitude": 87.246407,
+      "wiki_url": "https://www.gem.wiki/Dumka_power_station_(CESC)",
+      "unit_name": "Phase II",
+      "url": "/assets/L100000102258_G100000102483",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dumka power station (CESC)"
+    },
+    {
+      "asset_id": "L100000102674_G100000103561",
+      "location_id": "L100000102674",
+      "asset_name": "Haldia Energy power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.060459,
+      "longitude": 88.109748,
+      "wiki_url": "https://www.gem.wiki/Haldia_Energy_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102674_G100000103561",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120536",
+          "name": "Haldia Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Haldia Energy power station"
+    },
+    {
+      "asset_id": "L100000102674_G100000103562",
+      "location_id": "L100000102674",
+      "asset_name": "Haldia Energy power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.060459,
+      "longitude": 88.109748,
+      "wiki_url": "https://www.gem.wiki/Haldia_Energy_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102674_G100000103562",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120536",
+          "name": "Haldia Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Haldia Energy power station"
+    },
+    {
+      "asset_id": "L100000102674_G100000103560",
+      "location_id": "L100000102674",
+      "asset_name": "Haldia Energy power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.060459,
+      "longitude": 88.109748,
+      "wiki_url": "https://www.gem.wiki/Haldia_Energy_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102674_G100000103560",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120536",
+          "name": "Haldia Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Haldia Energy power station"
+    },
+    {
+      "asset_id": "L100000104752_G100000114779",
+      "location_id": "L100000104752",
+      "asset_name": "Mulajore power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.8347,
+      "longitude": 88.3813,
+      "wiki_url": "https://www.gem.wiki/Mulajore_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000104752_G100000114779",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mulajore power station"
+    },
+    {
+      "asset_id": "L100000104752_G100000114780",
+      "location_id": "L100000104752",
+      "asset_name": "Mulajore power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.8347,
+      "longitude": 88.3813,
+      "wiki_url": "https://www.gem.wiki/Mulajore_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000104752_G100000114780",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mulajore power station"
+    },
+    {
+      "asset_id": "L100000104752_G100000114781",
+      "location_id": "L100000104752",
+      "asset_name": "Mulajore power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.8347,
+      "longitude": 88.3813,
+      "wiki_url": "https://www.gem.wiki/Mulajore_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000104752_G100000114781",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mulajore power station"
+    },
+    {
+      "asset_id": "L100000104752_G100000114782",
+      "location_id": "L100000104752",
+      "asset_name": "Mulajore power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.8347,
+      "longitude": 88.3813,
+      "wiki_url": "https://www.gem.wiki/Mulajore_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000104752_G100000114782",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mulajore power station"
+    },
+    {
+      "asset_id": "L100000104752_G100000114783",
+      "location_id": "L100000104752",
+      "asset_name": "Mulajore power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.8347,
+      "longitude": 88.3813,
+      "wiki_url": "https://www.gem.wiki/Mulajore_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000104752_G100000114783",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Mulajore power station"
+    },
+    {
+      "asset_id": "L100000102485_G100000107364",
+      "location_id": "L100000102485",
+      "asset_name": "Neulapoi power station (Dhenkanal) Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.723611,
+      "longitude": 85.692778,
+      "wiki_url": "https://www.gem.wiki/Neulapoi_power_station_(Dhenkanal)",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102485_G100000107364",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neulapoi power station (Dhenkanal)"
+    },
+    {
+      "asset_id": "L100000102485_G100000107365",
+      "location_id": "L100000102485",
+      "asset_name": "Neulapoi power station (Dhenkanal) Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.723611,
+      "longitude": 85.692778,
+      "wiki_url": "https://www.gem.wiki/Neulapoi_power_station_(Dhenkanal)",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102485_G100000107365",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neulapoi power station (Dhenkanal)"
+    },
+    {
+      "asset_id": "L100000102115_G100000108014",
+      "location_id": "L100000102115",
+      "asset_name": "Pirpainti power station (CESC) Phase I",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.323652,
+      "longitude": 87.428188,
+      "wiki_url": "https://www.gem.wiki/Pirpainti_power_station_(CESC)",
+      "unit_name": "Phase I",
+      "url": "/assets/L100000102115_G100000108014",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120901",
+          "name": "Malegaon Power Supply Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pirpainti power station (CESC)"
+    },
+    {
+      "asset_id": "L100000102115_G100000108015",
+      "location_id": "L100000102115",
+      "asset_name": "Pirpainti power station (CESC) Phase II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Bihar",
+      "latitude": 25.323652,
+      "longitude": 87.428188,
+      "wiki_url": "https://www.gem.wiki/Pirpainti_power_station_(CESC)",
+      "unit_name": "Phase II",
+      "url": "/assets/L100000102115_G100000108015",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000120901",
+          "name": "Malegaon Power Supply Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pirpainti power station (CESC)"
+    },
+    {
+      "asset_id": "L100000102688_G100000109550",
+      "location_id": "L100000102688",
+      "asset_name": "Southern CESC power station Phase B Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.549591,
+      "longitude": 88.291512,
+      "wiki_url": "https://www.gem.wiki/Southern_CESC_power_station",
+      "unit_name": "Phase B Unit 1",
+      "url": "/assets/L100000102688_G100000109550",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Southern CESC power station"
+    },
+    {
+      "asset_id": "L100000102688_G100000109551",
+      "location_id": "L100000102688",
+      "asset_name": "Southern CESC power station Phase B Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 67.5,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.549591,
+      "longitude": 88.291512,
+      "wiki_url": "https://www.gem.wiki/Southern_CESC_power_station",
+      "unit_name": "Phase B Unit 2",
+      "url": "/assets/L100000102688_G100000109551",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Southern CESC power station"
+    },
+    {
+      "asset_id": "L100000102689_G100000110200",
+      "location_id": "L100000102689",
+      "asset_name": "Titagarh power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.731974,
+      "longitude": 88.370309,
+      "wiki_url": "https://www.gem.wiki/Titagarh_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102689_G100000110200",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Titagarh power station"
+    },
+    {
+      "asset_id": "L100000102689_G100000110201",
+      "location_id": "L100000102689",
+      "asset_name": "Titagarh power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.731974,
+      "longitude": 88.370309,
+      "wiki_url": "https://www.gem.wiki/Titagarh_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102689_G100000110201",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Titagarh power station"
+    },
+    {
+      "asset_id": "L100000102689_G100000110202",
+      "location_id": "L100000102689",
+      "asset_name": "Titagarh power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.731974,
+      "longitude": 88.370309,
+      "wiki_url": "https://www.gem.wiki/Titagarh_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102689_G100000110202",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Titagarh power station"
+    },
+    {
+      "asset_id": "L100000102689_G100000110203",
+      "location_id": "L100000102689",
+      "asset_name": "Titagarh power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 60.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.731974,
+      "longitude": 88.370309,
+      "wiki_url": "https://www.gem.wiki/Titagarh_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102689_G100000110203",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001000736",
+          "name": "CESC Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Titagarh power station"
+    }
+  ]
+}

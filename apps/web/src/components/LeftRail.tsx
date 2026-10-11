@@ -1,4 +1,6 @@
-import { ArrowLeft, BarChart3, CircleDashed, CloudFog, Factory, Moon, Mountain, Palette, Satellite, Box, Zap } from "lucide-react";
+import { useMemo, useState } from "react";
+import { ArrowLeft, BarChart3, CircleDashed, CloudFog, Factory, Moon, Mountain, Palette, Plus, Satellite, Search, Box, Zap } from "lucide-react";
+import { AddCompany } from "./AddCompany";
 import { FUEL_LABEL, mt, num, signed } from "../lib/format";
 import { useApp, type Layers } from "../lib/store";
 import { cx, Dot, Switch } from "./ui";
@@ -6,7 +8,18 @@ import { cx, Dot, Switch } from "./ui";
 type Tool = { k: keyof Layers; label: string; icon: typeof Satellite; hint: string; on?: (l: Layers) => boolean; toggle?: (l: Layers) => Layers; disabled?: boolean };
 
 export function LeftRail() {
-  const { companies, selected, select, scorecards, layers, setLayers, meta, plant, assets, openPlant } = useApp();
+  const { companies, selected, select, scorecards, layers, setLayers, meta, plant, assets, openPlant, year, setYear, liveAdd } = useApp();
+  const [q, setQ] = useState("");
+  const [sector, setSector] = useState("All");
+  const [sort, setSort] = useState<"gap" | "size" | "name">("size");
+  const [adding, setAdding] = useState(false);
+  const sectors = useMemo(() => ["All", ...Array.from(new Set(companies.map((c) => SECTOR_GROUP(c.sector))))], [companies]);
+  const shown = useMemo(() => {
+    const t = q.trim().toLowerCase();
+    return companies
+      .filter((c) => (sector === "All" || SECTOR_GROUP(c.sector) === sector) && (!t || `${c.short} ${c.name} ${c.symbol}`.toLowerCase().includes(t)))
+      .sort((a, b) => sort === "name" ? a.short.localeCompare(b.short) : sort === "gap" ? Math.abs(b.z ?? -1) - Math.abs(a.z ?? -1) : b.independent_t - a.independent_t);
+  }, [companies, q, sector, sort]);
   const L = meta?.layers || {};
   const tools: Tool[] = [
     { k: "imagery", label: "Satellite", icon: Satellite, hint: "Esri World Imagery" },
@@ -30,21 +43,35 @@ export function LeftRail() {
           <div className="serif mt-2 text-[20px] leading-tight">{focusAsset.name}</div>
           <div className="mt-1 text-[12.5px] text-muted">{scorecards[focusAsset.company]?.short} · {focusAsset.state || focusAsset.country}</div>
           <div className="mt-3 grid grid-cols-3 gap-2 rounded-xl bg-surface-3/70 p-3">
-            <Mini v={focusAsset.ct ? mt(focusAsset.ct.emissions_t["2024"]) : "n/a"} l="Mt CO₂e" />
+            <Mini v={focusAsset.ct ? mt(focusAsset.ct.emissions_t[year]) : "n/a"} l={`Mt CO₂e ${year}`} />
             <Mini v={focusAsset.ct?.capacity ? num(focusAsset.ct.capacity) : num(focusAsset.gem?.capacity)} l={focusAsset.ct?.capacity_units === "MW" || focusAsset.gem?.capacity_unit === "MW" ? "MW" : "capacity"} />
             <Mini v={`${Math.round(focusAsset.ownership_weight * 100)}%`} l="owned" />
           </div>
         </div>
       ) : (
-        <div className="px-5 pt-4 pb-3">
-          <div className="text-[12.5px] text-muted">Companies · FY2024-25</div>
+        <div className="space-y-2.5 px-4 pt-4 pb-2">
+          <div className="flex items-center justify-between">
+            <span className="text-[12.5px] text-muted">{companies.length} companies · FY2024-25</span>
+            <select value={sort} onChange={(e) => setSort(e.target.value as typeof sort)} aria-label="Sort companies" className="focus-ring rounded-md bg-transparent text-[12px] text-ink-2">
+              <option value="size">Largest</option><option value="gap">Biggest gap</option><option value="name">A–Z</option>
+            </select>
+          </div>
+          <label className="flex items-center gap-2 rounded-xl bg-surface-3/70 px-3 py-2 text-[13px] focus-within:ring-2 focus-within:ring-accent/30">
+            <Search size={13} className="text-faint" />
+            <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search companies" className="min-w-0 flex-1 bg-transparent outline-none placeholder:text-faint" />
+          </label>
+          <div className="no-scrollbar -mx-1 flex gap-1 overflow-x-auto px-1">
+            {sectors.map((s) => (
+              <button key={s} onClick={() => setSector(s)} className={cx("focus-ring shrink-0 rounded-full px-2.5 py-1 text-[11.5px] transition", sector === s ? "bg-ink text-white" : "bg-surface-3/70 text-ink-2 hover:bg-surface-3")}>{s}</button>
+            ))}
+          </div>
         </div>
       )}
 
       <div className="min-h-0 flex-1 overflow-y-auto">
         {!focusAsset && (
           <ul data-tour="companies" className="px-2.5 pb-3">
-            {companies.map((c) => {
+            {shown.map((c) => {
               const active = c.symbol === selected;
               const rep = c.reported_t, ind = c.independent_t;
               const max = Math.max(rep || 0, ind || 0) || 1;
@@ -67,6 +94,14 @@ export function LeftRail() {
                 </li>
               );
             })}
+            {!shown.length && <li className="px-3 py-6 text-center text-[12.5px] text-muted">No company matches “{q}”.</li>}
+            {liveAdd && (
+              <li className="pt-1.5" data-tour="addco">
+                <button onClick={() => setAdding(true)} className="focus-ring flex w-full items-center gap-2.5 rounded-xl border border-dashed border-line-2 px-3 py-2.5 text-left text-[13px] text-ink-2 transition hover:border-accent hover:bg-accent-soft/40 hover:text-accent">
+                  <span className="grid h-7 w-7 place-items-center rounded-full bg-surface-3"><Plus size={14} /></span> Add a company, live
+                </button>
+              </li>
+            )}
             <li className="flex gap-4 px-3 pt-2 text-[11.5px] text-muted">
               <span className="inline-flex items-center gap-1.5"><span className="h-1 w-3 rounded-full bg-[#b9b4a8]" />Reported</span>
               <span className="inline-flex items-center gap-1.5"><span className="h-1 w-3 rounded-full bg-[var(--s1)]" />Rebuilt</span>
@@ -75,7 +110,15 @@ export function LeftRail() {
         )}
 
         <div data-tour="layers" className="border-t border-line px-2.5 py-3">
-          <div className="px-2.5 pb-1.5 text-[12.5px] text-muted">Map layers</div>
+          <div className="flex items-center justify-between px-2.5 pb-2">
+            <span className="text-[12.5px] text-muted">Map layers</span>
+            <div className="flex rounded-full bg-surface-3/80 p-0.5" role="radiogroup" aria-label="Emissions year on the map">
+              {["2023", "2024", "2025"].map((y) => (
+                <button key={y} role="radio" aria-checked={year === y} onClick={() => setYear(y)}
+                  className={cx("focus-ring rounded-full px-2 py-0.5 text-[11px] tnum transition", year === y ? "bg-surface text-ink shadow-[var(--shadow-sm)]" : "text-muted hover:text-ink")}>{y}</button>
+              ))}
+            </div>
+          </div>
           {tools.map((t) => {
             const on = t.on ? t.on(layers) : Boolean(layers[t.k]);
             const Icon = t.icon;
@@ -92,9 +135,12 @@ export function LeftRail() {
           <Legend />
         </div>
       </div>
+      {adding && <AddCompany onClose={() => setAdding(false)} />}
     </aside>
   );
 }
+
+const SECTOR_GROUP = (s: string) => /power/i.test(s) ? "Power" : /steel/i.test(s) ? "Steel" : /cement/i.test(s) ? "Cement" : /alumin|zinc|metal/i.test(s) ? "Metals" : /oil|gas/i.test(s) ? "Oil & gas" : "Other";
 
 function Mini({ v, l }: { v: React.ReactNode; l: string }) {
   return <div><div className="tnum text-[16px] leading-none font-medium">{v}</div><div className="mt-1 text-[11px] text-muted">{l}</div></div>;

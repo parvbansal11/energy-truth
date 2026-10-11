@@ -1,0 +1,907 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100000001941",
+    "full_name": "Torrent Power Ltd",
+    "name": "Torrent Power",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": null,
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.torrentpower.com/index.php/site/indexs",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Gujarāt",
+    "gem_parents": "Torrent Power Ltd [100%]",
+    "gem_parents_ids": "E100000001941 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800DJYYJQGAH3OX89",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L31200GJ2004PLC044068",
+    "permid_refinitiv_permanent_identifier": "4295872569",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100000001941",
+      "full_name": "Torrent Power Ltd",
+      "name": "Torrent Power",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.torrentpower.com/index.php/site/indexs",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Torrent Power Ltd [100%]",
+      "gem_parents_ids": "E100000001941 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800DJYYJQGAH3OX89",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L31200GJ2004PLC044068",
+      "permid_refinitiv_permanent_identifier": "4295872569",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000121459",
+      "full_name": "Torrent Pipavav Generation Ltd",
+      "name": "Torrent Pipavav Generation",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": null,
+      "gem_parents": "Torrent Power Ltd [95.0%]; Gujarat Power Corp Ltd",
+      "gem_parents_ids": "E100000001941 [95.0%]; E100000120523",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800ESEJR8HH15ZR18",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5035967551",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102223_G100000108690",
+      "location_id": "L100000102223",
+      "unit_id": "G100000108690",
+      "asset_type": "Coal Plant",
+      "asset_name": "Sabarmati power station Phase C Unit 15",
+      "unit_name": "Phase C Unit 15",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "source_id": 2,
+      "project_name": "Sabarmati power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102223_G100000108691",
+      "location_id": "L100000102223",
+      "unit_id": "G100000108691",
+      "asset_type": "Coal Plant",
+      "asset_name": "Sabarmati power station Phase C Unit 16",
+      "unit_name": "Phase C Unit 16",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 30.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "source_id": 2,
+      "project_name": "Sabarmati power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102223_G100000108692",
+      "location_id": "L100000102223",
+      "unit_id": "G100000108692",
+      "asset_type": "Coal Plant",
+      "asset_name": "Sabarmati power station Phase D Unit 4",
+      "unit_name": "Phase D Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "source_id": 2,
+      "project_name": "Sabarmati power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102223_G100000108693",
+      "location_id": "L100000102223",
+      "unit_id": "G100000108693",
+      "asset_type": "Coal Plant",
+      "asset_name": "Sabarmati power station Phase E Unit 5",
+      "unit_name": "Phase E Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 121.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "source_id": 2,
+      "project_name": "Sabarmati power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102223_G100000108694",
+      "location_id": "L100000102223",
+      "unit_id": "G100000108694",
+      "asset_type": "Coal Plant",
+      "asset_name": "Sabarmati power station Phase F Unit 6",
+      "unit_name": "Phase F Unit 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.070555,
+      "longitude": 72.593889,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 121.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sabarmati_power_station",
+      "source_id": 2,
+      "project_name": "Sabarmati power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102651_G100000108784",
+      "location_id": "L100000102651",
+      "unit_id": "G100000108784",
+      "asset_type": "Coal Plant",
+      "asset_name": "Sandila power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 27.08,
+      "longitude": 80.52,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sandila_power_station",
+      "source_id": 2,
+      "project_name": "Sandila power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102651_G100000108785",
+      "location_id": "L100000102651",
+      "unit_id": "G100000108785",
+      "asset_type": "Coal Plant",
+      "asset_name": "Sandila power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 27.08,
+      "longitude": 80.52,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sandila_power_station",
+      "source_id": 2,
+      "project_name": "Sandila power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100001046328_G100001052328",
+      "location_id": "L100001046328",
+      "unit_id": "G100001052328",
+      "asset_type": "Coal Plant",
+      "asset_name": "Torrent Power thermal power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 23.1152535,
+      "longitude": 81.6986037,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Torrent_Power_thermal_power_station",
+      "source_id": 2,
+      "project_name": "Torrent Power thermal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100001046328_G100001070438",
+      "location_id": "L100001046328",
+      "unit_id": "G100001070438",
+      "asset_type": "Coal Plant",
+      "asset_name": "Torrent Power thermal power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": 23.1152535,
+      "longitude": 81.6986037,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Torrent_Power_thermal_power_station",
+      "source_id": 2,
+      "project_name": "Torrent Power thermal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000401483_G100000401453",
+      "location_id": "L100000401483",
+      "unit_id": "G100000401453",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "DGEN Mega Combined Cycle power plant 1.0",
+      "unit_name": "1.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.6923,
+      "longitude": 72.6215,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 400.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/DGEN_Mega_Combined_Cycle_power_plant",
+      "source_id": 4,
+      "project_name": "DGEN Mega Combined Cycle power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000401483_G100000401454",
+      "location_id": "L100000401483",
+      "unit_id": "G100000401454",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "DGEN Mega Combined Cycle power plant 2.0",
+      "unit_name": "2.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.6923,
+      "longitude": 72.6215,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 400.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/DGEN_Mega_Combined_Cycle_power_plant",
+      "source_id": 4,
+      "project_name": "DGEN Mega Combined Cycle power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000401483_G100000401455",
+      "location_id": "L100000401483",
+      "unit_id": "G100000401455",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "DGEN Mega Combined Cycle power plant 3.0",
+      "unit_name": "3.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.6923,
+      "longitude": 72.6215,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 400.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/DGEN_Mega_Combined_Cycle_power_plant",
+      "source_id": 4,
+      "project_name": "DGEN Mega Combined Cycle power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000401475_G100000401445",
+      "location_id": "L100000401475",
+      "unit_id": "G100000401445",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "Sugen Combined Cycle power plant 1.0",
+      "unit_name": "1.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.3395,
+      "longitude": 72.9889,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 383.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sugen_Combined_Cycle_power_plant",
+      "source_id": 4,
+      "project_name": "Sugen Combined Cycle power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000401475_G100000401446",
+      "location_id": "L100000401475",
+      "unit_id": "G100000401446",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "Sugen Combined Cycle power plant 2.0",
+      "unit_name": "2.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.3395,
+      "longitude": 72.9889,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 383.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sugen_Combined_Cycle_power_plant",
+      "source_id": 4,
+      "project_name": "Sugen Combined Cycle power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000401475_G100000401447",
+      "location_id": "L100000401475",
+      "unit_id": "G100000401447",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "Sugen Combined Cycle power plant 3.0",
+      "unit_name": "3.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.3395,
+      "longitude": 72.9889,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 383.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Sugen_Combined_Cycle_power_plant",
+      "source_id": 4,
+      "project_name": "Sugen Combined Cycle power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000401478_G100000401448",
+      "location_id": "L100000401478",
+      "unit_id": "G100000401448",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "Unosugen Combined Cycle power plant 1.0",
+      "unit_name": "1.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.3413,
+      "longitude": 72.989,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 383.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Unosugen_Combined_Cycle_power_plant",
+      "source_id": 4,
+      "project_name": "Unosugen Combined Cycle power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102221_G100000108008",
+      "location_id": "L100000102221",
+      "unit_id": "G100000108008",
+      "asset_type": "Coal Plant",
+      "asset_name": "Pipavav power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 21.05,
+      "longitude": 71.43,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 840.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Pipavav_power_station",
+      "source_id": 2,
+      "project_name": "Pipavav power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102221_G100000108009",
+      "location_id": "L100000102221",
+      "unit_id": "G100000108009",
+      "asset_type": "Coal Plant",
+      "asset_name": "Pipavav power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 21.05,
+      "longitude": 71.43,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 840.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Pipavav_power_station",
+      "source_id": 2,
+      "project_name": "Pipavav power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102221_G100000108010",
+      "location_id": "L100000102221",
+      "unit_id": "G100000108010",
+      "asset_type": "Coal Plant",
+      "asset_name": "Pipavav power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 21.05,
+      "longitude": 71.43,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 840.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Pipavav_power_station",
+      "source_id": 2,
+      "project_name": "Pipavav power station",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100000001941",
+      "target": "E100000121459",
+      "value": 95.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000102223_G100000108690",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000102223_G100000108691",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000102223_G100000108692",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000102223_G100000108693",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000102223_G100000108694",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000102651_G100000108784",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000102651_G100000108785",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100001046328_G100001052328",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100001046328_G100001070438",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000401483_G100000401453",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000401483_G100000401454",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000401483_G100000401455",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000401475_G100000401445",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000401475_G100000401446",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000401475_G100000401447",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001941",
+      "target": "L100000401478_G100000401448",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000121459",
+      "target": "L100000102221_G100000108008",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000121459",
+      "target": "L100000102221_G100000108009",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000121459",
+      "target": "L100000102221_G100000108010",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    }
+  ],
+  "paths": {
+    "E100000001941": [
+      {
+        "route": [
+          "E100000001941"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000121459": [
+      {
+        "route": [
+          "E100000001941",
+          "E100000121459"
+        ],
+        "cumulative_pct": 95.0
+      }
+    ],
+    "L100000102221_G100000108008": [
+      {
+        "route": [
+          "E100000001941",
+          "E100000121459",
+          "L100000102221_G100000108008"
+        ],
+        "cumulative_pct": 95.0
+      }
+    ],
+    "L100000102221_G100000108009": [
+      {
+        "route": [
+          "E100000001941",
+          "E100000121459",
+          "L100000102221_G100000108009"
+        ],
+        "cumulative_pct": 95.0
+      }
+    ],
+    "L100000102221_G100000108010": [
+      {
+        "route": [
+          "E100000001941",
+          "E100000121459",
+          "L100000102221_G100000108010"
+        ],
+        "cumulative_pct": 95.0
+      }
+    ],
+    "L100000102223_G100000108690": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000102223_G100000108690"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102223_G100000108691": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000102223_G100000108691"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102223_G100000108692": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000102223_G100000108692"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102223_G100000108693": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000102223_G100000108693"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102223_G100000108694": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000102223_G100000108694"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102651_G100000108784": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000102651_G100000108784"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102651_G100000108785": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000102651_G100000108785"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100001046328_G100001052328": [
+      {
+        "route": [
+          "E100000001941",
+          "L100001046328_G100001052328"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100001046328_G100001070438": [
+      {
+        "route": [
+          "E100000001941",
+          "L100001046328_G100001070438"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000401483_G100000401453": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000401483_G100000401453"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000401483_G100000401454": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000401483_G100000401454"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000401483_G100000401455": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000401483_G100000401455"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000401475_G100000401445": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000401475_G100000401445"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000401475_G100000401446": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000401475_G100000401446"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000401475_G100000401447": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000401475_G100000401447"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000401478_G100000401448": [
+      {
+        "route": [
+          "E100000001941",
+          "L100000401478_G100000401448"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "L100000401483_G100000401455",
+    "L100001046328_G100001052328",
+    "L100000102221_G100000108010",
+    "L100001046328_G100001070438",
+    "L100000401475_G100000401445",
+    "L100000401478_G100000401448",
+    "L100000102223_G100000108692",
+    "L100000401483_G100000401454",
+    "L100000401475_G100000401446",
+    "L100000102221_G100000108008",
+    "L100000102223_G100000108690",
+    "L100000102651_G100000108784",
+    "L100000401483_G100000401453",
+    "L100000102223_G100000108694",
+    "L100000401475_G100000401447",
+    "L100000102223_G100000108691",
+    "L100000102221_G100000108009",
+    "L100000102651_G100000108785",
+    "L100000102223_G100000108693"
+  ],
+  "truncated_node_ids": []
+}

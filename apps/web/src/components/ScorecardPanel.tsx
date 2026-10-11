@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Info } from "lucide-react";
 import { FLAG_SHORT, FLAG_TEXT, mt, pct, qty, signed } from "../lib/format";
 import { useApp } from "../lib/store";
+import { PlantBreakdown } from "./PlantBreakdown";
 import { Ribbon } from "./charts/Ribbon";
 import { ScopeCompare } from "./charts/ScopeCompare";
 import { cx, EvidenceChip, Meter, Section, VerdictTag } from "./ui";
@@ -50,6 +51,12 @@ export function ScorecardPanel() {
         </Section>
       ) : (
         <Section><p className="rounded-xl bg-surface-3/70 p-3 text-[13px] text-muted">{s.verdict.text}</p></Section>
+      )}
+
+      {scope === "S1" && s.independent && (
+        <Section label="Which plants make up the rebuild">
+          <div data-tour="breakdown"><PlantBreakdown /></div>
+        </Section>
       )}
 
       {scope === "S1" && (

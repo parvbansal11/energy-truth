@@ -1,0 +1,1753 @@
+{
+  "total": 63,
+  "total_asset_count": 63,
+  "total_location_count": 27,
+  "limit": 200,
+  "offset": 0,
+  "count": 63,
+  "results": [
+    {
+      "asset_id": "L100000102609_G100000100146",
+      "location_id": "L100000102609",
+      "asset_name": "Amauli Fatehpur power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.013576,
+      "longitude": 80.307383,
+      "wiki_url": "https://www.gem.wiki/Amauli_Fatehpur_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102609_G100000100146",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000121500",
+          "name": "Uttar Pradesh Power Corp Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Amauli Fatehpur power station"
+    },
+    {
+      "asset_id": "L100000102609_G100000100147",
+      "location_id": "L100000102609",
+      "asset_name": "Amauli Fatehpur power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.013576,
+      "longitude": 80.307383,
+      "wiki_url": "https://www.gem.wiki/Amauli_Fatehpur_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102609_G100000100147",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000121500",
+          "name": "Uttar Pradesh Power Corp Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Amauli Fatehpur power station"
+    },
+    {
+      "asset_id": "L100000102609_G100000100148",
+      "location_id": "L100000102609",
+      "asset_name": "Amauli Fatehpur power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 26.013576,
+      "longitude": 80.307383,
+      "wiki_url": "https://www.gem.wiki/Amauli_Fatehpur_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102609_G100000100148",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000121500",
+          "name": "Uttar Pradesh Power Corp Ltd",
+          "ownership_share": 50.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Amauli Fatehpur power station"
+    },
+    {
+      "asset_id": "M1361",
+      "location_id": "M1361",
+      "asset_name": "Barsingsar Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.1,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 27.829491,
+      "longitude": 73.220464,
+      "wiki_url": "https://www.gem.wiki/Barsingsar_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M1361",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barsingsar Coal Mine"
+    },
+    {
+      "asset_id": "L100000102521_G100000100649",
+      "location_id": "L100000102521",
+      "asset_name": "Barsingsar Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 125.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 27.845022,
+      "longitude": 73.199426,
+      "wiki_url": "https://www.gem.wiki/Barsingsar_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102521_G100000100649",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barsingsar Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102521_G100000100650",
+      "location_id": "L100000102521",
+      "asset_name": "Barsingsar Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 125.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 27.845022,
+      "longitude": 73.199426,
+      "wiki_url": "https://www.gem.wiki/Barsingsar_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102521_G100000100650",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barsingsar Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102521_G100000100651",
+      "location_id": "L100000102521",
+      "asset_name": "Barsingsar Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 27.845022,
+      "longitude": 73.199426,
+      "wiki_url": "https://www.gem.wiki/Barsingsar_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102521_G100000100651",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Barsingsar Thermal Power Project"
+    },
+    {
+      "asset_id": "L100001042985_G100001048407",
+      "location_id": "L100001042985",
+      "asset_name": "Bikaner Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 125.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 28.026554,
+      "longitude": 73.318338,
+      "wiki_url": "https://www.gem.wiki/Bikaner_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100001042985_G100001048407",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 26.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 74.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bikaner Thermal Power Project"
+    },
+    {
+      "asset_id": "L100001042985_G100001048408",
+      "location_id": "L100001042985",
+      "asset_name": "Bikaner Thermal Power Project Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 125.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 28.026554,
+      "longitude": 73.318338,
+      "wiki_url": "https://www.gem.wiki/Bikaner_Thermal_Power_Project",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100001042985_G100001048408",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 26.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 74.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bikaner Thermal Power Project"
+    },
+    {
+      "asset_id": "L100001042985_G100001048409",
+      "location_id": "L100001042985",
+      "asset_name": "Bikaner Thermal Power Project Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 125.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 28.026554,
+      "longitude": 73.318338,
+      "wiki_url": "https://www.gem.wiki/Bikaner_Thermal_Power_Project",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100001042985_G100001048409",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 26.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 74.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bikaner Thermal Power Project"
+    },
+    {
+      "asset_id": "M4429",
+      "location_id": "M4429",
+      "asset_name": "Bithnok Lignite Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 2.25,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 27.86327,
+      "longitude": 72.7239147,
+      "wiki_url": "https://www.gem.wiki/Bithnok_lignite_mine",
+      "unit_name": null,
+      "url": "/assets/M4429",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bithnok Lignite Mine"
+    },
+    {
+      "asset_id": "L100000102522_G100000100933",
+      "location_id": "L100000102522",
+      "asset_name": "Bithnok Thermal Power Project Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 27.849853,
+      "longitude": 72.717276,
+      "wiki_url": "https://www.gem.wiki/Bithnok_Thermal_Power_Project",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102522_G100000100933",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Bithnok Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102628_G100000103009",
+      "location_id": "L100000102628",
+      "asset_name": "Ghatampur power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.975,
+      "longitude": 80.1889,
+      "wiki_url": "https://www.gem.wiki/Ghatampur_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102628_G100000103009",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120925",
+          "name": "Neyveli Uttar Pradesh Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ghatampur power station"
+    },
+    {
+      "asset_id": "L100000102628_G100000103010",
+      "location_id": "L100000102628",
+      "asset_name": "Ghatampur power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.975,
+      "longitude": 80.1889,
+      "wiki_url": "https://www.gem.wiki/Ghatampur_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102628_G100000103010",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120925",
+          "name": "Neyveli Uttar Pradesh Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ghatampur power station"
+    },
+    {
+      "asset_id": "L100000102628_G100000103011",
+      "location_id": "L100000102628",
+      "asset_name": "Ghatampur power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": 25.975,
+      "longitude": 80.1889,
+      "wiki_url": "https://www.gem.wiki/Ghatampur_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102628_G100000103011",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120925",
+          "name": "Neyveli Uttar Pradesh Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ghatampur power station"
+    },
+    {
+      "asset_id": "L100000102209_G100000103226",
+      "location_id": "L100000102209",
+      "asset_name": "Gujarat Power Project --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.573757,
+      "longitude": 73.168617,
+      "wiki_url": "https://www.gem.wiki/Gujarat_Power_Project",
+      "unit_name": "--",
+      "url": "/assets/L100000102209_G100000103226",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gujarat Power Project"
+    },
+    {
+      "asset_id": "L100001020387_G100001023228",
+      "location_id": "L100001020387",
+      "asset_name": "Gurha Thermal Power Station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 125.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 27.443704,
+      "longitude": 72.45679,
+      "wiki_url": "https://www.gem.wiki/Gurha_Thermal_Power_Station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100001020387_G100001023228",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000000526",
+          "name": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd",
+          "ownership_share": 26.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 74.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Gurha Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102552_G100000105004",
+      "location_id": "L100000102552",
+      "asset_name": "Jayamkondam power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.2167,
+      "longitude": 79.3667,
+      "wiki_url": "https://www.gem.wiki/Jayamkondam_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102552_G100000105004",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jayamkondam power station"
+    },
+    {
+      "asset_id": "L100000102507_G100000105578",
+      "location_id": "L100000102507",
+      "asset_name": "Karaikal Port power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Puducherry",
+      "latitude": 10.906007,
+      "longitude": 79.848676,
+      "wiki_url": "https://www.gem.wiki/Karaikal_Port_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102507_G100000105578",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Karaikal Port power station"
+    },
+    {
+      "asset_id": "L100000102507_G100000105579",
+      "location_id": "L100000102507",
+      "asset_name": "Karaikal Port power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Puducherry",
+      "latitude": 10.906007,
+      "longitude": 79.848676,
+      "wiki_url": "https://www.gem.wiki/Karaikal_Port_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102507_G100000105579",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Karaikal Port power station"
+    },
+    {
+      "asset_id": "L100000102507_G100000105580",
+      "location_id": "L100000102507",
+      "asset_name": "Karaikal Port power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Puducherry",
+      "latitude": 10.906007,
+      "longitude": 79.848676,
+      "wiki_url": "https://www.gem.wiki/Karaikal_Port_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102507_G100000105580",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Karaikal Port power station"
+    },
+    {
+      "asset_id": "M6651",
+      "location_id": "M6651",
+      "asset_name": "Machhakata Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 30.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.2801505,
+      "longitude": 86.58676892854,
+      "wiki_url": "https://www.gem.wiki/Machhakata_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M6651",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Machhakata Coal Mine"
+    },
+    {
+      "asset_id": "L100000102565_G100000107380",
+      "location_id": "L100000102565",
+      "asset_name": "New Neyveli Thermal Power Station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.547055,
+      "longitude": 79.44289,
+      "wiki_url": "https://www.gem.wiki/New_Neyveli_Thermal_Power_Station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102565_G100000107380",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "New Neyveli Thermal Power Station"
+    },
+    {
+      "asset_id": "L100000102565_G100000107381",
+      "location_id": "L100000102565",
+      "asset_name": "New Neyveli Thermal Power Station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.547055,
+      "longitude": 79.44289,
+      "wiki_url": "https://www.gem.wiki/New_Neyveli_Thermal_Power_Station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102565_G100000107381",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "New Neyveli Thermal Power Station"
+    },
+    {
+      "asset_id": "M7253",
+      "location_id": "M7253",
+      "asset_name": "New Patrapara South Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 12.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.09843897,
+      "longitude": 84.7550443440835,
+      "wiki_url": "https://www.gem.wiki/New_Patrapara_South_Mine",
+      "unit_name": null,
+      "url": "/assets/M7253",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "New Patrapara South Mine"
+    },
+    {
+      "asset_id": "M0587",
+      "location_id": "M0587",
+      "asset_name": "Neyveli I A Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.9,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.57352,
+      "longitude": 79.51781,
+      "wiki_url": "https://www.gem.wiki/Neyveli_I_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0587",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli I A Coal Mine"
+    },
+    {
+      "asset_id": "M0588",
+      "location_id": "M0588",
+      "asset_name": "Neyveli I Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 10.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.571182,
+      "longitude": 79.503738,
+      "wiki_url": "https://www.gem.wiki/Neyveli_I_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0588",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli I Coal Mine"
+    },
+    {
+      "asset_id": "M0589",
+      "location_id": "M0589",
+      "asset_name": "Neyveli II Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 15.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.520268,
+      "longitude": 79.475537,
+      "wiki_url": "https://www.gem.wiki/Neyveli_II_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0589",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli II Coal Mine"
+    },
+    {
+      "asset_id": "M0590",
+      "location_id": "M0590",
+      "asset_name": "Neyveli III Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 6.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.516278,
+      "longitude": 79.429398,
+      "wiki_url": "https://www.gem.wiki/Neyveli_III_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0590",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli III Coal Mine"
+    },
+    {
+      "asset_id": "L100000102566_G100000107386",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5925145,
+      "longitude": 79.4738506,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102566_G100000107386",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107387",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 10",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5464825,
+      "longitude": 79.4445033,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 10",
+      "url": "/assets/L100000102566_G100000107387",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107388",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 11",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5464825,
+      "longitude": 79.4445033,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 11",
+      "url": "/assets/L100000102566_G100000107388",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107389",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5925145,
+      "longitude": 79.4738506,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102566_G100000107389",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107390",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5925145,
+      "longitude": 79.4738506,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102566_G100000107390",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107391",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5925145,
+      "longitude": 79.4738506,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102566_G100000107391",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107392",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5925145,
+      "longitude": 79.4738506,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102566_G100000107392",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107393",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 50.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5925145,
+      "longitude": 79.4738506,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102566_G100000107393",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107394",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5925145,
+      "longitude": 79.4738506,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102566_G100000107394",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107395",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5925145,
+      "longitude": 79.4738506,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102566_G100000107395",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102566_G100000107396",
+      "location_id": "L100000102566",
+      "asset_name": "Neyveli Thermal Power Station I Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "retired",
+      "capacity_value": 100.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5925145,
+      "longitude": 79.4738506,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_I",
+      "unit_name": "Unit 9",
+      "url": "/assets/L100000102566_G100000107396",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station I"
+    },
+    {
+      "asset_id": "L100000102567_G100000107397",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5575892,
+      "longitude": 79.4415697,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102567_G100000107397",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000112787",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 10",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.553404,
+      "longitude": 79.440762,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 10",
+      "url": "/assets/L100000102567_G100000112787",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000112788",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 11",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.553404,
+      "longitude": 79.440762,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 11",
+      "url": "/assets/L100000102567_G100000112788",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000107398",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5575892,
+      "longitude": 79.4415697,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102567_G100000107398",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000107399",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5575892,
+      "longitude": 79.4415697,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102567_G100000107399",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000107400",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5575892,
+      "longitude": 79.4415697,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102567_G100000107400",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000107401",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5575892,
+      "longitude": 79.4415697,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102567_G100000107401",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000107402",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5575892,
+      "longitude": 79.4415697,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102567_G100000107402",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000107403",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 210.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.5575892,
+      "longitude": 79.4415697,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102567_G100000107403",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000107404",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.553404,
+      "longitude": 79.440762,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102567_G100000107404",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "L100000102567_G100000107405",
+      "location_id": "L100000102567",
+      "asset_name": "Neyveli Thermal Power Station II Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.553404,
+      "longitude": 79.440762,
+      "wiki_url": "https://www.gem.wiki/Neyveli_Thermal_Power_Station_II",
+      "unit_name": "Unit 9",
+      "url": "/assets/L100000102567_G100000107405",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Neyveli Thermal Power Station II"
+    },
+    {
+      "asset_id": "M7255",
+      "location_id": "M7255",
+      "asset_name": "North Dhadu (West) Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 3.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.7341172,
+      "longitude": 84.7625363,
+      "wiki_url": "https://www.gem.wiki/North_Dhadu_(West)_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M7255",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "North Dhadu (West) Coal Mine"
+    },
+    {
+      "asset_id": "M0599",
+      "location_id": "M0599",
+      "asset_name": "Pachhwara (South) Coal Mine",
+      "asset_type": "Coal Mine",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 5.5,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 24.500218,
+      "longitude": 87.483347,
+      "wiki_url": "https://www.gem.wiki/Pachwara_(South)_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M0599",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120925",
+          "name": "Neyveli Uttar Pradesh Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pachhwara (South) Coal Mine"
+    },
+    {
+      "asset_id": "L100000102493_G100000108532",
+      "location_id": "L100000102493",
+      "asset_name": "Rengali power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 2000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.627661,
+      "longitude": 84.047073,
+      "wiki_url": "https://www.gem.wiki/Rengali_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102493_G100000108532",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Rengali power station"
+    },
+    {
+      "asset_id": "L100000102575_G100000109461",
+      "location_id": "L100000102575",
+      "asset_name": "Sirkali power station Phase I",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 2000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.23,
+      "longitude": 79.73,
+      "wiki_url": "https://www.gem.wiki/Sirkali_power_station",
+      "unit_name": "Phase I",
+      "url": "/assets/L100000102575_G100000109461",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sirkali power station"
+    },
+    {
+      "asset_id": "L100000102575_G100000109462",
+      "location_id": "L100000102575",
+      "asset_name": "Sirkali power station Phase II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 2000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 11.23,
+      "longitude": 79.73,
+      "wiki_url": "https://www.gem.wiki/Sirkali_power_station",
+      "unit_name": "Phase II",
+      "url": "/assets/L100000102575_G100000109462",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Sirkali power station"
+    },
+    {
+      "asset_id": "M1745",
+      "location_id": "M1745",
+      "asset_name": "Talabira II & III Coal Mines",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 20.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.734804,
+      "longitude": 83.989432,
+      "wiki_url": "https://www.gem.wiki/Talabira_coal_mines",
+      "unit_name": null,
+      "url": "/assets/M1745",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Talabira II & III Coal Mines"
+    },
+    {
+      "asset_id": "L100000102501_G100000109874",
+      "location_id": "L100000102501",
+      "asset_name": "Talabira power station Stage I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.778342,
+      "longitude": 83.989506,
+      "wiki_url": "https://www.gem.wiki/Talabira_power_station",
+      "unit_name": "Stage I Unit 1",
+      "url": "/assets/L100000102501_G100000109874",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Talabira power station"
+    },
+    {
+      "asset_id": "L100000102501_G100000113419",
+      "location_id": "L100000102501",
+      "asset_name": "Talabira power station Stage I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.778342,
+      "longitude": 83.989506,
+      "wiki_url": "https://www.gem.wiki/Talabira_power_station",
+      "unit_name": "Stage I Unit 2",
+      "url": "/assets/L100000102501_G100000113419",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Talabira power station"
+    },
+    {
+      "asset_id": "L100000102501_G100000113420",
+      "location_id": "L100000102501",
+      "asset_name": "Talabira power station Stage I Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "permitted",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.778342,
+      "longitude": 83.989506,
+      "wiki_url": "https://www.gem.wiki/Talabira_power_station",
+      "unit_name": "Stage I Unit 3",
+      "url": "/assets/L100000102501_G100000113420",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Talabira power station"
+    },
+    {
+      "asset_id": "L100000102501_G100001000206",
+      "location_id": "L100000102501",
+      "asset_name": "Talabira power station Stage II Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.778342,
+      "longitude": 83.989506,
+      "wiki_url": "https://www.gem.wiki/Talabira_power_station",
+      "unit_name": "Stage II Unit 4",
+      "url": "/assets/L100000102501_G100001000206",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100001000440",
+          "name": "NLC India Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Talabira power station"
+    },
+    {
+      "asset_id": "L100000102584_G100000110385",
+      "location_id": "L100000102584",
+      "asset_name": "Tuticorin NTPL power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.760363,
+      "longitude": 78.171083,
+      "wiki_url": "https://www.gem.wiki/Tuticorin_NTPL_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102584_G100000110385",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120884",
+          "name": "NLC Tamil Nadu Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tuticorin NTPL power station"
+    },
+    {
+      "asset_id": "L100000102584_G100000110386",
+      "location_id": "L100000102584",
+      "asset_name": "Tuticorin NTPL power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 500.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.760363,
+      "longitude": 78.171083,
+      "wiki_url": "https://www.gem.wiki/Tuticorin_NTPL_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102584_G100000110386",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000120884",
+          "name": "NLC Tamil Nadu Power Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tuticorin NTPL power station"
+    }
+  ]
+}

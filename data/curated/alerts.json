@@ -4,7 +4,7 @@
   "company": "NTPC",
   "type": "FORECAST_BAND_BREACH",
   "severity": "high",
-  "ts": "2026-10-09T21:09:26+00:00",
+  "ts": "2026-10-11T08:29:42+00:00",
   "title": "NTPC FY2025-26 Scope 1 outside the scaled Chronos band",
   "detail": "Reported 309.0 Mt vs scaled band 311.5\u2013316.3 Mt (median 313.8).",
   "evidence_ids": [
@@ -17,7 +17,7 @@
   "company": "TATASTEEL",
   "type": "DISCREPANCY_Z",
   "severity": "high",
-  "ts": "2026-10-09T21:09:26+00:00",
+  "ts": "2026-10-11T08:29:42+00:00",
   "title": "Tata Steel Scope 1 discrepancy |z| = 4.4",
   "detail": "The independent inventory misses owned assets, so the gap cannot be read as misreporting.",
   "evidence_ids": [
@@ -29,7 +29,7 @@
   "company": "TATASTEEL",
   "type": "LOW_COVERAGE",
   "severity": "medium",
-  "ts": "2026-10-09T21:09:26+00:00",
+  "ts": "2026-10-11T08:29:42+00:00",
   "title": "Tata Steel: 6 owned emitters lack an independent estimate",
   "detail": "Tata Steel Chonburi steel plant, Tata Steel Gamharia steel plant, Tata Steel IJmuiden steel plant, Tata Steel Katamati Mine, Tata Steel Rayong steel plant, Tata Steel Vijay-II Mine",
   "evidence_ids": [
@@ -45,7 +45,7 @@
   "company": "ULTRACEMCO",
   "type": "LOW_COVERAGE",
   "severity": "medium",
-  "ts": "2026-10-09T21:09:26+00:00",
+  "ts": "2026-10-11T08:29:42+00:00",
   "title": "UltraTech: 28 owned emitters lack an independent estimate",
   "detail": "UltraTech Cement Ambedkar Nagar Cement Plant, UltraTech Cement Arakkonam Cement Plant, UltraTech Cement Bagheri Cement Plant, UltraTech Cement Bara Cement Plant, UltraTech Cement Bathinda Cement Plant, UltraTech Cement Cuttack Cement Plant",
   "evidence_ids": [
@@ -54,6 +54,154 @@
    "ev_api_payload_dc6fb1fd52",
    "ev_api_payload_512066826f",
    "ev_api_payload_8adcb8629b"
+  ]
+ },
+ {
+  "alert_id": "alert:TATAPOWER:Z_GT_2:FY2024-25",
+  "company": "TATAPOWER",
+  "type": "DISCREPANCY_Z",
+  "severity": "high",
+  "ts": "2026-10-11T08:29:43+00:00",
+  "title": "Tata Power Scope 1 discrepancy |z| = 2.6",
+  "detail": "Gap exceeds 2 sigma of combined uncertainty; investigate with the evidence below.",
+  "evidence_ids": [
+   "est:TATAPOWER:S1:FY2024-25:independent"
+  ]
+ },
+ {
+  "alert_id": "alert:JINDALSTEL:Z_GT_2:FY2024-25",
+  "company": "JINDALSTEL",
+  "type": "DISCREPANCY_Z",
+  "severity": "high",
+  "ts": "2026-10-11T08:29:43+00:00",
+  "title": "Jindal Steel Scope 1 discrepancy |z| = 3.5",
+  "detail": "Gap exceeds 2 sigma of combined uncertainty; investigate with the evidence below.",
+  "evidence_ids": [
+   "est:JINDALSTEL:S1:FY2024-25:independent"
+  ]
+ },
+ {
+  "alert_id": "alert:VEDL:LOW_COVERAGE",
+  "company": "VEDL",
+  "type": "LOW_COVERAGE",
+  "severity": "medium",
+  "ts": "2026-10-11T08:29:43+00:00",
+  "title": "Vedanta: 3 owned emitters lack an independent estimate",
+  "detail": "Sesa Sterlite Sanquelim Mine, Vedanta Bicholim Mine, Vendanta A Narrain Mine",
+  "evidence_ids": [
+   "ev_api_payload_3452337c58",
+   "ev_api_payload_54f7edd67d",
+   "ev_api_payload_f20d88519e",
+   "ev_api_payload_3cfa09b1a9",
+   "ev_api_payload_658da722ac"
+  ]
+ },
+ {
+  "alert_id": "alert:AMBUJACEM:LOW_COVERAGE",
+  "company": "AMBUJACEM",
+  "type": "LOW_COVERAGE",
+  "severity": "medium",
+  "ts": "2026-10-11T08:29:43+00:00",
+  "title": "Ambuja: 13 owned emitters lack an independent estimate",
+  "detail": "Ambuja Cement Pune Cement Plant, Ambuja Cement Tandur Cement Plant, Ambuja Cement Wadapally Cement Plant, Ambuja Cements Bhatinda Cement Plant, Ambuja Cements Dadri Cement Plant, Ambuja Cements Dhulagori Cement Plant",
+  "evidence_ids": [
+   "ev_api_payload_0c6f533dff",
+   "ev_api_payload_6469cbe8e6",
+   "ev_api_payload_70a593f6e8",
+   "ev_api_payload_a4c8cc36a8",
+   "ev_api_payload_79db2bc307"
+  ]
+ },
+ {
+  "alert_id": "alert:ACC:LOW_COVERAGE",
+  "company": "ACC",
+  "type": "LOW_COVERAGE",
+  "severity": "medium",
+  "ts": "2026-10-11T08:29:43+00:00",
+  "title": "ACC: 7 owned emitters lack an independent estimate",
+  "detail": "ACC Gauriganj Cement Plant, ACC Kudithini Cement Plant, ACC Nalagarh Cement Plant, ACC Sindri Cement Plant, ACC Sunuri Cement Plant, ACC Thondebhavi Cement Plant",
+  "evidence_ids": [
+   "ev_api_payload_bedc11703c",
+   "ev_api_payload_df73ccbe1b",
+   "ev_api_payload_032ca22de5",
+   "ev_api_payload_fd3d774951",
+   "ev_api_payload_5a01312741"
+  ]
+ },
+ {
+  "alert_id": "alert:SHREECEM:LOW_COVERAGE",
+  "company": "SHREECEM",
+  "type": "LOW_COVERAGE",
+  "severity": "medium",
+  "ts": "2026-10-11T08:29:43+00:00",
+  "title": "Shree Cement: 12 owned emitters lack an independent estimate",
+  "detail": "Shree Cement Aurangabad Cement Plant, Shree Cement Cuttack Cement Plant, Shree Cement Hansda Cement Plant, Shree Cement Jaipur Cement Plant, Shree Cement Khushkhera Cement Plant, Shree Cement Laksar Cement Plant",
+  "evidence_ids": [
+   "ev_api_payload_347d49f186",
+   "ev_api_payload_aa9f71ba4f",
+   "ev_api_payload_bd47746405",
+   "ev_api_payload_6a3ebbb113",
+   "ev_api_payload_605aa6e2d6"
+  ]
+ },
+ {
+  "alert_id": "alert:RELIANCE:LOW_COVERAGE",
+  "company": "RELIANCE",
+  "type": "LOW_COVERAGE",
+  "severity": "medium",
+  "ts": "2026-10-11T08:29:43+00:00",
+  "title": "Reliance: 0 owned emitters lack an independent estimate",
+  "detail": "",
+  "evidence_ids": [
+   "ev_api_payload_1640737dad",
+   "ev_api_payload_33a81e1b90",
+   "ev_api_payload_d324dcb544",
+   "ev_api_payload_1944cc699a",
+   "ev_api_payload_f138f86885"
+  ]
+ },
+ {
+  "alert_id": "alert:BPCL:LOW_COVERAGE",
+  "company": "BPCL",
+  "type": "LOW_COVERAGE",
+  "severity": "medium",
+  "ts": "2026-10-11T08:29:43+00:00",
+  "title": "BPCL: 0 owned emitters lack an independent estimate",
+  "detail": "",
+  "evidence_ids": [
+   "ev_api_payload_1c80c7e0a4",
+   "ev_api_payload_aa9aef1ad5",
+   "ev_api_payload_e43b051769",
+   "ev_api_payload_e6d0a5b936",
+   "ev_api_payload_616cd2269b"
+  ]
+ },
+ {
+  "alert_id": "alert:GAIL:LOW_COVERAGE",
+  "company": "GAIL",
+  "type": "LOW_COVERAGE",
+  "severity": "medium",
+  "ts": "2026-10-11T08:29:43+00:00",
+  "title": "GAIL: 0 owned emitters lack an independent estimate",
+  "detail": "",
+  "evidence_ids": [
+   "ev_api_payload_d6b39ae7b7",
+   "ev_api_payload_540fed6e42",
+   "ev_api_payload_75dcf2d132",
+   "ev_api_payload_8616919ff3",
+   "ev_api_payload_bb9190e577"
+  ]
+ },
+ {
+  "alert_id": "alert:JSWENERGY:Z_GT_2:FY2024-25",
+  "company": "JSWENERGY",
+  "type": "DISCREPANCY_Z",
+  "severity": "high",
+  "ts": "2026-10-11T08:31:57+00:00",
+  "title": "JSW Energy Scope 1 discrepancy |z| = 3.8",
+  "detail": "Gap exceeds 2 sigma of combined uncertainty; investigate with the evidence below.",
+  "evidence_ids": [
+   "est:JSWENERGY:S1:FY2024-25:independent"
   ]
  }
 ]

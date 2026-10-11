@@ -19,7 +19,7 @@ const STEPS: Step[] = [
   },
   {
     target: "companies", place: "right", title: "Pick a company",
-    body: <>Each row is one company. The <b>grey bar</b> is what the company reported. The <b>blue bar</b> is what we rebuilt from public plant data. We start with NTPC, India's largest power producer.</>,
+    body: <>26 of India's biggest emitters across power, steel, cement, metals and oil &amp; gas. Search or filter by sector. The <b>grey bar</b> is what the company reported, the <b>blue bar</b> is what we rebuilt from public plant data. We start with NTPC, India's largest power producer.</>,
   },
   {
     target: "map", place: "left", title: "Every circle is a real plant",
@@ -27,7 +27,7 @@ const STEPS: Step[] = [
   },
   {
     target: "layers", place: "right", title: "Add context to the map",
-    body: <>Switch on satellite imagery, terrain relief, nitrogen dioxide from space (a sign of burning fuel), night lights, or how clean each region's electricity grid is.</>,
+    body: <>Switch on satellite imagery, terrain relief, nitrogen dioxide from space (a sign of burning fuel), night lights, or how clean each region's electricity grid is. The <b>2023 · 2024 · 2025</b> switch redraws every plant for that year.</>,
   },
   {
     target: "numbers", place: "left", title: "Reported vs rebuilt",
@@ -37,6 +37,10 @@ const STEPS: Step[] = [
   {
     target: "verdict", place: "left", title: "A plain-language verdict",
     body: <><b>Consistent</b>, <b>Watch</b> or <b>Significant gap</b>. If we cannot see enough of a company's plants, we say <b>Inconclusive</b> instead of accusing anyone. Honesty is the point.</>,
+  },
+  {
+    target: "breakdown", place: "left", title: "Test it yourself",
+    body: <>These are the plants behind the rebuild, and the black line is the reported figure. <b>Untick a plant</b> to ask "what if it isn't theirs?" and watch the gap, z-score and verdict recompute instantly.</>,
   },
   {
     target: "coverage", place: "left", title: "Coverage keeps us honest",
@@ -65,6 +69,10 @@ const STEPS: Step[] = [
       const top = [...(a.assetsBy[a.selected] || [])].filter((x) => x.ct).sort((x, y) => y.ct!.emissions_t["2024"] - x.ct!.emissions_t["2024"])[0];
       if (top) a.openPlant(top.asset_id);
     },
+  },
+  {
+    target: "addco", place: "right", title: "Add any company, live",
+    body: <>Search Global Energy Monitor for any company, paste its BRSR link if you have one, and our AWS worker rebuilds it in about a minute. <b>Compare</b> in the top bar puts every company on one chart.</>,
   },
   {
     title: "You're ready",

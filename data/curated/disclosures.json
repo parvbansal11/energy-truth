@@ -3,7 +3,7 @@
   "company": "NTPC",
   "symbol": "NTPC",
   "fy": "FY2024-25",
-  "engine": "rules",
+  "engine": "rules+gemini:gemini-flash-lite-latest",
   "document_url": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-01/07.08.2025_Submission%20of%20BRSR%20Report%20for%20FY%202024-25.pdf",
   "pages_scanned": 25,
   "assurance": {
@@ -111,7 +111,7 @@
   "company": "NTPC",
   "symbol": "NTPC",
   "fy": "FY2025-26",
-  "engine": "rules",
+  "engine": "rules+gemini:gemini-3.5-flash",
   "document_url": "https://nsearchives.nseindia.com/corporate/NTPC_04082026185539_20260804_STEX_INTIMATIONBRSR_Signed.pdf",
   "pages_scanned": 32,
   "assurance": {
@@ -219,7 +219,7 @@
   "company": "TATASTEEL",
   "symbol": "TATASTEEL",
   "fy": "FY2024-25",
-  "engine": "rules",
+  "engine": "rules+gemini:gemini-flash-lite-latest",
   "document_url": "https://www.tatasteel.com/investors/integrated-report-2024-25/pdf/Tata-Steel-IR-2024-25-BRSR-140725.pdf",
   "pages_scanned": 62,
   "assurance": {
@@ -415,7 +415,7 @@
   "company": "TATASTEEL",
   "symbol": "TATASTEEL",
   "fy": "FY2023-24",
-  "engine": "rules",
+  "engine": "rules+gemini:gemini-flash-lite-latest",
   "document_url": "https://www.tatasteel.com/media/21242/business-responsibility-and-sustainability-report.pdf",
   "pages_scanned": 80,
   "assurance": {
@@ -604,6 +604,646 @@
     "boundary": "consolidated",
     "fy": "FY2022-23",
     "evidence_id": "ev_pdf_page_4dec40a8bb"
+   }
+  }
+ },
+ {
+  "company": "TATAPOWER",
+  "symbol": "TATAPOWER",
+  "fy": "FY2024-25",
+  "engine": "rules",
+  "document_url": "https://nsearchives.nseindia.com/corporate/VPTPCL_10062025233557_BRSR.pdf",
+  "pages_scanned": 53,
+  "assurance": {},
+  "warnings": [
+   "AI extraction skipped: JSONDecodeError"
+  ],
+  "fields": {
+   "electricity_renewable_mwh.standalone.FY2024-25": {
+    "value": 93556.11111111111,
+    "unit": "MWh",
+    "raw": "3,36,802",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (A) (GJ) 3,36,802** 3,48,228*",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_8275095509"
+   },
+   "electricity_renewable_mwh.standalone.FY2023-24": {
+    "value": 96730.0,
+    "unit": "MWh",
+    "raw": "3,48,228",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (A) (GJ) 3,36,802** 3,48,228*",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_7cf5605abb"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2024-25": {
+    "value": 85368.88888888889,
+    "unit": "MWh",
+    "raw": "3,07,328",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (D) (GJ) 3,07,328 5,09,148***",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_85f6b011ce"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2023-24": {
+    "value": 141430.0,
+    "unit": "MWh",
+    "raw": "5,09,148",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (D) (GJ) 3,07,328 5,09,148***",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_7e5805d46d"
+   },
+   "scope1.standalone.FY2024-25": {
+    "value": 41352681.0,
+    "unit": "tCO2e",
+    "raw": "4,13,52,681",
+    "raw_unit": "tonnes",
+    "page": 33,
+    "quote": "Total Scope 1 emissions (Break-up of the GHG into CO, CH, Metric tonnes of CO 4,13,52,681 4,02,01,962",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_83b91604e6"
+   },
+   "scope1.standalone.FY2023-24": {
+    "value": 40201962.0,
+    "unit": "tCO2e",
+    "raw": "4,02,01,962",
+    "raw_unit": "tonnes",
+    "page": 33,
+    "quote": "Total Scope 1 emissions (Break-up of the GHG into CO, CH, Metric tonnes of CO 4,13,52,681 4,02,01,962",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_4968e25240"
+   },
+   "scope2.standalone.FY2024-25": {
+    "value": 3201561.0,
+    "unit": "tCO2e",
+    "raw": "32,01,561",
+    "raw_unit": "tonnes",
+    "page": 33,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG into CO, CH, Metric tonnes of CO 32,01,561 28,86,646",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_6f3b340388"
+   },
+   "scope2.standalone.FY2023-24": {
+    "value": 2886646.0,
+    "unit": "tCO2e",
+    "raw": "28,86,646",
+    "raw_unit": "tonnes",
+    "page": 33,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG into CO, CH, Metric tonnes of CO 32,01,561 28,86,646",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_c7b38b34c0"
+   }
+  }
+ },
+ {
+  "company": "JINDALSTEL",
+  "symbol": "JINDALSTEL",
+  "fy": "FY2024-25",
+  "engine": "rules+gemini:gemini-flash-lite-latest",
+  "document_url": "https://nsearchives.nseindia.com/corporate/JINDALSTEL_08082025175924_BRSR_stx_080825.pdf",
+  "pages_scanned": 35,
+  "assurance": {
+   "assured": true,
+   "level": "limited",
+   "provider": "S U V & Co",
+   "page": 20
+  },
+  "warnings": [
+   "AI/rules disagree on electricity_renewable_mwh.standalone.FY2023-24: 2777.7777777777774 vs 0.0 (rules kept)"
+  ],
+  "fields": {
+   "electricity_renewable_mwh.standalone.FY2024-25": {
+    "value": 3111.111111111111,
+    "unit": "MWh",
+    "raw": "0.0112",
+    "raw_unit": "PJ",
+    "page": 20,
+    "quote": "Total electricity consumption (A) 0.0112 0 steel production (Million Kilolitres/MMTCS)",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_f2c60ff772"
+   },
+   "electricity_renewable_mwh.standalone.FY2023-24": {
+    "value": 0.0,
+    "unit": "MWh",
+    "raw": "0",
+    "raw_unit": "PJ",
+    "page": 20,
+    "quote": "Total electricity consumption (A) 0.0112 0 steel production (Million Kilolitres/MMTCS)",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_00f7410484"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2024-25": {
+    "value": 18949999.999999996,
+    "unit": "MWh",
+    "raw": "68.22",
+    "raw_unit": "PJ",
+    "page": 20,
+    "quote": "Total electricity consumption (D) 68.22 51.18",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_cc1dd45f8f"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2023-24": {
+    "value": 14216666.666666666,
+    "unit": "MWh",
+    "raw": "51.18",
+    "raw_unit": "PJ",
+    "page": 20,
+    "quote": "Total electricity consumption (D) 68.22 51.18",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_dbdf332126"
+   },
+   "scope1.standalone.FY2024-25": {
+    "value": 21490000.0,
+    "unit": "tCO2e",
+    "raw": "21.49",
+    "raw_unit": "million tonnes",
+    "page": 21,
+    "quote": "Total Scope 1 emissions (Break-up of the GHG into CO2, million tonnes of CO2 21.49 18.24 Waste intensity per rupee of revenue from operations adjusted for Purchasing 0.00043 0.00038",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_ba2318d835"
+   },
+   "scope1.standalone.FY2023-24": {
+    "value": 18240000.0,
+    "unit": "tCO2e",
+    "raw": "18.24",
+    "raw_unit": "million tonnes",
+    "page": 21,
+    "quote": "Total Scope 1 emissions (Break-up of the GHG into CO2, million tonnes of CO2 21.49 18.24 Waste intensity per rupee of revenue from operations adjusted for Purchasing 0.00043 0.00038",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_e4aaba4066"
+   },
+   "scope2.standalone.FY2024-25": {
+    "value": 1010000.0,
+    "unit": "tCO2e",
+    "raw": "1.01",
+    "raw_unit": "million tonnes",
+    "page": 21,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG into CO2, million tonnes of CO2 1.01 1.48 (Total waste generated / revenue from operations adjusted for PPP)* (Tonne/USD)",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_3a66f3730c"
+   },
+   "scope2.standalone.FY2023-24": {
+    "value": 1480000.0,
+    "unit": "tCO2e",
+    "raw": "1.48",
+    "raw_unit": "million tonnes",
+    "page": 21,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG into CO2, million tonnes of CO2 1.01 1.48 (Total waste generated / revenue from operations adjusted for PPP)* (Tonne/USD)",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_292c396c71"
+   }
+  }
+ },
+ {
+  "company": "ACC",
+  "symbol": "ACC",
+  "fy": "FY2024-25",
+  "engine": "rules+gemini:gemini-flash-lite-latest",
+  "document_url": "https://nsearchives.nseindia.com/corporate/ACC_1_31052025185334_ACC_BRSR_2025.pdf",
+  "pages_scanned": 46,
+  "assurance": {
+   "assured": true,
+   "level": "limited",
+   "provider": "TUV India Private Limited",
+   "page": 30
+  },
+  "warnings": [],
+  "fields": {
+   "electricity_renewable_mwh.standalone.FY2024-25": {
+    "value": 135600.0,
+    "unit": "MWh",
+    "raw": "488,160",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (A) GJ 488,160 352,238",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_06cfb6317f"
+   },
+   "electricity_renewable_mwh.standalone.FY2023-24": {
+    "value": 97843.88888888889,
+    "unit": "MWh",
+    "raw": "352,238",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (A) GJ 488,160 352,238",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_87ad5107c7"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2024-25": {
+    "value": 866800.0,
+    "unit": "MWh",
+    "raw": "3,120,480",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (D) GJ 3,120,480 3,025,541",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_e23da8d832"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2023-24": {
+    "value": 840428.0555555556,
+    "unit": "MWh",
+    "raw": "3,025,541",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (D) GJ 3,120,480 3,025,541",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_c6f6c2baac"
+   },
+   "scope1.standalone.FY2024-25": {
+    "value": 13488976.0,
+    "unit": "tCO2e",
+    "raw": "13,488,976",
+    "raw_unit": "tonnes",
+    "page": 32,
+    "quote": "Total Scope 1 emissions (Break-up of the GHG tonnes of CO 13,488,976 14,800,767",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_1995de2959"
+   },
+   "scope1.standalone.FY2023-24": {
+    "value": 14800767.0,
+    "unit": "tCO2e",
+    "raw": "14,800,767",
+    "raw_unit": "tonnes",
+    "page": 32,
+    "quote": "Total Scope 1 emissions (Break-up of the GHG tonnes of CO 13,488,976 14,800,767",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_8951e99e6a"
+   },
+   "scope2.standalone.FY2024-25": {
+    "value": 625212.0,
+    "unit": "tCO2e",
+    "raw": "625,212",
+    "raw_unit": "tonnes",
+    "page": 32,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG tonnes of CO 625,212 589,017",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_218d891e8f"
+   },
+   "scope2.standalone.FY2023-24": {
+    "value": 589017.0,
+    "unit": "tCO2e",
+    "raw": "589,017",
+    "raw_unit": "tonnes",
+    "page": 32,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG tonnes of CO 625,212 589,017",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_0a02e99aea"
+   }
+  }
+ },
+ {
+  "company": "RELIANCE",
+  "symbol": "RELIANCE",
+  "fy": "FY2024-25",
+  "engine": "rules",
+  "document_url": "https://www.ril.com/reports/BRSR202425.pdf",
+  "pages_scanned": 51,
+  "assurance": {},
+  "warnings": [
+   "scope1 unit not found on p.50",
+   "scope2 unit not found on p.50",
+   "AI extraction skipped: JSONDecodeError"
+  ],
+  "fields": {
+   "electricity_renewable_mwh.standalone.FY2024-25": {
+    "value": 12864.444444444445,
+    "unit": "MWh",
+    "raw": "46,312",
+    "raw_unit": "GJ",
+    "page": 35,
+    "quote": "Total electricity consumption (A) 46,312 39,459",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_6f5e793d2c"
+   },
+   "electricity_renewable_mwh.standalone.FY2023-24": {
+    "value": 10960.833333333334,
+    "unit": "MWh",
+    "raw": "39,459",
+    "raw_unit": "GJ",
+    "page": 35,
+    "quote": "Total electricity consumption (A) 46,312 39,459",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_63ab423b27"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2024-25": {
+    "value": 2430134.7222222225,
+    "unit": "MWh",
+    "raw": "87,48,485",
+    "raw_unit": "GJ",
+    "page": 35,
+    "quote": "Total electricity consumption (D) 87,48,485 37,14,273",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_efb15a96f3"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2023-24": {
+    "value": 1031742.5,
+    "unit": "MWh",
+    "raw": "37,14,273",
+    "raw_unit": "GJ",
+    "page": 35,
+    "quote": "Total electricity consumption (D) 87,48,485 37,14,273",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_ef1746c657"
+   },
+   "scope1.standalone.FY2024-25": {
+    "value": 36459294.0,
+    "unit": "tCO2e",
+    "raw": "3,64,59,294",
+    "raw_unit": "tonnes",
+    "page": 36,
+    "quote": "(iii) To Seawater Total Scope 1 emissions (Break-up of the GHG in to CO 2 , Metric tonnes of CO 2 equivalent 3,64,59,294 3,69,00,275",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_96e19117bb"
+   },
+   "scope1.standalone.FY2023-24": {
+    "value": 36900275.0,
+    "unit": "tCO2e",
+    "raw": "3,69,00,275",
+    "raw_unit": "tonnes",
+    "page": 36,
+    "quote": "(iii) To Seawater Total Scope 1 emissions (Break-up of the GHG in to CO 2 , Metric tonnes of CO 2 equivalent 3,64,59,294 3,69,00,275",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_ae5847a632"
+   },
+   "scope2.standalone.FY2024-25": {
+    "value": 1470097.0,
+    "unit": "tCO2e",
+    "raw": "14,70,097",
+    "raw_unit": "tonnes",
+    "page": 36,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG in to CO , Metric tonnes of CO equivalent 14,70,097 7,81,764",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_a80a396020"
+   },
+   "scope2.standalone.FY2023-24": {
+    "value": 781764.0,
+    "unit": "tCO2e",
+    "raw": "7,81,764",
+    "raw_unit": "tonnes",
+    "page": 36,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG in to CO , Metric tonnes of CO equivalent 14,70,097 7,81,764",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_bba753fc95"
+   }
+  }
+ },
+ {
+  "company": "JSWENERGY",
+  "symbol": "JSWENERGY",
+  "fy": "FY2024-25",
+  "engine": "rules+gemini:gemini-flash-lite-latest (4 fields from AI)",
+  "document_url": "https://nsearchives.nseindia.com/corporate/RITESHJSWEL_19062025002753_BRSR.pdf",
+  "pages_scanned": 48,
+  "assurance": {
+   "assured": true,
+   "level": "reasonable",
+   "provider": "Bureau Veritas (India) Pvt Ltd",
+   "page": 33
+  },
+  "warnings": [
+   "scope1 unit not found on p.33",
+   "scope2 unit not found on p.33",
+   "Scope 1 row not located",
+   "AI row skipped: unknown energy unit: 'Joules or multiples'",
+   "AI row skipped: unknown energy unit: 'Joules or multiples'",
+   "AI row skipped: unknown energy unit: 'Joules or multiples'",
+   "AI row skipped: unknown energy unit: 'Joules or multiples'"
+  ],
+  "fields": {
+   "electricity_renewable_mwh.standalone.FY2024-25": {
+    "value": 57564.0138888889,
+    "unit": "MWh",
+    "raw": "2,07,230.45",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (A) 2,07,230.45 1,79,555.31",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_6477d01f5b"
+   },
+   "electricity_renewable_mwh.standalone.FY2023-24": {
+    "value": 49876.475,
+    "unit": "MWh",
+    "raw": "1,79,555.31",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (A) 2,07,230.45 1,79,555.31",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_a32634d630"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2024-25": {
+    "value": 32655.383333333335,
+    "unit": "MWh",
+    "raw": "1,17,559.38",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (D) 1,17,559.38 1,07,196.56",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_9eeef81604"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2023-24": {
+    "value": 29776.82222222222,
+    "unit": "MWh",
+    "raw": "1,07,196.56",
+    "raw_unit": "GJ",
+    "page": 30,
+    "quote": "Total electricity consumption (D) 1,17,559.38 1,07,196.56",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_0b45ee400d"
+   },
+   "scope1.standalone.FY2024-25": {
+    "value": 20522777.86,
+    "unit": "tCO2e",
+    "raw": "2,05,22,777.86",
+    "raw_unit": "Ton CO2e",
+    "page": 33,
+    "quote": "Total Scope 1 emissions (Break-up of the GHG into CO, CH, NO, HFCs, 2,05,22,777.86 Ton COe 1,85,24,363.70 Ton COe",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_9b77e61366"
+   },
+   "scope1.standalone.FY2023-24": {
+    "value": 18524363.7,
+    "unit": "tCO2e",
+    "raw": "1,85,24,363.70",
+    "raw_unit": "Ton CO2e",
+    "page": 33,
+    "quote": "Total Scope 1 emissions (Break-up of the GHG into CO, CH, NO, HFCs, 2,05,22,777.86 Ton COe 1,85,24,363.70 Ton COe",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_dae5aa11ae"
+   },
+   "scope2.standalone.FY2024-25": {
+    "value": 36661.4,
+    "unit": "tCO2e",
+    "raw": "36,661.40",
+    "raw_unit": "Ton CO2e",
+    "page": 33,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG into CO, CH, NO, HFCs, 36,661.40 Ton COe 36,577.71 Ton COe",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_b595a7d352"
+   },
+   "scope2.standalone.FY2023-24": {
+    "value": 36577.71,
+    "unit": "tCO2e",
+    "raw": "36,577.71",
+    "raw_unit": "Ton CO2e",
+    "page": 33,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG into CO, CH, NO, HFCs, 36,661.40 Ton COe 36,577.71 Ton COe",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_bc2a4ecf89"
+   }
+  }
+ },
+ {
+  "company": "IOC",
+  "symbol": "IOC",
+  "fy": "FY2024-25",
+  "engine": "rules+gemini:gemini-flash-lite-latest (4 fields from AI)",
+  "document_url": "https://iocl.com/uploads/IndianOil_BRSR2425.pdf",
+  "pages_scanned": 57,
+  "assurance": {
+   "assured": true,
+   "level": "limited",
+   "provider": "TUV India Private Limited",
+   "page": 37
+  },
+  "warnings": [
+   "scope1 unit not found on p.37",
+   "scope2 unit not found on p.37",
+   "Scope 1 row not located"
+  ],
+  "fields": {
+   "electricity_renewable_mwh.standalone.FY2024-25": {
+    "value": 154444.44444444444,
+    "unit": "MWh",
+    "raw": "556",
+    "raw_unit": "TJ",
+    "page": 35,
+    "quote": "Total electricity consumption (A) 556 228",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_f73cf8c075"
+   },
+   "electricity_renewable_mwh.standalone.FY2023-24": {
+    "value": 63333.33333333333,
+    "unit": "MWh",
+    "raw": "228",
+    "raw_unit": "TJ",
+    "page": 35,
+    "quote": "Total electricity consumption (A) 556 228",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_010ce54d28"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2024-25": {
+    "value": 1783055.5555555555,
+    "unit": "MWh",
+    "raw": "6,419",
+    "raw_unit": "TJ",
+    "page": 35,
+    "quote": "Total electricity consumption (D) 6,419 3,839",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_b372b53dc2"
+   },
+   "electricity_nonrenewable_mwh.standalone.FY2023-24": {
+    "value": 1066388.8888888888,
+    "unit": "MWh",
+    "raw": "3,839",
+    "raw_unit": "TJ",
+    "page": 35,
+    "quote": "Total electricity consumption (D) 6,419 3,839",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_c52709b6b1"
+   },
+   "scope1.standalone.FY2024-25": {
+    "value": 21240000.0,
+    "unit": "tCO2e",
+    "raw": "21.24",
+    "raw_unit": "MtCO2e",
+    "page": 37,
+    "quote": "Total:21.24 Total: 22.00",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_9c4a99617e"
+   },
+   "scope1.standalone.FY2023-24": {
+    "value": 22000000.0,
+    "unit": "tCO2e",
+    "raw": "22.00",
+    "raw_unit": "MtCO2e",
+    "page": 37,
+    "quote": "Total:21.24 Total: 22.00",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_3af9792614"
+   },
+   "scope2.standalone.FY2024-25": {
+    "value": 1290000.0,
+    "unit": "tCO2e",
+    "raw": "1.29",
+    "raw_unit": "MtCO2e",
+    "page": 37,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG into CO, CH, MtCOe 1.29 0.76",
+    "boundary": "standalone",
+    "fy": "FY2024-25",
+    "evidence_id": "ev_pdf_page_be4836b3b8"
+   },
+   "scope2.standalone.FY2023-24": {
+    "value": 760000.0,
+    "unit": "tCO2e",
+    "raw": "0.76",
+    "raw_unit": "MtCO2e",
+    "page": 37,
+    "quote": "Total Scope 2 emissions (Break-up of the GHG into CO, CH, MtCOe 1.29 0.76",
+    "boundary": "standalone",
+    "fy": "FY2023-24",
+    "evidence_id": "ev_pdf_page_361e9829a6"
    }
   }
  }

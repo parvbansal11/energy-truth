@@ -1024,5 +1024,1472 @@
   "match_method": "exact_coordinates+sector",
   "match_score": 1.0,
   "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATAPOWER",
+  "asset_id": "ct:25453692",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATAPOWER",
+  "asset_id": "ct:449456",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATAPOWER",
+  "asset_id": "ct:25451149",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TATAPOWER",
+  "asset_id": "ct:451247",
+  "weight": 0.5,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NLCINDIA",
+  "asset_id": "ct:715475",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NLCINDIA",
+  "asset_id": "ct:25455403",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.753,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NLCINDIA",
+  "asset_id": "ct:25450276",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NLCINDIA",
+  "asset_id": "ct:16716",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NLCINDIA",
+  "asset_id": "ct:15944",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NLCINDIA",
+  "asset_id": "ct:15943",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NLCINDIA",
+  "asset_id": "ct:3163684",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NLCINDIA",
+  "asset_id": "ct:3163453",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TORNTPOWER",
+  "asset_id": "ct:25455868",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TORNTPOWER",
+  "asset_id": "ct:25453335",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "TORNTPOWER",
+  "asset_id": "ct:25453336",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.913,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "CESC",
+  "asset_id": "ct:25450401",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "CESC",
+  "asset_id": "ct:447604",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "CESC",
+  "asset_id": "ct:25454744",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "CESC",
+  "asset_id": "ct:25450403",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:25453047",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:32440773",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.961,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:32440774",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.972,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:25454469",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:25454926",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:450121",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:3163520",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:43163633",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:3587523",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:43157898",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:43158241",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:43158355",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.472,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "JINDALSTEL",
+  "asset_id": "ct:43158359",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:1566849",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:1566852",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.983,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:1566850",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.975,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:1566848",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.949,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:1566851",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.987,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:56166462",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:3163488",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:1566863",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.959,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:15957",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158126",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.43,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158181",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.571,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158354",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158262",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158191",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.608,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158218",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158313",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158154",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158142",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158326",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.451,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158165",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.303,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158298",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.362,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158252",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158269",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158266",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.752,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158231",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.789,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SAIL",
+  "asset_id": "ct:43158167",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NSLNISP",
+  "asset_id": "ct:1567206",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.968,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:451549",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:25454355",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.912,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:25451914",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:25452975",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:25454434",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:43765039",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:54502624",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:3673073",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.865,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:3673076",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.61,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:3673077",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.817,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:709271",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:15924",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:709272",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233107",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233201",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233132",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233186",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233154",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233117",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233136",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233150",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233098",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233138",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233140",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233105",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233125",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233162",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233127",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233109",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDALCO",
+  "asset_id": "ct:42233183",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "VEDL",
+  "asset_id": "ct:43765022",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "VEDL",
+  "asset_id": "ct:25453681",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "VEDL",
+  "asset_id": "ct:3673075",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.702,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "VEDL",
+  "asset_id": "ct:3163564",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NATIONALUM",
+  "asset_id": "ct:25451445",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "NATIONALUM",
+  "asset_id": "ct:43764977",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "NATIONALUM",
+  "asset_id": "ct:3673078",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.658,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "NATIONALUM",
+  "asset_id": "ct:42233189",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "NATIONALUM",
+  "asset_id": "ct:56166241",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDZINC",
+  "asset_id": "ct:450035",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDZINC",
+  "asset_id": "ct:25454134",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.881,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDZINC",
+  "asset_id": "ct:451041",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:1896987",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.962,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:1896986",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:1896990",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:1896989",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:1896988",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:42547251",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:450638",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:714936",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:3163523",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "AMBUJACEM",
+  "asset_id": "ct:49701554",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:1896978",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:1896985",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.983,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:1896979",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:1896980",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:1896982",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.987,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:1896977",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:1896983",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:1896981",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:42547435",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "ACC",
+  "asset_id": "ct:32438569",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SHREECEM",
+  "asset_id": "ct:1897045",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SHREECEM",
+  "asset_id": "ct:1897044",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SHREECEM",
+  "asset_id": "ct:1897043",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SHREECEM",
+  "asset_id": "ct:42547363",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.986,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SHREECEM",
+  "asset_id": "ct:1897046",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SHREECEM",
+  "asset_id": "ct:25455056",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "SHREECEM",
+  "asset_id": "ct:42547359",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "RELIANCE",
+  "asset_id": "ct:3143912",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "RELIANCE",
+  "asset_id": "ct:731946",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "RELIANCE",
+  "asset_id": "ct:731945",
+  "weight": 0.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.747,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "RELIANCE",
+  "asset_id": "ct:731944",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "RELIANCE",
+  "asset_id": "ct:731943",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "RELIANCE",
+  "asset_id": "ct:731942",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "BPCL",
+  "asset_id": "ct:3143923",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "BPCL",
+  "asset_id": "ct:3143924",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "BPCL",
+  "asset_id": "ct:712440",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDPETRO",
+  "asset_id": "ct:3143919",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "HINDPETRO",
+  "asset_id": "ct:712432",
+  "weight": 0.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.858,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "HINDPETRO",
+  "asset_id": "ct:731947",
+  "weight": 0.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.444,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "HINDPETRO",
+  "asset_id": "ct:448221",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.872,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "GAIL",
+  "asset_id": "ct:40691244",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "GAIL",
+  "asset_id": "ct:731939",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "GAIL",
+  "asset_id": "ct:40691243",
+  "weight": 0.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.087,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "JSWENERGY",
+  "asset_id": "ct:25453853",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.978,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWENERGY",
+  "asset_id": "ct:448357",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.984,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "JSWENERGY",
+  "asset_id": "ct:25453753",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:712429",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:3143920",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:3143916",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.758,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:3143918",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:3143927",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:3143921",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:3143926",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:731941",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.59,
+  "review_status": "needs_review"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:4405666",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.954,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:3143930",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:712447",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:40691243",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:712448",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:450997",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "spatial+trigram-cosine",
+  "match_score": 0.927,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:448294",
+  "weight": 1.0,
+  "source": "gem_ownership_graph",
+  "match_method": "exact_coordinates+sector",
+  "match_score": 1.0,
+  "review_status": "auto_accepted"
+ },
+ {
+  "company": "IOC",
+  "asset_id": "ct:712446",
+  "weight": 1.0,
+  "source": "assumed_100pct_ct_owner_link",
+  "match_method": "unmatched",
+  "match_score": 0.0,
+  "review_status": "unmatched"
  }
 ]

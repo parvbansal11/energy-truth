@@ -1,0 +1,316 @@
+{
+  "total": 7,
+  "total_asset_count": 7,
+  "total_location_count": 7,
+  "limit": 200,
+  "offset": 0,
+  "count": 7,
+  "results": [
+    {
+      "asset_id": "P0908",
+      "location_id": "P0908",
+      "asset_name": "Bathinda-Jammu-Srinagar Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": 15.48,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Punjab",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Bathinda-Jammu-Srinagar_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0908",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000153049",
+          "name": "Gujarat State Petronet Ltd",
+          "ownership_share": 25.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 25.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 25.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 25.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Bathinda-Jammu-Srinagar Gas Pipeline"
+    },
+    {
+      "asset_id": "P2748",
+      "location_id": "P2748",
+      "asset_name": "Langtala-Pachpadra Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1.46,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Langtala-Pachpadra_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P2748",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100002019501",
+          "name": "GSPL India Gasnet Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Langtala-Pachpadra Gas Pipeline"
+    },
+    {
+      "asset_id": "P0941",
+      "location_id": "P0941",
+      "asset_name": "Mehsana-Bhatinda Gas Pipeline Phase I",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 29.24,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mehsana-Bhatinda_Gas_Pipeline",
+      "unit_name": "Phase I",
+      "url": "/assets/P0941",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000153049",
+          "name": "Gujarat State Petronet Ltd",
+          "ownership_share": 52.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 26.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 11.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 11.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mehsana-Bhatinda Gas Pipeline"
+    },
+    {
+      "asset_id": "P5411",
+      "location_id": "P5411",
+      "asset_name": "Mehsana-Bhatinda Gas Pipeline Phase II",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 29.24,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mehsana-Bhatinda_Gas_Pipeline",
+      "unit_name": "Phase II",
+      "url": "/assets/P5411",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000153049",
+          "name": "Gujarat State Petronet Ltd",
+          "ownership_share": 52.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001918",
+          "name": "Indian Oil Corporation Ltd",
+          "ownership_share": 26.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 11.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001917",
+          "name": "Hindustan Petroleum Corporation Ltd",
+          "ownership_share": 11.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mehsana-Bhatinda Gas Pipeline"
+    },
+    {
+      "asset_id": "P3855",
+      "location_id": "P3855",
+      "asset_name": "Mozambique LNG Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "country": "Mozambique",
+      "state_province": null,
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mozambique_LNG_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3855",
+      "upstream_entity_count": 22,
+      "owners": [
+        {
+          "entity_id": "E100000000387",
+          "name": "TotalEnergies SE",
+          "ownership_share": 26.5,
+          "hq_country": "France"
+        },
+        {
+          "entity_id": "E100000134078",
+          "name": "Mitsui Group",
+          "ownership_share": 20.0,
+          "hq_country": "Japan"
+        },
+        {
+          "entity_id": "E100001014498",
+          "name": "Empresa Nacional de Hidrocarbonetos EP",
+          "ownership_share": 15.0,
+          "hq_country": "Mozambique"
+        },
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 10.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 10.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000001034",
+          "name": "PTT Exploration and Production PCL",
+          "ownership_share": 8.5,
+          "hq_country": "Thailand"
+        },
+        {
+          "entity_id": "E100001015060",
+          "name": "Ministry of Petroleum and Natural Gas (India)",
+          "ownership_share": 10.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "Mozambique"
+      ],
+      "project_name": "Mozambique LNG Gas Pipeline"
+    },
+    {
+      "asset_id": "P6088",
+      "location_id": "P6088",
+      "asset_name": "Mumbai Uran LPG Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 16065.75,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mumbai_Uran_LPG_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P6088",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mumbai Uran LPG Pipeline"
+    },
+    {
+      "asset_id": "P0956",
+      "location_id": "P0956",
+      "asset_name": "Vadinar-Bina Crude Oil Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 156641.1,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Vadinar-Bina_Crude_Oil_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0956",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000000509",
+          "name": "Bharat Petroleum Corporation Ltd",
+          "ownership_share": 74.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000781",
+          "name": "OQ SAOC",
+          "ownership_share": 26.0,
+          "hq_country": "Oman"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Vadinar-Bina Crude Oil Pipeline"
+    }
+  ]
+}

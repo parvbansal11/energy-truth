@@ -1,0 +1,25 @@
+{
+  "entity_id": "E100000000524",
+  "name": "Oil and Natural Gas Corporation",
+  "full_name": "Oil and Natural Gas Corporation Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Delhi",
+  "registration_country": "India",
+  "home_page": "https://www.ongcindia.com/",
+  "external_ids": {
+    "lei": "335800FPDZ9MRSNO7N41",
+    "permid": "4295872684"
+  },
+  "url": "/entities/E100000000524",
+  "owners_url": "/entities/E100000000524/owners",
+  "owned_url": "/entities/E100000000524/owned",
+  "trace_up_url": "/entities/E100000000524/trace/up",
+  "trace_down_url": "/entities/E100000000524/trace/down",
+  "graph_up_url": "/entities/E100000000524/graph/up",
+  "graph_down_url": "/entities/E100000000524/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100000000524&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100000000524"
+}

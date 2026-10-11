@@ -35,6 +35,9 @@ type Ctx = {
   theme: "dark" | "light"; toggleTheme: () => void;
   panel: "score" | "agent" | "plant"; setPanel: (p: "score" | "agent" | "plant") => void;
   reportUrl?: string; setReportUrl: (u?: string) => void;
+  year: string; setYear: (y: string) => void; // Climate TRACE year drawn on the map
+  excluded: Set<string>; toggleExclude: (assetId: string) => void; clearExcluded: () => void; // what-if: plants left out of the rebuild
+  liveAdd: boolean; reload: (selectSymbol?: string) => Promise<void>;
 };
 
 const C = createContext<Ctx | null>(null);
@@ -64,25 +67,30 @@ export function AppProvider({ children, initialCompany }: { children: ReactNode;
   const [theme, setTheme] = useState(initialTheme);
   const [panel, setPanel] = useState<"score" | "agent" | "plant">("score");
   const [reportUrl, setReportUrl] = useState<string>();
+  const [year, setYear] = useState("2024");
+  const [excluded, setExcluded] = useState<Set<string>>(new Set());
+  const [liveAdd, setLiveAdd] = useState(false);
   const ws = useRef<WebSocket | null>(null);
   const cmdId = useRef(0);
 
 
-  useEffect(() => {
-    Promise.all([api.meta(), api.companies()])
-      .then(async ([m, cs]) => {
-        setMeta(m);
-        setCompanies(cs);
-        const all = await Promise.all(cs.map((c) => Promise.all([api.assets(c.symbol), api.scorecard(c.symbol)])));
-        setAssetsBy(Object.fromEntries(cs.map((c, i) => [c.symbol, all[i][0]])));
-        setScorecards(Object.fromEntries(cs.map((c, i) => [c.symbol, all[i][1]])));
-      })
-      .catch((e) => setLoadError(String(e.message || e)));
+  const load = useCallback(async () => {
+    const [m, cs] = await Promise.all([api.meta(), api.companies()]);
+    setMeta(m);
+    setCompanies(cs);
+    const all = await Promise.all(cs.map((c) => Promise.all([api.assets(c.symbol), api.scorecard(c.symbol)])));
+    setAssetsBy(Object.fromEntries(cs.map((c, i) => [c.symbol, all[i][0]])));
+    setScorecards(Object.fromEntries(cs.map((c, i) => [c.symbol, all[i][1]])));
   }, []);
+  useEffect(() => {
+    load().catch((e) => setLoadError(String(e.message || e)));
+    api.health().then((h) => setLiveAdd(Boolean(h.live_add))).catch(() => {});
+  }, [load]);
 
   const command = useCallback((c: Omit<MapCommand, "id">) => setMapCmd({ ...c, id: ++cmdId.current }), []);
   const select = useCallback((s: string) => {
     setSelected(s);
+    setExcluded(new Set());
     setPlant(undefined);
     setHighlight([]);
     setReportUrl(undefined);
@@ -150,10 +158,13 @@ export function AppProvider({ children, initialCompany }: { children: ReactNode;
   const toggleTheme = useCallback(() => setTheme((t) => (t === "dark" ? "light" : "dark")), []);
 
   const assets = useMemo(() => Object.values(assetsBy).flat(), [assetsBy]);
+  const toggleExclude = useCallback((id: string) => setExcluded((e) => { const n = new Set(e); if (n.has(id)) n.delete(id); else n.add(id); return n; }), []);
+  const clearExcluded = useCallback(() => setExcluded(new Set()), []);
+  const reload = useCallback(async (sym?: string) => { await load(); if (sym) select(sym); }, [load, select]);
   const value: Ctx = {
     meta, companies, loadError, selected, select, scorecard: scorecards[selected], scorecards, assets, assetsBy, plant, openPlant,
     evidenceIds, openEvidence, evidenceTitle, layers, setLayers, highlight, alertIds, mapCmd, command, audit, startAudit, resume, closeAudit, theme, toggleTheme,
-    panel, setPanel, reportUrl, setReportUrl,
+    panel, setPanel, reportUrl, setReportUrl, year, setYear, excluded, toggleExclude, clearExcluded, liveAdd, reload,
   };
   return <C.Provider value={value}>{children}</C.Provider>;
 }

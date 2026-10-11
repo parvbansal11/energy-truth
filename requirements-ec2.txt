@@ -1,0 +1,8 @@
+# EC2 runtime: the API plus what Lambda cannot carry (Chronos-2 on CPU, PDF parsing for live companies).
+# torch (CPU wheel) is installed first by et-release from download.pytorch.org/whl/cpu.
+-r apps/api/requirements.txt
+uvicorn[standard]>=0.30
+websockets>=12
+chronos-forecasting>=2.3
+pypdf>=5
+pdfplumber>=0.11

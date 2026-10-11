@@ -1,0 +1,118 @@
+{
+  "total": 4,
+  "total_asset_count": 4,
+  "total_location_count": 2,
+  "limit": 200,
+  "offset": 0,
+  "count": 4,
+  "results": [
+    {
+      "asset_id": "P100000120548_U100000143639",
+      "location_id": "P100000120548",
+      "asset_name": "NMDC Karnataka steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.186288,
+      "longitude": 76.916591,
+      "wiki_url": "https://www.gem.wiki/NMDC_Karnataka_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120548_U100000143639",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100002004554",
+          "name": "NMDC Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "NMDC Karnataka steel plant"
+    },
+    {
+      "asset_id": "P100000120523_U100000141035",
+      "location_id": "P100000120523",
+      "asset_name": "NMDC Nagarnar steel plant BF 1",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3321.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 19.0931901,
+      "longitude": 82.17,
+      "wiki_url": "https://www.gem.wiki/NMDC_Nagarnar_steel_plant",
+      "unit_name": "BF 1",
+      "url": "/assets/P100000120523_U100000141035",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100002004554",
+          "name": "NMDC Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "NMDC Nagarnar steel plant"
+    },
+    {
+      "asset_id": "P100000120523_U100000143607",
+      "location_id": "P100000120523",
+      "asset_name": "NMDC Nagarnar steel plant unknown BOF (1)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 19.0931901,
+      "longitude": 82.17,
+      "wiki_url": "https://www.gem.wiki/NMDC_Nagarnar_steel_plant",
+      "unit_name": "unknown BOF (1)",
+      "url": "/assets/P100000120523_U100000143607",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100002004554",
+          "name": "NMDC Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "NMDC Nagarnar steel plant"
+    },
+    {
+      "asset_id": "P100000120523_U100000143608",
+      "location_id": "P100000120523",
+      "asset_name": "NMDC Nagarnar steel plant unknown BOF (2)",
+      "asset_type": "Iron & Steel Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1500.0,
+      "capacity_unit": "ttpa",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 19.0931901,
+      "longitude": 82.17,
+      "wiki_url": "https://www.gem.wiki/NMDC_Nagarnar_steel_plant",
+      "unit_name": "unknown BOF (2)",
+      "url": "/assets/P100000120523_U100000143608",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100002004554",
+          "name": "NMDC Steel Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "NMDC Nagarnar steel plant"
+    }
+  ]
+}

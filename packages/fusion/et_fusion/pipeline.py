@@ -17,7 +17,7 @@ from et_core.evidence import Evidence, EvidenceLedger, evidence_id, now_iso
 from et_core.store import store
 from et_connectors import brsr, cea, gibs, robbie
 from et_connectors.ingest import build_company
-from et_connectors.registry import COMPANIES, COMPARE_FY, CT_YEARS
+from et_connectors.registry import COMPANIES, COMPARE_FY, CT_YEARS, company_symbols
 
 from .alignment import ALIGNMENT_RULE, fy_months, fy_sum
 from .estimators import LOW_COVERAGE, reported_sigma, scope1_independent, scope2_independent
@@ -26,8 +26,16 @@ from .fusion import discrepancy_z, inverse_variance, verdict
 PROFILE_SECTOR = {"coal": "coal", "mixed fossil": "coal", "gas": "gas", "steel": "steel", "cement": "cement", "coal-mining": "coal-mining"}
 
 
+_listeners: list = []  # live "add company" jobs subscribe to progress lines
+
+
 def log(msg: str) -> None:
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
+    for f in list(_listeners):
+        try:
+            f(msg)
+        except Exception:
+            pass
 
 
 # ------------------------------------------------------------------ monthly plant series (T1 targets)
@@ -44,7 +52,9 @@ def plant_monthly(asset: dict, posoco_m: pd.DataFrame, monthly: pd.DataFrame) ->
     return robbie.calibrated_monthly(annual, prof), tag
 
 
-def run(refresh: bool = False, skip_forecast: bool = False) -> dict:
+def run(refresh: bool = False, skip_forecast: bool = False, only: list[str] | None = None) -> dict:
+    """Full run, or `only=[symbols]`: build just those companies and merge them into the stored tables
+    (national grid forecasts, map layers and plant clusters are reused, not recomputed)."""
     ledger = EvidenceLedger()
     ef, ef_version, ef_ev = cea.grid_factor()
     ledger.add(ef_ev)
@@ -61,7 +71,7 @@ def run(refresh: bool = False, skip_forecast: bool = False) -> dict:
 
     # ---------------- P1: entity graph
     companies, assets, ownership = [], [], []
-    for sym in settings.demo_companies:
+    for sym in (only or company_symbols()):
         if sym not in COMPANIES:
             continue
         log(f"P1 · entity graph {sym}")
@@ -73,18 +83,20 @@ def run(refresh: bool = False, skip_forecast: bool = False) -> dict:
     # ---------------- P1: grid-region geometry for the choropleth
     from et_connectors.geo import region_states
 
-    regions_geo, ev_geo = region_states(refresh=refresh)
-    ledger.add(ev_geo)
+    regions_geo, layers = None, None
+    if not only:
+        regions_geo, ev_geo = region_states(refresh=refresh)
+        ledger.add(ev_geo)
 
-    # ---------------- P1: GIBS layers
-    log("P1 · GIBS layer probe")
-    try:
-        layers, layer_evs = gibs.probe_layers()
-        for e in layer_evs:
-            ledger.add(e)
-    except Exception as e:  # recorded; UI hides layers it cannot date
-        layers = {}
-        log(f"GIBS probe failed: {e}")
+        # ---------------- P1: GIBS layers
+        log("P1 · GIBS layer probe")
+        try:
+            layers, layer_evs = gibs.probe_layers()
+            for e in layer_evs:
+                ledger.add(e)
+        except Exception as e:  # recorded; UI hides layers it cannot date
+            layers = {}
+            log(f"GIBS probe failed: {e}")
 
     # ---------------- monthly plant series
     series: dict[str, pd.Series] = {}
@@ -139,7 +151,7 @@ def run(refresh: bool = False, skip_forecast: bool = False) -> dict:
 
         H = max(settings.chronos_horizon, 6)
         log(f"P4 · T3 grid intensity forecasts ({backend_name()})")
-        for region in ["India", *[r for r in ["NR", "WR", "SR", "ER", "NER"]]]:
+        for region in ([] if only else ["India", *[r for r in ["NR", "WR", "SR", "ER", "NER"]]]):
             tgt = gi[region].dropna()
             cov = covariates(posoco_m, region).loc[tgt.index]
             fut = future_covariates(covariates(posoco_m, region), tgt.index[-1] + 1, H)
@@ -307,7 +319,7 @@ def run(refresh: bool = False, skip_forecast: bool = False) -> dict:
 
     # ---------------- T4 multivariate plant cluster (top 5 plants, NTPC + Tata)
     clusters = {}
-    if not skip_forecast:
+    if not skip_forecast and not only:
         for sym in ["NTPC", "TATASTEEL"]:
             top = sorted([a for a in assets if a["company"] == sym and a["ct"]], key=lambda a: -a["ct"]["emissions_t"].get(str(max(CT_YEARS)), 0))[:5]
             if len(top) >= 2:
@@ -317,6 +329,8 @@ def run(refresh: bool = False, skip_forecast: bool = False) -> dict:
 
     # ---------------- persist
     ev_rows = ledger.to_list()
+    if only:
+        return _merge(only, companies, assets, ownership, disclosures, estimates, scorecards, forecasts, alerts, ev_rows)
     store.write("companies", companies)
     store.write("assets", assets, compact=True)
     store.write("ownership", ownership)
@@ -332,13 +346,42 @@ def run(refresh: bool = False, skip_forecast: bool = False) -> dict:
     store.write("manifest", {"generated_at": now_iso(), "compare_fy": COMPARE_FY, "ct_years": CT_YEARS, "ef": ef, "ef_version": ef_version,
                              "companies": [c["symbol"] for c in companies], "counts": {"assets": len(assets), "evidence": len(ev_rows), "estimates": len(estimates), "alerts": len(alerts)}})
     # DynamoDB mirror (no-op locally)
-    store.put_rows("Company", [{**c, "CIN": c["cin"]} for c in companies], "cin", "symbol")
+    store.put_rows("Company", [{**c, "CIN": c.get("cin") or c["symbol"]} for c in companies], "CIN", "symbol")
     store.put_rows("Asset", assets, "asset_id", "company")
     store.put_rows("Ownership", ownership, "company", "asset_id")
     store.put_rows("Estimate", estimates, "company", "estimate_id")
     store.put_rows("Alert", alerts, "company", "alert_id")
     log(f"done · {len(companies)} companies, {len(assets)} assets, {len(ev_rows)} evidence, {len(alerts)} alerts")
     return {"scorecards": scorecards}
+
+
+def _merge(only, companies, assets, ownership, disclosures, estimates, scorecards, forecasts, alerts, ev_rows) -> dict:
+    """Replace the rows of `only` companies in the stored tables, keep everything else."""
+    keep = lambda rows, key: [r for r in (store.read(rows) or []) if r.get(key) not in only]
+    companies = keep("companies", "symbol") + companies
+    assets_all = keep("assets", "company") + assets
+    store.write("companies", companies)
+    store.write("assets", assets_all, compact=True)
+    store.write("ownership", keep("ownership", "company") + ownership)
+    store.write("disclosures", keep("disclosures", "company") + disclosures)
+    store.write("estimates", keep("estimates", "company") + estimates)
+    store.write("scorecards", keep("scorecards", "symbol") + scorecards)
+    store.write("alerts", keep("alerts", "company") + alerts)
+    fc = store.read("forecasts") or {"assets": {}, "clusters": {}}
+    fc["assets"] = {**fc.get("assets", {}), **forecasts}
+    store.write("forecasts", fc)
+    ev = {e["id"]: e for e in (store.read("evidence") or [])}
+    ev.update({e["id"]: e for e in ev_rows})
+    store.write("evidence", list(ev.values()))
+    m = store.read("manifest") or {}
+    m.update({"updated_at": now_iso(), "companies": [c["symbol"] for c in companies],
+              "counts": {**m.get("counts", {}), "assets": len(assets_all), "evidence": len(ev)}})
+    store.write("manifest", m)
+    store.put_rows("Company", [{**c, "CIN": c.get("cin") or c["symbol"]} for c in companies if c["symbol"] in only], "CIN", "symbol")
+    store.put_rows("Asset", assets, "asset_id", "company")
+    store.put_rows("Estimate", estimates, "company", "estimate_id")
+    log(f"merged {', '.join(only)} · {len(assets)} assets, {len(ev_rows)} evidence")
+    return {"companies": only, "assets": len(assets), "scorecards": scorecards}
 
 
 if __name__ == "__main__":

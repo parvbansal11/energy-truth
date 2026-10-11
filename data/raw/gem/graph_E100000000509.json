@@ -1,0 +1,434 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100000000509",
+    "full_name": "Bharat Petroleum Corporation Ltd",
+    "name": "Bharat Petroleum Corporation",
+    "name_local": null,
+    "name_other": "BPCL Group",
+    "abbreviation": "BPCL",
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.bharatpetroleum.in/",
+    "registration_country": "India",
+    "registration_subdivision": "Mahārāshtra",
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Mahārāshtra",
+    "gem_parents": "Bharat Petroleum Corporation Ltd [100%]",
+    "gem_parents_ids": "E100000000509 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "8GRDBX1TJ0PU5NCSHT72",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L23220MH1952GOI008931",
+    "permid_refinitiv_permanent_identifier": "4295872490",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100000000509",
+      "full_name": "Bharat Petroleum Corporation Ltd",
+      "name": "Bharat Petroleum Corporation",
+      "name_local": null,
+      "name_other": "BPCL Group",
+      "abbreviation": "BPCL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.bharatpetroleum.in/",
+      "registration_country": "India",
+      "registration_subdivision": "Mahārāshtra",
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Mahārāshtra",
+      "gem_parents": "Bharat Petroleum Corporation Ltd [100%]",
+      "gem_parents_ids": "E100000000509 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "8GRDBX1TJ0PU5NCSHT72",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L23220MH1952GOI008931",
+      "permid_refinitiv_permanent_identifier": "4295872490",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002019501",
+      "full_name": "GSPL India Gasnet Ltd",
+      "name": "GSPL India Gasnet",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "GIGL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.gspcgroup.com/gigl/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Gujarat State Petronet Ltd [52.0%]; Indian Oil Corporation Ltd [26.0%]; Bharat Petroleum Corporation Ltd [11.0%]; Hindustan Petroleum Corporation Ltd [11.0%]",
+      "gem_parents_ids": "E100000153049 [52.0%]; E100000001918 [26.0%]; E100000000509 [11.0%]; E100000001917 [11.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800O8TI1KV9TFKI81",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5037349845",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0908",
+      "location_id": "P0908",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Bathinda-Jammu-Srinagar Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Punjab",
+      "capacity_value": 15.48,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Bathinda-Jammu-Srinagar_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Bathinda-Jammu-Srinagar Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0941",
+      "location_id": "P0941",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Mehsana-Bhatinda Gas Pipeline Phase I",
+      "unit_name": "Phase I",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 29.24,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Mehsana-Bhatinda_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Mehsana-Bhatinda Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P3855",
+      "location_id": "P3855",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Mozambique LNG Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": null,
+      "longitude": null,
+      "country": "Mozambique",
+      "state_province": null,
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Mozambique_LNG_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Mozambique LNG Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "Mozambique"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P5411",
+      "location_id": "P5411",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Mehsana-Bhatinda Gas Pipeline Phase II",
+      "unit_name": "Phase II",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 29.24,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Mehsana-Bhatinda_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Mehsana-Bhatinda Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0956",
+      "location_id": "P0956",
+      "unit_id": null,
+      "asset_type": "Oil or NGL Pipeline",
+      "asset_name": "Vadinar-Bina Crude Oil Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 156641.1,
+      "capacity_unit": "BOEd",
+      "wiki_url": "https://www.gem.wiki/Vadinar-Bina_Crude_Oil_Pipeline",
+      "source_id": 7,
+      "project_name": "Vadinar-Bina Crude Oil Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P6088",
+      "location_id": "P6088",
+      "unit_id": null,
+      "asset_type": "Oil or NGL Pipeline",
+      "asset_name": "Mumbai Uran LPG Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 16065.75,
+      "capacity_unit": "BOEd",
+      "wiki_url": "https://www.gem.wiki/Mumbai_Uran_LPG_Pipeline",
+      "source_id": 7,
+      "project_name": "Mumbai Uran LPG Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P2748",
+      "location_id": "P2748",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Langtala-Pachpadra Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 1.46,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Langtala-Pachpadra_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Langtala-Pachpadra Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100000000509",
+      "target": "E100002019501",
+      "value": 11.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000509",
+      "target": "P0908",
+      "value": 25.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000509",
+      "target": "P0941",
+      "value": 11.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000509",
+      "target": "P3855",
+      "value": 10.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000509",
+      "target": "P5411",
+      "value": 11.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000509",
+      "target": "P0956",
+      "value": 74.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000509",
+      "target": "P6088",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100002019501",
+      "target": "P2748",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    }
+  ],
+  "paths": {
+    "E100000000509": [
+      {
+        "route": [
+          "E100000000509"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002019501": [
+      {
+        "route": [
+          "E100000000509",
+          "E100002019501"
+        ],
+        "cumulative_pct": 11.0
+      }
+    ],
+    "P2748": [
+      {
+        "route": [
+          "E100000000509",
+          "E100002019501",
+          "P2748"
+        ],
+        "cumulative_pct": 11.0
+      }
+    ],
+    "P0908": [
+      {
+        "route": [
+          "E100000000509",
+          "P0908"
+        ],
+        "cumulative_pct": 25.0
+      }
+    ],
+    "P0941": [
+      {
+        "route": [
+          "E100000000509",
+          "P0941"
+        ],
+        "cumulative_pct": 11.0
+      }
+    ],
+    "P3855": [
+      {
+        "route": [
+          "E100000000509",
+          "P3855"
+        ],
+        "cumulative_pct": 10.0
+      }
+    ],
+    "P5411": [
+      {
+        "route": [
+          "E100000000509",
+          "P5411"
+        ],
+        "cumulative_pct": 11.0
+      }
+    ],
+    "P0956": [
+      {
+        "route": [
+          "E100000000509",
+          "P0956"
+        ],
+        "cumulative_pct": 74.0
+      }
+    ],
+    "P6088": [
+      {
+        "route": [
+          "E100000000509",
+          "P6088"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "P0956",
+    "P6088",
+    "P2748",
+    "P3855",
+    "P0908",
+    "P0941",
+    "P5411"
+  ],
+  "truncated_node_ids": []
+}

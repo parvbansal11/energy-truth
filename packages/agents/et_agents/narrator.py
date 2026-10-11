@@ -61,15 +61,13 @@ def template_narrative(state: dict, facts: list[dict]) -> str:
     return " ".join(parts)
 
 
-def nova_narrative(state: dict, facts: list[dict]) -> str:
-    import boto3
+def llm_narrative(state: dict, facts: list[dict]) -> tuple[str, str]:
+    from et_core.llm import complete
 
     prompt = ("Write a 5-7 sentence audit note for an ESG analyst using ONLY these facts. Copy numbers exactly. "
               "End each sentence with the citation tag of the fact it uses, e.g. [ev_x_0123456789]. No other numbers. "
               "Do not accuse the company; explain uncertainty and coverage.\nFACTS:\n" + json.dumps([{"fact": x["text"], "cite": x["cite"]} for x in facts], indent=1))
-    r = boto3.client("bedrock-runtime", region_name=settings.region).converse(
-        modelId=settings.bedrock_text_model, messages=[{"role": "user", "content": [{"text": prompt}]}], inferenceConfig={"maxTokens": 700, "temperature": 0.2})
-    return r["output"]["message"]["content"][0]["text"].strip()
+    return complete(prompt, max_tokens=900, temperature=0.2)
 
 
 def citation_lock(text: str, facts: list[dict], allowed_ids: set[str]) -> tuple[str, list[str]]:
@@ -91,12 +89,13 @@ def explain(state: dict) -> dict:
     allowed = set(state.get("evidence", {}).keys())
     engine = "template"
     text = template_narrative(state, facts)
-    if settings.bedrock_enabled:
-        try:
-            text = nova_narrative(state, facts)
-            engine = f"bedrock:{settings.bedrock_text_model}"
-        except Exception:
-            engine = "template (bedrock call failed)"
+    try:
+        text, engine = llm_narrative(state, facts)
+    except Exception:
+        engine = "template (no AI provider answered)"
     locked, dropped = citation_lock(text, facts, allowed)
+    if not locked.strip():  # the AI note failed the citation lock entirely: fall back to the template
+        text, engine = template_narrative(state, facts), engine + " -> template (citation lock)"
+        locked, dropped = citation_lock(text, facts, allowed)
     claims = [{"text": x["text"], "evidence_id": x["cite"]} for x in facts]
     return {"narrative": locked, "engine": engine, "dropped_sentences": dropped, "claims": claims}

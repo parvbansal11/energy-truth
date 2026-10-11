@@ -1,0 +1,26 @@
+{
+  "entity_id": "E100001000439",
+  "name": "Jindal Steel",
+  "full_name": "Jindal Steel Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Delhi",
+  "registration_country": "India",
+  "home_page": "https://www.jindalsteel.com/",
+  "external_ids": {
+    "lei": "335800UIKQBF6QO2NP15",
+    "permid": "4295874065",
+    "india_cin": "L27105HR1979PLC009913"
+  },
+  "url": "/entities/E100001000439",
+  "owners_url": "/entities/E100001000439/owners",
+  "owned_url": "/entities/E100001000439/owned",
+  "trace_up_url": "/entities/E100001000439/trace/up",
+  "trace_down_url": "/entities/E100001000439/trace/down",
+  "graph_up_url": "/entities/E100001000439/graph/up",
+  "graph_down_url": "/entities/E100001000439/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100001000439&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100001000439"
+}

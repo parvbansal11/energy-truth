@@ -21,3 +21,11 @@
 - **CEA V21/V22 factors are login-walled.** V20 (0.727) is pinned and flagged `EF_YEAR_MISMATCH` for FY2024-25.
 - **The FIRMS MAP_KEY is absent**, so the thermal-anomaly layer is not shipped (plan §15 fallback).
 - **One low-score entity match each** for NTPC (Barauni, unmatched) and Tata (four iron-ore mines) awaits human review. The agent pauses on them by design.
+
+## 2026-10-10 · AWS secret key rejected — RESOLVED (new key from the IAM CSV validates as energy-truth-admin)
+- `sts get-caller-identity` returns `SignatureDoesNotMatch`: the access key ID is valid but the secret in `X.env` does not match it (format and clock checked). Human: create a new access key for the IAM user, update `X.env`/the `energy-truth` profile, then `make deploy`.
+
+## 2026-10-10 · Bedrock blocked at account level
+- Every Nova/Titan call returns `ValidationException: Operation not allowed`; `get_foundation_model_availability` says `authorizationStatus: NOT_AUTHORIZED` although IAM (AdministratorAccess) allows `bedrock:InvokeModel`. This is AWS's new-account restriction.
+- Fallback in use: rules-based BRSR extraction, trigram entity resolution, template narrator. Bedrock turns on automatically (`BEDROCK_ENABLED=auto`) once lifted.
+- Human: open AWS Support → Account and billing → "Bedrock: Operation not allowed on new account 950177940759, please enable model access".

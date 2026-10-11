@@ -1,0 +1,916 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100000000522",
+    "full_name": "National Aluminium Co Ltd",
+    "name": "National Aluminium",
+    "name_local": null,
+    "name_other": "National Aluminum",
+    "abbreviation": "NALCO",
+    "entity_type": "legal entity",
+    "legal_entity_type": "Co Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://nalcoindia.com/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Odisha",
+    "gem_parents": "National Aluminium Co Ltd [100%]",
+    "gem_parents_ids": "E100000000522 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800OM1V78CX7SSC72",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L27203OR1981GOI000920",
+    "permid_refinitiv_permanent_identifier": "4295872611",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100000000522",
+      "full_name": "National Aluminium Co Ltd",
+      "name": "National Aluminium",
+      "name_local": null,
+      "name_other": "National Aluminum",
+      "abbreviation": "NALCO",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Co Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://nalcoindia.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Odisha",
+      "gem_parents": "National Aluminium Co Ltd [100%]",
+      "gem_parents_ids": "E100000000522 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800OM1V78CX7SSC72",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L27203OR1981GOI000920",
+      "permid_refinitiv_permanent_identifier": "4295872611",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000003052",
+      "full_name": "GACL-NALCO Alkalies and Chemicals Pvt Ltd",
+      "name": "GACL-NALCO Alkalies and Chemicals",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "GNAL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pvt Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.gnal.co.in/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Gujarāt",
+      "gem_parents": "Gujarat Alkalies & Chemicals Ltd [60.0%]; National Aluminium Co Ltd [40.0%]",
+      "gem_parents_ids": "E100001011714 [60.0%]; E100000000522 [40.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800Z839TXGQWEKG94",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U24100GJ2015PTC085247",
+      "permid_refinitiv_permanent_identifier": "5067164862",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120480",
+      "full_name": "Gajamara Power Project ",
+      "name": "Gajamara Power Project",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": null,
+      "publiclylisted": null,
+      "home_page": null,
+      "registration_country": null,
+      "registration_subdivision": null,
+      "headquarters_country": null,
+      "headquarters_subdivision": null,
+      "gem_parents": "National Aluminium Co Ltd; NTPC Ltd",
+      "gem_parents_ids": "E100000000522; E100000001926",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": null,
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "not found",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100216",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100216",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100217",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100217",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 10",
+      "unit_name": "Unit 10",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100218",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100218",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 11",
+      "unit_name": "Unit 11",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100219",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100219",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 12",
+      "unit_name": "Unit 12",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100220",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100220",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100221",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100221",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100222",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100222",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100223",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100223",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100224",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100224",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100225",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100225",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 7",
+      "unit_name": "Unit 7",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100226",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100226",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 8",
+      "unit_name": "Unit 8",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102443_G100000100227",
+      "location_id": "L100000102443",
+      "unit_id": "G100000100227",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Smelter power station Unit 9",
+      "unit_name": "Unit 9",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Angul Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M6716",
+      "location_id": "M6716",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Utkal D and E Coal Mines",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.883333,
+      "longitude": 84.3333,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Utkal_D_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Utkal D and E Coal Mines",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104976_G100000115741",
+      "location_id": "L100000104976",
+      "unit_id": "G100000115741",
+      "asset_type": "Coal Plant",
+      "asset_name": "GACL-NALCO Dahej Caustic captive power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.710191,
+      "longitude": 72.690406,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 65.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/GACL-NALCO_Dahej_Caustic_captive_power_station",
+      "source_id": 2,
+      "project_name": "GACL-NALCO Dahej Caustic captive power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104976_G100000115742",
+      "location_id": "L100000104976",
+      "unit_id": "G100000115742",
+      "asset_type": "Coal Plant",
+      "asset_name": "GACL-NALCO Dahej Caustic captive power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.710191,
+      "longitude": 72.690406,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 65.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/GACL-NALCO_Dahej_Caustic_captive_power_station",
+      "source_id": 2,
+      "project_name": "GACL-NALCO Dahej Caustic captive power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000407602_G100000409919",
+      "location_id": "L100000407602",
+      "unit_id": "G100000409919",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "GACL Dahej Caustic Captive power plant 1.0",
+      "unit_name": "1.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.70975,
+      "longitude": 72.690402,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 113.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/GACL_Dahej_Caustic_Captive_power_plant",
+      "source_id": 4,
+      "project_name": "GACL Dahej Caustic Captive power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102482_G100000112745",
+      "location_id": "L100000102482",
+      "unit_id": "G100000112745",
+      "asset_type": "Coal Plant",
+      "asset_name": "NALCO Gajmara power station Phase I",
+      "unit_name": "Phase I",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.65616,
+      "longitude": 85.604263,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1400.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/NALCO_Gajmara_power_station",
+      "source_id": 2,
+      "project_name": "NALCO Gajmara power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102482_G100000113125",
+      "location_id": "L100000102482",
+      "unit_id": "G100000113125",
+      "asset_type": "Coal Plant",
+      "asset_name": "NALCO Gajmara power station Phase II",
+      "unit_name": "Phase II",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.65616,
+      "longitude": 85.604263,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/NALCO_Gajmara_power_station",
+      "source_id": 2,
+      "project_name": "NALCO Gajmara power station",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100000000522",
+      "target": "E100000003052",
+      "value": 40.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "E100000120480",
+      "value": 50.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100216",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100217",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100218",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100219",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100220",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100221",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100222",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100223",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100224",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100225",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100226",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "L100000102443_G100000100227",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000522",
+      "target": "M6716",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000003052",
+      "target": "L100000104976_G100000115741",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000003052",
+      "target": "L100000104976_G100000115742",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000003052",
+      "target": "L100000407602_G100000409919",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120480",
+      "target": "L100000102482_G100000112745",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000120480",
+      "target": "L100000102482_G100000113125",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    }
+  ],
+  "paths": {
+    "E100000000522": [
+      {
+        "route": [
+          "E100000000522"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000003052": [
+      {
+        "route": [
+          "E100000000522",
+          "E100000003052"
+        ],
+        "cumulative_pct": 40.0
+      }
+    ],
+    "L100000104976_G100000115741": [
+      {
+        "route": [
+          "E100000000522",
+          "E100000003052",
+          "L100000104976_G100000115741"
+        ],
+        "cumulative_pct": 40.0
+      }
+    ],
+    "L100000104976_G100000115742": [
+      {
+        "route": [
+          "E100000000522",
+          "E100000003052",
+          "L100000104976_G100000115742"
+        ],
+        "cumulative_pct": 40.0
+      }
+    ],
+    "L100000407602_G100000409919": [
+      {
+        "route": [
+          "E100000000522",
+          "E100000003052",
+          "L100000407602_G100000409919"
+        ],
+        "cumulative_pct": 40.0
+      }
+    ],
+    "E100000120480": [
+      {
+        "route": [
+          "E100000000522",
+          "E100000120480"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102482_G100000112745": [
+      {
+        "route": [
+          "E100000000522",
+          "E100000120480",
+          "L100000102482_G100000112745"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102482_G100000113125": [
+      {
+        "route": [
+          "E100000000522",
+          "E100000120480",
+          "L100000102482_G100000113125"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000102443_G100000100216": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100216"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100217": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100217"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100218": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100218"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100219": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100219"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100220": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100220"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100221": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100221"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100222": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100222"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100223": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100223"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100224": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100224"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100225": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100225"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100226": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100226"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102443_G100000100227": [
+      {
+        "route": [
+          "E100000000522",
+          "L100000102443_G100000100227"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M6716": [
+      {
+        "route": [
+          "E100000000522",
+          "M6716"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "L100000102443_G100000100218",
+    "L100000102443_G100000100216",
+    "L100000102443_G100000100223",
+    "L100000102443_G100000100225",
+    "L100000102443_G100000100217",
+    "L100000102443_G100000100227",
+    "L100000102482_G100000112745",
+    "M6716",
+    "L100000104976_G100000115741",
+    "L100000104976_G100000115742",
+    "L100000102482_G100000113125",
+    "L100000102443_G100000100220",
+    "L100000102443_G100000100222",
+    "L100000102443_G100000100221",
+    "L100000407602_G100000409919",
+    "L100000102443_G100000100224",
+    "L100000102443_G100000100226",
+    "L100000102443_G100000100219"
+  ],
+  "truncated_node_ids": []
+}

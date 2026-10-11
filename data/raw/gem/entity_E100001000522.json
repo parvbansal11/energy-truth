@@ -1,0 +1,25 @@
+{
+  "entity_id": "E100001000522",
+  "name": "JSW Energy",
+  "full_name": "JSW Energy Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Mahārāshtra",
+  "registration_country": "India",
+  "home_page": "https://www.jsw.in/energy",
+  "external_ids": {
+    "lei": "3358001ZFBW2VIMBMI85",
+    "permid": "4298036035"
+  },
+  "url": "/entities/E100001000522",
+  "owners_url": "/entities/E100001000522/owners",
+  "owned_url": "/entities/E100001000522/owned",
+  "trace_up_url": "/entities/E100001000522/trace/up",
+  "trace_down_url": "/entities/E100001000522/trace/down",
+  "graph_up_url": "/entities/E100001000522/graph/up",
+  "graph_down_url": "/entities/E100001000522/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100001000522&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100001000522"
+}

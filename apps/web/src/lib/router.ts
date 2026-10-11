@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 
-export type Page = "landing" | "map" | "grid" | "alerts" | "reports" | "methodology" | "eval" | "whatif";
+export type Page = "landing" | "map" | "compare" | "grid" | "alerts" | "reports" | "methodology" | "eval" | "whatif";
 export type Route = { page: Page; company?: string };
-const PAGES: Page[] = ["map", "grid", "alerts", "reports", "methodology", "eval", "whatif"];
+const PAGES: Page[] = ["map", "compare", "grid", "alerts", "reports", "methodology", "eval", "whatif"];
 
 export function parse(hash = location.hash): Route {
   const [, page = "", company] = hash.replace(/^#/, "").split("/");

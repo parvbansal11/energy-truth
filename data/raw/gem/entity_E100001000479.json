@@ -1,0 +1,27 @@
+{
+  "entity_id": "E100001000479",
+  "name": "Vedanta",
+  "full_name": "Vedanta Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Mahārāshtra",
+  "registration_country": "India",
+  "home_page": "https://www.vedantalimited.com/",
+  "external_ids": {
+    "lei": "335800XDKX9KB5EMCO07",
+    "permid": "4295872982",
+    "sp_capital_iq": "878252",
+    "india_cin": "L13209MH1965PLC291394"
+  },
+  "url": "/entities/E100001000479",
+  "owners_url": "/entities/E100001000479/owners",
+  "owned_url": "/entities/E100001000479/owned",
+  "trace_up_url": "/entities/E100001000479/trace/up",
+  "trace_down_url": "/entities/E100001000479/trace/down",
+  "graph_up_url": "/entities/E100001000479/graph/up",
+  "graph_down_url": "/entities/E100001000479/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100001000479&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100001000479"
+}

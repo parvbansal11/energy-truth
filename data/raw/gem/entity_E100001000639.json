@@ -1,0 +1,26 @@
+{
+  "entity_id": "E100001000639",
+  "name": "Ambuja Cements",
+  "full_name": "Ambuja Cements Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Mahārāshtra",
+  "registration_country": "India",
+  "home_page": "https://www.ambujacement.com/",
+  "external_ids": {
+    "lei": "335800NT6LQHR1428E20",
+    "permid": "4295873304",
+    "india_cin": "L26942GJ1981PLC004717"
+  },
+  "url": "/entities/E100001000639",
+  "owners_url": "/entities/E100001000639/owners",
+  "owned_url": "/entities/E100001000639/owned",
+  "trace_up_url": "/entities/E100001000639/trace/up",
+  "trace_down_url": "/entities/E100001000639/trace/down",
+  "graph_up_url": "/entities/E100001000639/graph/up",
+  "graph_down_url": "/entities/E100001000639/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100001000639&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100001000639"
+}

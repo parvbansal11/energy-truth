@@ -1,0 +1,496 @@
+{
+  "total": 18,
+  "total_asset_count": 18,
+  "total_location_count": 5,
+  "limit": 200,
+  "offset": 0,
+  "count": 18,
+  "results": [
+    {
+      "asset_id": "L100000102443_G100000100216",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102443_G100000100216",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100217",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 10",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 10",
+      "url": "/assets/L100000102443_G100000100217",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100218",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 11",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 11",
+      "url": "/assets/L100000102443_G100000100218",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100219",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 12",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 12",
+      "url": "/assets/L100000102443_G100000100219",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100220",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102443_G100000100220",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100221",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102443_G100000100221",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100222",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102443_G100000100222",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100223",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102443_G100000100223",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100224",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102443_G100000100224",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100225",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102443_G100000100225",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100226",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102443_G100000100226",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000102443_G100000100227",
+      "location_id": "L100000102443",
+      "asset_name": "Angul Smelter power station Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 120.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.8490264,
+      "longitude": 85.1902199,
+      "wiki_url": "https://www.gem.wiki/Angul_Smelter_power_station",
+      "unit_name": "Unit 9",
+      "url": "/assets/L100000102443_G100000100227",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Angul Smelter power station"
+    },
+    {
+      "asset_id": "L100000407602_G100000409919",
+      "location_id": "L100000407602",
+      "asset_name": "GACL Dahej Caustic Captive power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 113.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.70975,
+      "longitude": 72.690402,
+      "wiki_url": "https://www.gem.wiki/GACL_Dahej_Caustic_Captive_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407602_G100000409919",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000003052",
+          "name": "GACL-NALCO Alkalies and Chemicals Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "GACL Dahej Caustic Captive power plant"
+    },
+    {
+      "asset_id": "L100000104976_G100000115741",
+      "location_id": "L100000104976",
+      "asset_name": "GACL-NALCO Dahej Caustic captive power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 65.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.710191,
+      "longitude": 72.690406,
+      "wiki_url": "https://www.gem.wiki/GACL-NALCO_Dahej_Caustic_captive_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000104976_G100000115741",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000003052",
+          "name": "GACL-NALCO Alkalies and Chemicals Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "GACL-NALCO Dahej Caustic captive power station"
+    },
+    {
+      "asset_id": "L100000104976_G100000115742",
+      "location_id": "L100000104976",
+      "asset_name": "GACL-NALCO Dahej Caustic captive power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 65.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.710191,
+      "longitude": 72.690406,
+      "wiki_url": "https://www.gem.wiki/GACL-NALCO_Dahej_Caustic_captive_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000104976_G100000115742",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100000003052",
+          "name": "GACL-NALCO Alkalies and Chemicals Pvt Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "GACL-NALCO Dahej Caustic captive power station"
+    },
+    {
+      "asset_id": "L100000102482_G100000112745",
+      "location_id": "L100000102482",
+      "asset_name": "NALCO Gajmara power station Phase I",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1400.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.65616,
+      "longitude": 85.604263,
+      "wiki_url": "https://www.gem.wiki/NALCO_Gajmara_power_station",
+      "unit_name": "Phase I",
+      "url": "/assets/L100000102482_G100000112745",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120480",
+          "name": "Gajamara Power Project",
+          "ownership_share": 100.0,
+          "hq_country": null
+        }
+      ],
+      "project_name": "NALCO Gajmara power station"
+    },
+    {
+      "asset_id": "L100000102482_G100000113125",
+      "location_id": "L100000102482",
+      "asset_name": "NALCO Gajmara power station Phase II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1000.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.65616,
+      "longitude": 85.604263,
+      "wiki_url": "https://www.gem.wiki/NALCO_Gajmara_power_station",
+      "unit_name": "Phase II",
+      "url": "/assets/L100000102482_G100000113125",
+      "upstream_entity_count": 6,
+      "owners": [
+        {
+          "entity_id": "E100000120480",
+          "name": "Gajamara Power Project",
+          "ownership_share": 100.0,
+          "hq_country": null
+        }
+      ],
+      "project_name": "NALCO Gajmara power station"
+    },
+    {
+      "asset_id": "M6716",
+      "location_id": "M6716",
+      "asset_name": "Utkal D and E Coal Mines",
+      "asset_type": "Coal Mine",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.883333,
+      "longitude": 84.3333,
+      "wiki_url": "https://www.gem.wiki/Utkal_D_Coal_Mine",
+      "unit_name": null,
+      "url": "/assets/M6716",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000522",
+          "name": "National Aluminium Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Utkal D and E Coal Mines"
+    }
+  ]
+}

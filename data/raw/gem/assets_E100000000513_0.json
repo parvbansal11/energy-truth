@@ -1,0 +1,1116 @@
+{
+  "total": 36,
+  "total_asset_count": 36,
+  "total_location_count": 35,
+  "limit": 200,
+  "offset": 0,
+  "count": 36,
+  "results": [
+    {
+      "asset_id": "P0904",
+      "location_id": "P0904",
+      "asset_name": "Agartala Regional Gas Network",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.73,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Tripura",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Agartala_Regional_Gas_Network",
+      "unit_name": null,
+      "url": "/assets/P0904",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Agartala Regional Gas Network"
+    },
+    {
+      "asset_id": "L100000407604_G100000409921",
+      "location_id": "L100000407604",
+      "asset_name": "BCPL Captive power plant 1.0",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 53.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": 27.469295,
+      "longitude": 94.873359,
+      "wiki_url": "https://www.gem.wiki/BCPL_Captive_power_plant",
+      "unit_name": "1.0",
+      "url": "/assets/L100000407604_G100000409921",
+      "upstream_entity_count": 8,
+      "owners": [
+        {
+          "entity_id": "E100000001912",
+          "name": "Brahmaputra Cracker and Polymer Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "BCPL Captive power plant"
+    },
+    {
+      "asset_id": "P0911",
+      "location_id": "P0911",
+      "asset_name": "Cauvery Basin Gas Network",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 1.58,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Cauvery_Basin_Gas_Network",
+      "unit_name": null,
+      "url": "/assets/P0911",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Cauvery Basin Gas Network"
+    },
+    {
+      "asset_id": "P0912",
+      "location_id": "P0912",
+      "asset_name": "Chainsa-Jhajjar-Hissar Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 12.78,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Haryana",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Chainsa-Jhajjar-Hissar_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0912",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Chainsa-Jhajjar-Hissar Gas Pipeline"
+    },
+    {
+      "asset_id": "P0915",
+      "location_id": "P0915",
+      "asset_name": "Dabhol-Bangalore Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5.84,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Dabhol-Bangalore_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0915",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Dabhol-Bangalore Gas Pipeline"
+    },
+    {
+      "asset_id": "P0916",
+      "location_id": "P0916",
+      "asset_name": "Dadri-Bawana-Nangal Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 11.32,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Dadri-Bawana-Nangal_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0916",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Dadri-Bawana-Nangal Gas Pipeline"
+    },
+    {
+      "asset_id": "P2212",
+      "location_id": "P2212",
+      "asset_name": "Dahej-Uran-Panvel-Dhabhol Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 7.26,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Dahej-Uran-Panvel-Dhabhol_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P2212",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Dahej-Uran-Panvel-Dhabhol Gas Pipeline"
+    },
+    {
+      "asset_id": "P0919",
+      "location_id": "P0919",
+      "asset_name": "Dahej-Vijaipur Gas Pipeline (DVPL-I)",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Dahej-Vijaipur_Gas_Pipeline_(DVPL-I)",
+      "unit_name": null,
+      "url": "/assets/P0919",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Dahej-Vijaipur Gas Pipeline (DVPL-I)"
+    },
+    {
+      "asset_id": "P3298",
+      "location_id": "P3298",
+      "asset_name": "Dahej-Vijaipur Pipeline (DVPL-II)",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Dahej-Vijaipur_Pipeline_(DVPL-II)",
+      "unit_name": null,
+      "url": "/assets/P3298",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Dahej-Vijaipur Pipeline (DVPL-II)"
+    },
+    {
+      "asset_id": "P3905",
+      "location_id": "P3905",
+      "asset_name": "Dandewala-Gamnewala-RSEB Ramgarh Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.03,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Dandewala-Gamnewala-RSEB_Ramgarh_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3905",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Dandewala-Gamnewala-RSEB Ramgarh Gas Pipeline"
+    },
+    {
+      "asset_id": "P0923",
+      "location_id": "P0923",
+      "asset_name": "Gujarat Regional Gas Network",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.03,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": null,
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Gujarat_Regional_Gas_Network",
+      "unit_name": null,
+      "url": "/assets/P0923",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Gujarat Regional Gas Network"
+    },
+    {
+      "asset_id": "P3906",
+      "location_id": "P3906",
+      "asset_name": "Haridwar-Rishikesh-Dehradun Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Uttarakhand",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Haridwar-Rishikesh-Dehradun_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3906",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Haridwar-Rishikesh-Dehradun Gas Pipeline"
+    },
+    {
+      "asset_id": "P0925",
+      "location_id": "P0925",
+      "asset_name": "Hazira-Vijaipur-Jagdishpur (HVJ) Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Hazira-Vijaipur-Jagdishpur_(HVJ)_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0925",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Hazira-Vijaipur-Jagdishpur (HVJ) Gas Pipeline"
+    },
+    {
+      "asset_id": "P0928",
+      "location_id": "P0928",
+      "asset_name": "India-Myanmar-Bangladesh Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "country": null,
+      "state_province": null,
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/India-Myanmar-Bangladesh_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0928",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100000000524",
+          "name": "Oil and Natural Gas Corporation Ltd",
+          "ownership_share": 0.0,
+          "hq_country": "India"
+        },
+        {
+          "entity_id": "E100001014273",
+          "name": "Bangladesh Petroleum Corporation Corp",
+          "ownership_share": 0.0,
+          "hq_country": "Bangladesh"
+        }
+      ],
+      "countries": [
+        "India",
+        "Bangladesh",
+        "Myanmar"
+      ],
+      "project_name": "India-Myanmar-Bangladesh Gas Pipeline"
+    },
+    {
+      "asset_id": "P0929",
+      "location_id": "P0929",
+      "asset_name": "Jagdishpur-Haldia-Bokaro-Dhamra Natural Gas Pipeline (JHBDPL)",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 8.4,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Jagdishpur-Haldia-Bokaro-Dhamra_Natural_Gas_Pipeline_(JHBDPL)",
+      "unit_name": null,
+      "url": "/assets/P0929",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Jagdishpur-Haldia-Bokaro-Dhamra Natural Gas Pipeline (JHBDPL)"
+    },
+    {
+      "asset_id": "P6078",
+      "location_id": "P6078",
+      "asset_name": "Jamnagar-Loni LPG Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 50205.48,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Jamnagar-Loni_LPG_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P6078",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Jamnagar-Loni LPG Pipeline"
+    },
+    {
+      "asset_id": "P0933",
+      "location_id": "P0933",
+      "asset_name": "KG Basin Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5.84,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": null,
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/KG_Basin_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0933",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "KG Basin Gas Pipeline"
+    },
+    {
+      "asset_id": "P0932",
+      "location_id": "P0932",
+      "asset_name": "Kakinada-Vizag-Srikakulam Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 32.85,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "East Godavari",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Kakinada-Vizag-Srikakulam_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0932",
+      "upstream_entity_count": 7,
+      "owners": [
+        {
+          "entity_id": "E100001014109",
+          "name": "Andhra Pradesh Gas Distribution Corp Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Kakinada-Vizag-Srikakulam Gas Pipeline"
+    },
+    {
+      "asset_id": "P0934",
+      "location_id": "P0934",
+      "asset_name": "Kochi-Koottanad-Bangalore-Mangalore Gas Pipeline Phase I",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 5.84,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Kerala",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Kochi-Koottanad-Bangalore-Mangalore_Gas_Pipeline",
+      "unit_name": "Phase I",
+      "url": "/assets/P0934",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Kochi-Koottanad-Bangalore-Mangalore Gas Pipeline"
+    },
+    {
+      "asset_id": "P2746",
+      "location_id": "P2746",
+      "asset_name": "Kochi-Koottanad-Bangalore-Mangalore Gas Pipeline Phase II",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 5.84,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": null,
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Kochi-Koottanad-Bangalore-Mangalore_Gas_Pipeline",
+      "unit_name": "Phase II",
+      "url": "/assets/P2746",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Kochi-Koottanad-Bangalore-Mangalore Gas Pipeline"
+    },
+    {
+      "asset_id": "P2752",
+      "location_id": "P2752",
+      "asset_name": "Kondalapalli-Tirupati Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1.46,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Kondalapalli-Tirupati_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P2752",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Kondalapalli-Tirupati Gas Pipeline"
+    },
+    {
+      "asset_id": "P2215",
+      "location_id": "P2215",
+      "asset_name": "Langtala-Jodhpur-Pali Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 0.05,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Langtala-Jodhpur-Pali_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P2215",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Langtala-Jodhpur-Pali Gas Pipeline"
+    },
+    {
+      "asset_id": "P0943",
+      "location_id": "P0943",
+      "asset_name": "Mumbai Regional Natural Gas Pipeline Network",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 2.57,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mumbai_Regional_Natural_Gas_Pipeline_Network",
+      "unit_name": null,
+      "url": "/assets/P0943",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mumbai Regional Natural Gas Pipeline Network"
+    },
+    {
+      "asset_id": "P2216",
+      "location_id": "P2216",
+      "asset_name": "Mumbai-Nagpur-Jharsuguda Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 6.02,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Mumbai-Nagpur-Jharsuguda_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P2216",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Mumbai-Nagpur-Jharsuguda Gas Pipeline"
+    },
+    {
+      "asset_id": "P1309",
+      "location_id": "P1309",
+      "asset_name": "North East Natural Gas Pipeline Grid Project",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 1.73,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Assam",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/North_East_Natural_Gas_Pipeline_Grid_Project",
+      "unit_name": null,
+      "url": "/assets/P1309",
+      "upstream_entity_count": 10,
+      "owners": [
+        {
+          "entity_id": "E100001015061",
+          "name": "Indradhanush Gas Grid Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "North East Natural Gas Pipeline Grid Project"
+    },
+    {
+      "asset_id": "P1436",
+      "location_id": "P1436",
+      "asset_name": "Rajasthan Gas Pipeline (Focus)",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 0.04,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Rajasthan_Gas_Pipeline_(Focus)",
+      "unit_name": null,
+      "url": "/assets/P1436",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Rajasthan Gas Pipeline (Focus)"
+    },
+    {
+      "asset_id": "P0954",
+      "location_id": "P0954",
+      "asset_name": "Srikakulam-Angul Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 2.43,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Srikakulam-Angul_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0954",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Srikakulam-Angul Gas Pipeline"
+    },
+    {
+      "asset_id": "P0955",
+      "location_id": "P0955",
+      "asset_name": "Surat-Paradip Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 27.3,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Surat-Paradip_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0955",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Surat-Paradip Gas Pipeline"
+    },
+    {
+      "asset_id": "P3912",
+      "location_id": "P3912",
+      "asset_name": "Swan LNG Terminal to Dahej LNG Terminal Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 2.56,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Swan_LNG_Terminal_to_Dahej_LNG_Terminal_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P3912",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Swan LNG Terminal to Dahej LNG Terminal Gas Pipeline"
+    },
+    {
+      "asset_id": "L100000401521_G100000401491",
+      "location_id": "L100000401521",
+      "asset_name": "Tripura Combined Cycle power plant Block I",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 363.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tripura",
+      "latitude": 23.4987,
+      "longitude": 91.4385,
+      "wiki_url": "https://www.gem.wiki/Tripura_Combined_Cycle_power_plant",
+      "unit_name": "Block I",
+      "url": "/assets/L100000401521_G100000401491",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001931",
+          "name": "ONGC Tripura Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tripura Combined Cycle power plant"
+    },
+    {
+      "asset_id": "L100000401521_G100000401492",
+      "location_id": "L100000401521",
+      "asset_name": "Tripura Combined Cycle power plant Block II",
+      "asset_type": "Oil & Gas Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 363.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tripura",
+      "latitude": 23.4987,
+      "longitude": 91.4385,
+      "wiki_url": "https://www.gem.wiki/Tripura_Combined_Cycle_power_plant",
+      "unit_name": "Block II",
+      "url": "/assets/L100000401521_G100000401492",
+      "upstream_entity_count": 9,
+      "owners": [
+        {
+          "entity_id": "E100000001931",
+          "name": "ONGC Tripura Power Co Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tripura Combined Cycle power plant"
+    },
+    {
+      "asset_id": "P0766",
+      "location_id": "P0766",
+      "asset_name": "Turkmenistan-Afghanistan-Pakistan-India Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "capacity_value": 33.0,
+      "capacity_unit": "bcm/y",
+      "country": null,
+      "state_province": "Ahal",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Turkmenistan-Afghanistan-Pakistan-India_Gas_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0766",
+      "upstream_entity_count": 11,
+      "owners": [
+        {
+          "entity_id": "E100002005313",
+          "name": "Turkmengas State Concern",
+          "ownership_share": 85.0,
+          "hq_country": "Turkmenistan"
+        },
+        {
+          "entity_id": "E100001014060",
+          "name": "Afghan Gas Enterprise",
+          "ownership_share": 5.0,
+          "hq_country": "Afghanistan"
+        },
+        {
+          "entity_id": "E100001015095",
+          "name": "Interstate Gas Systems Pvt Ltd",
+          "ownership_share": 5.0,
+          "hq_country": "Pakistan"
+        },
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 5.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "Turkmenistan",
+        "Afghanistan",
+        "Pakistan",
+        "India"
+      ],
+      "project_name": "Turkmenistan-Afghanistan-Pakistan-India Gas Pipeline"
+    },
+    {
+      "asset_id": "P0957",
+      "location_id": "P0957",
+      "asset_name": "Vijaipur-Auraiya-Pulphur Gas Pipeline",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 3.2,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Vijaipur-Auraiya-Phulpur_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P0957",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Vijaipur-Auraiya-Pulphur Gas Pipeline"
+    },
+    {
+      "asset_id": "P3297",
+      "location_id": "P3297",
+      "asset_name": "Vijaipur-Dadri Gas Pipeline (GREP-I)",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Vijaipur-Dadri_Gas_Pipeline_(GREP-I)",
+      "unit_name": null,
+      "url": "/assets/P3297",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Vijaipur-Dadri Gas Pipeline (GREP-I)"
+    },
+    {
+      "asset_id": "P3299",
+      "location_id": "P3299",
+      "asset_name": "Vijaipur-Dadri Gas Pipeline (GREP-II)",
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Vijaipur-Dadri_Gas_Pipeline_(GREP-II)",
+      "unit_name": null,
+      "url": "/assets/P3299",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Vijaipur-Dadri Gas Pipeline (GREP-II)"
+    },
+    {
+      "asset_id": "P6079",
+      "location_id": "P6079",
+      "asset_name": "Vizag-Secunderabad LPG Pipeline",
+      "asset_type": "Oil or NGL Pipeline",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 26709.32,
+      "capacity_unit": "BOEd",
+      "country": "India",
+      "state_province": "Telangana",
+      "latitude": null,
+      "longitude": null,
+      "wiki_url": "https://www.gem.wiki/Vizag-Secunderabad_LPG_Pipeline",
+      "unit_name": null,
+      "url": "/assets/P6079",
+      "upstream_entity_count": 4,
+      "owners": [
+        {
+          "entity_id": "E100000000513",
+          "name": "GAIL Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "countries": [
+        "India"
+      ],
+      "project_name": "Vizag-Secunderabad LPG Pipeline"
+    }
+  ]
+}

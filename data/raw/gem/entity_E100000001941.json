@@ -1,0 +1,26 @@
+{
+  "entity_id": "E100000001941",
+  "name": "Torrent Power",
+  "full_name": "Torrent Power Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Gujarāt",
+  "registration_country": "India",
+  "home_page": "https://www.torrentpower.com/index.php/site/indexs",
+  "external_ids": {
+    "lei": "335800DJYYJQGAH3OX89",
+    "permid": "4295872569",
+    "india_cin": "L31200GJ2004PLC044068"
+  },
+  "url": "/entities/E100000001941",
+  "owners_url": "/entities/E100000001941/owners",
+  "owned_url": "/entities/E100000001941/owned",
+  "trace_up_url": "/entities/E100000001941/trace/up",
+  "trace_down_url": "/entities/E100000001941/trace/down",
+  "graph_up_url": "/entities/E100000001941/graph/up",
+  "graph_down_url": "/entities/E100000001941/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100000001941&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100000001941"
+}

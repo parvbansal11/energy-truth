@@ -1,0 +1,5710 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100001000439",
+    "full_name": "Jindal Steel Ltd",
+    "name": "Jindal Steel",
+    "name_local": null,
+    "name_other": "Jindal Steel and Power; Jindal Steel & Power Ltd",
+    "abbreviation": "JSPL",
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.jindalsteel.com/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Delhi",
+    "gem_parents": "Jindal Steel Ltd [100%]",
+    "gem_parents_ids": "E100001000439 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800UIKQBF6QO2NP15",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L27105HR1979PLC009913",
+    "permid_refinitiv_permanent_identifier": "4295874065",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000439",
+      "full_name": "Jindal Steel Ltd",
+      "name": "Jindal Steel",
+      "name_local": null,
+      "name_other": "Jindal Steel and Power; Jindal Steel & Power Ltd",
+      "abbreviation": "JSPL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.jindalsteel.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Delhi",
+      "gem_parents": "Jindal Steel Ltd [100%]",
+      "gem_parents_ids": "E100001000439 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800UIKQBF6QO2NP15",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L27105HR1979PLC009913",
+      "permid_refinitiv_permanent_identifier": "4295874065",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120687",
+      "full_name": "Jindal Synfuels Ltd",
+      "name": "Jindal Synfuels",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": null,
+      "gem_parents": "Jindal Steel Ltd [70.0%]; unknown [30.0%]",
+      "gem_parents_ids": "E100001000439 [70.0%]; E100000132388 [30.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036372371",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001001102",
+      "full_name": "Jindal Steel & Power (Mauritius) Ltd",
+      "name": "Jindal Steel & Power (Mauritius)",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Mauritius",
+      "registration_subdivision": null,
+      "headquarters_country": "Mauritius",
+      "headquarters_subdivision": "Plaines wilhems",
+      "gem_parents": "Jindal Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001000439 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "984500FP6BA0QC8DEF97",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5035515049",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010328",
+      "full_name": "Opelina Sustainable Services Pvt Ltd",
+      "name": "Opelina Sustainable Services",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pvt Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Delhi",
+      "gem_parents": "Jindal Steel Ltd",
+      "gem_parents_ids": "E100001000439",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800H6I9ARSZKEWE61",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U46620DL1995PTC066506",
+      "permid_refinitiv_permanent_identifier": "5082461015",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001010377",
+      "full_name": "Jindal Mining SA Pty Ltd",
+      "name": "Jindal Mining SA",
+      "name_local": null,
+      "name_other": "Jindal Mining South Africa",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pty Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "South Africa",
+      "registration_subdivision": null,
+      "headquarters_country": "South Africa",
+      "headquarters_subdivision": null,
+      "gem_parents": "Jindal Steel Ltd [73.9%]; unknown [26.1%]",
+      "gem_parents_ids": "E100001000439 [73.9%]; E100000132388 [26.1%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5061178655",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": "109548966",
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002003902",
+      "full_name": "Camina SA",
+      "name": "Camina",
+      "name_local": null,
+      "name_other": "Cameroon Mining Action",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "SA",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Cameroon",
+      "registration_subdivision": null,
+      "headquarters_country": "Cameroon",
+      "headquarters_subdivision": "Centre",
+      "gem_parents": "Jindal Steel Ltd [90.0%]; unknown [10.0%]",
+      "gem_parents_ids": "E100001000439 [90.0%]; E100000132388 [10.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5001082854",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002004867",
+      "full_name": "Jindal Steel Odisha Ltd",
+      "name": "Jindal Steel Odisha",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "JSOL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Odisha",
+      "gem_parents": "Jindal Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001000439 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800JKC6VENB1CVB53",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U27320OR2021PLC036237",
+      "permid_refinitiv_permanent_identifier": "5083803719",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002019742",
+      "full_name": "Jindal Steel Chhattisgarh Ltd",
+      "name": "Jindal Steel Chhattisgarh",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "India",
+      "registration_subdivision": "Chhattīsgarh",
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Chhattīsgarh",
+      "gem_parents": "Jindal Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001000439 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "89450066SNW4RC0FAS04",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U27300CT2021PLC012115",
+      "permid_refinitiv_permanent_identifier": "5083431160",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": "1797577868",
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102444_G100000100228",
+      "location_id": "L100000102444",
+      "unit_id": "G100000100228",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Steel power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Angul Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102444_G100000100229",
+      "location_id": "L100000102444",
+      "unit_id": "G100000100229",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Steel power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Angul Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102444_G100000100230",
+      "location_id": "L100000102444",
+      "unit_id": "G100000100230",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Steel power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Angul Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102444_G100000100231",
+      "location_id": "L100000102444",
+      "unit_id": "G100000100231",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Steel power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Angul Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102444_G100000100232",
+      "location_id": "L100000102444",
+      "unit_id": "G100000100232",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Steel power station Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Angul Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102444_G100000100233",
+      "location_id": "L100000102444",
+      "unit_id": "G100000100233",
+      "asset_type": "Coal Plant",
+      "asset_name": "Angul Steel power station Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.892474,
+      "longitude": 84.99039,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Angul_Steel_power_station",
+      "source_id": 2,
+      "project_name": "Angul Steel power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102142_G100000102407",
+      "location_id": "L100000102142",
+      "unit_id": "G100000102407",
+      "asset_type": "Coal Plant",
+      "asset_name": "Dongamahua Captive Power Plant Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "source_id": 2,
+      "project_name": "Dongamahua Captive Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102142_G100000102408",
+      "location_id": "L100000102142",
+      "unit_id": "G100000102408",
+      "asset_type": "Coal Plant",
+      "asset_name": "Dongamahua Captive Power Plant Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "source_id": 2,
+      "project_name": "Dongamahua Captive Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102142_G100000102409",
+      "location_id": "L100000102142",
+      "unit_id": "G100000102409",
+      "asset_type": "Coal Plant",
+      "asset_name": "Dongamahua Captive Power Plant Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "source_id": 2,
+      "project_name": "Dongamahua Captive Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102142_G100000102410",
+      "location_id": "L100000102142",
+      "unit_id": "G100000102410",
+      "asset_type": "Coal Plant",
+      "asset_name": "Dongamahua Captive Power Plant Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "source_id": 2,
+      "project_name": "Dongamahua Captive Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102142_G100000102411",
+      "location_id": "L100000102142",
+      "unit_id": "G100000102411",
+      "asset_type": "Coal Plant",
+      "asset_name": "Dongamahua Captive Power Plant Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "source_id": 2,
+      "project_name": "Dongamahua Captive Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102142_G100000102412",
+      "location_id": "L100000102142",
+      "unit_id": "G100000102412",
+      "asset_type": "Coal Plant",
+      "asset_name": "Dongamahua Captive Power Plant Unit 6",
+      "unit_name": "Unit 6",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.1279449,
+      "longitude": 83.5359192,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Dongamahua_Captive_Power_Plant",
+      "source_id": 2,
+      "project_name": "Dongamahua Captive Power Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102260_G100000102486",
+      "location_id": "L100000102260",
+      "unit_id": "G100000102486",
+      "asset_type": "Coal Plant",
+      "asset_name": "Dumka power station (Jindal) --",
+      "unit_name": "--",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.263371,
+      "longitude": 87.246407,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 2640.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Dumka_power_station_(Jindal)",
+      "source_id": 2,
+      "project_name": "Dumka power station (Jindal)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102262_G100000103068",
+      "location_id": "L100000102262",
+      "unit_id": "G100000103068",
+      "asset_type": "Coal Plant",
+      "asset_name": "Godda Project Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.82786,
+      "longitude": 87.213676,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Godda_Project",
+      "source_id": 2,
+      "project_name": "Godda Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102262_G100000103069",
+      "location_id": "L100000102262",
+      "unit_id": "G100000103069",
+      "asset_type": "Coal Plant",
+      "asset_name": "Godda Project Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.82786,
+      "longitude": 87.213676,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Godda_Project",
+      "source_id": 2,
+      "project_name": "Godda Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102267_G100000105194",
+      "location_id": "L100000102267",
+      "unit_id": "G100000105194",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jindal Patratu captive power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 23.691349,
+      "longitude": 85.272247,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jindal_Patratu_captive_power_station",
+      "source_id": 2,
+      "project_name": "Jindal Patratu captive power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102267_G100000113410",
+      "location_id": "L100000102267",
+      "unit_id": "G100000113410",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jindal Patratu captive power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 23.691349,
+      "longitude": 85.272247,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jindal_Patratu_captive_power_station",
+      "source_id": 2,
+      "project_name": "Jindal Patratu captive power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102269_G100000105515",
+      "location_id": "L100000102269",
+      "unit_id": "G100000105515",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kamdara power station (Jindal) Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.919791,
+      "longitude": 84.951289,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kamdara_power_station_(Jindal)",
+      "source_id": 2,
+      "project_name": "Kamdara power station (Jindal)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102269_G100000105516",
+      "location_id": "L100000102269",
+      "unit_id": "G100000105516",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kamdara power station (Jindal) Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.919791,
+      "longitude": 84.951289,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kamdara_power_station_(Jindal)",
+      "source_id": 2,
+      "project_name": "Kamdara power station (Jindal)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102269_G100000105517",
+      "location_id": "L100000102269",
+      "unit_id": "G100000105517",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kamdara power station (Jindal) Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.919791,
+      "longitude": 84.951289,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kamdara_power_station_(Jindal)",
+      "source_id": 2,
+      "project_name": "Kamdara power station (Jindal)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102269_G100000105518",
+      "location_id": "L100000102269",
+      "unit_id": "G100000105518",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kamdara power station (Jindal) Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 22.919791,
+      "longitude": 84.951289,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kamdara_power_station_(Jindal)",
+      "source_id": 2,
+      "project_name": "Kamdara power station (Jindal)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102047_G100000105750",
+      "location_id": "L100000102047",
+      "unit_id": "G100000105750",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kineta Power thermal station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 14.166667,
+      "longitude": 80.083333,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kineta_Power_thermal_station",
+      "source_id": 2,
+      "project_name": "Kineta Power thermal station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102047_G100000105751",
+      "location_id": "L100000102047",
+      "unit_id": "G100000105751",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kineta Power thermal station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 14.166667,
+      "longitude": 80.083333,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kineta_Power_thermal_station",
+      "source_id": 2,
+      "project_name": "Kineta Power thermal station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102047_G100000105752",
+      "location_id": "L100000102047",
+      "unit_id": "G100000105752",
+      "asset_type": "Coal Plant",
+      "asset_name": "Kineta Power thermal station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 14.166667,
+      "longitude": 80.083333,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Kineta_Power_thermal_station",
+      "source_id": 2,
+      "project_name": "Kineta Power thermal station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102480_G100000106612",
+      "location_id": "L100000102480",
+      "unit_id": "G100000106612",
+      "asset_type": "Coal Plant",
+      "asset_name": "Malibrahmani power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 20.922321,
+      "longitude": 84.99105,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 525.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Malibrahmani_power_station",
+      "source_id": 2,
+      "project_name": "Malibrahmani power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102480_G100000106613",
+      "location_id": "L100000102480",
+      "unit_id": "G100000106613",
+      "asset_type": "Coal Plant",
+      "asset_name": "Malibrahmani power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 20.922321,
+      "longitude": 84.99105,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 525.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Malibrahmani_power_station",
+      "source_id": 2,
+      "project_name": "Malibrahmani power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102480_G100000106614",
+      "location_id": "L100000102480",
+      "unit_id": "G100000106614",
+      "asset_type": "Coal Plant",
+      "asset_name": "Malibrahmani power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 20.922321,
+      "longitude": 84.99105,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Malibrahmani_power_station",
+      "source_id": 2,
+      "project_name": "Malibrahmani power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102168_G100000108435",
+      "location_id": "L100000102168",
+      "unit_id": "G100000108435",
+      "asset_type": "Coal Plant",
+      "asset_name": "Raigarh Jindal power station Unit 3",
+      "unit_name": "Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.924951,
+      "longitude": 83.345444,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 55.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Raigarh_Jindal_power_station",
+      "source_id": 2,
+      "project_name": "Raigarh Jindal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102168_G100000108436",
+      "location_id": "L100000102168",
+      "unit_id": "G100000108436",
+      "asset_type": "Coal Plant",
+      "asset_name": "Raigarh Jindal power station Unit 4",
+      "unit_name": "Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.924951,
+      "longitude": 83.345444,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 55.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Raigarh_Jindal_power_station",
+      "source_id": 2,
+      "project_name": "Raigarh Jindal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102168_G100000108437",
+      "location_id": "L100000102168",
+      "unit_id": "G100000108437",
+      "asset_type": "Coal Plant",
+      "asset_name": "Raigarh Jindal power station Unit 5",
+      "unit_name": "Unit 5",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.924951,
+      "longitude": 83.345444,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 130.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Raigarh_Jindal_power_station",
+      "source_id": 2,
+      "project_name": "Raigarh Jindal power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102170_G100000108440",
+      "location_id": "L100000102170",
+      "unit_id": "G100000108440",
+      "asset_type": "Coal Plant",
+      "asset_name": "Raigarh Project (Jindal) --",
+      "unit_name": "--",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 21.898611,
+      "longitude": 83.464722,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1320.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Raigarh_Project_(Jindal)",
+      "source_id": 2,
+      "project_name": "Raigarh Project (Jindal)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102189_G100000109908",
+      "location_id": "L100000102189",
+      "unit_id": "G100000109908",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tamnar power station Phase 1 Unit 1",
+      "unit_name": "Phase 1 Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "source_id": 2,
+      "project_name": "Tamnar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102189_G100000109909",
+      "location_id": "L100000102189",
+      "unit_id": "G100000109909",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tamnar power station Phase 1 Unit 2",
+      "unit_name": "Phase 1 Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "source_id": 2,
+      "project_name": "Tamnar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102189_G100000109910",
+      "location_id": "L100000102189",
+      "unit_id": "G100000109910",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tamnar power station Phase 1 Unit 3",
+      "unit_name": "Phase 1 Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "source_id": 2,
+      "project_name": "Tamnar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102189_G100000109911",
+      "location_id": "L100000102189",
+      "unit_id": "G100000109911",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tamnar power station Phase 1 Unit 4",
+      "unit_name": "Phase 1 Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 250.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "source_id": 2,
+      "project_name": "Tamnar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102189_G100000109912",
+      "location_id": "L100000102189",
+      "unit_id": "G100000109912",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tamnar power station Phase 2 Unit 1",
+      "unit_name": "Phase 2 Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "source_id": 2,
+      "project_name": "Tamnar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102189_G100000109913",
+      "location_id": "L100000102189",
+      "unit_id": "G100000109913",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tamnar power station Phase 2 Unit 2",
+      "unit_name": "Phase 2 Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "source_id": 2,
+      "project_name": "Tamnar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102189_G100000109914",
+      "location_id": "L100000102189",
+      "unit_id": "G100000109914",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tamnar power station Phase 2 Unit 3",
+      "unit_name": "Phase 2 Unit 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "source_id": 2,
+      "project_name": "Tamnar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102189_G100000109915",
+      "location_id": "L100000102189",
+      "unit_id": "G100000109915",
+      "asset_type": "Coal Plant",
+      "asset_name": "Tamnar power station Phase 2 Unit 4",
+      "unit_name": "Phase 2 Unit 4",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.098747,
+      "longitude": 83.451312,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 600.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tamnar_power_station",
+      "source_id": 2,
+      "project_name": "Tamnar power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000103400_G100000105195",
+      "location_id": "L100000103400",
+      "unit_id": "G100000105195",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jindal power station (Senegal) Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 14.500172,
+      "longitude": -14.439228,
+      "country": "Senegal",
+      "state_province": null,
+      "capacity_value": 175.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jindal_power_station_(Senegal)",
+      "source_id": 2,
+      "project_name": "Jindal power station (Senegal)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000103400_G100000105196",
+      "location_id": "L100000103400",
+      "unit_id": "G100000105196",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jindal power station (Senegal) Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 14.500172,
+      "longitude": -14.439228,
+      "country": "Senegal",
+      "state_province": null,
+      "capacity_value": 175.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jindal_power_station_(Senegal)",
+      "source_id": 2,
+      "project_name": "Jindal power station (Senegal)",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104361_G100001023647",
+      "location_id": "L100000104361",
+      "unit_id": "G100001023647",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hwange power station Unit 10",
+      "unit_name": "Unit 10",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": -18.3831971,
+      "longitude": 26.4696382,
+      "country": "Zimbabwe",
+      "state_province": "Matabeleland North",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hwange_power_station",
+      "source_id": 2,
+      "project_name": "Hwange power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104361_G100001023648",
+      "location_id": "L100000104361",
+      "unit_id": "G100001023648",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hwange power station Unit 11",
+      "unit_name": "Unit 11",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": -18.3831971,
+      "longitude": 26.4696382,
+      "country": "Zimbabwe",
+      "state_province": "Matabeleland North",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hwange_power_station",
+      "source_id": 2,
+      "project_name": "Hwange power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104361_G100001023649",
+      "location_id": "L100000104361",
+      "unit_id": "G100001023649",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hwange power station Unit 12",
+      "unit_name": "Unit 12",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": -18.3831971,
+      "longitude": 26.4696382,
+      "country": "Zimbabwe",
+      "state_province": "Matabeleland North",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hwange_power_station",
+      "source_id": 2,
+      "project_name": "Hwange power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000104361_G100001023646",
+      "location_id": "L100000104361",
+      "unit_id": "G100001023646",
+      "asset_type": "Coal Plant",
+      "asset_name": "Hwange power station Unit 9",
+      "unit_name": "Unit 9",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": -18.3831971,
+      "longitude": 26.4696382,
+      "country": "Zimbabwe",
+      "state_province": "Matabeleland North",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Hwange_power_station",
+      "source_id": 2,
+      "project_name": "Hwange power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128482",
+      "location_id": "P100000128482",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "JSPL Kasia Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.061772,
+      "longitude": 85.363544,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 5600.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSPL_Kasia_Mine",
+      "source_id": 3,
+      "project_name": "JSPL Kasia Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128486",
+      "location_id": "P100000128486",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "JSPL Murgabeda Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.099958,
+      "longitude": 85.447459,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSPL_Murgabeda_Mine",
+      "source_id": 3,
+      "project_name": "JSPL Murgabeda Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000128505",
+      "location_id": "P100000128505",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "JSPL TRB Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.885947,
+      "longitude": 85.181524,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSPL_TRB_Mine",
+      "source_id": 3,
+      "project_name": "JSPL TRB Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M0520",
+      "location_id": "M0520",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Gare Palma IV 1 Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.11866,
+      "longitude": 83.53358,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Gare_Palma_IV_1_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Gare Palma IV 1 Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M4437",
+      "location_id": "M4437",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Gare Palma IV 6 Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 22.11866,
+      "longitude": 83.53358,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 4.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Gare_Palma_IV_6_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Gare Palma IV 6 Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M7267",
+      "location_id": "M7267",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Utkal B1 & Utkal B2 Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 20.9588788,
+      "longitude": 84.9638013,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 8.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Utkal_B1_&_Utkal_B2_Mine",
+      "source_id": 9,
+      "project_name": "Utkal B1 & Utkal B2 Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M6715",
+      "location_id": "M6715",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Utkal C Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.95664286,
+      "longitude": 84.9544075201659,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3.37,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Utkal_C_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Utkal C Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000124518",
+      "location_id": "P100000124518",
+      "unit_id": null,
+      "asset_type": "Cement or Concrete Plant",
+      "asset_name": "Jindal Steel & Power Raigarh Cement Plant",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.911097,
+      "longitude": 83.338243,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_&_Power_Raigarh_Cement_Plant",
+      "source_id": 11,
+      "project_name": "Jindal Steel & Power Raigarh Cement Plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120515_U100000141024",
+      "location_id": "P100000120515",
+      "unit_id": "U100000141024",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Angul steel plant BF 1",
+      "unit_name": "BF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.884896,
+      "longitude": 84.991539,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 4250.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120515_U100000143325",
+      "location_id": "P100000120515",
+      "unit_id": "U100000143325",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Angul steel plant DRI 1",
+      "unit_name": "DRI 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.884896,
+      "longitude": 84.991539,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120515_U100000141904",
+      "location_id": "P100000120515",
+      "unit_id": "U100000141904",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Angul steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.884896,
+      "longitude": 84.991539,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120515_U100000143597",
+      "location_id": "P100000120515",
+      "unit_id": "U100000143597",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Angul steel plant BOF 1",
+      "unit_name": "BOF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.884896,
+      "longitude": 84.991539,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000121173_U100000144432",
+      "location_id": "P100000121173",
+      "unit_id": "U100000144432",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BF (1)",
+      "unit_name": "unknown BF (1)",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 6200.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Asanboni steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000121173_U100000144428",
+      "location_id": "P100000121173",
+      "unit_id": "U100000144428",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1625.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Asanboni steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000121173_U100000144429",
+      "location_id": "P100000121173",
+      "unit_id": "U100000144429",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1625.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Asanboni steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000121173_U100000144430",
+      "location_id": "P100000121173",
+      "unit_id": "U100000144430",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1625.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Asanboni steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000121173_U100000144431",
+      "location_id": "P100000121173",
+      "unit_id": "U100000144431",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Asanboni steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 24.131037,
+      "longitude": 87.438728,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 1625.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Asanboni_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Asanboni steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000121034_U100000145097",
+      "location_id": "P100000121034",
+      "unit_id": "U100000145097",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Krishnapatnam steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 14.254675,
+      "longitude": 80.108702,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Krishnapatnam_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Krishnapatnam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000121034_U100000144921",
+      "location_id": "P100000121034",
+      "unit_id": "U100000144921",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Krishnapatnam steel plant unknown iron (unspecified) (1)",
+      "unit_name": "unknown iron (unspecified) (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 14.254675,
+      "longitude": 80.108702,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 0.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Krishnapatnam_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Krishnapatnam steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120542_U100000141069",
+      "location_id": "P100000120542",
+      "unit_id": "U100000141069",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Patratu steel plant unknown BF (1)",
+      "unit_name": "unknown BF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.632991,
+      "longitude": 85.325308,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 3200.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Patratu_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Patratu steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120542_U100000144426",
+      "location_id": "P100000120542",
+      "unit_id": "U100000144426",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Patratu steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.632991,
+      "longitude": 85.325308,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Patratu_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Patratu steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120542_U100000144427",
+      "location_id": "P100000120542",
+      "unit_id": "U100000144427",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Patratu steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 23.632991,
+      "longitude": 85.325308,
+      "country": "India",
+      "state_province": "Jharkhand",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Patratu_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Patratu steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000141027",
+      "location_id": "P100000120516",
+      "unit_id": "U100000141027",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant BF 1",
+      "unit_name": "BF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000141028",
+      "location_id": "P100000120516",
+      "unit_id": "U100000141028",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant BF 2",
+      "unit_name": "BF 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 2250.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000141319",
+      "location_id": "P100000120516",
+      "unit_id": "U100000141319",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant BF 3",
+      "unit_name": "BF 3",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144417",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144417",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant BF 4",
+      "unit_name": "BF 4",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 4500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000143327",
+      "location_id": "P100000120516",
+      "unit_id": "U100000143327",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (1)",
+      "unit_name": "unknown DRI (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144720",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144720",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (10)",
+      "unit_name": "unknown DRI (10)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 180.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144721",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144721",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (11)",
+      "unit_name": "unknown DRI (11)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 180.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000143326",
+      "location_id": "P100000120516",
+      "unit_id": "U100000143326",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (2)",
+      "unit_name": "unknown DRI (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 180.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144421",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144421",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (3)",
+      "unit_name": "unknown DRI (3)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144714",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144714",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (4)",
+      "unit_name": "unknown DRI (4)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144715",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144715",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (5)",
+      "unit_name": "unknown DRI (5)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144716",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144716",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (6)",
+      "unit_name": "unknown DRI (6)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144717",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144717",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (7)",
+      "unit_name": "unknown DRI (7)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144718",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144718",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (8)",
+      "unit_name": "unknown DRI (8)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 100.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144719",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144719",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown DRI (9)",
+      "unit_name": "unknown DRI (9)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 180.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000141907",
+      "location_id": "P100000120516",
+      "unit_id": "U100000141907",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant EAF 1",
+      "unit_name": "EAF 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1250.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000143838",
+      "location_id": "P100000120516",
+      "unit_id": "U100000143838",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant EAF 2",
+      "unit_name": "EAF 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1100.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144418",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144418",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant EAF 3",
+      "unit_name": "EAF 3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 1250.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000143814",
+      "location_id": "P100000120516",
+      "unit_id": "U100000143814",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144419",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144419",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000120516_U100000144420",
+      "location_id": "P100000120516",
+      "unit_id": "U100000144420",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Raigarh steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.922703,
+      "longitude": 83.347178,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Raigarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Raigarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102460_G100000102501",
+      "location_id": "L100000102460",
+      "unit_id": "G100000102501",
+      "asset_type": "Coal Plant",
+      "asset_name": "Durgapur Jindal Synfuels captive power plant --",
+      "unit_name": "--",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": 23.540541,
+      "longitude": 74.442253,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 1125.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Durgapur_Jindal_Synfuels_captive_power_plant",
+      "source_id": 2,
+      "project_name": "Durgapur Jindal Synfuels captive power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000532",
+      "full_name": "JSPL Mozambique Minerais Lda",
+      "name": "JSPL Mozambique Minerais",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Lda",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Mozambique",
+      "registration_subdivision": null,
+      "headquarters_country": "Mozambique",
+      "headquarters_subdivision": null,
+      "gem_parents": "Jindal Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001000439 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036382007",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": "183787156",
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001000533",
+      "full_name": "Jindal Africa SA",
+      "name": "Jindal Africa",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "SA",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Guinea",
+      "registration_subdivision": null,
+      "headquarters_country": "Guinea",
+      "headquarters_subdivision": null,
+      "gem_parents": "Jindal Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001000439 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5041022371",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001001101",
+      "full_name": "Jindal (BVI) Ltd",
+      "name": "Jindal (BVI)",
+      "name_local": null,
+      "name_other": "CIC Energy [former]",
+      "abbreviation": "JBVI",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Virgin Islands (British)",
+      "registration_subdivision": null,
+      "headquarters_country": "Virgin Islands (British)",
+      "headquarters_subdivision": null,
+      "gem_parents": "Jindal Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001000439 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5037842309",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002017278",
+      "full_name": "Jindal Mining Namibia Pty Ltd",
+      "name": "Jindal Mining Namibia",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pty Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Namibia",
+      "registration_subdivision": null,
+      "headquarters_country": "Namibia",
+      "headquarters_subdivision": null,
+      "gem_parents": "Jindal Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001000439 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5086555288",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M1335",
+      "location_id": "M1335",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Kiepersol Colliery",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": -27.14095155,
+      "longitude": 30.5535983,
+      "country": "South Africa",
+      "state_province": "Mpumalanga",
+      "capacity_value": 0.9,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Kiepersol_coal_mine",
+      "source_id": 9,
+      "project_name": "Kiepersol Colliery",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000129360",
+      "location_id": "P100000129360",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Camina Ngovayang Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": 3.079358,
+      "longitude": 10.422408,
+      "country": "Cameroon",
+      "state_province": "South Region",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Camina_Ngovayang_Mine",
+      "source_id": 3,
+      "project_name": "Camina Ngovayang Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050453",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050453",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown BF (1)",
+      "unit_name": "unknown BF (1)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 4600.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050454",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050454",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown BF (2)",
+      "unit_name": "unknown BF (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 4800.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050452",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050452",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown BF (3)",
+      "unit_name": "unknown BF (3)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 4600.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050451",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050451",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown DRI (1)",
+      "unit_name": "unknown DRI (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050450",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050450",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown DRI (2)",
+      "unit_name": "unknown DRI (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001070770",
+      "location_id": "P100001044907",
+      "unit_id": "U100001070770",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown DRI (3)",
+      "unit_name": "unknown DRI (3)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2700.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050456",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050456",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown EAF (1)",
+      "unit_name": "unknown EAF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 2459.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050457",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050457",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown EAF (2)",
+      "unit_name": "unknown EAF (2)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3541.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050458",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050458",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown BOF (1)",
+      "unit_name": "unknown BOF (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3300.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050461",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050461",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown BOF (2)",
+      "unit_name": "unknown BOF (2)",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3000.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050459",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050459",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown BOF (3)",
+      "unit_name": "unknown BOF (3)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3136.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001044907_U100001050460",
+      "location_id": "P100001044907",
+      "unit_id": "U100001050460",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "JSOL Angul steel plant unknown BOF (4)",
+      "unit_name": "unknown BOF (4)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 20.874713,
+      "longitude": 84.944082,
+      "country": "India",
+      "state_province": "Odisha",
+      "capacity_value": 3764.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/JSOL_Angul_steel_plant",
+      "source_id": 10,
+      "project_name": "JSOL Angul steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001062086_U100001071228",
+      "location_id": "P100001062086",
+      "unit_id": "U100001071228",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Chhattisgarh steel plant unknown iron (unspecified) (1)",
+      "unit_name": "unknown iron (unspecified) (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.895041,
+      "longitude": 83.376759,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 7500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Chhattisgarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Chhattisgarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100001062086_U100001071227",
+      "location_id": "P100001062086",
+      "unit_id": "U100001071227",
+      "asset_type": "Iron & Steel Plant",
+      "asset_name": "Jindal Steel Chhattisgarh steel plant unknown steel (unspecified) (1)",
+      "unit_name": "unknown steel (unspecified) (1)",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "latitude": 21.895041,
+      "longitude": 83.376759,
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "capacity_value": 7500.0,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Steel_Chhattisgarh_steel_plant",
+      "source_id": 10,
+      "project_name": "Jindal Steel Chhattisgarh steel plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000103061_G100000113098",
+      "location_id": "L100000103061",
+      "unit_id": "G100000113098",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jindal Tete power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "latitude": -15.858728,
+      "longitude": 32.992888,
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "capacity_value": 75.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jindal_Tete_power_station",
+      "source_id": 2,
+      "project_name": "Jindal Tete power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000103061_G100000113099",
+      "location_id": "L100000103061",
+      "unit_id": "G100000113099",
+      "asset_type": "Coal Plant",
+      "asset_name": "Jindal Tete power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "shelved",
+      "latitude": -15.858728,
+      "longitude": 32.992888,
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "capacity_value": 75.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Jindal_Tete_power_station",
+      "source_id": 2,
+      "project_name": "Jindal Tete power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M0739_Base",
+      "location_id": "M0739",
+      "unit_id": "Base",
+      "asset_type": "Coal Mine",
+      "asset_name": "Chirodzi Coal Mine",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": -15.914093,
+      "longitude": 33.013188,
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "capacity_value": 6.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Chirodzi_coal_mine",
+      "source_id": 9,
+      "project_name": "Chirodzi Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M0739_Expansion",
+      "location_id": "M0739",
+      "unit_id": "Expansion",
+      "asset_type": "Coal Mine",
+      "asset_name": "Chirodzi Coal Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": -15.914093,
+      "longitude": 33.013188,
+      "country": "Mozambique",
+      "state_province": "Tete",
+      "capacity_value": 8.0,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Chirodzi_coal_mine",
+      "source_id": 9,
+      "project_name": "Chirodzi Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000129444",
+      "location_id": "P100000129444",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Jindal Africa Melmoth Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": -28.609989,
+      "longitude": 31.53544,
+      "country": "South Africa",
+      "state_province": "KwaZulu-Natal",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Africa_Melmoth_Mine",
+      "source_id": 3,
+      "project_name": "Jindal Africa Melmoth Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002003320",
+      "full_name": "Jindal Energy (Botswana) Pty Ltd",
+      "name": "Jindal Energy (Botswana)",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "JEBPL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Pty Ltd",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Botswana",
+      "registration_subdivision": null,
+      "headquarters_country": "Botswana",
+      "headquarters_subdivision": null,
+      "gem_parents": "Jindal Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001000439 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "984500BE2FBFC4C6B456",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5040958946",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100002007627",
+      "full_name": "CIC International (Barbados) Corp",
+      "name": "CIC International (Barbados)",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Corp",
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": "Barbados",
+      "registration_subdivision": null,
+      "headquarters_country": "Barbados",
+      "headquarters_subdivision": null,
+      "gem_parents": "Jindal Steel Ltd [100.0%]",
+      "gem_parents_ids": "E100001000439 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036847638",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000100107_G100000101578",
+      "location_id": "L100000100107",
+      "unit_id": "G100000101578",
+      "asset_type": "Coal Plant",
+      "asset_name": "CIC Domestic power station --",
+      "unit_name": "--",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": -23.609295,
+      "longitude": 26.774952,
+      "country": "Botswana",
+      "state_province": "Central",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/CIC_Domestic_power_station",
+      "source_id": 2,
+      "project_name": "CIC Domestic power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P100000129443",
+      "location_id": "P100000129443",
+      "unit_id": null,
+      "asset_type": "Iron Ore Mine",
+      "asset_name": "Jindal Mining Namibia Khomas Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": -22.522619,
+      "longitude": 17.187293,
+      "country": "Namibia",
+      "state_province": "Khomas",
+      "capacity_value": null,
+      "capacity_unit": "ttpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Mining_Namibia_Khomas_Mine",
+      "source_id": 3,
+      "project_name": "Jindal Mining Namibia Khomas Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000100109_G100000106964",
+      "location_id": "L100000100109",
+      "unit_id": "G100000106964",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mmamabula Energy Project Stage I Unit 1",
+      "unit_name": "Stage I Unit 1",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": -23.62,
+      "longitude": 26.71,
+      "country": "Botswana",
+      "state_province": "Central",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mmamabula_Energy_Project",
+      "source_id": 2,
+      "project_name": "Mmamabula Energy Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000100109_G100001022881",
+      "location_id": "L100000100109",
+      "unit_id": "G100001022881",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mmamabula Energy Project Stage I Unit 2",
+      "unit_name": "Stage I Unit 2",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": -23.62,
+      "longitude": 26.71,
+      "country": "Botswana",
+      "state_province": "Central",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mmamabula_Energy_Project",
+      "source_id": 2,
+      "project_name": "Mmamabula Energy Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000100109_G100000106965",
+      "location_id": "L100000100109",
+      "unit_id": "G100000106965",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mmamabula Energy Project Stage I Unit 3",
+      "unit_name": "Stage I Unit 3",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": -23.62,
+      "longitude": 26.71,
+      "country": "Botswana",
+      "state_province": "Central",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mmamabula_Energy_Project",
+      "source_id": 2,
+      "project_name": "Mmamabula Energy Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000100109_G100001022882",
+      "location_id": "L100000100109",
+      "unit_id": "G100001022882",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mmamabula Energy Project Stage I Unit 4",
+      "unit_name": "Stage I Unit 4",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "latitude": -23.62,
+      "longitude": 26.71,
+      "country": "Botswana",
+      "state_province": "Central",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mmamabula_Energy_Project",
+      "source_id": 2,
+      "project_name": "Mmamabula Energy Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "M6682",
+      "location_id": "M6682",
+      "unit_id": null,
+      "asset_type": "Coal Mine",
+      "asset_name": "Jindal Mmamabula Coal Mine",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": -23.601851,
+      "longitude": 26.7864747378233,
+      "country": "Botswana",
+      "state_province": "Central District",
+      "capacity_value": 4.5,
+      "capacity_unit": "Mtpa",
+      "wiki_url": "https://www.gem.wiki/Jindal_Mmamabula_Coal_Mine",
+      "source_id": 9,
+      "project_name": "Jindal Mmamabula Coal Mine",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120472",
+      "full_name": "GLC-CIC Mookane Power Holdings ",
+      "name": "GLC-CIC Mookane Power Holdings",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": null,
+      "publiclylisted": "0",
+      "home_page": null,
+      "registration_country": null,
+      "registration_subdivision": null,
+      "headquarters_country": "Botswana",
+      "headquarters_subdivision": null,
+      "gem_parents": "Jindal Steel Ltd [30.0%]; China-Africa Trade & Industry Development Corp; The Trustee for Zhu Family Trust",
+      "gem_parents_ids": "E100001000439 [30.0%]; E100002007630; E100002003379",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "not found",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "not found",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000100112_G100000111942",
+      "location_id": "L100000100112",
+      "unit_id": "G100000111942",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mookane Domestic Power Project Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": -23.6875,
+      "longitude": 26.661389,
+      "country": "Botswana",
+      "state_province": "Central",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mookane_Domestic_Power_Project",
+      "source_id": 2,
+      "project_name": "Mookane Domestic Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000100112_G100000111943",
+      "location_id": "L100000100112",
+      "unit_id": "G100000111943",
+      "asset_type": "Coal Plant",
+      "asset_name": "Mookane Domestic Power Project Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": -23.6875,
+      "longitude": 26.661389,
+      "country": "Botswana",
+      "state_province": "Central",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Mookane_Domestic_Power_Project",
+      "source_id": 2,
+      "project_name": "Mookane Domestic Power Project",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100001000439",
+      "target": "E100000120687",
+      "value": 70.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "E100001001102",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "E100001010328",
+      "value": 100.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "E100001010377",
+      "value": 73.9,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "E100002003902",
+      "value": 90.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "E100002004867",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "E100002019742",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102444_G100000100228",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102444_G100000100229",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102444_G100000100230",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102444_G100000100231",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102444_G100000100232",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102444_G100000100233",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102142_G100000102407",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102142_G100000102408",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102142_G100000102409",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102142_G100000102410",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102142_G100000102411",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102142_G100000102412",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102260_G100000102486",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102262_G100000103068",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102262_G100000103069",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102267_G100000105194",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102267_G100000113410",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102269_G100000105515",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102269_G100000105516",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102269_G100000105517",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102269_G100000105518",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102047_G100000105750",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102047_G100000105751",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102047_G100000105752",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102480_G100000106612",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102480_G100000106613",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102480_G100000106614",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102168_G100000108435",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102168_G100000108436",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102168_G100000108437",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102170_G100000108440",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102189_G100000109908",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102189_G100000109909",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102189_G100000109910",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102189_G100000109911",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102189_G100000109912",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102189_G100000109913",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102189_G100000109914",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000102189_G100000109915",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000103400_G100000105195",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000103400_G100000105196",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000104361_G100001023647",
+      "value": 50.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000104361_G100001023648",
+      "value": 50.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000104361_G100001023649",
+      "value": 50.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "L100000104361_G100001023646",
+      "value": 50.0,
+      "imputed_share": true,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000128482",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000128486",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000128505",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "M0520",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "M4437",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "M7267",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "M6715",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000124518",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120515_U100000141024",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120515_U100000143325",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120515_U100000141904",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120515_U100000143597",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000121173_U100000144432",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000121173_U100000144428",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000121173_U100000144429",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000121173_U100000144430",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000121173_U100000144431",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000121034_U100000145097",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000121034_U100000144921",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120542_U100000141069",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120542_U100000144426",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120542_U100000144427",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000141027",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000141028",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000141319",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144417",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000143327",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144720",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144721",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000143326",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144421",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144714",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144715",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144716",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144717",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144718",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144719",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000141907",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000143838",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144418",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000143814",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144419",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100001000439",
+      "target": "P100000120516_U100000144420",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120687",
+      "target": "L100000102460_G100000102501",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001001102",
+      "target": "E100001000532",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001001102",
+      "target": "E100001000533",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001001102",
+      "target": "E100001001101",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001001102",
+      "target": "E100002017278",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001010328",
+      "target": "E100001000439",
+      "value": 14.4,
+      "imputed_share": false,
+      "closes_cycle": true,
+      "type": "leafEdge",
+      "depth": 0
+    },
+    {
+      "source": "E100001010377",
+      "target": "M1335",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002003902",
+      "target": "P100000129360",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050453",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050454",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050452",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050451",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050450",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001070770",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050456",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050457",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050458",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050461",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050459",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002004867",
+      "target": "P100001044907_U100001050460",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002019742",
+      "target": "P100001062086_U100001071228",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100002019742",
+      "target": "P100001062086_U100001071227",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001000532",
+      "target": "L100000103061_G100000113098",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001000532",
+      "target": "L100000103061_G100000113099",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001000532",
+      "target": "M0739_Base",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001000532",
+      "target": "M0739_Expansion",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001000533",
+      "target": "P100000129444",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001001101",
+      "target": "E100002003320",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001001101",
+      "target": "E100002007627",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100001001101",
+      "target": "L100000100107_G100000101578",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100002017278",
+      "target": "P100000129443",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    },
+    {
+      "source": "E100002003320",
+      "target": "L100000100109_G100000106964",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100002003320",
+      "target": "L100000100109_G100001022881",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100002003320",
+      "target": "L100000100109_G100000106965",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100002003320",
+      "target": "L100000100109_G100001022882",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100002003320",
+      "target": "M6682",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100002007627",
+      "target": "E100000120472",
+      "value": 30.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 4
+    },
+    {
+      "source": "E100000120472",
+      "target": "L100000100112_G100000111942",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 5
+    },
+    {
+      "source": "E100000120472",
+      "target": "L100000100112_G100000111943",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 5
+    }
+  ],
+  "paths": {
+    "E100001000439": [
+      {
+        "route": [
+          "E100001000439"
+        ],
+        "cumulative_pct": 100.0
+      },
+      {
+        "route": [
+          "E100001000439",
+          "E100001010328",
+          "E100001000439"
+        ],
+        "cumulative_pct": 14.4
+      }
+    ],
+    "E100000120687": [
+      {
+        "route": [
+          "E100001000439",
+          "E100000120687"
+        ],
+        "cumulative_pct": 70.0
+      }
+    ],
+    "L100000102460_G100000102501": [
+      {
+        "route": [
+          "E100001000439",
+          "E100000120687",
+          "L100000102460_G100000102501"
+        ],
+        "cumulative_pct": 70.0
+      }
+    ],
+    "E100001001102": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001000532": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001000532"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000103061_G100000113098": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001000532",
+          "L100000103061_G100000113098"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000103061_G100000113099": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001000532",
+          "L100000103061_G100000113099"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M0739_Base": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001000532",
+          "M0739_Base"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M0739_Expansion": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001000532",
+          "M0739_Expansion"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001000533": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001000533"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000129444": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001000533",
+          "P100000129444"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001001101": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002003320": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002003320"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000100109_G100000106964": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002003320",
+          "L100000100109_G100000106964"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000100109_G100001022881": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002003320",
+          "L100000100109_G100001022881"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000100109_G100000106965": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002003320",
+          "L100000100109_G100000106965"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000100109_G100001022882": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002003320",
+          "L100000100109_G100001022882"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M6682": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002003320",
+          "M6682"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002007627": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002007627"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000120472": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002007627",
+          "E100000120472"
+        ],
+        "cumulative_pct": 30.0
+      }
+    ],
+    "L100000100112_G100000111942": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002007627",
+          "E100000120472",
+          "L100000100112_G100000111942"
+        ],
+        "cumulative_pct": 30.0
+      }
+    ],
+    "L100000100112_G100000111943": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "E100002007627",
+          "E100000120472",
+          "L100000100112_G100000111943"
+        ],
+        "cumulative_pct": 30.0
+      }
+    ],
+    "L100000100107_G100000101578": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100001001101",
+          "L100000100107_G100000101578"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002017278": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100002017278"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000129443": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001001102",
+          "E100002017278",
+          "P100000129443"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001010328": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001010328"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001010377": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001010377"
+        ],
+        "cumulative_pct": 73.9
+      }
+    ],
+    "M1335": [
+      {
+        "route": [
+          "E100001000439",
+          "E100001010377",
+          "M1335"
+        ],
+        "cumulative_pct": 73.9
+      }
+    ],
+    "E100002003902": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002003902"
+        ],
+        "cumulative_pct": 90.0
+      }
+    ],
+    "P100000129360": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002003902",
+          "P100000129360"
+        ],
+        "cumulative_pct": 90.0
+      }
+    ],
+    "E100002004867": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050453": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050453"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050454": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050454"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050452": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050452"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050451": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050451"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050450": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050450"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001070770": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001070770"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050456": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050456"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050457": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050457"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050458": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050458"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050461": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050461"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050459": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050459"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001044907_U100001050460": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002004867",
+          "P100001044907_U100001050460"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100002019742": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002019742"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001062086_U100001071228": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002019742",
+          "P100001062086_U100001071228"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100001062086_U100001071227": [
+      {
+        "route": [
+          "E100001000439",
+          "E100002019742",
+          "P100001062086_U100001071227"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102444_G100000100228": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102444_G100000100228"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102444_G100000100229": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102444_G100000100229"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102444_G100000100230": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102444_G100000100230"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102444_G100000100231": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102444_G100000100231"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102444_G100000100232": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102444_G100000100232"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102444_G100000100233": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102444_G100000100233"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102142_G100000102407": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102142_G100000102407"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102142_G100000102408": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102142_G100000102408"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102142_G100000102409": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102142_G100000102409"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102142_G100000102410": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102142_G100000102410"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102142_G100000102411": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102142_G100000102411"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102142_G100000102412": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102142_G100000102412"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102260_G100000102486": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102260_G100000102486"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102262_G100000103068": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102262_G100000103068"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102262_G100000103069": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102262_G100000103069"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102267_G100000105194": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102267_G100000105194"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102267_G100000113410": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102267_G100000113410"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102269_G100000105515": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102269_G100000105515"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102269_G100000105516": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102269_G100000105516"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102269_G100000105517": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102269_G100000105517"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102269_G100000105518": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102269_G100000105518"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102047_G100000105750": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102047_G100000105750"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102047_G100000105751": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102047_G100000105751"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102047_G100000105752": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102047_G100000105752"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102480_G100000106612": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102480_G100000106612"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102480_G100000106613": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102480_G100000106613"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102480_G100000106614": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102480_G100000106614"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102168_G100000108435": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102168_G100000108435"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102168_G100000108436": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102168_G100000108436"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102168_G100000108437": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102168_G100000108437"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102170_G100000108440": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102170_G100000108440"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102189_G100000109908": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102189_G100000109908"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102189_G100000109909": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102189_G100000109909"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102189_G100000109910": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102189_G100000109910"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102189_G100000109911": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102189_G100000109911"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102189_G100000109912": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102189_G100000109912"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102189_G100000109913": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102189_G100000109913"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102189_G100000109914": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102189_G100000109914"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102189_G100000109915": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000102189_G100000109915"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000103400_G100000105195": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000103400_G100000105195"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000103400_G100000105196": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000103400_G100000105196"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000104361_G100001023647": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000104361_G100001023647"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000104361_G100001023648": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000104361_G100001023648"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000104361_G100001023649": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000104361_G100001023649"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "L100000104361_G100001023646": [
+      {
+        "route": [
+          "E100001000439",
+          "L100000104361_G100001023646"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "P100000128482": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000128482"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128486": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000128486"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000128505": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000128505"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M0520": [
+      {
+        "route": [
+          "E100001000439",
+          "M0520"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M4437": [
+      {
+        "route": [
+          "E100001000439",
+          "M4437"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M7267": [
+      {
+        "route": [
+          "E100001000439",
+          "M7267"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "M6715": [
+      {
+        "route": [
+          "E100001000439",
+          "M6715"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000124518": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000124518"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120515_U100000141024": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120515_U100000141024"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120515_U100000143325": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120515_U100000143325"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120515_U100000141904": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120515_U100000141904"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120515_U100000143597": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120515_U100000143597"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000121173_U100000144432": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000121173_U100000144432"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000121173_U100000144428": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000121173_U100000144428"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000121173_U100000144429": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000121173_U100000144429"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000121173_U100000144430": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000121173_U100000144430"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000121173_U100000144431": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000121173_U100000144431"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000121034_U100000145097": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000121034_U100000145097"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000121034_U100000144921": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000121034_U100000144921"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120542_U100000141069": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120542_U100000141069"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120542_U100000144426": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120542_U100000144426"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120542_U100000144427": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120542_U100000144427"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000141027": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000141027"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000141028": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000141028"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000141319": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000141319"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144417": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144417"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000143327": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000143327"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144720": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144720"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144721": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144721"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000143326": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000143326"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144421": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144421"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144714": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144714"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144715": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144715"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144716": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144716"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144717": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144717"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144718": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144718"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144719": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144719"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000141907": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000141907"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000143838": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000143838"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144418": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144418"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000143814": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000143814"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144419": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144419"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P100000120516_U100000144420": [
+      {
+        "route": [
+          "E100001000439",
+          "P100000120516_U100000144420"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "P100001044907_U100001050453",
+    "L100000100109_G100000106965",
+    "L100000102168_G100000108437",
+    "L100000102142_G100000102412",
+    "M1335",
+    "P100000121173_U100000144432",
+    "P100000120516_U100000143326",
+    "L100000102189_G100000109908",
+    "L100000104361_G100001023649",
+    "L100000102047_G100000105750",
+    "L100000102262_G100000103068",
+    "L100000102168_G100000108435",
+    "P100000129360",
+    "L100000102480_G100000106614",
+    "L100000102189_G100000109910",
+    "P100001062086_U100001071228",
+    "P100000129443",
+    "L100000102189_G100000109913",
+    "L100000100109_G100001022881",
+    "P100000120516_U100000144718",
+    "P100000120516_U100000144418",
+    "M0739_Expansion",
+    "P100000120516_U100000144719",
+    "P100001062086_U100001071227",
+    "L100000100109_G100001022882",
+    "L100000102189_G100000109912",
+    "P100001044907_U100001050454",
+    "L100000102267_G100000113410",
+    "P100000120542_U100000144426",
+    "L100000100107_G100000101578",
+    "P100000128505",
+    "P100001044907_U100001050451",
+    "P100000120516_U100000144716",
+    "P100000120515_U100000143597",
+    "L100000102444_G100000100229",
+    "P100001044907_U100001050460",
+    "L100000100112_G100000111942",
+    "L100000102460_G100000102501",
+    "P100000128482",
+    "P100000128486",
+    "P100000121173_U100000144429",
+    "L100000102189_G100000109915",
+    "P100000120515_U100000141024",
+    "P100000120516_U100000143327",
+    "L100000102142_G100000102409",
+    "P100000120516_U100000143814",
+    "P100000120516_U100000141027",
+    "L100000103061_G100000113098",
+    "P100000120516_U100000144715",
+    "P100000120516_U100000144714",
+    "P100000120542_U100000144427",
+    "L100000102168_G100000108436",
+    "L100000102269_G100000105515",
+    "L100000102444_G100000100231",
+    "L100000102444_G100000100230",
+    "L100000102047_G100000105752",
+    "L100000102480_G100000106613",
+    "P100001044907_U100001050456",
+    "M0739_Base",
+    "L100000102480_G100000106612",
+    "L100000102142_G100000102407",
+    "L100000100109_G100000106964",
+    "L100000104361_G100001023648",
+    "P100001044907_U100001050461",
+    "L100000103400_G100000105196",
+    "P100000121173_U100000144431",
+    "P100001044907_U100001070770",
+    "P100001044907_U100001050458",
+    "M6682",
+    "P100000121034_U100000145097",
+    "P100000120515_U100000143325",
+    "M0520",
+    "P100000120515_U100000141904",
+    "P100000120516_U100000144419",
+    "P100000120516_U100000144721",
+    "P100000120516_U100000141319",
+    "P100000120516_U100000144717",
+    "L100000103400_G100000105195",
+    "L100000102269_G100000105518",
+    "L100000102260_G100000102486",
+    "L100000102189_G100000109911",
+    "L100000102189_G100000109914",
+    "P100000120516_U100000141028",
+    "P100000120516_U100000141907",
+    "P100000120516_U100000144420",
+    "P100000129444",
+    "L100000102047_G100000105751",
+    "P100000120516_U100000144417",
+    "P100000120516_U100000144421",
+    "L100000102444_G100000100232",
+    "L100000102267_G100000105194",
+    "M7267",
+    "M4437",
+    "L100000104361_G100001023646",
+    "P100001044907_U100001050459",
+    "P100000121034_U100000144921",
+    "L100000102142_G100000102410",
+    "P100000120542_U100000141069",
+    "L100000102170_G100000108440",
+    "L100000102142_G100000102411",
+    "P100001044907_U100001050452",
+    "P100000120516_U100000143838",
+    "P100001044907_U100001050457",
+    "L100000102444_G100000100233",
+    "M6715",
+    "P100000121173_U100000144428",
+    "L100000103061_G100000113099",
+    "L100000102262_G100000103069",
+    "P100000120516_U100000144720",
+    "P100000124518",
+    "L100000100112_G100000111943",
+    "L100000102142_G100000102408",
+    "L100000102444_G100000100228",
+    "L100000104361_G100001023647",
+    "P100001044907_U100001050450",
+    "P100000121173_U100000144430",
+    "L100000102269_G100000105516",
+    "L100000102189_G100000109909",
+    "L100000102269_G100000105517"
+  ],
+  "truncated_node_ids": []
+}

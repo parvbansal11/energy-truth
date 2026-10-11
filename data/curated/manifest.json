@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T21:09:26+00:00",
+ "generated_at": "2026-10-11T08:30:06+00:00",
  "compare_fy": "FY2024-25",
  "ct_years": [
   2023,
@@ -13,12 +13,33 @@
   "TATASTEEL",
   "ULTRACEMCO",
   "JSWSTEEL",
-  "ADANIPOWER"
+  "ADANIPOWER",
+  "TATAPOWER",
+  "NLCINDIA",
+  "TORNTPOWER",
+  "CESC",
+  "JINDALSTEL",
+  "SAIL",
+  "NSLNISP",
+  "HINDALCO",
+  "VEDL",
+  "NATIONALUM",
+  "HINDZINC",
+  "AMBUJACEM",
+  "ACC",
+  "SHREECEM",
+  "RELIANCE",
+  "BPCL",
+  "HINDPETRO",
+  "GAIL",
+  "JSWENERGY",
+  "IOC"
  ],
  "counts": {
-  "assets": 267,
-  "evidence": 208,
-  "estimates": 11,
-  "alerts": 4
- }
+  "assets": 762,
+  "evidence": 551,
+  "estimates": 46,
+  "alerts": 13
+ },
+ "updated_at": "2026-10-11T08:32:15+00:00"
 }

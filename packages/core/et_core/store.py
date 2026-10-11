@@ -66,7 +66,11 @@ def _read_cached(root: str, name: str) -> Any:
     if settings.s3_curated_bucket:
         import boto3
 
-        obj = boto3.client("s3", region_name=settings.region).get_object(Bucket=settings.s3_curated_bucket, Key=f"curated/{name}.json")
+        s3 = boto3.client("s3", region_name=settings.region)
+        try:
+            obj = s3.get_object(Bucket=settings.s3_curated_bucket, Key=f"curated/{name}.json")
+        except s3.exceptions.NoSuchKey:
+            raise FileNotFoundError(p) from None
         return json.loads(obj["Body"].read())
     raise FileNotFoundError(p)
 

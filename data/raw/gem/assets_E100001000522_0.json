@@ -1,0 +1,1360 @@
+{
+  "total": 50,
+  "total_asset_count": 50,
+  "total_location_count": 18,
+  "limit": 200,
+  "offset": 0,
+  "count": 50,
+  "results": [
+    {
+      "asset_id": "L100000102245_G100000100597",
+      "location_id": "L100000102245",
+      "asset_name": "Baranda power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 900.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Jharkhand",
+      "latitude": 23.192189,
+      "longitude": 85.708852,
+      "wiki_url": "https://www.gem.wiki/Baranda_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102245_G100000100597",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Baranda power station"
+    },
+    {
+      "asset_id": "L100000102326_G100000101454",
+      "location_id": "L100000102326",
+      "asset_name": "Chhindwara JSW power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.059551,
+      "longitude": 78.938627,
+      "wiki_url": "https://www.gem.wiki/Chhindwara_JSW_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102326_G100000101454",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhindwara JSW power station"
+    },
+    {
+      "asset_id": "L100000102326_G100000101455",
+      "location_id": "L100000102326",
+      "asset_name": "Chhindwara JSW power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 22.059551,
+      "longitude": 78.938627,
+      "wiki_url": "https://www.gem.wiki/Chhindwara_JSW_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102326_G100000101455",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Chhindwara JSW power station"
+    },
+    {
+      "asset_id": "L100000102393_G100000102335",
+      "location_id": "L100000102393",
+      "asset_name": "Dhakore power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1050.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 15.766642,
+      "longitude": 73.70004,
+      "wiki_url": "https://www.gem.wiki/Dhakore_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102393_G100000102335",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Dhakore power station"
+    },
+    {
+      "asset_id": "L100000102300_G100000103595",
+      "location_id": "L100000102300",
+      "asset_name": "Hanakon Thermal Power Project --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 450.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 14.917915,
+      "longitude": 74.174538,
+      "wiki_url": "https://www.gem.wiki/Hanakon_Thermal_Power_Project",
+      "unit_name": "--",
+      "url": "/assets/L100000102300_G100000103595",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Hanakon Thermal Power Project"
+    },
+    {
+      "asset_id": "L100000102526_G100000105368",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102526_G100000105368",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100000114481",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 10",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 540.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 10",
+      "url": "/assets/L100000102526_G100000114481",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100001005104",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 11",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 360.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 11",
+      "url": "/assets/L100000102526_G100001005104",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100001005107",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 12",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 360.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 12",
+      "url": "/assets/L100000102526_G100001005107",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100001005108",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 13",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 360.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 13",
+      "url": "/assets/L100000102526_G100001005108",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100000105369",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102526_G100000105369",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100000105370",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102526_G100000105370",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100000105371",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102526_G100000105371",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100000105372",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102526_G100000105372",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100000105373",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 6",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 6",
+      "url": "/assets/L100000102526_G100000105373",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100000105374",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 7",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 7",
+      "url": "/assets/L100000102526_G100000105374",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100000105375",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 8",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 135.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 8",
+      "url": "/assets/L100000102526_G100000105375",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102526_G100000105376",
+      "location_id": "L100000102526",
+      "asset_name": "JSW Barmer Jalipa Kapurdi power station Unit 9",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 540.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Rajasthan",
+      "latitude": 25.895391,
+      "longitude": 71.329871,
+      "wiki_url": "https://www.gem.wiki/JSW_Barmer_Jalipa_Kapurdi_power_station",
+      "unit_name": "Unit 9",
+      "url": "/assets/L100000102526_G100000105376",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Barmer Jalipa Kapurdi power station"
+    },
+    {
+      "asset_id": "L100000102303_G100000105378",
+      "location_id": "L100000102303",
+      "asset_name": "JSW Vijayanagar Toranagallu power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 130.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.186771,
+      "longitude": 76.6621387,
+      "wiki_url": "https://www.gem.wiki/JSW_Vijayanagar_Toranagallu_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102303_G100000105378",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Vijayanagar Toranagallu power station"
+    },
+    {
+      "asset_id": "L100000102303_G100000105379",
+      "location_id": "L100000102303",
+      "asset_name": "JSW Vijayanagar Toranagallu power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 130.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.186771,
+      "longitude": 76.6621387,
+      "wiki_url": "https://www.gem.wiki/JSW_Vijayanagar_Toranagallu_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102303_G100000105379",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Vijayanagar Toranagallu power station"
+    },
+    {
+      "asset_id": "L100000102303_G100000105380",
+      "location_id": "L100000102303",
+      "asset_name": "JSW Vijayanagar Toranagallu power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.186771,
+      "longitude": 76.6621387,
+      "wiki_url": "https://www.gem.wiki/JSW_Vijayanagar_Toranagallu_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102303_G100000105380",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Vijayanagar Toranagallu power station"
+    },
+    {
+      "asset_id": "L100000102303_G100000105381",
+      "location_id": "L100000102303",
+      "asset_name": "JSW Vijayanagar Toranagallu power station Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.186771,
+      "longitude": 76.6621387,
+      "wiki_url": "https://www.gem.wiki/JSW_Vijayanagar_Toranagallu_power_station",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102303_G100000105381",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Vijayanagar Toranagallu power station"
+    },
+    {
+      "asset_id": "L100000102303_G100000105382",
+      "location_id": "L100000102303",
+      "asset_name": "JSW Vijayanagar Toranagallu power station Unit 5",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Karnataka",
+      "latitude": 15.1839,
+      "longitude": 76.6622,
+      "wiki_url": "https://www.gem.wiki/JSW_Vijayanagar_Toranagallu_power_station",
+      "unit_name": "Unit 5",
+      "url": "/assets/L100000102303_G100000105382",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "JSW Vijayanagar Toranagallu power station"
+    },
+    {
+      "asset_id": "L100000102471_G100000105045",
+      "location_id": "L100000102471",
+      "asset_name": "Jharsuguda Ind-Barath power station Phase I Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.657942,
+      "longitude": 83.919513,
+      "wiki_url": "https://www.gem.wiki/Jharsuguda_Ind-Barath_power_station",
+      "unit_name": "Phase I Unit 1",
+      "url": "/assets/L100000102471_G100000105045",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jharsuguda Ind-Barath power station"
+    },
+    {
+      "asset_id": "L100000102471_G100000105046",
+      "location_id": "L100000102471",
+      "asset_name": "Jharsuguda Ind-Barath power station Phase I Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 350.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.657942,
+      "longitude": 83.919513,
+      "wiki_url": "https://www.gem.wiki/Jharsuguda_Ind-Barath_power_station",
+      "unit_name": "Phase I Unit 2",
+      "url": "/assets/L100000102471_G100000105046",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jharsuguda Ind-Barath power station"
+    },
+    {
+      "asset_id": "L100000102471_G100000105047",
+      "location_id": "L100000102471",
+      "asset_name": "Jharsuguda Ind-Barath power station Phase II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 21.657942,
+      "longitude": 83.919513,
+      "wiki_url": "https://www.gem.wiki/Jharsuguda_Ind-Barath_power_station",
+      "unit_name": "Phase II",
+      "url": "/assets/L100000102471_G100000105047",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Jharsuguda Ind-Barath power station"
+    },
+    {
+      "asset_id": "L100000102161_G100000106017",
+      "location_id": "L100000102161",
+      "asset_name": "Kukurda power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.8475,
+      "longitude": 83.54,
+      "wiki_url": "https://www.gem.wiki/Kukurda_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102161_G100000106017",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kukurda power station"
+    },
+    {
+      "asset_id": "L100000102161_G100000106018",
+      "location_id": "L100000102161",
+      "asset_name": "Kukurda power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Chhattisgarh",
+      "latitude": 21.8475,
+      "longitude": 83.54,
+      "wiki_url": "https://www.gem.wiki/Kukurda_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102161_G100000106018",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Kukurda power station"
+    },
+    {
+      "asset_id": "L100000102346_G100000106544",
+      "location_id": "L100000102346",
+      "asset_name": "Madhya Pradesh Jain Energy power station Phase 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1320.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "latitude": 23.282508,
+      "longitude": 81.588249,
+      "wiki_url": "https://www.gem.wiki/Madhya_Pradesh_Jain_Energy_power_station",
+      "unit_name": "Phase 1",
+      "url": "/assets/L100000102346_G100000106544",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Madhya Pradesh Jain Energy power station"
+    },
+    {
+      "asset_id": "L100000102488_G100000108019",
+      "location_id": "L100000102488",
+      "asset_name": "Pitamahul power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1320.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Odisha",
+      "latitude": 20.848014,
+      "longitude": 83.895004,
+      "wiki_url": "https://www.gem.wiki/Pitamahul_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102488_G100000108019",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Pitamahul power station"
+    },
+    {
+      "asset_id": "L100000102428_G100000108485",
+      "location_id": "L100000102428",
+      "asset_name": "Ratnagiri Power Plant Expansion",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 3200.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 17.296375,
+      "longitude": 73.213105,
+      "wiki_url": "https://www.gem.wiki/Ratnagiri_Power_Plant",
+      "unit_name": "Expansion",
+      "url": "/assets/L100000102428_G100000108485",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ratnagiri Power Plant"
+    },
+    {
+      "asset_id": "L100000102428_G100000108486",
+      "location_id": "L100000102428",
+      "asset_name": "Ratnagiri Power Plant Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 17.296375,
+      "longitude": 73.213105,
+      "wiki_url": "https://www.gem.wiki/Ratnagiri_Power_Plant",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102428_G100000108486",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ratnagiri Power Plant"
+    },
+    {
+      "asset_id": "L100000102428_G100000108487",
+      "location_id": "L100000102428",
+      "asset_name": "Ratnagiri Power Plant Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 17.296375,
+      "longitude": 73.213105,
+      "wiki_url": "https://www.gem.wiki/Ratnagiri_Power_Plant",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102428_G100000108487",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ratnagiri Power Plant"
+    },
+    {
+      "asset_id": "L100000102428_G100000108488",
+      "location_id": "L100000102428",
+      "asset_name": "Ratnagiri Power Plant Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 17.296375,
+      "longitude": 73.213105,
+      "wiki_url": "https://www.gem.wiki/Ratnagiri_Power_Plant",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102428_G100000108488",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ratnagiri Power Plant"
+    },
+    {
+      "asset_id": "L100000102428_G100000108489",
+      "location_id": "L100000102428",
+      "asset_name": "Ratnagiri Power Plant Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "capacity_value": 300.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 17.296375,
+      "longitude": 73.213105,
+      "wiki_url": "https://www.gem.wiki/Ratnagiri_Power_Plant",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102428_G100000108489",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Ratnagiri Power Plant"
+    },
+    {
+      "asset_id": "L100000102685_G100000108739",
+      "location_id": "L100000102685",
+      "asset_name": "Salboni power plant Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.641998,
+      "longitude": 87.32392,
+      "wiki_url": "https://www.gem.wiki/Salboni_power_plant",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102685_G100000108739",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Salboni power plant"
+    },
+    {
+      "asset_id": "L100000102685_G100000108740",
+      "location_id": "L100000102685",
+      "asset_name": "Salboni power plant Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "pre_permit",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.641998,
+      "longitude": 87.32392,
+      "wiki_url": "https://www.gem.wiki/Salboni_power_plant",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102685_G100000108740",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Salboni power plant"
+    },
+    {
+      "asset_id": "L100000102685_G100000108741",
+      "location_id": "L100000102685",
+      "asset_name": "Salboni power plant Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.641998,
+      "longitude": 87.32392,
+      "wiki_url": "https://www.gem.wiki/Salboni_power_plant",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102685_G100000108741",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Salboni power plant"
+    },
+    {
+      "asset_id": "L100000102685_G100001091075",
+      "location_id": "L100000102685",
+      "asset_name": "Salboni power plant Unit 4",
+      "asset_type": "Coal Plant",
+      "operating_status": "planned",
+      "operating_sub_status": "announced",
+      "capacity_value": 800.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "West Bengal",
+      "latitude": 22.641998,
+      "longitude": 87.32392,
+      "wiki_url": "https://www.gem.wiki/Salboni_power_plant",
+      "unit_name": "Unit 4",
+      "url": "/assets/L100000102685_G100001091075",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Salboni power plant"
+    },
+    {
+      "asset_id": "L100000102226_G100000109390",
+      "location_id": "L100000102226",
+      "asset_name": "Simar power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 1600.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Gujarat",
+      "latitude": 21.012822,
+      "longitude": 70.272828,
+      "wiki_url": "https://www.gem.wiki/Simar_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102226_G100000109390",
+      "upstream_entity_count": 15,
+      "owners": [
+        {
+          "entity_id": "E100001000522",
+          "name": "JSW Energy Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Simar power station"
+    },
+    {
+      "asset_id": "L100000102583_G100000110090",
+      "location_id": "L100000102583",
+      "asset_name": "Thoothukudi IBPGL power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 63.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.864947,
+      "longitude": 78.106989,
+      "wiki_url": "https://www.gem.wiki/Thoothukudi_IBPGL_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102583_G100000110090",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Thoothukudi IBPGL power station"
+    },
+    {
+      "asset_id": "L100000102583_G100000110091",
+      "location_id": "L100000102583",
+      "asset_name": "Thoothukudi IBPGL power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 63.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.864947,
+      "longitude": 78.106989,
+      "wiki_url": "https://www.gem.wiki/Thoothukudi_IBPGL_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102583_G100000110091",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Thoothukudi IBPGL power station"
+    },
+    {
+      "asset_id": "L100000102583_G100000110092",
+      "location_id": "L100000102583",
+      "asset_name": "Thoothukudi IBPGL power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 63.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.864947,
+      "longitude": 78.106989,
+      "wiki_url": "https://www.gem.wiki/Thoothukudi_IBPGL_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102583_G100000110092",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Thoothukudi IBPGL power station"
+    },
+    {
+      "asset_id": "L100000102582_G100000110087",
+      "location_id": "L100000102582",
+      "asset_name": "Thoothukudi IBTPL power station Unit 1",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.882745,
+      "longitude": 78.053583,
+      "wiki_url": "https://www.gem.wiki/Thoothukudi_IBTPL_power_station",
+      "unit_name": "Unit 1",
+      "url": "/assets/L100000102582_G100000110087",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Thoothukudi IBTPL power station"
+    },
+    {
+      "asset_id": "L100000102582_G100000110088",
+      "location_id": "L100000102582",
+      "asset_name": "Thoothukudi IBTPL power station Unit 2",
+      "asset_type": "Coal Plant",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.882745,
+      "longitude": 78.053583,
+      "wiki_url": "https://www.gem.wiki/Thoothukudi_IBTPL_power_station",
+      "unit_name": "Unit 2",
+      "url": "/assets/L100000102582_G100000110088",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Thoothukudi IBTPL power station"
+    },
+    {
+      "asset_id": "L100000102582_G100000110089",
+      "location_id": "L100000102582",
+      "asset_name": "Thoothukudi IBTPL power station Unit 3",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 150.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.882745,
+      "longitude": 78.053583,
+      "wiki_url": "https://www.gem.wiki/Thoothukudi_IBTPL_power_station",
+      "unit_name": "Unit 3",
+      "url": "/assets/L100000102582_G100000110089",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Thoothukudi IBTPL power station"
+    },
+    {
+      "asset_id": "L100000102585_G100000110387",
+      "location_id": "L100000102585",
+      "asset_name": "Tuticorin power station (Ind-Barath) Phase I",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 8.3959535,
+      "longitude": 77.950861,
+      "wiki_url": "https://www.gem.wiki/Tuticorin_power_station_(Ind-Barath)",
+      "unit_name": "Phase I",
+      "url": "/assets/L100000102585_G100000110387",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tuticorin power station (Ind-Barath)"
+    },
+    {
+      "asset_id": "L100000102585_G100000110388",
+      "location_id": "L100000102585",
+      "asset_name": "Tuticorin power station (Ind-Barath) Phase II",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 660.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "latitude": 10.667076,
+      "longitude": 79.772229,
+      "wiki_url": "https://www.gem.wiki/Tuticorin_power_station_(Ind-Barath)",
+      "unit_name": "Phase II",
+      "url": "/assets/L100000102585_G100000110388",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Tuticorin power station (Ind-Barath)"
+    },
+    {
+      "asset_id": "M2333",
+      "location_id": "M2333",
+      "asset_name": "Umlabu Colliery",
+      "asset_type": "Coal Mine",
+      "operating_status": "retired",
+      "operating_sub_status": "mothballed",
+      "capacity_value": null,
+      "capacity_unit": "Mtpa",
+      "country": "South Africa",
+      "state_province": "Mpumalanga",
+      "latitude": -26.37524283,
+      "longitude": 29.9904900206131,
+      "wiki_url": "https://www.gem.wiki/Umlabu_Colliery_coal_mine",
+      "unit_name": null,
+      "url": "/assets/M2333",
+      "upstream_entity_count": 17,
+      "owners": [
+        {
+          "entity_id": "E100000132213",
+          "name": "South African Coal Mining Holdings Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "South Africa"
+        }
+      ],
+      "project_name": "Umlabu Colliery"
+    },
+    {
+      "asset_id": "L100000102435_G100000110732",
+      "location_id": "L100000102435",
+      "asset_name": "Waral power station --",
+      "asset_type": "Coal Plant",
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "capacity_value": 450.0,
+      "capacity_unit": "MW",
+      "country": "India",
+      "state_province": "Maharashtra",
+      "latitude": 19.521033,
+      "longitude": 75.009818,
+      "wiki_url": "https://www.gem.wiki/Waral_power_station",
+      "unit_name": "--",
+      "url": "/assets/L100000102435_G100000110732",
+      "upstream_entity_count": 16,
+      "owners": [
+        {
+          "entity_id": "E100000120606",
+          "name": "JSW Energy (Utkal) Ltd",
+          "ownership_share": 100.0,
+          "hq_country": "India"
+        }
+      ],
+      "project_name": "Waral power station"
+    }
+  ]
+}

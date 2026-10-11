@@ -1,0 +1,26 @@
+{
+  "entity_id": "E100002004994",
+  "name": "ACC",
+  "full_name": "ACC Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Mahārāshtra",
+  "registration_country": "India",
+  "home_page": "https://www.acclimited.com/",
+  "external_ids": {
+    "lei": "335800569A6H12LH4677",
+    "permid": "4295872413",
+    "india_cin": "L26940MH1936PLC002515"
+  },
+  "url": "/entities/E100002004994",
+  "owners_url": "/entities/E100002004994/owners",
+  "owned_url": "/entities/E100002004994/owned",
+  "trace_up_url": "/entities/E100002004994/trace/up",
+  "trace_down_url": "/entities/E100002004994/trace/down",
+  "graph_up_url": "/entities/E100002004994/graph/up",
+  "graph_down_url": "/entities/E100002004994/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100002004994&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100002004994"
+}

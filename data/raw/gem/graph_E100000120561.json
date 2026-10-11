@@ -1,0 +1,323 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100000120561",
+    "full_name": "Hindustan Zinc Ltd",
+    "name": "Hindustan Zinc",
+    "name_local": null,
+    "name_other": null,
+    "abbreviation": "HZL",
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://www.hzlindia.com/",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Rājasthān",
+    "gem_parents": "Hindustan Zinc Ltd [100%]",
+    "gem_parents_ids": "E100000120561 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800LB39TLJ8YTWM98",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L27204RJ1966PLC001208",
+    "permid_refinitiv_permanent_identifier": "4295872595",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100000120561",
+      "full_name": "Hindustan Zinc Ltd",
+      "name": "Hindustan Zinc",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "HZL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://www.hzlindia.com/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Rājasthān",
+      "gem_parents": "Hindustan Zinc Ltd [100%]",
+      "gem_parents_ids": "E100000120561 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800LB39TLJ8YTWM98",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L27204RJ1966PLC001208",
+      "permid_refinitiv_permanent_identifier": "4295872595",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102523_G100000101280",
+      "location_id": "L100000102523",
+      "unit_id": "G100000101280",
+      "asset_type": "Coal Plant",
+      "asset_name": "Chanderiya Smelter power station Unit S1",
+      "unit_name": "Unit S1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.963223,
+      "longitude": 74.668532,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 77.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Chanderiya_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Chanderiya Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102523_G100000101281",
+      "location_id": "L100000102523",
+      "unit_id": "G100000101281",
+      "asset_type": "Coal Plant",
+      "asset_name": "Chanderiya Smelter power station Unit S2",
+      "unit_name": "Unit S2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.963223,
+      "longitude": 74.668532,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 77.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Chanderiya_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Chanderiya Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102523_G100000101282",
+      "location_id": "L100000102523",
+      "unit_id": "G100000101282",
+      "asset_type": "Coal Plant",
+      "asset_name": "Chanderiya Smelter power station Unit S3",
+      "unit_name": "Unit S3",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.963223,
+      "longitude": 74.668532,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Chanderiya_Smelter_power_station",
+      "source_id": 2,
+      "project_name": "Chanderiya Smelter power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102532_G100000108457",
+      "location_id": "L100000102532",
+      "unit_id": "G100000108457",
+      "asset_type": "Coal Plant",
+      "asset_name": "Rajpura Dariba Mine power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.947776,
+      "longitude": 74.131622,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Rajpura_Dariba_Mine_power_station",
+      "source_id": 2,
+      "project_name": "Rajpura Dariba Mine power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102532_G100000108458",
+      "location_id": "L100000102532",
+      "unit_id": "G100000108458",
+      "asset_type": "Coal Plant",
+      "asset_name": "Rajpura Dariba Mine power station Unit 2",
+      "unit_name": "Unit 2",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.947776,
+      "longitude": 74.131622,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Rajpura_Dariba_Mine_power_station",
+      "source_id": 2,
+      "project_name": "Rajpura Dariba Mine power station",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000102536_G100000111544",
+      "location_id": "L100000102536",
+      "unit_id": "G100000111544",
+      "asset_type": "Coal Plant",
+      "asset_name": "Zawar Mines power station Unit 1",
+      "unit_name": "Unit 1",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 24.34979568,
+      "longitude": 73.74862066,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 80.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Zawar_Mines_power_station",
+      "source_id": 2,
+      "project_name": "Zawar Mines power station",
+      "is_terminal": true,
+      "is_truncated": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100000120561",
+      "target": "L100000102523_G100000101280",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120561",
+      "target": "L100000102523_G100000101281",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120561",
+      "target": "L100000102523_G100000101282",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120561",
+      "target": "L100000102532_G100000108457",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120561",
+      "target": "L100000102532_G100000108458",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000120561",
+      "target": "L100000102536_G100000111544",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    }
+  ],
+  "paths": {
+    "E100000120561": [
+      {
+        "route": [
+          "E100000120561"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102523_G100000101280": [
+      {
+        "route": [
+          "E100000120561",
+          "L100000102523_G100000101280"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102523_G100000101281": [
+      {
+        "route": [
+          "E100000120561",
+          "L100000102523_G100000101281"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102523_G100000101282": [
+      {
+        "route": [
+          "E100000120561",
+          "L100000102523_G100000101282"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102532_G100000108457": [
+      {
+        "route": [
+          "E100000120561",
+          "L100000102532_G100000108457"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102532_G100000108458": [
+      {
+        "route": [
+          "E100000120561",
+          "L100000102532_G100000108458"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "L100000102536_G100000111544": [
+      {
+        "route": [
+          "E100000120561",
+          "L100000102536_G100000111544"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "L100000102523_G100000101280",
+    "L100000102532_G100000108458",
+    "L100000102536_G100000111544",
+    "L100000102523_G100000101281",
+    "L100000102523_G100000101282",
+    "L100000102532_G100000108457"
+  ],
+  "truncated_node_ids": []
+}

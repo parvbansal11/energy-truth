@@ -22,7 +22,7 @@ for p in sorted(settings.raw_dir.rglob("*")):
         n += 1
 st = Store()
 rows = {t: st.read(f) for t, f in [("Company", "companies"), ("Asset", "assets"), ("Ownership", "ownership"), ("Estimate", "estimates"), ("Alert", "alerts")]}
-st.put_rows("Company", [{**c, "CIN": c["cin"]} for c in rows["Company"]], "cin", "symbol")
+st.put_rows("Company", [{**c, "CIN": c.get("cin") or c["symbol"]} for c in rows["Company"]], "CIN", "symbol")
 st.put_rows("Asset", rows["Asset"], "asset_id", "company")
 st.put_rows("Ownership", rows["Ownership"], "company", "asset_id")
 st.put_rows("Estimate", rows["Estimate"], "company", "estimate_id")

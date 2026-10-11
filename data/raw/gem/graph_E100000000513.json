@@ -1,0 +1,1904 @@
+{
+  "root": {
+    "node_type": "entity",
+    "entity_id": "E100000000513",
+    "full_name": "GAIL Ltd",
+    "name": "GAIL",
+    "name_local": null,
+    "name_other": "GAIL (India); Gas Authority of India",
+    "abbreviation": null,
+    "entity_type": "legal entity",
+    "legal_entity_type": "Ltd",
+    "publiclylisted": "1",
+    "home_page": "https://gailonline.com/#",
+    "registration_country": "India",
+    "registration_subdivision": null,
+    "headquarters_country": "India",
+    "headquarters_subdivision": "Delhi",
+    "gem_parents": "GAIL Ltd [100%]",
+    "gem_parents_ids": "E100000000513 [100%]",
+    "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+    "global_legal_entity_identifier_index": "335800N82LJD42ZA5L32",
+    "india_corporate_identification_number_ministry_of_corporate_affairs": "L40200DL1984GOI018976",
+    "permid_refinitiv_permanent_identifier": "4295873202",
+    "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+    "s_p_capital_iq": null,
+    "uk_companies_house": null,
+    "us_sec_central_index_key": null,
+    "us_eia": null
+  },
+  "nodes": [
+    {
+      "node_type": "entity",
+      "entity_id": "E100000000513",
+      "full_name": "GAIL Ltd",
+      "name": "GAIL",
+      "name_local": null,
+      "name_other": "GAIL (India); Gas Authority of India",
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "1",
+      "home_page": "https://gailonline.com/#",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Delhi",
+      "gem_parents": "GAIL Ltd [100%]",
+      "gem_parents_ids": "E100000000513 [100%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800N82LJD42ZA5L32",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "L40200DL1984GOI018976",
+      "permid_refinitiv_permanent_identifier": "4295873202",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000001912",
+      "full_name": "Brahmaputra Cracker and Polymer Ltd",
+      "name": "Brahmaputra Cracker and Polymer",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "BCPL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://bcplonline.co.in/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Delhi",
+      "gem_parents": "GAIL Ltd [70.0%]; Oil India Ltd [17.0%]; State of Assam [10.0%]; Numaligarh Refinery Ltd [2.6%]; small shareholder(s) [0.4%]",
+      "gem_parents_ids": "E100000000513 [70.0%]; E100000153028 [17.0%]; E100001010066 [10.0%]; E100001014539 [2.6%]; E100001015587 [0.4%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800PVIUGH9YQM4G81",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5000931098",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100000001931",
+      "full_name": "ONGC Tripura Power Co Ltd",
+      "name": "ONGC Tripura Power",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Co Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.otpcindia.in/",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Delhi",
+      "gem_parents": "Oil and Natural Gas Corporation Ltd [50.0%]; GAIL Ltd [26.0%]; India Infrastructure Fund – II [23.5%]; small shareholder(s) [0.5%]",
+      "gem_parents_ids": "E100000000524 [50.0%]; E100000000513 [26.0%]; E100002000003 [23.5%]; E100001015587 [0.5%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800CWDQ8ECHSYID57",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "4296226419",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001014110",
+      "full_name": "GAIL Gas Ltd",
+      "name": "GAIL Gas",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": null,
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://gailgas.com/home",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Uttar Pradesh",
+      "gem_parents": "GAIL Ltd [100.0%]",
+      "gem_parents_ids": "E100000000513 [100.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800N5KWQP32314951",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5036380260",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001015061",
+      "full_name": "Indradhanush Gas Grid Ltd",
+      "name": "Indradhanush Gas Grid",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "IGGL",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.iggl.co.in",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Assam",
+      "gem_parents": "Oil India Ltd [33.9%]; GAIL Ltd [20.0%]; Indian Oil Corporation Ltd [20.0%]; Oil and Natural Gas Corporation Ltd [20.0%]; Numaligarh Refinery Ltd [5.2%]; small shareholder(s) [0.9%]",
+      "gem_parents_ids": "E100000153028 [33.9%]; E100000000513 [20.0%]; E100000001918 [20.0%]; E100000000524 [20.0%]; E100001014539 [5.2%]; E100001015587 [0.9%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800UI4SJMHVHXL727",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": "U40300AS2018GOI018660",
+      "permid_refinitiv_permanent_identifier": "5071527056",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0766",
+      "location_id": "P0766",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Turkmenistan-Afghanistan-Pakistan-India Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": null,
+      "longitude": null,
+      "country": null,
+      "state_province": "Ahal",
+      "capacity_value": 33.0,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Turkmenistan-Afghanistan-Pakistan-India_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Turkmenistan-Afghanistan-Pakistan-India Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "Turkmenistan",
+        "Afghanistan",
+        "Pakistan",
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0904",
+      "location_id": "P0904",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Agartala Regional Gas Network",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Tripura",
+      "capacity_value": 0.73,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Agartala_Regional_Gas_Network",
+      "source_id": 6,
+      "project_name": "Agartala Regional Gas Network",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0911",
+      "location_id": "P0911",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Cauvery Basin Gas Network",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Tamil Nadu",
+      "capacity_value": 1.58,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Cauvery_Basin_Gas_Network",
+      "source_id": 6,
+      "project_name": "Cauvery Basin Gas Network",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0912",
+      "location_id": "P0912",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Chainsa-Jhajjar-Hissar Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Haryana",
+      "capacity_value": 12.78,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Chainsa-Jhajjar-Hissar_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Chainsa-Jhajjar-Hissar Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0915",
+      "location_id": "P0915",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Dabhol-Bangalore Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 5.84,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Dabhol-Bangalore_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Dabhol-Bangalore Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0916",
+      "location_id": "P0916",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Dadri-Bawana-Nangal Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 11.32,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Dadri-Bawana-Nangal_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Dadri-Bawana-Nangal Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0919",
+      "location_id": "P0919",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Dahej-Vijaipur Gas Pipeline (DVPL-I)",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Dahej-Vijaipur_Gas_Pipeline_(DVPL-I)",
+      "source_id": 6,
+      "project_name": "Dahej-Vijaipur Gas Pipeline (DVPL-I)",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0923",
+      "location_id": "P0923",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Gujarat Regional Gas Network",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": null,
+      "capacity_value": 3.03,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Gujarat_Regional_Gas_Network",
+      "source_id": 6,
+      "project_name": "Gujarat Regional Gas Network",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0925",
+      "location_id": "P0925",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Hazira-Vijaipur-Jagdishpur (HVJ) Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Hazira-Vijaipur-Jagdishpur_(HVJ)_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Hazira-Vijaipur-Jagdishpur (HVJ) Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0928",
+      "location_id": "P0928",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "India-Myanmar-Bangladesh Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "proposed",
+      "latitude": null,
+      "longitude": null,
+      "country": null,
+      "state_province": null,
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/India-Myanmar-Bangladesh_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "India-Myanmar-Bangladesh Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India",
+        "Bangladesh",
+        "Myanmar"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0929",
+      "location_id": "P0929",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Jagdishpur-Haldia-Bokaro-Dhamra Natural Gas Pipeline (JHBDPL)",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 8.4,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Jagdishpur-Haldia-Bokaro-Dhamra_Natural_Gas_Pipeline_(JHBDPL)",
+      "source_id": 6,
+      "project_name": "Jagdishpur-Haldia-Bokaro-Dhamra Natural Gas Pipeline (JHBDPL)",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0933",
+      "location_id": "P0933",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "KG Basin Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": null,
+      "capacity_value": 5.84,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/KG_Basin_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "KG Basin Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0934",
+      "location_id": "P0934",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Kochi-Koottanad-Bangalore-Mangalore Gas Pipeline Phase I",
+      "unit_name": "Phase I",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Kerala",
+      "capacity_value": 5.84,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Kochi-Koottanad-Bangalore-Mangalore_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Kochi-Koottanad-Bangalore-Mangalore Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0943",
+      "location_id": "P0943",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Mumbai Regional Natural Gas Pipeline Network",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 2.57,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Mumbai_Regional_Natural_Gas_Pipeline_Network",
+      "source_id": 6,
+      "project_name": "Mumbai Regional Natural Gas Pipeline Network",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0954",
+      "location_id": "P0954",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Srikakulam-Angul Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 2.43,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Srikakulam-Angul_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Srikakulam-Angul Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0955",
+      "location_id": "P0955",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Surat-Paradip Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 27.3,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Surat-Paradip_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Surat-Paradip Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0957",
+      "location_id": "P0957",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Vijaipur-Auraiya-Pulphur Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 3.2,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Vijaipur-Auraiya-Phulpur_Pipeline",
+      "source_id": 6,
+      "project_name": "Vijaipur-Auraiya-Pulphur Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P1436",
+      "location_id": "P1436",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Rajasthan Gas Pipeline (Focus)",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 0.04,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Rajasthan_Gas_Pipeline_(Focus)",
+      "source_id": 6,
+      "project_name": "Rajasthan Gas Pipeline (Focus)",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P2212",
+      "location_id": "P2212",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Dahej-Uran-Panvel-Dhabhol Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 7.26,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Dahej-Uran-Panvel-Dhabhol_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Dahej-Uran-Panvel-Dhabhol Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P2215",
+      "location_id": "P2215",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Langtala-Jodhpur-Pali Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 0.05,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Langtala-Jodhpur-Pali_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Langtala-Jodhpur-Pali Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P2216",
+      "location_id": "P2216",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Mumbai-Nagpur-Jharsuguda Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Maharashtra",
+      "capacity_value": 6.02,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Mumbai-Nagpur-Jharsuguda_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Mumbai-Nagpur-Jharsuguda Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P2746",
+      "location_id": "P2746",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Kochi-Koottanad-Bangalore-Mangalore Gas Pipeline Phase II",
+      "unit_name": "Phase II",
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": null,
+      "capacity_value": 5.84,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Kochi-Koottanad-Bangalore-Mangalore_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Kochi-Koottanad-Bangalore-Mangalore Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P2752",
+      "location_id": "P2752",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Kondalapalli-Tirupati Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Andhra Pradesh",
+      "capacity_value": 1.46,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Kondalapalli-Tirupati_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Kondalapalli-Tirupati Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P3297",
+      "location_id": "P3297",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Vijaipur-Dadri Gas Pipeline (GREP-I)",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Vijaipur-Dadri_Gas_Pipeline_(GREP-I)",
+      "source_id": 6,
+      "project_name": "Vijaipur-Dadri Gas Pipeline (GREP-I)",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P3298",
+      "location_id": "P3298",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Dahej-Vijaipur Pipeline (DVPL-II)",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Dahej-Vijaipur_Pipeline_(DVPL-II)",
+      "source_id": 6,
+      "project_name": "Dahej-Vijaipur Pipeline (DVPL-II)",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P3299",
+      "location_id": "P3299",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Vijaipur-Dadri Gas Pipeline (GREP-II)",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Madhya Pradesh",
+      "capacity_value": 39.06,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Vijaipur-Dadri_Gas_Pipeline_(GREP-II)",
+      "source_id": 6,
+      "project_name": "Vijaipur-Dadri Gas Pipeline (GREP-II)",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P3905",
+      "location_id": "P3905",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Dandewala-Gamnewala-RSEB Ramgarh Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Rajasthan",
+      "capacity_value": 0.03,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Dandewala-Gamnewala-RSEB_Ramgarh_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Dandewala-Gamnewala-RSEB Ramgarh Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P3906",
+      "location_id": "P3906",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Haridwar-Rishikesh-Dehradun Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Uttarakhand",
+      "capacity_value": null,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Haridwar-Rishikesh-Dehradun_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Haridwar-Rishikesh-Dehradun Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P3912",
+      "location_id": "P3912",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Swan LNG Terminal to Dahej LNG Terminal Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Gujarat",
+      "capacity_value": 2.56,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Swan_LNG_Terminal_to_Dahej_LNG_Terminal_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Swan LNG Terminal to Dahej LNG Terminal Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P6078",
+      "location_id": "P6078",
+      "unit_id": null,
+      "asset_type": "Oil or NGL Pipeline",
+      "asset_name": "Jamnagar-Loni LPG Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Uttar Pradesh",
+      "capacity_value": 50205.48,
+      "capacity_unit": "BOEd",
+      "wiki_url": "https://www.gem.wiki/Jamnagar-Loni_LPG_Pipeline",
+      "source_id": 7,
+      "project_name": "Jamnagar-Loni LPG Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P6079",
+      "location_id": "P6079",
+      "unit_id": null,
+      "asset_type": "Oil or NGL Pipeline",
+      "asset_name": "Vizag-Secunderabad LPG Pipeline",
+      "unit_name": null,
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Telangana",
+      "capacity_value": 26709.32,
+      "capacity_unit": "BOEd",
+      "wiki_url": "https://www.gem.wiki/Vizag-Secunderabad_LPG_Pipeline",
+      "source_id": 7,
+      "project_name": "Vizag-Secunderabad LPG Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000407604_G100000409921",
+      "location_id": "L100000407604",
+      "unit_id": "G100000409921",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "BCPL Captive power plant 1.0",
+      "unit_name": "1.0",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 27.469295,
+      "longitude": 94.873359,
+      "country": "India",
+      "state_province": "Assam",
+      "capacity_value": 53.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/BCPL_Captive_power_plant",
+      "source_id": 4,
+      "project_name": "BCPL Captive power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000401521_G100000401491",
+      "location_id": "L100000401521",
+      "unit_id": "G100000401491",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "Tripura Combined Cycle power plant Block I",
+      "unit_name": "Block I",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.4987,
+      "longitude": 91.4385,
+      "country": "India",
+      "state_province": "Tripura",
+      "capacity_value": 363.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tripura_Combined_Cycle_power_plant",
+      "source_id": 4,
+      "project_name": "Tripura Combined Cycle power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "L100000401521_G100000401492",
+      "location_id": "L100000401521",
+      "unit_id": "G100000401492",
+      "asset_type": "Oil & Gas Plant",
+      "asset_name": "Tripura Combined Cycle power plant Block II",
+      "unit_name": "Block II",
+      "operating_status": "operating",
+      "operating_sub_status": "operating",
+      "latitude": 23.4987,
+      "longitude": 91.4385,
+      "country": "India",
+      "state_province": "Tripura",
+      "capacity_value": 363.0,
+      "capacity_unit": "MW",
+      "wiki_url": "https://www.gem.wiki/Tripura_Combined_Cycle_power_plant",
+      "source_id": 4,
+      "project_name": "Tripura Combined Cycle power plant",
+      "is_terminal": true,
+      "is_truncated": false
+    },
+    {
+      "node_type": "entity",
+      "entity_id": "E100001014109",
+      "full_name": "Andhra Pradesh Gas Distribution Corp Ltd",
+      "name": "Andhra Pradesh Gas Distribution",
+      "name_local": null,
+      "name_other": null,
+      "abbreviation": "APGDC",
+      "entity_type": "legal entity",
+      "legal_entity_type": "Corp Ltd",
+      "publiclylisted": "0",
+      "home_page": "https://www.apgdc.in",
+      "registration_country": "India",
+      "registration_subdivision": null,
+      "headquarters_country": "India",
+      "headquarters_subdivision": "Andhra Pradesh",
+      "gem_parents": "Andhra Pradesh Gas Infrastructure Corporation Pvt Ltd [50.0%]; GAIL Ltd [50.0%]",
+      "gem_parents_ids": "E100001014111 [50.0%]; E100000000513 [50.0%]",
+      "brazil_national_registry_of_legal_entities_federal_revenue_service": null,
+      "global_legal_entity_identifier_index": "335800KFDBCHSX7W9O64",
+      "india_corporate_identification_number_ministry_of_corporate_affairs": null,
+      "permid_refinitiv_permanent_identifier": "5037435053",
+      "russia_uniform_state_register_of_legal_entities_of_russian_federation": null,
+      "s_p_capital_iq": null,
+      "uk_companies_house": null,
+      "us_sec_central_index_key": null,
+      "us_eia": null,
+      "is_terminal": false,
+      "is_truncated": false
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P1309",
+      "location_id": "P1309",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "North East Natural Gas Pipeline Grid Project",
+      "unit_name": null,
+      "operating_status": "planned",
+      "operating_sub_status": "construction",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "Assam",
+      "capacity_value": 1.73,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/North_East_Natural_Gas_Pipeline_Grid_Project",
+      "source_id": 6,
+      "project_name": "North East Natural Gas Pipeline Grid Project",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "node_type": "asset",
+      "asset_id": "P0932",
+      "location_id": "P0932",
+      "unit_id": null,
+      "asset_type": "Natural Gas Transmission Pipeline",
+      "asset_name": "Kakinada-Vizag-Srikakulam Gas Pipeline",
+      "unit_name": null,
+      "operating_status": "cancelled",
+      "operating_sub_status": "cancelled",
+      "latitude": null,
+      "longitude": null,
+      "country": "India",
+      "state_province": "East Godavari",
+      "capacity_value": 32.85,
+      "capacity_unit": "bcm/y",
+      "wiki_url": "https://www.gem.wiki/Kakinada-Vizag-Srikakulam_Gas_Pipeline",
+      "source_id": 6,
+      "project_name": "Kakinada-Vizag-Srikakulam Gas Pipeline",
+      "is_terminal": true,
+      "is_truncated": false,
+      "countries": [
+        "India"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "E100000000513",
+      "target": "E100000001912",
+      "value": 70.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "E100000001931",
+      "value": 26.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "E100001014110",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "E100001015061",
+      "value": 20.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0766",
+      "value": 5.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0904",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0911",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0912",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0915",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0916",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0919",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0923",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0925",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0928",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0929",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0933",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0934",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0943",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0954",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0955",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P0957",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P1436",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P2212",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P2215",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P2216",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P2746",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P2752",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P3297",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P3298",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P3299",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P3905",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P3906",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P3912",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P6078",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000000513",
+      "target": "P6079",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 1
+    },
+    {
+      "source": "E100000001912",
+      "target": "L100000407604_G100000409921",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000001931",
+      "target": "L100000401521_G100000401491",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100000001931",
+      "target": "L100000401521_G100000401492",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001014110",
+      "target": "E100001014109",
+      "value": 50.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001015061",
+      "target": "P1309",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 2
+    },
+    {
+      "source": "E100001014109",
+      "target": "P0932",
+      "value": 100.0,
+      "imputed_share": false,
+      "closes_cycle": false,
+      "type": "intermediateEdge",
+      "depth": 3
+    }
+  ],
+  "paths": {
+    "E100000000513": [
+      {
+        "route": [
+          "E100000000513"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100000001912": [
+      {
+        "route": [
+          "E100000000513",
+          "E100000001912"
+        ],
+        "cumulative_pct": 70.0
+      }
+    ],
+    "L100000407604_G100000409921": [
+      {
+        "route": [
+          "E100000000513",
+          "E100000001912",
+          "L100000407604_G100000409921"
+        ],
+        "cumulative_pct": 70.0
+      }
+    ],
+    "E100000001931": [
+      {
+        "route": [
+          "E100000000513",
+          "E100000001931"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "L100000401521_G100000401491": [
+      {
+        "route": [
+          "E100000000513",
+          "E100000001931",
+          "L100000401521_G100000401491"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "L100000401521_G100000401492": [
+      {
+        "route": [
+          "E100000000513",
+          "E100000001931",
+          "L100000401521_G100000401492"
+        ],
+        "cumulative_pct": 26.0
+      }
+    ],
+    "E100001014110": [
+      {
+        "route": [
+          "E100000000513",
+          "E100001014110"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "E100001014109": [
+      {
+        "route": [
+          "E100000000513",
+          "E100001014110",
+          "E100001014109"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "P0932": [
+      {
+        "route": [
+          "E100000000513",
+          "E100001014110",
+          "E100001014109",
+          "P0932"
+        ],
+        "cumulative_pct": 50.0
+      }
+    ],
+    "E100001015061": [
+      {
+        "route": [
+          "E100000000513",
+          "E100001015061"
+        ],
+        "cumulative_pct": 20.0
+      }
+    ],
+    "P1309": [
+      {
+        "route": [
+          "E100000000513",
+          "E100001015061",
+          "P1309"
+        ],
+        "cumulative_pct": 20.0
+      }
+    ],
+    "P0766": [
+      {
+        "route": [
+          "E100000000513",
+          "P0766"
+        ],
+        "cumulative_pct": 5.0
+      }
+    ],
+    "P0904": [
+      {
+        "route": [
+          "E100000000513",
+          "P0904"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0911": [
+      {
+        "route": [
+          "E100000000513",
+          "P0911"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0912": [
+      {
+        "route": [
+          "E100000000513",
+          "P0912"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0915": [
+      {
+        "route": [
+          "E100000000513",
+          "P0915"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0916": [
+      {
+        "route": [
+          "E100000000513",
+          "P0916"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0919": [
+      {
+        "route": [
+          "E100000000513",
+          "P0919"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0923": [
+      {
+        "route": [
+          "E100000000513",
+          "P0923"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0925": [
+      {
+        "route": [
+          "E100000000513",
+          "P0925"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0928": [
+      {
+        "route": [
+          "E100000000513",
+          "P0928"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0929": [
+      {
+        "route": [
+          "E100000000513",
+          "P0929"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0933": [
+      {
+        "route": [
+          "E100000000513",
+          "P0933"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0934": [
+      {
+        "route": [
+          "E100000000513",
+          "P0934"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0943": [
+      {
+        "route": [
+          "E100000000513",
+          "P0943"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0954": [
+      {
+        "route": [
+          "E100000000513",
+          "P0954"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0955": [
+      {
+        "route": [
+          "E100000000513",
+          "P0955"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P0957": [
+      {
+        "route": [
+          "E100000000513",
+          "P0957"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P1436": [
+      {
+        "route": [
+          "E100000000513",
+          "P1436"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P2212": [
+      {
+        "route": [
+          "E100000000513",
+          "P2212"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P2215": [
+      {
+        "route": [
+          "E100000000513",
+          "P2215"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P2216": [
+      {
+        "route": [
+          "E100000000513",
+          "P2216"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P2746": [
+      {
+        "route": [
+          "E100000000513",
+          "P2746"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P2752": [
+      {
+        "route": [
+          "E100000000513",
+          "P2752"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P3297": [
+      {
+        "route": [
+          "E100000000513",
+          "P3297"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P3298": [
+      {
+        "route": [
+          "E100000000513",
+          "P3298"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P3299": [
+      {
+        "route": [
+          "E100000000513",
+          "P3299"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P3905": [
+      {
+        "route": [
+          "E100000000513",
+          "P3905"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P3906": [
+      {
+        "route": [
+          "E100000000513",
+          "P3906"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P3912": [
+      {
+        "route": [
+          "E100000000513",
+          "P3912"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P6078": [
+      {
+        "route": [
+          "E100000000513",
+          "P6078"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ],
+    "P6079": [
+      {
+        "route": [
+          "E100000000513",
+          "P6079"
+        ],
+        "cumulative_pct": 100.0
+      }
+    ]
+  },
+  "terminal_node_ids": [
+    "P0923",
+    "P2746",
+    "P0912",
+    "P0925",
+    "P0929",
+    "P2752",
+    "P6078",
+    "P2215",
+    "L100000401521_G100000401491",
+    "P0904",
+    "P0916",
+    "P0766",
+    "P0933",
+    "P3906",
+    "P0915",
+    "P3912",
+    "P0955",
+    "P6079",
+    "P1309",
+    "L100000407604_G100000409921",
+    "P0928",
+    "L100000401521_G100000401492",
+    "P2212",
+    "P0932",
+    "P2216",
+    "P0957",
+    "P3298",
+    "P3297",
+    "P0919",
+    "P0934",
+    "P0954",
+    "P0943",
+    "P1436",
+    "P3905",
+    "P3299",
+    "P0911"
+  ],
+  "truncated_node_ids": []
+}

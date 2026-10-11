@@ -1,0 +1,26 @@
+{
+  "entity_id": "E100000001918",
+  "name": "Indian Oil Corporation",
+  "full_name": "Indian Oil Corporation Ltd",
+  "entity_type": "legal entity",
+  "legal_entity_type": "Ltd",
+  "publicly_listed": "1",
+  "headquarters_country": "India",
+  "headquarters_subdivision": "Delhi",
+  "registration_country": "India",
+  "home_page": "https://www.iocl.com/",
+  "external_ids": {
+    "lei": "335800J8OBWE4VFUDG88",
+    "permid": "4295872661",
+    "india_cin": "L23201MH1959GOI011388"
+  },
+  "url": "/entities/E100000001918",
+  "owners_url": "/entities/E100000001918/owners",
+  "owned_url": "/entities/E100000001918/owned",
+  "trace_up_url": "/entities/E100000001918/trace/up",
+  "trace_down_url": "/entities/E100000001918/trace/down",
+  "graph_up_url": "/entities/E100000001918/graph/up",
+  "graph_down_url": "/entities/E100000001918/graph/down",
+  "ownership_graph_url": "/ownership/graph?root=E100000001918&direction=down",
+  "eventual_assets_url": "/assets?owner_entity_id=E100000001918"
+}
